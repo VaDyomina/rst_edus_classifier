@@ -1,2 +1,2 @@
 # rst_edus_classifier
-RST-styled classifier for Schizophrenic Texts
+RST-styled classifier of blogs for analyzing spoken data produced by people with schizophrenia
