@@ -1,0 +1,121 @@
+<rst>
+<header>
+	<relations>
+			<rel name="antithesis" type="rst"/>
+			<rel name="background" type="rst"/>
+			<rel name="cause" type="rst"/>
+			<rel name="circumstance" type="rst"/>
+			<rel name="concession" type="rst"/>
+			<rel name="condition" type="rst"/>
+			<rel name="contrast" type="multinuc"/>
+			<rel name="elaboration" type="rst"/>
+			<rel name="evaluation" type="rst"/>
+			<rel name="evidence" type="rst"/>
+			<rel name="joint" type="multinuc"/>
+			<rel name="justify" type="rst"/>
+			<rel name="motivation" type="rst"/>
+			<rel name="preparation" type="rst"/>
+			<rel name="purpose" type="rst"/>
+			<rel name="restatement" type="multinuc"/>
+			<rel name="restatement" type="rst"/>
+			<rel name="result" type="rst"/>
+			<rel name="sequence" type="multinuc"/>
+			<rel name="solutionhood" type="rst"/>
+		</relations>
+</header>
+<body>
+		<segment id="1" parent="56" relname="span">ну сюжет фильма 1</segment>
+		<segment id="2" parent="1" relname="elaboration">который сейчас посмотрели смотрел 2</segment>
+		<segment id="3" parent="56" relname="background">такой солнечный день 3</segment>
+		<segment id="4" parent="119" relname="background">мужчина собирает с дерева груши 4</segment>
+		<segment id="5" parent="118" relname="joint">у него стоят две корзинки внизу около дерева 5</segment>
+		<segment id="6" parent="117" relname="span">и лестница, 6</segment>
+		<segment id="7" parent="116" relname="sequence">на которую он забирается 7</segment>
+		<segment id="8" parent="116" relname="sequence">и собирает груши с дерева 8</segment>
+		<segment id="9" parent="120" relname="sequence">вот он спустился 9</segment>
+		<segment id="10" parent="120" relname="sequence">поставил корзинку 10</segment>
+		<segment id="11" parent="120" relname="sequence">и поднялся опять за следующими грушами 11</segment>
+		<segment id="12" parent="65" relname="sequence">мимо проезжал мальчик на велосипеде, 12</segment>
+		<segment id="13" parent="65" relname="sequence">остановился 13</segment>
+		<segment id="14" parent="121" relname="span">посмотрел на мужчину 14</segment>
+		<segment id="15" parent="14" relname="elaboration">который собирает груши 15</segment>
+		<segment id="16" parent="65" relname="sequence">на груши 16</segment>
+		<segment id="17" parent="65" relname="sequence">взял одну корзинку 17</segment>
+		<segment id="18" parent="65" relname="sequence">поставил себе на багажник велосипеда 18</segment>
+		<segment id="19" parent="65" relname="sequence">и поехал дальше 19</segment>
+		<segment id="20" parent="122" relname="sequence">навстречу навстречу ему попалась девочка тоже на велосипеде 20</segment>
+		<segment id="21" parent="122" relname="sequence">он засмотрелся на неё 21</segment>
+		<segment id="22" parent="123" relname="span">с него слетела шляпа 22</segment>
+		<segment id="23" parent="124" relname="span">он оглянулся 23</segment>
+		<segment id="24" parent="124" relname="result">наехал на камень 24</segment>
+		<segment id="25" parent="125" relname="result">и упал 25</segment>
+		<segment id="26" parent="126" relname="result">груши рассыпались 26</segment>
+		<segment id="27" parent="127" relname="result">он поранил ногу 27</segment>
+		<segment id="28" parent="129" relname="sequence">встал 28</segment>
+		<segment id="29" parent="129" relname="sequence">начал отряхиваться 29</segment>
+		<segment id="30" parent="130" relname="sequence">рядом стояли три мальчика 30</segment>
+		<segment id="31" parent="132" relname="span">они помогли ему 31</segment>
+		<segment id="32" parent="131" relname="sequence">взяли корзину 32</segment>
+		<segment id="33" parent="131" relname="sequence">собрали груши 33</segment>
+		<segment id="34" parent="131" relname="sequence">поставили ему на велосипед 34</segment>
+		<segment id="35" parent="131" relname="sequence">подняли его шляпу 35</segment>
+		<segment id="36" parent="131" relname="sequence">отряхнули 36</segment>
+		<segment id="37" parent="131" relname="sequence">отдали ему 37</segment>
+		<segment id="38" parent="131" relname="sequence">он им дал три груши 38</segment>
+		<segment id="39" parent="131" relname="sequence">и поехал дальше 39</segment>
+		<segment id="40" parent="96" relname="span">а они пошли в ту сторону 40</segment>
+		<segment id="41" parent="40" relname="circumstance">где тот мужчина собирал груши 41</segment>
+		<segment id="42" parent="94" relname="circumstance">в это время мужчина с= спустился с дерева 42</segment>
+		<segment id="43" parent="93" relname="span">увидел 43</segment>
+		<segment id="44" parent="43" relname="evidence">ш= что одной корзинки нет 44</segment>
+		<segment id="45" parent="93" relname="evaluation">очень удивился 45</segment>
+		<segment id="46" parent="98" relname="span">в это время эти подошли 46</segment>
+		<segment id="47" parent="46" relname="restatement">три мальчика мимо проходили 47</segment>
+		<segment id="48" parent="97" relname="span">он увидел, 48</segment>
+		<segment id="49" parent="48" relname="background">что они несут груши 49</segment>
+		<segment id="50" parent="101" relname="evaluation">тоже удивился 50</segment>
+		<segment id="51" parent="104" relname="span">поглядел на них 51</segment>
+		<segment id="52" parent="51" relname="antithesis">но они прошли мимо 52</segment>
+		<segment id="53" parent="104" relname="result">и он поглядел на них им вслед 53</segment>
+		<segment id="54" parent="106" relname="span">и всё всё 54</segment>
+		<segment id="55" parent="54" relname="restatement">сюжет весь 55</segment>
+		<group id="56" type="span" parent="114" relname="span"/>
+		<group id="65" type="multinuc" parent="138" relname="sequence"/>
+		<group id="93" type="span" parent="94" relname="span"/>
+		<group id="94" type="span" parent="136" relname="span"/>
+		<group id="96" type="span" parent="133" relname="contrast"/>
+		<group id="97" type="span" parent="101" relname="span"/>
+		<group id="98" type="span" parent="102" relname="circumstance"/>
+		<group id="101" type="span" parent="102" relname="span"/>
+		<group id="102" type="span" parent="134" relname="span"/>
+		<group id="104" type="span" parent="105" relname="span"/>
+		<group id="105" type="span" parent="135" relname="sequence"/>
+		<group id="106" type="span" parent="140" relname="antithesis"/>
+		<group id="114" type="span" parent="139" relname="preparation"/>
+		<group id="116" type="multinuc" parent="6" relname="elaboration"/>
+		<group id="117" type="span" parent="118" relname="joint"/>
+		<group id="118" type="multinuc" parent="119" relname="span"/>
+		<group id="119" type="span" parent="137" relname="span"/>
+		<group id="120" type="multinuc" parent="138" relname="sequence"/>
+		<group id="121" type="span" parent="65" relname="sequence"/>
+		<group id="122" type="multinuc" parent="22" relname="cause"/>
+		<group id="123" type="span" parent="23" relname="cause"/>
+		<group id="124" type="span" parent="125" relname="span"/>
+		<group id="125" type="span" parent="126" relname="span"/>
+		<group id="126" type="span" parent="127" relname="span"/>
+		<group id="127" type="span" parent="128" relname="span"/>
+		<group id="128" type="span" parent="129" relname="sequence"/>
+		<group id="129" type="multinuc" parent="138" relname="sequence"/>
+		<group id="130" type="multinuc" parent="133" relname="contrast"/>
+		<group id="131" type="multinuc" parent="31" relname="evidence"/>
+		<group id="132" type="span" parent="130" relname="sequence"/>
+		<group id="133" type="multinuc" parent="138" relname="sequence"/>
+		<group id="134" type="span" parent="135" relname="sequence"/>
+		<group id="135" type="multinuc" parent="138" relname="sequence"/>
+		<group id="136" type="span" parent="138" relname="sequence"/>
+		<group id="137" type="span" parent="138" relname="sequence"/>
+		<group id="138" type="multinuc" parent="139" relname="span"/>
+		<group id="139" type="span" parent="140" relname="span"/>
+		<group id="140" type="span" />
+  </body>
+</rst>

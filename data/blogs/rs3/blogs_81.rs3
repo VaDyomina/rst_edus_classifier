@@ -1,0 +1,229 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="antithesis" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="background" type="rst" />
+			<rel name="cause" type="rst" />
+			<rel name="comparison" type="multinuc" />
+			<rel name="concession" type="rst" />
+			<rel name="conclusion" type="rst" />
+			<rel name="condition" type="rst" />
+			<rel name="contrast" type="multinuc" />
+			<rel name="effect" type="rst" />
+			<rel name="elaboration" type="rst" />
+			<rel name="evaluation" type="rst" />
+			<rel name="evidence" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="motivation" type="rst" />
+			<rel name="preparation" type="rst" />
+			<rel name="purpose" type="rst" />
+			<rel name="restatement" type="multinuc" />
+			<rel name="same-unit" type="multinuc" />
+			<rel name="sequence" type="multinuc" />
+			<rel name="solutionhood" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="1" relname="antithesis">http://www.imorganic.ru/bioplim/</segment>
+		<segment id="2" relname="antithesis">Одноразовое — вот где начинаются все проблемы</segment>
+		<segment id="3" parent="104" relname="span">Недавно стали известны результаты эксперимента исследователей из Университета Плимута в Великобритании,</segment>
+		<segment id="4" parent="103" relname="span">целью которого было понять, как разные виды пластика, в том числе компостируемого и биоразлагаемого, ведут себя в естественной среде,</segment>
+		<segment id="5" parent="4" relname="elaboration">как каждый из них влияет на засорение окружающей среды.</segment>
+		<segment id="6" parent="203" relname="evaluation">Выводы неприятно удивили общественность.</segment>
+		<segment id="7" parent="8" relname="attribution">Учёные заговорили о том,</segment>
+		<segment id="8" parent="203" relname="span">что безобидного пластика в принципе не существует.</segment>
+		<segment id="9" parent="107" relname="contrast">Я уже подробно рассказывала о проблеме биоразлагаемого пластика,</segment>
+		<segment id="10" parent="108" relname="contrast">но намного эффективнее — показать, что с ним происходит</segment>
+		<segment id="11" parent="108" relname="contrast">(или не происходит)</segment>
+		<segment id="12" parent="109" relname="same-unit">в естественной среде на самом деле.</segment>
+		<segment id="13" parent="114" relname="attribution">Ведь производители биоразлагаемых и оксобиоразлагаемых пакетов и упаковки постоянно твердят,</segment>
+		<segment id="14" parent="113" relname="joint">что их пластик разлагается на органические вещества в естественной среде,</segment>
+		<segment id="15" parent="113" relname="joint">причём делает это быстро, буквально за 1-3 года.</segment>
+		<segment id="16" parent="124" relname="contrast">Звучит здорово,</segment>
+		<segment id="17" parent="122" relname="attribution">однако ещё в 2015 году ООН сообщила,</segment>
+		<segment id="18" parent="19" relname="cause">что биоразлагаемый пластик редко полностью разлагается естественной среде,</segment>
+		<segment id="19" parent="119" relname="span">и если продолжать маркировать биопластик как полностью разлагаемый,</segment>
+		<segment id="20" parent="115" relname="joint">это приведёт к тому, что люди станут больше его использовать,</segment>
+		<segment id="21" parent="115" relname="joint">легкомысленно выбрасывая,</segment>
+		<segment id="22" parent="120" relname="span">а не перерабатывая,</segment>
+		<segment id="23" parent="22" relname="cause">поскольку будут уверены, что пластик быстро разложится без следа.</segment>
+		<segment id="24" parent="134" relname="preparation">Очередным подтверждением тому стал эксперимент, проведённый Университетом Плимута.</segment>
+		<segment id="25" parent="128" relname="same-unit">Исследователи взяли пять разных пакетов: обычный пластиковый; два оксобиоразлагаемых;</segment>
+		<segment id="26" parent="129" relname="span">один пакет,</segment>
+		<segment id="27" parent="125" relname="contrast">продаваемый как биоразлагаемый,</segment>
+		<segment id="28" parent="125" relname="contrast">но без подтверждения разлагаемости;</segment>
+		<segment id="29" parent="126" relname="span">и один пакет,</segment>
+		<segment id="30" parent="29" relname="purpose">пригодный для компостирования,</segment>
+		<segment id="31" parent="126" relname="elaboration">сертифицированный в соответствии с европейским стандартом 13432.</segment>
+		<segment id="32" parent="130" relname="sequence">Они поместили по одному такому «пластиковому» набору в морскую воду, почву, а также в среду с доступом кислорода.</segment>
+		<segment id="33" parent="131" relname="contrast">В итоге, спустя три года, в море «выжили» все пакеты,</segment>
+		<segment id="34" parent="131" relname="contrast">кроме компостируемого, который растворился через три месяца.</segment>
+		<segment id="35" parent="132" relname="span">В земле компостируемый пакет тоже повёл себя лучше остальных,</segment>
+		<segment id="36" parent="35" relname="concession">хотя его частицы обнаружили в почве спустя 27 месяцев.</segment>
+		<segment id="37" parent="140" relname="span">На воздухе все мешки развалились на куски за девять месяцев.</segment>
+		<segment id="38" parent="138" relname="span">IMG</segment>
+		<segment id="39" parent="136" relname="joint">Биоразлагаемый пакет, который пробыл в морской воде три года</segment>
+		<segment id="40" parent="136" relname="joint">и не разложился.</segment>
+		<segment id="41" parent="137" relname="contrast">Он легко выдержал вес покупок.</segment>
+		<segment id="42" parent="138" relname="elaboration">Фото: Университет Плимута</segment>
+		<segment id="43" parent="141" relname="evidence">После эксперимента стало понятно:</segment>
+		<segment id="44" parent="141" relname="span">только сертифицированные компостируемые пакеты можно использовать</segment>
+		<segment id="45" parent="44" relname="purpose">для сбора пищевых отходов и переработки на специальных компостных заводах.</segment>
+		<segment id="46" parent="47" relname="condition">Даже если такие пакеты случайно попадут в окружающую среду,</segment>
+		<segment id="47" parent="143" relname="span">вред от них будет меньше, чем от обычных или оксобиоразлагаемых.</segment>
+		<segment id="48" parent="147" relname="attribution">Исследование в очередной раз напомнило нам,</segment>
+		<segment id="49" parent="145" relname="joint">что волшебных материалов не существует,</segment>
+		<segment id="50" parent="146" relname="span">что на первый взгляд безобидные биопластики следует утилизировать на специальных предприятиях,</segment>
+		<segment id="51" parent="50" relname="purpose">дабы избежать загрязнения окружающей среды.</segment>
+		<segment id="52" parent="53" relname="preparation">Плюсы и минусы биопластика</segment>
+		<segment id="53" parent="158" relname="span">У биопластика есть преимущества.</segment>
+		<segment id="54" parent="150" relname="condition">Когда мы используем биомассу вроде того же кукурузного крахмала,</segment>
+		<segment id="55" parent="56" relname="cause">мы не используем ископаемое топливо,</segment>
+		<segment id="56" parent="150" relname="span">тем самым сокращая выбросы углекислого газа.</segment>
+		<segment id="57" parent="152" relname="span">Это важно,</segment>
+		<segment id="58" parent="57" relname="cause">потому что пластик производится в огромных количествах — для пищевой промышленности, сферы общественного питания, сельского хозяйства, медицины, бытовой электроники и автопрома.</segment>
+		<segment id="59" parent="154" relname="span">В Евросоюзе продаётся 100 млрд. пластиковых пакетов каждый год,</segment>
+		<segment id="60" parent="59" relname="elaboration">из них до 8 млрд. в конечном итоге превращаются в мусор.</segment>
+		<segment id="61" parent="154" relname="attribution">(отчёт Европейской комиссии, 2013)</segment>
+		<segment id="62" parent="159" relname="preparation">Но у биопластика есть ярые противники.</segment>
+		<segment id="63" parent="64" relname="attribution">Так, по мнению архитектора и эксперта по переработке Артура Хуанга,</segment>
+		<segment id="64" parent="159" relname="span">биопластики могут представлять большую опасность для окружающей среды, чем обычный пластик.</segment>
+		<segment id="65" parent="167" relname="attribution">Он утверждает, что</segment>
+		<segment id="66" parent="67" relname="purpose">для перехода на пластик, произведённый из растений вместо ископаемого топлива,</segment>
+		<segment id="67" parent="160" relname="span">потребуется огромное количество сельскохозяйственных угодий,</segment>
+		<segment id="68" parent="161" relname="span">а это может привести к экологическим проблемам</segment>
+		<segment id="69" parent="162" relname="span">и лишить людей пищи.</segment>
+		<segment id="70" parent="163" relname="span">Кроме того, биопластик может нанести ущерб</segment>
+		<segment id="71" parent="70" relname="condition">при компостировании,</segment>
+		<segment id="72" parent="201" relname="same-unit">поскольку,</segment>
+		<segment id="73" parent="202" relname="attribution">по его словам,</segment>
+		<segment id="74" parent="202" relname="span">он меняет pH почвы и воды,</segment>
+		<segment id="75" parent="74" relname="elaboration">повышая её кислотность.</segment>
+		<segment id="76" parent="173" relname="attribution">Хуанг называет</segment>
+		<segment id="77" parent="171" relname="span">обычный океанский пластик эстетической проблемой:</segment>
+		<segment id="78" parent="169" relname="contrast">да, некрасиво,</segment>
+		<segment id="79" parent="170" relname="span">но такой пластик практически не деформируется,</segment>
+		<segment id="80" parent="79" relname="cause">поскольку не наносит физического ущерба экосистемам.</segment>
+		<segment id="81" parent="172" relname="contrast">А вот биопластик превращает эстетическую проблему в химическую.</segment>
+		<segment id="82" parent="174" relname="evaluation">Тем самым Хуанг бросил вызов идее, что биопластики лучше пластика из ископаемого топлива.</segment>
+		<segment id="83" parent="179" relname="span">Я не соглашусь с Хуангом как минимум по одной причине:</segment>
+		<segment id="84" parent="85" relname="cause">из-за пластикового мусора</segment>
+		<segment id="85" parent="199" relname="span">ежегодно погибают сотни живых существ,</segment>
+		<segment id="86" parent="178" relname="span">поэтому нельзя так безапелляционно утверждать, что опасности для экосистем нет.</segment>
+		<segment id="87" parent="189" relname="preparation">Возражают Хуангу и сторонники биопластика.</segment>
+		<segment id="88" parent="181" relname="span">Французский архитектор Артур Маму-Мани, работающий с биопластиком</segment>
+		<segment id="89" parent="88" relname="purpose">для 3D-печати,</segment>
+		<segment id="90" parent="182" relname="same-unit">утверждает,</segment>
+		<segment id="91" parent="183" relname="joint">что это очень чистый материал,</segment>
+		<segment id="92" parent="183" relname="joint">что он менее токсичен</segment>
+		<segment id="93" parent="184" relname="purpose">и позволяет снизить выбросы СО2 до 68%.</segment>
+		<segment id="94" parent="95" relname="attribution">Маму-Мани</segment>
+		<segment id="95" parent="187" relname="span">также опроверг утверждение об изменении pH почвы и воды.</segment>
+		<segment id="96" parent="191" relname="contrast">И хотя у биопластика есть сторонники и противники,</segment>
+		<segment id="97" parent="192" relname="span">но и те, и другие сходятся в одном:</segment>
+		<segment id="98" parent="97" relname="elaboration">главная проблема — в одноразовости.</segment>
+		<segment id="99" parent="194" relname="contrast">Правильная переработка и компостирование могут частично решить проблему пластикового мусора,</segment>
+		<segment id="100" parent="195" relname="span">но по-настоящему её можно решить,</segment>
+		<segment id="101" parent="100" relname="condition">лишь прекратив использование одноразовых товаров.</segment>
+		<segment id="102" parent="195" relname="cause">В окружающую среду должно попадать как можно меньше пластика.</segment>
+		<group id="103" type="span" parent="3" relname="purpose"/>
+		<group id="104" type="span" parent="106" relname="span"/>
+		<group id="106" type="span" relname="antithesis"/>
+		<group id="107" type="multinuc" parent="111" relname="span"/>
+		<group id="108" type="multinuc" parent="109" relname="same-unit"/>
+		<group id="109" type="multinuc" parent="107" relname="contrast"/>
+		<group id="110" type="span" parent="111" relname="cause"/>
+		<group id="111" type="span" parent="112" relname="span"/>
+		<group id="112" type="span" relname="antithesis"/>
+		<group id="113" type="multinuc" parent="114" relname="span"/>
+		<group id="114" type="span" parent="110" relname="span"/>
+		<group id="115" type="multinuc" parent="118" relname="span"/>
+		<group id="116" type="multinuc" parent="122" relname="span"/>
+		<group id="117" type="span" parent="116" relname="contrast"/>
+		<group id="118" type="span" parent="117" relname="span"/>
+		<group id="119" type="span" parent="118" relname="cause"/>
+		<group id="120" type="span" parent="116" relname="contrast"/>
+		<group id="122" type="span" parent="123" relname="span"/>
+		<group id="123" type="span" parent="124" relname="contrast"/>
+		<group id="124" type="multinuc" relname="antithesis"/>
+		<group id="125" type="multinuc" parent="26" relname="elaboration"/>
+		<group id="126" type="span" parent="127" relname="span"/>
+		<group id="127" type="span" parent="128" relname="same-unit"/>
+		<group id="128" type="multinuc" parent="130" relname="sequence"/>
+		<group id="129" type="span" parent="128" relname="same-unit"/>
+		<group id="130" type="multinuc" parent="133" relname="comparison"/>
+		<group id="131" type="multinuc" parent="130" relname="sequence"/>
+		<group id="132" type="span" parent="133" relname="comparison"/>
+		<group id="133" type="multinuc" parent="134" relname="span"/>
+		<group id="134" type="span" parent="135" relname="span"/>
+		<group id="135" type="span" relname="antithesis"/>
+		<group id="136" type="multinuc" parent="137" relname="contrast"/>
+		<group id="137" type="multinuc" parent="38" relname="elaboration"/>
+		<group id="138" type="span" parent="139" relname="span"/>
+		<group id="139" type="span" parent="37" relname="elaboration"/>
+		<group id="140" type="span" parent="133" relname="comparison"/>
+		<group id="141" type="span" parent="142" relname="span"/>
+		<group id="142" type="span" parent="144" relname="span"/>
+		<group id="143" type="span" parent="142" relname="elaboration"/>
+		<group id="144" type="span" parent="149" relname="span"/>
+		<group id="145" type="multinuc" parent="147" relname="span"/>
+		<group id="146" type="span" parent="145" relname="joint"/>
+		<group id="147" type="span" parent="148" relname="span"/>
+		<group id="148" type="span" parent="144" relname="evaluation"/>
+		<group id="149" type="span" relname="antithesis"/>
+		<group id="150" type="span" parent="151" relname="span"/>
+		<group id="151" type="span" parent="153" relname="span"/>
+		<group id="152" type="span" parent="151" relname="evaluation"/>
+		<group id="153" type="span" parent="156" relname="span"/>
+		<group id="154" type="span" parent="155" relname="span"/>
+		<group id="155" type="span" parent="153" relname="elaboration"/>
+		<group id="156" type="span" parent="157" relname="span"/>
+		<group id="157" type="span" relname="antithesis"/>
+		<group id="158" type="span" parent="156" relname="preparation"/>
+		<group id="159" type="span" parent="177" relname="span"/>
+		<group id="160" type="span" parent="68" relname="cause"/>
+		<group id="161" type="span" parent="69" relname="cause"/>
+		<group id="162" type="span" parent="166" relname="joint"/>
+		<group id="163" type="span" parent="165" relname="span"/>
+		<group id="165" type="span" parent="166" relname="joint"/>
+		<group id="166" type="multinuc" parent="167" relname="span"/>
+		<group id="167" type="span" parent="168" relname="span"/>
+		<group id="168" type="span" parent="176" relname="span"/>
+		<group id="169" type="multinuc" parent="77" relname="elaboration"/>
+		<group id="170" type="span" parent="169" relname="contrast"/>
+		<group id="171" type="span" parent="172" relname="contrast"/>
+		<group id="172" type="multinuc" parent="173" relname="span"/>
+		<group id="173" type="span" parent="174" relname="span"/>
+		<group id="174" type="span" parent="175" relname="span"/>
+		<group id="175" type="span" parent="180" relname="span"/>
+		<group id="176" type="span" relname="antithesis"/>
+		<group id="177" type="span" parent="168" relname="preparation"/>
+		<group id="178" type="span" parent="83" relname="cause"/>
+		<group id="179" type="span" parent="175" relname="evaluation"/>
+		<group id="180" type="span" relname="antithesis"/>
+		<group id="181" type="span" parent="182" relname="same-unit"/>
+		<group id="182" type="multinuc" parent="185" relname="attribution"/>
+		<group id="183" type="multinuc" parent="184" relname="span"/>
+		<group id="184" type="span" parent="185" relname="span"/>
+		<group id="185" type="span" parent="186" relname="span"/>
+		<group id="186" type="span" parent="188" relname="joint"/>
+		<group id="187" type="span" parent="188" relname="joint"/>
+		<group id="188" type="multinuc" parent="189" relname="span"/>
+		<group id="189" type="span" parent="190" relname="span"/>
+		<group id="190" type="span" relname="antithesis"/>
+		<group id="191" type="multinuc" parent="197" relname="solutionhood"/>
+		<group id="192" type="span" parent="191" relname="contrast"/>
+		<group id="194" type="multinuc" parent="197" relname="span"/>
+		<group id="195" type="span" parent="196" relname="span"/>
+		<group id="196" type="span" parent="194" relname="contrast"/>
+		<group id="197" type="span" parent="198" relname="span"/>
+		<group id="198" type="span" relname="antithesis"/>
+		<group id="199" type="span" parent="86" relname="cause"/>
+		<group id="200" type="span" parent="201" relname="same-unit"/>
+		<group id="201" type="multinuc" parent="163" relname="cause"/>
+		<group id="202" type="span" parent="200" relname="span"/>
+		<group id="203" type="span" parent="204" relname="span"/>
+		<group id="204" type="span" parent="104" relname="evaluation"/>
+  </body>
+</rst>

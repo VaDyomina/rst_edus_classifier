@@ -1,0 +1,341 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="antithesis" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="background" type="rst" />
+			<rel name="cause" type="rst" />
+			<rel name="comparison" type="multinuc" />
+			<rel name="concession" type="rst" />
+			<rel name="conclusion" type="rst" />
+			<rel name="condition" type="rst" />
+			<rel name="contrast" type="multinuc" />
+			<rel name="effect" type="rst" />
+			<rel name="elaboration" type="rst" />
+			<rel name="evaluation" type="rst" />
+			<rel name="evidence" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="motivation" type="rst" />
+			<rel name="preparation" type="rst" />
+			<rel name="purpose" type="rst" />
+			<rel name="restatement" type="multinuc" />
+			<rel name="same-unit" type="multinuc" />
+			<rel name="sequence" type="multinuc" />
+			<rel name="solutionhood" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="1" relname="antithesis">http://salatshop.ru/post/10-sochetanie</segment>
+		<segment id="2" relname="antithesis">Простота — залог здоровья. 10 принципов сочетания продуктов</segment>
+		<segment id="3" parent="168" relname="span">Сочетание продуктов — один из самых простых и эффективных инструментов</segment>
+		<segment id="4" parent="3" relname="purpose">для улучшение пищеварения, избавления от лишних сантиметров, повышения бодрости и легкости.</segment>
+		<segment id="5" parent="167" relname="contrast">Главные правила достаточно просты,</segment>
+		<segment id="6" parent="167" relname="contrast">но в начале можно запутаться.</segment>
+		<segment id="7" parent="169" relname="joint">Эти простые принципы помогут быстро перейти от теории к практике</segment>
+		<segment id="8" parent="169" relname="joint">и ответят на самые частые вопросы о сочетании продуктов.</segment>
+		<segment id="9" parent="175" relname="span">Впервые о сочетании продуктов я прочитала лет 10 назад в книге американского натуропата Герберта Шелтона.</segment>
+		<segment id="10" parent="173" relname="condition">Когда я стала использовать его рекомендации,</segment>
+		<segment id="11" parent="172" relname="joint">сразу заметила улучшение пищеварения,</segment>
+		<segment id="12" parent="172" relname="joint">появилось больше энергии</segment>
+		<segment id="13" parent="172" relname="joint">и пропало чувство тяжести после еды.</segment>
+		<segment id="14" parent="179" relname="comparison">Более простую систему по сочетанию продуктов я узнала во время обучения у Наталии Роуз, американского специалиста по детоксу.</segment>
+		<segment id="15" parent="177" relname="span">Сегодня эти принципы сочетания рекомендуют многие специалисты по питанию.</segment>
+		<segment id="16" parent="176" relname="joint">Именно этой системой я пользуюсь сама</segment>
+		<segment id="17" parent="176" relname="joint">и рассказываю о ней на своих семинарах.</segment>
+		<segment id="18" parent="185" relname="span">На принципах сочетания продуктов строится меню в нашей онлайн детокс-программе. IMG</segment>
+		<segment id="19" parent="183" relname="span">На сайте уже был пост про сочетание продуктов.</segment>
+		<segment id="20" parent="319" relname="joint">В нем расписано, в чем суть подхода,</segment>
+		<segment id="21" parent="319" relname="joint">и на какие категории делятся продукты.</segment>
+		<segment id="22" parent="184" relname="span">В этом посте разберем частые вопросы, исключения и важные детали.</segment>
+		<segment id="23" parent="193" relname="preparation">・ ・ ・ 1 ・ ・ ・ Животные белки не дружат с крахмалами</segment>
+		<segment id="24" parent="186" relname="span">Мясо, курица, рыба, сыр, яйца лучше употреблять отдельно от картофеля, макарон, теста, риса, гречки и других круп.</segment>
+		<segment id="25" parent="187" relname="span">Это самое главное правило,</segment>
+		<segment id="26" parent="188" relname="joint">применение которого на практике кардинально меняет пищеварение в лучшую сторону,</segment>
+		<segment id="27" parent="188" relname="joint">помогает забыть о сонливости и тяжести после еды.</segment>
+		<segment id="28" parent="189" relname="span">- Животные белки и крахмалы лучше употреблять в разные приемы пищи,</segment>
+		<segment id="29" parent="28" relname="condition">сочетая их со свежими или приготовленными овощами.</segment>
+		<segment id="30" parent="191" relname="span">Например:</segment>
+		<segment id="31" parent="190" relname="joint">— на обед: гречка + овощной салат с авокадо</segment>
+		<segment id="32" parent="190" relname="joint">— на ужин: рыба + овощи-гриль</segment>
+		<segment id="33" parent="212" relname="preparation">・ ・ ・ 2 ・ ・ ・ IMG Тяжелые «белки» + тяжелые «крахмалы» = очень тяжело</segment>
+		<segment id="34" parent="195" relname="span">В каждой категории продуктов есть продукты более тяжелые</segment>
+		<segment id="35" parent="34" relname="purpose">для усвоения,</segment>
+		<segment id="36" parent="196" relname="contrast">а есть более легкие.</segment>
+		<segment id="37" parent="197" relname="joint">Тяжелые продукты дольше усваиваются,</segment>
+		<segment id="38" parent="197" relname="joint">медленнее проходят по пищеварительному тракту</segment>
+		<segment id="39" parent="197" relname="joint">и затрачивают больше усилий организма на их переваривание.</segment>
+		<segment id="40" parent="198" relname="span">Например, в категории «животных белков» красное мясо является более тяжелым</segment>
+		<segment id="41" parent="40" relname="purpose">для усвоения,</segment>
+		<segment id="42" parent="199" relname="same-unit">чем птица.</segment>
+		<segment id="43" parent="201" relname="comparison">Рыба будет усваиваться еще легче, чем птица.</segment>
+		<segment id="44" parent="200" relname="contrast">Молодой козий сыр также относится к животным белкам,</segment>
+		<segment id="45" parent="200" relname="contrast">но усваивается гораздо легче, чем все остальные продукты из этой категории.</segment>
+		<segment id="46" parent="201" relname="comparison">В категории «крахмалов» кусок белого хлеба, тесто или макароны из рафинированной муки усваиваются хуже, чем такие цельные безглютеновые крупы, как гречка, киноа, пшено или дикий рис.</segment>
+		<segment id="47" parent="202" relname="joint">Батат также относится к «крахмалам»</segment>
+		<segment id="48" parent="202" relname="joint">и будет самым легким представителем этой категории.</segment>
+		<segment id="49" parent="208" relname="span">Наиболее трудной задачей для нашего пищеварения будет сочетание в одном приеме пищи самых тяжелых продуктов из несочетаемых категорий:</segment>
+		<segment id="50" parent="203" relname="joint">— красное мясо + макароны = тяжело</segment>
+		<segment id="51" parent="203" relname="joint">— булка + котлета = тяжелый-тяжелый бургер</segment>
+		<segment id="52" parent="203" relname="joint">— курица + белый рафинированный рис = по-прежнему тяжело</segment>
+		<segment id="53" parent="54" relname="purpose">На усвоение таких сочетаний</segment>
+		<segment id="54" parent="204" relname="span">организм затрачивает больше всего усилий.</segment>
+		<segment id="55" parent="205" relname="joint">После такой еды мы чувствуем вялость, тяжесть</segment>
+		<segment id="56" parent="205" relname="joint">и после стола хотим скорее переместиться на диван.</segment>
+		<segment id="57" parent="228" relname="preparation">・ ・ ・ 3 ・ ・ ・ IMG Легкие «белки» + легкие «крахмалы» = OK!</segment>
+		<segment id="58" parent="214" relname="contrast">Если мы кладем в одну тарелку те же несочетаемые друг с другом «белки» и «крахмалы»,</segment>
+		<segment id="59" parent="215" relname="span">но выбираем продукты наиболее легкие</segment>
+		<segment id="60" parent="59" relname="purpose">для усвоения,</segment>
+		<segment id="61" parent="216" relname="span">этот вариант становится куда более допустимым.</segment>
+		<segment id="62" parent="217" relname="contrast">Не идеальным,</segment>
+		<segment id="63" parent="218" relname="span">но вполне допустимым,</segment>
+		<segment id="64" parent="63" relname="condition">если у вас нет серьезных проблем с пищеварением или задачи похудеть.</segment>
+		<segment id="65" parent="225" relname="span">Например:</segment>
+		<segment id="66" parent="220" relname="joint">— пшено + молодой козий сыр = ОК</segment>
+		<segment id="67" parent="220" relname="joint">— чечевица + козий йогурт = ОК</segment>
+		<segment id="68" parent="220" relname="joint">— батат + перепелиные яйца = ОК</segment>
+		<segment id="69" parent="220" relname="joint">— киноа + рыба = ОК</segment>
+		<segment id="70" parent="222" relname="span">Особенно таким сочетаниям есть место,</segment>
+		<segment id="71" parent="221" relname="joint">если вы только начинаете использовать принципы сочетания</segment>
+		<segment id="72" parent="221" relname="joint">и вам не хватает привычной сложносочинённости блюд.</segment>
+		<segment id="73" parent="223" relname="span">И такие сочетания могут регулярно присутствовать в рационе,</segment>
+		<segment id="74" parent="73" relname="condition">если у вас активный образ жизни и отличное пищеварение.</segment>
+		<segment id="75" parent="223" relname="background">- Почему козий сыр предпочтительнее коровьего — в этом посте.</segment>
+		<segment id="76" parent="241" relname="preparation">・ ・ ・ 4 ・ ・ ・ IMG Свежие фрукты — отдельно</segment>
+		<segment id="77" parent="239" relname="span">Большинство свежих фруктов лучше употреблять отдельно от других продуктов.</segment>
+		<segment id="78" parent="230" relname="cause">Свежие фрукты быстро проходят по пищеварительному тракту</segment>
+		<segment id="79" parent="230" relname="span">и если мы смешиваем их с другими продуктами,</segment>
+		<segment id="80" parent="79" relname="condition">требующими больше времени на усвоение,</segment>
+		<segment id="81" parent="231" relname="span">мы способствуем процессам брожения</segment>
+		<segment id="82" parent="232" relname="span">и ухудшаем наше пищеварение.</segment>
+		<segment id="83" parent="238" relname="span">Фрукты рекомендуется есть только на пустой желудок — например, утром на завтрак или через 3—4 часа после обеда.</segment>
+		<segment id="84" parent="234" relname="contrast">Долго ждать после фруктов не нужно</segment>
+		<segment id="85" parent="234" relname="contrast">— начинать есть продукты из других категорий можно уже через 20—30 минут.</segment>
+		<segment id="86" parent="237" relname="span">Исключения:</segment>
+		<segment id="87" parent="88" relname="cause">— свежие фрукты хорошо сочетаются со свежей зеленью,</segment>
+		<segment id="88" parent="235" relname="span">поэтому зеленые смузи являются примером правильного сочетания,</segment>
+		<segment id="89" parent="236" relname="joint">— бананы могут сочетаться также с орехами и сухофруктами,</segment>
+		<segment id="90" parent="236" relname="joint">— авокадо сочетается и с фруктами, и с крупами, крахмалами.</segment>
+		<segment id="91" parent="253" relname="preparation">・ ・ ・ 5 ・ ・ ・ IMG Фрукты + фрукты</segment>
+		<segment id="92" parent="254" relname="span">Есть таблицы сочетания продуктов, где рекомендуется кислые фрукты употреблять отдельно от сладких.</segment>
+		<segment id="93" parent="94" relname="condition">Те, кто углубляется в сыроедение,</segment>
+		<segment id="94" parent="243" relname="span">встречает рекомендации, что в один прием пищи лучше съедать только один вид фруктов.</segment>
+		<segment id="95" parent="245" relname="joint">Мне ближе всего мнение, что для большинства людей сочетание в один прием пищи разных видов фруктов абсолютно допустимо</segment>
+		<segment id="96" parent="245" relname="joint">и не вызывает каких-либо трудностей.</segment>
+		<segment id="97" parent="320" relname="span">Единственное, не рекомендуется смешивать арбузы и дыни с другими фруктами</segment>
+		<segment id="98" parent="97" relname="elaboration">— их всегда лучше есть отдельно.</segment>
+		<segment id="99" parent="100" relname="condition">- Если у вас слабое пищеварение,</segment>
+		<segment id="100" parent="248" relname="span">во всем приветствуется максимальная простота, в том числе и в случае с фруктами.</segment>
+		<segment id="101" parent="102" relname="condition">Если вы экспериментируете с сыроедением и каждый день едите много фруктов,</segment>
+		<segment id="102" parent="249" relname="span">также вашему пищеварению будет проще справляться с простыми сочетаниями.</segment>
+		<segment id="103" parent="251" relname="contrast">Для всех остальных смешивание разных фруктов и их употребление в разумных количествах не будет проблемой для пищеварения.</segment>
+		<segment id="104" parent="264" relname="preparation">・ ・ ・ 6 ・ ・ ・ IMG Овощи и фрукты в свежевыжатых соках и смузи</segment>
+		<segment id="105" parent="267" relname="span">С соком любых овощей хорошо сочетаются сок лимона, лайма, яблок или груш.</segment>
+		<segment id="106" parent="107" relname="cause">Эти фрукты содержат меньше сахара, чем другие фрукты,</segment>
+		<segment id="107" parent="256" relname="span">и нейтрально сочетаются с соком овощей.</segment>
+		<segment id="108" parent="266" relname="span">Поэтому морковный сок с яблоком или сельдерей с грушей будут примерами хороших сочетаний.</segment>
+		<segment id="109" parent="267" relname="elaboration">Сок имбиря хорошо сочетается с соком любых овощей и фруктов.</segment>
+		<segment id="110" parent="111" relname="purpose">Для сочетаний продуктов в смузи</segment>
+		<segment id="111" parent="321" relname="span">работают те же правила, что и для сочетания этих продуктов до попадания в ваш блендер:</segment>
+		<segment id="112" parent="258" relname="joint">— свежие фрукты + свежая зелень = дружба</segment>
+		<segment id="113" parent="258" relname="joint">— арбузы + другие фрукты = плохое сочетание</segment>
+		<segment id="114" parent="258" relname="joint">— дыня + бананы = плохое сочетание</segment>
+		<segment id="115" parent="258" relname="joint">— авокадо + ягоды = дружба</segment>
+		<segment id="116" parent="258" relname="joint">— банан + ягоды + миндальное молоко = дружба</segment>
+		<segment id="117" parent="258" relname="joint">— фрукты + коровье молоко = плохое сочетание</segment>
+		<segment id="118" parent="276" relname="preparation">・ ・ ・ 7 ・ ・ ・ IMG Коровье молоко</segment>
+		<segment id="119" parent="268" relname="span">Согласно аюрведе коровье молоко нужно употреблять отдельно ото всех других продуктов, в горячем виде,</segment>
+		<segment id="120" parent="119" relname="condition">сочетая его со специями.</segment>
+		<segment id="121" parent="270" relname="span">Нужно внимательно наблюдать, как ваш организм реагирует на молоко:</segment>
+		<segment id="122" parent="121" relname="elaboration">не способствует ли оно накоплению слизи — насморку на следующий день и боли в горле.</segment>
+		<segment id="123" parent="273" relname="span">Я совсем не употребляю коровье молоко</segment>
+		<segment id="124" parent="274" relname="cause">и считаю, что коровье молоко не обязательный в рационе человека продукт,</segment>
+		<segment id="125" parent="272" relname="joint">и его лучше полностью исключить из рациона</segment>
+		<segment id="126" parent="272" relname="joint">или заменить ферментированными молочными продуктами.</segment>
+		<segment id="127" parent="289" relname="preparation">・ ・ ・ 8 ・ ・ ・ IMG Миндальное молоко</segment>
+		<segment id="128" parent="278" relname="contrast">В отличие от коровьего</segment>
+		<segment id="129" parent="279" relname="joint">миндальное молоко сочетается более нейтрально</segment>
+		<segment id="130" parent="279" relname="joint">и может сочетаться с большинством продуктов.</segment>
+		<segment id="131" parent="280" relname="span">Миндальное молоко или другое ореховое молоко можно добавлять в смузи,</segment>
+		<segment id="132" parent="131" relname="condition">сочетая его с бананами, свежей зеленью и ягодами.</segment>
+		<segment id="133" parent="282" relname="contrast">Ореховое молоко с добавлением какао и фиников может стать отличной альтернативой десерту.</segment>
+		<segment id="134" parent="281" relname="joint">Но запивать миндальным молоком свежий арбуз</segment>
+		<segment id="135" parent="281" relname="joint">или делать смузи из дыни и миндального молока не стоит.</segment>
+		<segment id="136" parent="283" relname="joint">- Как самим приготовить миндальное молоко — в этом посте.</segment>
+		<segment id="137" parent="283" relname="joint">Купить готовое миндальное молоко можно у нас в 365 detox.</segment>
+		<segment id="138" parent="301" relname="preparation">・ ・ ・ 9 ・ ・ ・ IMG Орехи, семечки и сухофрукты</segment>
+		<segment id="139" parent="140" relname="cause">Орехи, семечки и сухофрукты хорошо дружат друг с другом,</segment>
+		<segment id="140" parent="291" relname="span">поэтому различные Raw-десерты — примеры правильных сочетаний.</segment>
+		<segment id="141" parent="292" relname="joint">Также орехи и сухофрукты отлично сочетаются со свежими овощами.</segment>
+		<segment id="142" parent="293" relname="contrast">С «крахмалами» и «животными белками» сочетать орехи и сухофрукты нежелательно,</segment>
+		<segment id="143" parent="293" relname="contrast">но здесь имеет значение количество.</segment>
+		<segment id="144" parent="294" relname="joint">Если вы добавляете в тыквенный суп чайную ложку тыквенных семечек,</segment>
+		<segment id="145" parent="294" relname="joint">а зачем едите киноа с овощами</segment>
+		<segment id="146" parent="294" relname="joint">или посыпаете кашу пятью изюминками и ложкой кунжутных семечек,</segment>
+		<segment id="147" parent="295" relname="span">большой проблемы для пищеварения не будет.</segment>
+		<segment id="148" parent="149" relname="condition">Если же вы заедаете рис большим ореховым батончиком,</segment>
+		<segment id="149" parent="296" relname="span">вашему пищеварению это может не понравиться.</segment>
+		<segment id="150" parent="298" relname="span">- Как правильно есть орехи — в этом посте.</segment>
+		<segment id="151" parent="317" relname="preparation">・ ・ ・ 10 ・ ・ ・ IMG Количество всегда имеет значение</segment>
+		<segment id="152" parent="303" relname="contrast">Я никогда не ем фрукты после еды,</segment>
+		<segment id="153" parent="154" relname="condition">но если в моем десерте оказывается пара ягод,</segment>
+		<segment id="154" parent="304" relname="span">я не делаю из этого проблемы.</segment>
+		<segment id="155" parent="305" relname="contrast">Таблицы сочетаний — это некий ориентир,</segment>
+		<segment id="156" parent="316" relname="span">но большое значение также имеет количество и качество того, что вы сочетаете в вашей тарелке.</segment>
+		<segment id="157" parent="306" relname="joint">Есть вы всегда едите небольшими порциями</segment>
+		<segment id="158" parent="306" relname="joint">и пищеварение у вас работает отлично,</segment>
+		<segment id="159" parent="307" relname="span">всегда следовать принципам сочетания вам может быть не обязательно.</segment>
+		<segment id="160" parent="308" relname="joint">Но если вам не хватает бодрости и легкости,</segment>
+		<segment id="161" parent="308" relname="joint">есть задача улучшить пищеварение</segment>
+		<segment id="162" parent="308" relname="joint">и повысить иммунитет,</segment>
+		<segment id="163" parent="309" relname="span">принципы сочетания продуктов быстро дают отличные результаты.</segment>
+		<segment id="164" parent="313" relname="span">Разобраться, как составлять меню</segment>
+		<segment id="165" parent="164" relname="condition">с учётом этой системы,</segment>
+		<segment id="166" parent="314" relname="span">вам поможет наша онлайн детокс-программа.</segment>
+		<group id="167" type="multinuc" parent="168" relname="evaluation"/>
+		<group id="168" type="span" parent="170" relname="span"/>
+		<group id="169" type="multinuc" parent="170" relname="elaboration"/>
+		<group id="170" type="span" parent="171" relname="span"/>
+		<group id="171" type="span" relname="antithesis"/>
+		<group id="172" type="multinuc" parent="173" relname="span"/>
+		<group id="173" type="span" parent="174" relname="span"/>
+		<group id="174" type="span" parent="9" relname="evaluation"/>
+		<group id="175" type="span" parent="179" relname="comparison"/>
+		<group id="176" type="multinuc" parent="15" relname="elaboration"/>
+		<group id="177" type="span" parent="178" relname="span"/>
+		<group id="178" type="span" parent="180" relname="span"/>
+		<group id="179" type="multinuc" parent="178" relname="background"/>
+		<group id="180" type="span" relname="antithesis"/>
+		<group id="183" type="span" parent="22" relname="background"/>
+		<group id="184" type="span" parent="18" relname="elaboration"/>
+		<group id="185" type="span" parent="177" relname="elaboration"/>
+		<group id="186" type="span" parent="193" relname="span"/>
+		<group id="187" type="span" parent="24" relname="evaluation"/>
+		<group id="188" type="multinuc" parent="25" relname="elaboration"/>
+		<group id="189" type="span" parent="192" relname="span"/>
+		<group id="190" type="multinuc" parent="30" relname="elaboration"/>
+		<group id="191" type="span" parent="189" relname="elaboration"/>
+		<group id="192" type="span" parent="186" relname="elaboration"/>
+		<group id="193" type="span" parent="194" relname="span"/>
+		<group id="194" type="span" relname="antithesis"/>
+		<group id="195" type="span" parent="196" relname="contrast"/>
+		<group id="196" type="multinuc" parent="210" relname="span"/>
+		<group id="197" type="multinuc" parent="210" relname="elaboration"/>
+		<group id="198" type="span" parent="199" relname="same-unit"/>
+		<group id="199" type="multinuc" parent="201" relname="comparison"/>
+		<group id="200" type="multinuc" parent="201" relname="comparison"/>
+		<group id="201" type="multinuc" parent="211" relname="elaboration"/>
+		<group id="202" type="multinuc" parent="201" relname="comparison"/>
+		<group id="203" type="multinuc" parent="49" relname="elaboration"/>
+		<group id="204" type="span" parent="206" relname="cause"/>
+		<group id="205" type="multinuc" parent="206" relname="span"/>
+		<group id="206" type="span" parent="207" relname="span"/>
+		<group id="207" type="span" parent="208" relname="evaluation"/>
+		<group id="208" type="span" parent="209" relname="span"/>
+		<group id="209" type="span" parent="201" relname="comparison"/>
+		<group id="210" type="span" parent="211" relname="span"/>
+		<group id="211" type="span" parent="212" relname="span"/>
+		<group id="212" type="span" parent="213" relname="span"/>
+		<group id="213" type="span" relname="antithesis"/>
+		<group id="214" type="multinuc" parent="216" relname="condition"/>
+		<group id="215" type="span" parent="214" relname="contrast"/>
+		<group id="216" type="span" parent="219" relname="span"/>
+		<group id="217" type="multinuc" parent="61" relname="concession"/>
+		<group id="218" type="span" parent="217" relname="contrast"/>
+		<group id="219" type="span" parent="228" relname="span"/>
+		<group id="220" type="multinuc" parent="65" relname="elaboration"/>
+		<group id="221" type="multinuc" parent="70" relname="condition"/>
+		<group id="222" type="span" parent="226" relname="joint"/>
+		<group id="223" type="span" parent="224" relname="span"/>
+		<group id="224" type="span" parent="226" relname="joint"/>
+		<group id="225" type="span" parent="227" relname="span"/>
+		<group id="226" type="multinuc" parent="225" relname="elaboration"/>
+		<group id="227" type="span" parent="219" relname="elaboration"/>
+		<group id="228" type="span" parent="229" relname="span"/>
+		<group id="229" type="span" relname="antithesis"/>
+		<group id="230" type="span" parent="233" relname="span"/>
+		<group id="231" type="span" parent="82" relname="cause"/>
+		<group id="232" type="span" parent="77" relname="elaboration"/>
+		<group id="233" type="span" parent="81" relname="cause"/>
+		<group id="234" type="multinuc" parent="83" relname="elaboration"/>
+		<group id="235" type="span" parent="236" relname="joint"/>
+		<group id="236" type="multinuc" parent="86" relname="elaboration"/>
+		<group id="237" type="span" parent="240" relname="concession"/>
+		<group id="238" type="span" parent="239" relname="elaboration"/>
+		<group id="239" type="span" parent="240" relname="span"/>
+		<group id="240" type="span" parent="241" relname="span"/>
+		<group id="241" type="span" parent="242" relname="span"/>
+		<group id="242" type="span" relname="antithesis"/>
+		<group id="243" type="span" parent="92" relname="elaboration"/>
+		<group id="244" type="multinuc" parent="252" relname="span"/>
+		<group id="245" type="multinuc" parent="247" relname="span"/>
+		<group id="246" type="span" parent="244" relname="contrast"/>
+		<group id="247" type="span" parent="246" relname="span"/>
+		<group id="248" type="span" parent="250" relname="joint"/>
+		<group id="249" type="span" parent="250" relname="joint"/>
+		<group id="250" type="multinuc" parent="251" relname="contrast"/>
+		<group id="251" type="multinuc" parent="252" relname="elaboration"/>
+		<group id="252" type="span" parent="253" relname="span"/>
+		<group id="253" type="span" parent="255" relname="span"/>
+		<group id="254" type="span" parent="244" relname="contrast"/>
+		<group id="255" type="span" relname="antithesis"/>
+		<group id="256" type="span" parent="108" relname="cause"/>
+		<group id="258" type="multinuc" parent="321" relname="elaboration"/>
+		<group id="263" type="span" parent="264" relname="span"/>
+		<group id="264" type="span" parent="265" relname="span"/>
+		<group id="265" type="span" relname="antithesis"/>
+		<group id="266" type="span" parent="105" relname="elaboration"/>
+		<group id="267" type="span" parent="263" relname="span"/>
+		<group id="268" type="span" parent="269" relname="joint"/>
+		<group id="269" type="multinuc" parent="273" relname="solutionhood"/>
+		<group id="270" type="span" parent="269" relname="joint"/>
+		<group id="272" type="multinuc" parent="274" relname="span"/>
+		<group id="273" type="span" parent="276" relname="span"/>
+		<group id="274" type="span" parent="275" relname="span"/>
+		<group id="275" type="span" parent="123" relname="elaboration"/>
+		<group id="276" type="span" parent="277" relname="span"/>
+		<group id="277" type="span" relname="antithesis"/>
+		<group id="278" type="multinuc" parent="288" relname="span"/>
+		<group id="279" type="multinuc" parent="287" relname="span"/>
+		<group id="280" type="span" parent="287" relname="elaboration"/>
+		<group id="281" type="multinuc" parent="284" relname="span"/>
+		<group id="282" type="multinuc" parent="288" relname="elaboration"/>
+		<group id="283" type="multinuc" parent="284" relname="background"/>
+		<group id="284" type="span" parent="285" relname="span"/>
+		<group id="285" type="span" parent="282" relname="contrast"/>
+		<group id="286" type="span" parent="278" relname="contrast"/>
+		<group id="287" type="span" parent="286" relname="span"/>
+		<group id="288" type="span" parent="289" relname="span"/>
+		<group id="289" type="span" parent="290" relname="span"/>
+		<group id="290" type="span" relname="antithesis"/>
+		<group id="291" type="span" parent="292" relname="joint"/>
+		<group id="292" type="multinuc" parent="301" relname="span"/>
+		<group id="293" type="multinuc" parent="299" relname="span"/>
+		<group id="294" type="multinuc" parent="147" relname="condition"/>
+		<group id="295" type="span" parent="297" relname="contrast"/>
+		<group id="296" type="span" parent="297" relname="contrast"/>
+		<group id="297" type="multinuc" parent="150" relname="solutionhood"/>
+		<group id="298" type="span" parent="299" relname="elaboration"/>
+		<group id="299" type="span" parent="300" relname="span"/>
+		<group id="300" type="span" parent="292" relname="joint"/>
+		<group id="301" type="span" parent="302" relname="span"/>
+		<group id="302" type="span" relname="antithesis"/>
+		<group id="303" type="multinuc" parent="314" relname="solutionhood"/>
+		<group id="304" type="span" parent="315" relname="span"/>
+		<group id="305" type="multinuc" parent="304" relname="cause"/>
+		<group id="306" type="multinuc" parent="159" relname="condition"/>
+		<group id="307" type="span" parent="310" relname="contrast"/>
+		<group id="308" type="multinuc" parent="163" relname="condition"/>
+		<group id="309" type="span" parent="310" relname="contrast"/>
+		<group id="310" type="multinuc" parent="156" relname="elaboration"/>
+		<group id="313" type="span" parent="166" relname="purpose"/>
+		<group id="314" type="span" parent="317" relname="span"/>
+		<group id="315" type="span" parent="303" relname="contrast"/>
+		<group id="316" type="span" parent="305" relname="contrast"/>
+		<group id="317" type="span" parent="318" relname="span"/>
+		<group id="318" type="span" relname="antithesis"/>
+		<group id="319" type="multinuc" parent="19" relname="elaboration"/>
+		<group id="320" type="span" parent="247" relname="concession"/>
+		<group id="321" type="span" parent="322" relname="span"/>
+		<group id="322" type="span" parent="263" relname="elaboration"/>
+  </body>
+</rst>

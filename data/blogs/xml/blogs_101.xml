@@ -1,0 +1,148 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="antithesis" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="background" type="rst" />
+			<rel name="cause" type="rst" />
+			<rel name="comparison" type="multinuc" />
+			<rel name="concession" type="rst" />
+			<rel name="conclusion" type="rst" />
+			<rel name="condition" type="rst" />
+			<rel name="contrast" type="multinuc" />
+			<rel name="effect" type="rst" />
+			<rel name="elaboration" type="rst" />
+			<rel name="evaluation" type="rst" />
+			<rel name="evidence" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="motivation" type="rst" />
+			<rel name="preparation" type="rst" />
+			<rel name="purpose" type="rst" />
+			<rel name="restatement" type="multinuc" />
+			<rel name="same-unit" type="multinuc" />
+			<rel name="sequence" type="multinuc" />
+			<rel name="solutionhood" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="1" relname="antithesis">https://ru-travel.livejournal.com/33778415.html</segment>
+		<segment id="2" relname="antithesis">Монастырь в Раифе</segment>
+		<segment id="3" relname="antithesis">IMG</segment>
+		<segment id="4" parent="130" relname="same-unit">По дороге к Раифскому Богородицкому мужскому монастырю,</segment>
+		<segment id="5" parent="6" relname="condition">свернув с трассы Казань-Зеленодольск,</segment>
+		<segment id="6" parent="129" relname="span">попадаешь сначала в заповедный лес, затем в Местечко Раифа на берегу живописного Раифского озера.</segment>
+		<segment id="7" parent="8" relname="cause">Дорога закончится автостоянкой,</segment>
+		<segment id="8" parent="62" relname="span">дальше не проедешь.</segment>
+		<segment id="9" parent="63" relname="joint">Ну, а пеший путь легко определяется по группам туристов и паломников.</segment>
+		<segment id="10" parent="110" relname="span">Прекрасным ориентиром будет также и IMG колокольня над Святыми Вратами, сооружение самое высокое на территории монастыря.</segment>
+		<segment id="11" parent="10" relname="elaboration">Двигаясь по улочке с едальнями и сувенирными лавками взгляд упирается именно в нее.</segment>
+		<segment id="12" parent="69" relname="span">Основателем монастыря является отшельник Филарет,</segment>
+		<segment id="13" parent="12" relname="elaboration">избравший путь странника после смерти родителей.</segment>
+		<segment id="14" parent="71" relname="sequence">Раздав имущество</segment>
+		<segment id="15" parent="71" relname="sequence">он пустился в путь по Поволжью</segment>
+		<segment id="16" parent="70" relname="span">и, в итоге, в 1613 году выбрал место для своей кельи на берегу Раифского озера</segment>
+		<segment id="17" parent="16" relname="evaluation">(скорее всего озеро имело другое название на тот момент).</segment>
+		<segment id="18" parent="131" relname="span">Первыми соседями по территории с Филаретом оказались мари-язычники,</segment>
+		<segment id="19" parent="18" relname="elaboration">также совершающие свои обряды в этих местах.</segment>
+		<segment id="20" parent="131" relname="evidence">Как известно, часть марийцев избрала христианскую веру.</segment>
+		<segment id="21" parent="72" relname="evaluation">Возможно именно с этого момента, но точных сведений у меня нет.</segment>
+		<segment id="22" parent="23" relname="cause">Тем не менее слухи о монахе разошлись быстро</segment>
+		<segment id="23" parent="76" relname="span">и вскоре на этом месте строится первая часовня.</segment>
+		<segment id="24" parent="77" relname="sequence">Датой же основания монастыря принято считать 1661 год,</segment>
+		<segment id="25" parent="77" relname="sequence">за два года до этого Филарет умер.</segment>
+		<segment id="26" parent="78" relname="span">В монастырь привезли точную копию Грузинской иконы Божьей Матери,</segment>
+		<segment id="27" parent="26" relname="elaboration">которая и по сей день является главной святыней монастыря.</segment>
+		<segment id="28" parent="29" relname="cause">Деревянные постройки разрушил пожар.</segment>
+		<segment id="29" parent="117" relname="span">Каменные здания стали появляться в начале 18-го века.</segment>
+		<segment id="30" parent="81" relname="sequence">Чуть ранее началось строительство стены вокруг монастыря.</segment>
+		<segment id="31" parent="132" relname="elaboration">IMG</segment>
+		<segment id="32" parent="83" relname="span">В самом центре территории - Троицкий собор. Нео русский стиль. Относительно свежее сооружение, 1910 год окончания строительства. IMG</segment>
+		<segment id="33" parent="84" relname="span">Церковь в честь Святых Отцов в Синае и Раифе избиенных. Год возведения 1708-й, таким образом это самое старое здание храма на территории монастыря.</segment>
+		<segment id="34" parent="134" relname="span">В названии церкви кроется и идея посвящения монастыря в честь монахов в синайской обители Раифа,</segment>
+		<segment id="35" parent="135" relname="span">погибших</segment>
+		<segment id="36" parent="35" relname="cause">в результате разбойного нападения африканских язычников. IMG</segment>
+		<segment id="37" parent="88" relname="joint">Небольшая Софийская церковь построена чуть позже над братскими кельями.</segment>
+		<segment id="38" parent="87" relname="span">Котика видите?</segment>
+		<segment id="39" parent="86" relname="span">Их здесь много,</segment>
+		<segment id="40" parent="39" relname="elaboration">показывал их отдельно вот здесь. IMG</segment>
+		<segment id="41" parent="118" relname="elaboration">Фрагмент забора и башня. Периметр монастыря более полукилометра. IMG</segment>
+		<segment id="42" parent="43" relname="cause">После октябрьской революции</segment>
+		<segment id="43" parent="136" relname="span">монастырь официально был закрыт,</segment>
+		<segment id="44" parent="92" relname="contrast">однако до 1930 года службы не прекращались.</segment>
+		<segment id="45" parent="93" relname="joint">В 30-м году были арестованы</segment>
+		<segment id="46" parent="93" relname="joint">и расстреляны 6 человек, иеромонахов и послушников,</segment>
+		<segment id="47" parent="94" relname="joint">а бывшая обитель стала выполнять функции тюрьмы с мастерскими, основанными в храмах.</segment>
+		<segment id="48" parent="96" relname="span">Русский и татарин братья навек.</segment>
+		<segment id="49" parent="48" relname="elaboration">Глубоко осознать это можно только в Казани.</segment>
+		<segment id="50" parent="97" relname="joint">После возвращения монастыря РПЦ в 1991 году первую помощь в восстановлении монахи получили от мусульман,</segment>
+		<segment id="51" parent="97" relname="joint">а президент Шаймиев пожертвовал деньги на новые кресты для Троицкого собора.</segment>
+		<segment id="52" parent="98" relname="joint">На сегодняшний день в братии около 60 человек.</segment>
+		<segment id="53" parent="101" relname="joint">IMG Территория ухоженная,</segment>
+		<segment id="54" parent="101" relname="joint">есть даже такой симпатичный прудик. IMG</segment>
+		<segment id="55" parent="112" relname="joint">Часовня. Перед ней на площади солнечные часы весьма интересной конструкции. IMG</segment>
+		<segment id="56" parent="137" relname="span">Ну и напоследок вид на то самое живописное Раифское озеро.</segment>
+		<segment id="57" parent="56" relname="evaluation">В солнечный день, наверное, и вода играет другими красками.</segment>
+		<segment id="58" parent="105" relname="contrast">Ну а наше нынешнее лето было такое, какое было.</segment>
+		<segment id="59" parent="126" relname="contrast">Главное, что это не повод сидеть дома,</segment>
+		<segment id="60" parent="126" relname="contrast">надо успевать поездить посмотреть. Интересных мест еще много!</segment>
+		<group id="62" type="span" parent="111" relname="elaboration"/>
+		<group id="63" type="multinuc" parent="114" relname="joint"/>
+		<group id="69" type="span" parent="74" relname="span"/>
+		<group id="70" type="span" parent="71" relname="sequence"/>
+		<group id="71" type="multinuc" parent="69" relname="elaboration"/>
+		<group id="72" type="span" parent="73" relname="span"/>
+		<group id="73" type="span" parent="75" relname="joint"/>
+		<group id="74" type="span" parent="75" relname="joint"/>
+		<group id="75" type="multinuc" relname="antithesis"/>
+		<group id="76" type="span" parent="115" relname="span"/>
+		<group id="77" type="multinuc" parent="76" relname="background"/>
+		<group id="78" type="span" parent="79" relname="joint"/>
+		<group id="79" type="multinuc" parent="116" relname="joint"/>
+		<group id="80" type="span" parent="82" relname="joint"/>
+		<group id="81" type="multinuc" parent="82" relname="joint"/>
+		<group id="82" type="multinuc" parent="132" relname="span"/>
+		<group id="83" type="span" parent="109" relname="joint"/>
+		<group id="84" type="span" parent="109" relname="joint"/>
+		<group id="86" type="span" parent="38" relname="solutionhood"/>
+		<group id="87" type="span" parent="88" relname="joint"/>
+		<group id="88" type="multinuc" parent="118" relname="span"/>
+		<group id="92" type="multinuc" parent="95" relname="sequence"/>
+		<group id="93" type="multinuc" parent="94" relname="joint"/>
+		<group id="94" type="multinuc" parent="95" relname="sequence"/>
+		<group id="95" type="multinuc" relname="antithesis"/>
+		<group id="96" type="span" parent="121" relname="preparation"/>
+		<group id="97" type="multinuc" parent="121" relname="span"/>
+		<group id="98" type="multinuc" parent="123" relname="span"/>
+		<group id="101" type="multinuc" parent="112" relname="joint"/>
+		<group id="105" type="multinuc" parent="125" relname="span"/>
+		<group id="109" type="multinuc" parent="120" relname="joint"/>
+		<group id="110" type="span" parent="63" relname="joint"/>
+		<group id="111" type="span" parent="113" relname="span"/>
+		<group id="112" type="multinuc" parent="123" relname="elaboration"/>
+		<group id="113" type="span" parent="114" relname="joint"/>
+		<group id="114" type="multinuc" relname="antithesis"/>
+		<group id="115" type="span" parent="116" relname="joint"/>
+		<group id="116" type="multinuc" parent="80" relname="span"/>
+		<group id="117" type="span" parent="81" relname="sequence"/>
+		<group id="118" type="span" parent="119" relname="span"/>
+		<group id="119" type="span" parent="120" relname="joint"/>
+		<group id="120" type="multinuc" relname="antithesis"/>
+		<group id="121" type="span" parent="122" relname="span"/>
+		<group id="122" type="span" parent="98" relname="joint"/>
+		<group id="123" type="span" parent="124" relname="span"/>
+		<group id="124" type="span" relname="antithesis"/>
+		<group id="125" type="span" parent="127" relname="solutionhood"/>
+		<group id="126" type="multinuc" parent="127" relname="span"/>
+		<group id="127" type="span" parent="128" relname="span"/>
+		<group id="128" type="span" relname="antithesis"/>
+		<group id="129" type="span" parent="130" relname="same-unit"/>
+		<group id="130" type="multinuc" parent="111" relname="span"/>
+		<group id="131" type="span" parent="72" relname="span"/>
+		<group id="132" type="span" parent="133" relname="span"/>
+		<group id="133" type="span" relname="antithesis"/>
+		<group id="134" type="span" parent="33" relname="elaboration"/>
+		<group id="135" type="span" parent="34" relname="elaboration"/>
+		<group id="136" type="span" parent="92" relname="contrast"/>
+		<group id="137" type="span" parent="105" relname="contrast"/>
+  </body>
+</rst>

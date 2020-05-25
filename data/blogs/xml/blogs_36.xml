@@ -1,0 +1,212 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="antithesis" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="background" type="rst" />
+			<rel name="cause" type="rst" />
+			<rel name="comparison" type="multinuc" />
+			<rel name="concession" type="rst" />
+			<rel name="conclusion" type="rst" />
+			<rel name="condition" type="rst" />
+			<rel name="contrast" type="multinuc" />
+			<rel name="effect" type="rst" />
+			<rel name="elaboration" type="rst" />
+			<rel name="evaluation" type="rst" />
+			<rel name="evidence" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="motivation" type="rst" />
+			<rel name="preparation" type="rst" />
+			<rel name="purpose" type="rst" />
+			<rel name="restatement" type="multinuc" />
+			<rel name="same-unit" type="multinuc" />
+			<rel name="sequence" type="multinuc" />
+			<rel name="solutionhood" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="1" relname="antithesis">https://ff-mag.livejournal.com/61921.html</segment>
+		<segment id="2" relname="antithesis">Завтрак: обязательное условие для всех, кто хочет быть в форме, или уловка маркетологов?</segment>
+		<segment id="3" parent="96" relname="joint">Завтраки любят</segment>
+		<segment id="4" parent="96" relname="joint">и ненавидят,</segment>
+		<segment id="5" parent="96" relname="joint">мечтают о них перед сном</segment>
+		<segment id="6" parent="96" relname="joint">и посвящают им длинные посты в инстаграме,</segment>
+		<segment id="7" parent="96" relname="joint">проводят их в уютной кофейне</segment>
+		<segment id="8" parent="96" relname="joint">или получают прямо в постель.</segment>
+		<segment id="9" parent="97" relname="span">Мы привыкли жить с мыслью:</segment>
+		<segment id="10" parent="9" relname="elaboration">«Завтрак — главный прием пищи».</segment>
+		<segment id="11" parent="101" relname="span">Но откуда на самом деле взялось это убеждение?</segment>
+		<segment id="12" parent="100" relname="joint">Ищем истоки культа завтрака</segment>
+		<segment id="13" parent="100" relname="joint">и сравниваем полярные взгляды на этот утренний ритуал</segment>
+		<segment id="14" parent="161" relname="elaboration">IMG</segment>
+		<segment id="15" parent="105" relname="preparation">Плотный завтрак положительно влияет на вес?</segment>
+		<segment id="16" parent="102" relname="joint">Популярно мнение, что завтрак защитит от перееданий на протяжении дня</segment>
+		<segment id="17" parent="102" relname="joint">и «разгонит метаболизм».</segment>
+		<segment id="18" parent="19" relname="purpose">Для проверки этого убеждения</segment>
+		<segment id="19" parent="103" relname="span">было проведено множество исследований.</segment>
+		<segment id="20" parent="106" relname="elaboration">IMG</segment>
+		<segment id="21" parent="184" relname="attribution">Рассмотрим одно из последних, запущенное Loma Linda University.</segment>
+		<segment id="22" parent="107" relname="span">Ученые провели эксперимент с участием 50 000 человек</segment>
+		<segment id="23" parent="22" relname="purpose">для того, чтобы выявить взаимосвязь между частотой приемов пищи и индексом массы тела.</segment>
+		<segment id="24" parent="25" relname="attribution">Исследователи нашли</segment>
+		<segment id="25" parent="181" relname="span">четыре фактора, которые помогают уменьшить ИМТ:</segment>
+		<segment id="26" parent="108" relname="joint">классическое правило не есть после 18:00;</segment>
+		<segment id="27" parent="108" relname="joint">наличие только одного или двух приемов пищи;</segment>
+		<segment id="28" parent="108" relname="joint">привычка завтракать;</segment>
+		<segment id="29" parent="108" relname="joint">стремление сделать завтрак или обед самой калорийной и объемной едой за день.</segment>
+		<segment id="30" parent="182" relname="evaluation">Эти рекомендации справедливы только для людей, которые стремятся сбросить вес за короткий срок.</segment>
+		<segment id="31" parent="114" relname="preparation">Завтрак — это каша, яйца и хлопья?</segment>
+		<segment id="32" parent="114" relname="span">Откуда появились эти утренние сценарии:</segment>
+		<segment id="33" parent="113" relname="joint">заботливый бойфренд приносит в постель поднос с апельсиновым соком и тостами,</segment>
+		<segment id="34" parent="113" relname="joint">мама хлопотливо жарит яичницу с беконом,</segment>
+		<segment id="35" parent="113" relname="joint">школьник с аппетитом перемешивает хлопья и молоко,</segment>
+		<segment id="36" parent="113" relname="joint">подружки встретились для утреннего кофе и парочки шоколадных кексов?</segment>
+		<segment id="37" parent="193" relname="same-unit">Многие убеждены, что</segment>
+		<segment id="38" parent="39" relname="purpose">для завтрака</segment>
+		<segment id="39" parent="192" relname="span">пригоден строго ограниченный набор продуктов.</segment>
+		<segment id="40" parent="117" relname="span">Откуда-то пришли жесткие правила:</segment>
+		<segment id="41" parent="116" relname="contrast">мюсли, йогурт и яйца — идеальны для начала дня,</segment>
+		<segment id="42" parent="116" relname="contrast">а курица, рис и овощной салат будут лучше выглядеть на обеденном столе.</segment>
+		<segment id="43" parent="118" relname="evidence">Эти установки методично внедрялись с помощью рекламных плакатов и роликов со счастливыми семьями в окружении «каш-минуток».</segment>
+		<segment id="44" parent="45" relname="attribution">Профессор Теренс Кили в своей книге «Завтрак — опасный прием пищи» обнаружил,</segment>
+		<segment id="45" parent="121" relname="span">что львиная доля исследований, в которых завтрак провозглашался беспрекословным королем, финансировались производителями хлопьев, зерновых и печений.</segment>
+		<segment id="46" parent="47" relname="attribution">Теренс Кили прогнозирует,</segment>
+		<segment id="47" parent="122" relname="span">что глобальные продажи сухих завтраков на 2019 год достигнут 43,2 млрд долларов (около 34 млрд фунтов) ежегодно, по сравнению с 32,5 млрд долларов (25,6 млрд фунтов) в 2012-м.</segment>
+		<segment id="48" parent="168" relname="elaboration">IMG</segment>
+		<segment id="49" parent="189" relname="preparation">Что тогда есть на завтрак?</segment>
+		<segment id="50" parent="188" relname="same-unit">Большинство продвигаемых продуктов</segment>
+		<segment id="51" parent="52" relname="purpose">для завтрака</segment>
+		<segment id="52" parent="187" relname="span">создано из очищенных и обработанных зерен, сахара и ненасыщенных жиров.</segment>
+		<segment id="53" parent="125" relname="contrast">На полках супермаркета легко найти утренние варианты, наполненные пустыми сладкими калориями,</segment>
+		<segment id="54" parent="125" relname="contrast">а вот отыскать пищу, содержащую достаточно качественного белка и насыщенных жиров, сложнее.</segment>
+		<segment id="55" parent="170" relname="contrast">Доказано, что богатый протеином завтрак помогает предотвратить нездоровые перекусы в течение дня.</segment>
+		<segment id="56" parent="171" relname="elaboration">IMG</segment>
+		<segment id="57" parent="128" relname="contrast">Главное — не то, что мы едим,</segment>
+		<segment id="58" parent="128" relname="contrast">а из чего это состоит.</segment>
+		<segment id="59" parent="129" relname="contrast">Сложные углеводы, белок и ценные жиры — то, что действительно нужно организму,</segment>
+		<segment id="60" parent="129" relname="contrast">но не всякая овсянка и творожок сделаны из цельного зерна и качественного молока.</segment>
+		<segment id="61" parent="136" relname="preparation">Может, тогда вообще не завтракать?</segment>
+		<segment id="62" parent="132" relname="joint">В то время, как одни утверждают, что полноценный завтрак настраивает их на нужный лад</segment>
+		<segment id="63" parent="132" relname="joint">и мотивирует весь день питаться здоровой пищей,</segment>
+		<segment id="64" parent="134" relname="joint">другие жалуются, что завтрак, напротив, разжигает аппетит,</segment>
+		<segment id="65" parent="133" relname="span">и они в полном порядке ровно до тех пор,</segment>
+		<segment id="66" parent="65" relname="condition">пока не позавтракают.</segment>
+		<segment id="67" parent="138" relname="joint">Бельгийские исследователи собрали 28 мужчин, ведущих активный образ жизни,</segment>
+		<segment id="68" parent="138" relname="joint">и разделили их на три группы.</segment>
+		<segment id="69" parent="139" relname="joint">В течение шести недель представители первой не делали никаких упражнений</segment>
+		<segment id="70" parent="139" relname="joint">и получали высококалорийный завтрак,</segment>
+		<segment id="71" parent="140" relname="comparison">вторая группа плотно ела перед тренировкой,</segment>
+		<segment id="72" parent="140" relname="comparison">а третья питалась после занятий спортом.</segment>
+		<segment id="73" parent="145" relname="comparison">К концу эксперимента те, кто не тренировались, набрали в среднем по 2,7 килограмма.</segment>
+		<segment id="74" parent="143" relname="contrast">Члены группы, которая завтракала перед тренировкой, также прибавили в весе,</segment>
+		<segment id="75" parent="143" relname="contrast">но вдвое меньше, чем представители первой.</segment>
+		<segment id="76" parent="144" relname="joint">Мужчины, которые получали еду после тренировки, не набрали вес и</segment>
+		<segment id="77" parent="144" relname="joint">не показали никаких признаков резистентности к инсулину.</segment>
+		<segment id="78" parent="147" relname="elaboration">IMG</segment>
+		<segment id="79" parent="151" relname="joint">Поэтому ответ на вопрос «Можно ли вообще не завтракать, а довольствоваться только ланчем?» в значительной степени зависит от индивидуального уровня физической активности.</segment>
+		<segment id="80" parent="81" relname="preparation">Еще одно интересное исследование оперирует информацией, собранной в период с 1990 по 2018 годы.</segment>
+		<segment id="81" parent="149" relname="span">Мета-анализ данных говорит о небольшой разнице в весе в пользу отказавшихся от утреннего приема пищи.</segment>
+		<segment id="82" parent="148" relname="comparison">Участники, которые завтракали на протяжении эксперимента, за сутки потребляли больше энергии, чем те, которые пропускали завтрак (средняя разница 259 ккал в день).</segment>
+		<segment id="83" parent="176" relname="elaboration">IMG</segment>
+		<segment id="84" parent="85" relname="preparation">Как узнать, что подходит мне?</segment>
+		<segment id="85" parent="152" relname="span">Самый простой и действенный совет — прислушаться к своему организму.</segment>
+		<segment id="86" parent="87" relname="condition">Если с утра вам действительно хочется есть,</segment>
+		<segment id="87" parent="153" relname="span">отдавайте предпочтение цельнозерновым продуктам, насыщенным жирам и протеину.</segment>
+		<segment id="88" parent="155" relname="condition">Если сразу после пробуждения «кусок не лезет в горло»</segment>
+		<segment id="89" parent="154" relname="contrast">— не мучайте себя, следуя за правилами в фитнес-коучей из инстаграма,</segment>
+		<segment id="90" parent="154" relname="contrast">дождитесь момента, когда ваш организм попросит еды.</segment>
+		<segment id="91" parent="160" relname="span">Все исследования, перечисленные в статье, не рассматривают завтраки отдельно от жизни.</segment>
+		<segment id="92" parent="93" relname="purpose">Для того, чтобы понять, нужен ли завтрак именно вам,</segment>
+		<segment id="93" parent="159" relname="span">необходимо знать ваши цели, образ жизни и вкусовые предпочтения.</segment>
+		<segment id="94" parent="158" relname="elaboration">IMG</segment>
+		<segment id="95" relname="antithesis">Подписывайтесь на нас в соцсетях — это удобно: - Telegram - Instagram - Facebook - ВКонтакте - Яндекс.Дзен - ЖЖ</segment>
+		<group id="96" type="multinuc" parent="97" relname="preparation"/>
+		<group id="97" type="span" parent="98" relname="span"/>
+		<group id="98" type="span" parent="99" relname="contrast"/>
+		<group id="99" type="multinuc" parent="161" relname="span"/>
+		<group id="100" type="multinuc" parent="11" relname="solutionhood"/>
+		<group id="101" type="span" parent="99" relname="contrast"/>
+		<group id="102" type="multinuc" parent="104" relname="span"/>
+		<group id="103" type="span" parent="104" relname="elaboration"/>
+		<group id="104" type="span" parent="105" relname="span"/>
+		<group id="105" type="span" parent="106" relname="span"/>
+		<group id="106" type="span" parent="163" relname="span"/>
+		<group id="107" type="span" parent="183" relname="cause"/>
+		<group id="108" type="multinuc" parent="181" relname="elaboration"/>
+		<group id="113" type="multinuc" parent="32" relname="elaboration"/>
+		<group id="114" type="span" parent="115" relname="span"/>
+		<group id="115" type="span" parent="167" relname="solutionhood"/>
+		<group id="116" type="multinuc" parent="40" relname="elaboration"/>
+		<group id="117" type="span" parent="194" relname="elaboration"/>
+		<group id="118" type="span" parent="119" relname="span"/>
+		<group id="119" type="span" parent="166" relname="contrast"/>
+		<group id="121" type="span" parent="123" relname="joint"/>
+		<group id="122" type="span" parent="123" relname="joint"/>
+		<group id="123" type="multinuc" parent="166" relname="contrast"/>
+		<group id="125" type="multinuc" parent="190" relname="elaboration"/>
+		<group id="128" type="multinuc" parent="130" relname="span"/>
+		<group id="129" type="multinuc" parent="130" relname="elaboration"/>
+		<group id="130" type="span" parent="131" relname="span"/>
+		<group id="131" type="span" parent="173" relname="span"/>
+		<group id="132" type="multinuc" parent="135" relname="contrast"/>
+		<group id="133" type="span" parent="134" relname="joint"/>
+		<group id="134" type="multinuc" parent="135" relname="contrast"/>
+		<group id="135" type="multinuc" parent="136" relname="span"/>
+		<group id="136" type="span" parent="137" relname="span"/>
+		<group id="137" type="span" relname="antithesis"/>
+		<group id="138" type="multinuc" parent="141" relname="span"/>
+		<group id="139" type="multinuc" parent="140" relname="comparison"/>
+		<group id="140" type="multinuc" parent="141" relname="elaboration"/>
+		<group id="141" type="span" parent="142" relname="span"/>
+		<group id="142" type="span" parent="146" relname="cause"/>
+		<group id="143" type="multinuc" parent="145" relname="comparison"/>
+		<group id="144" type="multinuc" parent="145" relname="comparison"/>
+		<group id="145" type="multinuc" parent="146" relname="span"/>
+		<group id="146" type="span" parent="147" relname="span"/>
+		<group id="147" type="span" parent="174" relname="span"/>
+		<group id="148" type="multinuc" parent="149" relname="elaboration"/>
+		<group id="149" type="span" parent="150" relname="span"/>
+		<group id="150" type="span" parent="151" relname="joint"/>
+		<group id="151" type="multinuc" parent="175" relname="span"/>
+		<group id="152" type="span" parent="158" relname="span"/>
+		<group id="153" type="span" parent="157" relname="joint"/>
+		<group id="154" type="multinuc" parent="155" relname="span"/>
+		<group id="155" type="span" parent="156" relname="span"/>
+		<group id="156" type="span" parent="157" relname="joint"/>
+		<group id="157" type="multinuc" parent="178" relname="span"/>
+		<group id="158" type="span" parent="180" relname="span"/>
+		<group id="159" type="span" parent="91" relname="elaboration"/>
+		<group id="160" type="span" parent="178" relname="elaboration"/>
+		<group id="161" type="span" parent="162" relname="span"/>
+		<group id="162" type="span" relname="antithesis"/>
+		<group id="163" type="span" relname="antithesis"/>
+		<group id="166" type="multinuc" parent="167" relname="span"/>
+		<group id="167" type="span" parent="168" relname="span"/>
+		<group id="168" type="span" parent="169" relname="span"/>
+		<group id="169" type="span" relname="antithesis"/>
+		<group id="170" type="multinuc" parent="171" relname="span"/>
+		<group id="171" type="span" parent="172" relname="span"/>
+		<group id="172" type="span" parent="131" relname="solutionhood"/>
+		<group id="173" type="span" relname="antithesis"/>
+		<group id="174" type="span" parent="175" relname="cause"/>
+		<group id="175" type="span" parent="176" relname="span"/>
+		<group id="176" type="span" parent="177" relname="span"/>
+		<group id="177" type="span" relname="antithesis"/>
+		<group id="178" type="span" parent="179" relname="span"/>
+		<group id="179" type="span" parent="152" relname="elaboration"/>
+		<group id="180" type="span" relname="antithesis"/>
+		<group id="181" type="span" parent="182" relname="span"/>
+		<group id="182" type="span" parent="183" relname="span"/>
+		<group id="183" type="span" parent="184" relname="span"/>
+		<group id="184" type="span" parent="185" relname="span"/>
+		<group id="185" type="span" relname="antithesis"/>
+		<group id="187" type="span" parent="188" relname="same-unit"/>
+		<group id="188" type="multinuc" parent="189" relname="span"/>
+		<group id="189" type="span" parent="190" relname="span"/>
+		<group id="190" type="span" parent="191" relname="span"/>
+		<group id="191" type="span" parent="170" relname="contrast"/>
+		<group id="192" type="span" parent="193" relname="same-unit"/>
+		<group id="193" type="multinuc" parent="194" relname="span"/>
+		<group id="194" type="span" parent="118" relname="span"/>
+  </body>
+</rst>

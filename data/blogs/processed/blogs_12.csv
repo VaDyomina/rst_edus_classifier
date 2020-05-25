@@ -1,0 +1,74 @@
+EDU_1;EDU_2;Relation
+Продолжаю знакомиться;Сегодня в обзоре троица de Traay с маслом дикой розы;preparation_r
+и знакомить вас с голландской косметикой.;Продолжаю знакомиться;joint_m
+Я уже писала о муссе;Сегодня в обзоре троица de Traay с маслом дикой розы;elaboration_r
+для умывания;Я уже писала о муссе;purpose_r
+и молочке,;Я уже писала о муссе;same-unit_m
+теперь настал черёд скраба и кремов.;Я уже писала о муссе;sequence_m
+Упаковка у всех трёх стредств идентичная: пластиковые тюбики с откидывающейся крышкой.;Сегодня в обзоре троица de Traay с маслом дикой розы;elaboration_r
+Пласик мягкий,;выдавливать средства очень легко.;cause_r
+выдавливать средства очень легко.;Упаковка у всех трёх стредств идентичная: пластиковые тюбики с откидывающейся крышкой.;elaboration_r
+Моя кожа нормальная, беспроблемная,;поэтому от этих уходовых средств ждала обещаного производителем увлажнения.;cause_r
+поэтому от этих уходовых средств ждала обещаного производителем увлажнения.;Дневной крем для лица Bee Honest de Traay Dag Creme Rozen voor een droge huid/Crème de Jour Rose pour une peau sèche призван увлажнить;preparation_r
+и защитить сухую кожу;Дневной крем для лица Bee Honest de Traay Dag Creme Rozen voor een droge huid/Crème de Jour Rose pour une peau sèche призван увлажнить;joint_m
+благодаря входящим в состав пчелиному воску, маслу ши, маслу сладкого миндаля, ослинника и дикой розы.;и защитить сухую кожу;cause_r
+И снова о голландской косметике. Увлажнение лица с Bee Honest;Дневной крем для лица Bee Honest de Traay Dag Creme Rozen voor een droge huid/Crème de Jour Rose pour une peau sèche призван увлажнить;elaboration_r
+Сам крем очень плотный по текстуре,;поэтому так просто размазать его по лицу не получится.;cause_r
+поэтому так просто размазать его по лицу не получится.;Таким образом крем впитывается гораздо лучше,;cause_r
+Поэтому я выдавливаю нужное количество крема,;Таким образом крем впитывается гораздо лучше,;cause_r
+наношу точечно на разные участки лица,;Поэтому я выдавливаю нужное количество крема,;sequence_m
+а потом вбиваю щёточкой Collistar массажной насадкой.;Поэтому я выдавливаю нужное количество крема,;sequence_m
+плюс происходит лёгкий массаж лица);Таким образом крем впитывается гораздо лучше,;joint_m
+становится гладкой на ощупь.;Моя кожа получает от крема необходимое увлажнение,;joint_m
+Впитывается крем,;Моя кожа получает от крема необходимое увлажнение,;joint_m
+несмотря на свою текстуру,;Впитывается крем,;concession_r
+довольно быстро:;Впитывается крем,;same-unit_m
+после двух минут массажа я уже могу наносить макияж.;Впитывается крем,;elaboration_r
+Тональный, пудра, тени, румяна ложаться на него отлично,;так что конфликта с декоративной косметикой нет.;cause_r
+так что конфликта с декоративной косметикой нет.;Впитывается крем,;elaboration_r
+Состав: aqua, prunus amygdalus dulcis oil, centaurea cyanus flower water*, alcohol*, glycerin, polyglyceryl-3 polyricinoleate, oenothera biennis oil*, rosa canina fruit oil*, cera alba, hydrogenated vegetable oil, butyrospermum parkii butter*, magnesium sulfate, tocopheryl acetate, polyglyceryl-3 ricinoleate, dehydroacetic acid, helianthus annuus seed oil, glycine soja oil, calendula officinalis flower extract*, rosmarinus officinalis leaf extract*, parfum**, citric acid, benzyl alcohol, citronellol, geraniol, linalool, benzyl salicylate, citral;Моя кожа получает от крема необходимое увлажнение,;elaboration_r
+Ночной крем для лица Bee Honest de Traay Nacht Creme Rozen voor een droge huid /Crème de Noit Rose pour une peau sèche;Ночной крем, как и дневной, обязан делать то же самое с моей кожей, но только ночью.;preparation_r
+По характеристикам он точно такой же, как и дневной.;Ночной крем, как и дневной, обязан делать то же самое с моей кожей, но только ночью.;joint_m
+Такой же плотный,;По характеристикам он точно такой же, как и дневной.;elaboration_r
+точно так же я его наношу;Такой же плотный,;joint_m
+и эффект от него аналогичный.;Такой же плотный,;joint_m
+Хорошо увлажняет;Такой же плотный,;joint_m
+и разглаживает кожу,;Хорошо увлажняет;joint_m
+питает немного.;Хорошо увлажняет;joint_m
+Честно говоря, я не увидела никакой разницы между дневным и ночным,;поэтому иногда меняю их местами.;cause_r
+поэтому иногда меняю их местами.;Ночной крем, как и дневной, обязан делать то же самое с моей кожей, но только ночью.;evaluation_r
+На ночной крем макияж ложится так же хорошо.;поэтому иногда меняю их местами.;elaboration_r
+Состав: aqua, centaurea cyanus flower water*, prunus amygdalus dulcis oil, butyrospermum parkii butter*, alcohol*, glycerin, polyglyceryl-3 polyricinoleate, ceraalba, oenothera biennis oil*, rosa canina fruit oil, magnesium sulfate, tocopheryl acetate, calendula officinalis flower extract*, polyglyceryl-3 ricinoleate, dehydroacetic acid, helianthus annuus seed oil*, glycine soja oil, rosmarinus officinalis leaf extract*, citric aic, parfum**, benzyl alcohol, citronellol, geraniol, linalool, benzyl salicylate, citral, limonene.;Ночной крем, как и дневной, обязан делать то же самое с моей кожей, но только ночью.;elaboration_r
+Оба крема я использую и для кожи век.;Наношу как на верхние, так и на нижние.;preparation_r
+В этой зоне уже массажером не пользуюсь,;Наношу как на верхние, так и на нижние.;elaboration_r
+а вбиваю легонько подушечками пальцев.;В этой зоне уже массажером не пользуюсь,;contrast_m
+Отёков и аллергических реакций крем не вызвал,;поэтому я продолжаю смело наносить кремы под глаза.;cause_r
+поэтому я продолжаю смело наносить кремы под глаза.;Наношу как на верхние, так и на нижние.;elaboration_r
+Они отлично увлажняют кожу и в области вокруг глаз.;Наношу как на верхние, так и на нижние.;evaluation_r
+Скраб для лица Bee Honest de Traay Gezichts scrub Rozen voor alle huidtypes/Exfoliant visage Rose pour tous types de peau;Механическими скрабами я редко пользуюсь:;preparation_r
+предпочитаю всё же энзимные пилинги.;Механическими скрабами я редко пользуюсь:;elaboration_r
+Но этот взяла «за компанию», просто попробовать.;Механическими скрабами я редко пользуюсь:;contrast_m
+Моя кожа не чувствительная;и даже знаменитую Чистую Линию с абрикосовыми косточками переносит легко.;cause_r
+и даже знаменитую Чистую Линию с абрикосовыми косточками переносит легко.;В состав этого скраба входят также входят молотые абрикосовые косточки,;background_r
+В состав этого скраба входят также входят молотые абрикосовые косточки,;Механическими скрабами я редко пользуюсь:;elaboration_r
+но они очень мелкие,;поэтому кожу не травмируют.;cause_r
+поэтому кожу не травмируют.;В состав этого скраба входят также входят молотые абрикосовые косточки,;contrast_m
+выравнивает поверхность.;Скраб хорошо полирует кожу,;joint_m
+После того, как я его смываю,;— никакой сухости или стянутости после использования нет.;cause_r
+кожа остаётся напитанной маслами;После того, как я его смываю,;sequence_m
+— никакой сухости или стянутости после использования нет.;Скраб хорошо полирует кожу,;joint_m
+Использую скраб по настроению 1-2 раза в неделю.;Скраб хорошо полирует кожу,;joint_m
+Состав: aqua, centaurea cyanus flower water*, prunus amygdalus dulcis oil, prunus armeniaca seed powder*, glycerin, oenothera biennis oil*, rosa canina fruit oil, cera alba, cetearyl alcohol, cetearyl glucoside, glycerylstearate, palmitic acid, stearic acid, xanthan gum, dehydroacetic acid, helianthus annuus seed oil*, rosmarinus officinalis leaf extract*, parfum**, benzyl alcohol, citronellol, geraniol, linalool, benzyl salicylate. *органического происхождения **натурального происхождения;Скраб хорошо полирует кожу,;elaboration_r
+Общие впечатления:;эти продукты не сделают чудес с вашей кожей,;preparation_r
+не омолодят на 10 лет,;эти продукты не сделают чудес с вашей кожей,;joint_m
+но обеспечат хороший недорогой, но эффективный базовый уход.;эти продукты не сделают чудес с вашей кожей,;contrast_m
+Мне нравится их упаковка, текстура, эффект.;эти продукты не сделают чудес с вашей кожей,;evaluation_r
+Ещё один большой плюс — органические составы,;Мне нравится их упаковка, текстура, эффект.;joint_m
+нет синтетических отдушек и красителей,;Ещё один большой плюс — органические составы,;elaboration_r
+косметика не тестируется на животных;нет синтетических отдушек и красителей,;joint_m
+и имеет сертификат BDIH.;нет синтетических отдушек и красителей,;joint_m
+Ну и цена, конечно.;Мне нравится их упаковка, текстура, эффект.;joint_m
+Объём: 50 мл;эти продукты не сделают чудес с вашей кожей,;elaboration_r
+Цена: 8 евpо;Объём: 50 мл;joint_m
+Срок тестирования: 3 месяца;Объём: 50 мл;joint_m
+Оценка: 5;Объём: 50 мл;evaluation_r

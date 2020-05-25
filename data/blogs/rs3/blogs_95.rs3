@@ -1,0 +1,427 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="antithesis" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="background" type="rst" />
+			<rel name="cause" type="rst" />
+			<rel name="comparison" type="multinuc" />
+			<rel name="concession" type="rst" />
+			<rel name="conclusion" type="rst" />
+			<rel name="condition" type="rst" />
+			<rel name="contrast" type="multinuc" />
+			<rel name="effect" type="rst" />
+			<rel name="elaboration" type="rst" />
+			<rel name="evaluation" type="rst" />
+			<rel name="evidence" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="motivation" type="rst" />
+			<rel name="preparation" type="rst" />
+			<rel name="purpose" type="rst" />
+			<rel name="restatement" type="multinuc" />
+			<rel name="same-unit" type="multinuc" />
+			<rel name="sequence" type="multinuc" />
+			<rel name="solutionhood" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="1" relname="antithesis">https://forum.awd.ru/viewtopic.php?t=357349&sid=d6736074d8cc023e5a0c79515f633c84</segment>
+		<segment id="2" relname="antithesis">Два дня в Стамбуле: организованное и вольное шатание по городу между рейсами в ЮВА</segment>
+		<segment id="3" parent="217" relname="preparation">Это рассказ о моем втором и третьем посещении славного города на Босфоре.</segment>
+		<segment id="4" parent="5" relname="condition">Когда я решил лететь на Филиппины,</segment>
+		<segment id="5" parent="212" relname="span">то одно из наиболее выгодных предложений было от «Турецких авиалиний».</segment>
+		<segment id="6" parent="215" relname="same-unit">Кроме этого</segment>
+		<segment id="7" parent="8" relname="cause">из-за наличия большого количества рейсов между Стамбулом и Москвой</segment>
+		<segment id="8" parent="213" relname="span">можно было спланировать однодневное пребывание в городе</segment>
+		<segment id="9" parent="222" relname="span">с использованием бонуса от авиакомпании в виде бесплатных экскурсий по программе «TourIstambul”.</segment>
+		<segment id="10" parent="219" relname="solutionhood">Что сказать про «TourIstambul”?</segment>
+		<segment id="11" parent="219" relname="span">Халява – есть халява.</segment>
+		<segment id="12" parent="220" relname="contrast">Все скромненько, завтраки – обеды по минимуму,</segment>
+		<segment id="13" parent="220" relname="contrast">но … очень популярное дело не только у бедных граждан бывшего СССР, но и у богатых западных туристов.</segment>
+		<segment id="14" parent="231" relname="preparation">Итак, ранним воскресным утром ваш покорный слуга нарисовался перед пограничником в аэропорту имени Ататюрка.</segment>
+		<segment id="15" parent="225" relname="span">Формальности заняли минуту,</segment>
+		<segment id="16" parent="223" relname="sequence">я приложил к паспорту билет на рейс «Стамбул-Манила».</segment>
+		<segment id="17" parent="223" relname="sequence">Штамп получен</segment>
+		<segment id="18" parent="224" relname="contrast">и я проследовал по зеленому коридору,</segment>
+		<segment id="19" parent="224" relname="contrast">никто меня не остановил.</segment>
+		<segment id="20" parent="225" relname="evaluation">Стамбульский аэропорт поражает какой-то неуловимой провинциальностью.</segment>
+		<segment id="21" parent="228" relname="sequence">Я повернул направо</segment>
+		<segment id="22" parent="228" relname="sequence">и прошел до офиса «Турецких авиалиний». Здесь я сдал мой билет до Манилы</segment>
+		<segment id="23" parent="228" relname="sequence">и стал ждать в толпе других туристов начало экскурсии.</segment>
+		<segment id="24" parent="229" relname="joint">До начала экскурсии я еще успел сходить в обменник</segment>
+		<segment id="25" parent="230" relname="span">и поменять 10$ на 50 лир</segment>
+		<segment id="26" parent="25" relname="elaboration">(такие мелкие деньги меняют не в каждом обменнике).</segment>
+		<segment id="27" parent="236" relname="preparation">Технология экскурсии «TourIstambul” проста.</segment>
+		<segment id="28" parent="233" relname="sequence">Выходит работник офиса «Турецких авиалиний»</segment>
+		<segment id="29" parent="233" relname="sequence">и выкрикивает фамилии из стопки билетов.</segment>
+		<segment id="30" parent="234" relname="sequence">Билеты возвращают</segment>
+		<segment id="31" parent="234" relname="sequence">и дают наклейку с номером тура (в нашем случае Р02) и еще какой-нибудь сувенир от авиакомпании.</segment>
+		<segment id="32" parent="235" relname="sequence">Потом появляется гид</segment>
+		<segment id="33" parent="235" relname="sequence">и ведет всех на стоянку автобусов.</segment>
+		<segment id="34" parent="239" relname="span">Минусы экскурсии «TourIstambul” :</segment>
+		<segment id="35" parent="238" relname="joint">теряешь время до начала (в моем случае примерно 1,5 часа),</segment>
+		<segment id="36" parent="238" relname="joint">попадаешь в час пик во всех интересных туробъектах.</segment>
+		<segment id="37" parent="240" relname="contrast">Плюс один – халява.</segment>
+		<segment id="38" parent="243" relname="span">На достаточно удобном автобусе нас доставили в южную часть района Султанахмет к ресторану «Тамара» на улице Kucuk Ayasofya (первое слово надо писать турецкими буквами).</segment>
+		<segment id="39" parent="242" relname="sequence">В “Тамаре» мы скромненько позавтракали</segment>
+		<segment id="40" parent="242" relname="sequence">и пошли гулять по Султанахмету.</segment>
+		<segment id="41" parent="244" relname="comparison">Начали естественно с площади Ипподрома.</segment>
+		<segment id="42" parent="245" relname="span">За 7,5 лет прошедших с моего прошлого посещения этого места ничего не поменялось.</segment>
+		<segment id="43" parent="42" relname="elaboration">Обелиски (египетский и местный), змеиная колонна и Немецкий фонтан…</segment>
+		<segment id="44" parent="247" relname="span">Нахлынули воспоминания о Стамбуле моей туристической юности,</segment>
+		<segment id="45" parent="246" relname="joint">я немного отошел от группы</segment>
+		<segment id="46" parent="246" relname="joint">и наслаждался видом Ипподрома.</segment>
+		<segment id="47" parent="250" relname="span">Это одно из самых величественных мест на земле.</segment>
+		<segment id="48" parent="47" relname="elaboration">Сосредоточение двух могущественных империй – Византийской и Османской.</segment>
+		<segment id="49" parent="250" relname="elaboration">Фонтан перед Голубой мечетью в мае 2011 был шикарный. IMG</segment>
+		<segment id="50" parent="252" relname="comparison">Сейчас все приглушено - зима на дворе.</segment>
+		<segment id="51" parent="259" relname="preparation">Далее мы направились в два символа этих империй: Голубую мечеть и Святую Софию Константинопольскую.</segment>
+		<segment id="52" parent="256" relname="span">В первый приезд в Стамбул я так и не решился пойти в Голубую мечеть.</segment>
+		<segment id="53" parent="255" relname="span">Я уже понял тогда, что немусульманину в мечети делать нечего,</segment>
+		<segment id="54" parent="53" relname="elaboration">ничего интересного кроме ковриков и купола нет.</segment>
+		<segment id="55" parent="56" relname="evaluation">Я думаю, духовные власти в Марокко делают правильно,</segment>
+		<segment id="56" parent="257" relname="span">не пуская иноверцев мечети.</segment>
+		<segment id="57" parent="258" relname="evaluation">В общем, далее внутреннего двора этой мечети делать нечего. IMG</segment>
+		<segment id="58" parent="261" relname="contrast">Спору нет, мечеть красивая,</segment>
+		<segment id="59" parent="262" relname="span">но ради нее уничтожили практически весь центр старого Константинополя.</segment>
+		<segment id="60" parent="59" relname="elaboration">Эти камни вопят об Ипподроме, Большом дворце.</segment>
+		<segment id="61" parent="62" relname="evaluation">Еще одним плюсом оргэкскурсии является то обстоятельство,</segment>
+		<segment id="62" parent="264" relname="span">что в Святую Софию можно попасть без очереди.</segment>
+		<segment id="63" parent="271" relname="span">Бывший главный православный храм мира поражает.</segment>
+		<segment id="64" parent="65" relname="condition">Если бы патриарх Варфоломей имел кафедру здесь,</segment>
+		<segment id="65" parent="265" relname="span">то он бы имел, хотя бы моральное право поучать другие церкви.</segment>
+		<segment id="66" parent="266" relname="contrast">Я убежденный атеист,</segment>
+		<segment id="67" parent="267" relname="joint">но в Святой Софии душа радуется</segment>
+		<segment id="68" parent="267" relname="joint">и возносится до небес.</segment>
+		<segment id="69" parent="70" relname="condition">Когда видишь Богородицу в абсиде,</segment>
+		<segment id="70" parent="268" relname="span">то мурашки по коже идут. IMG</segment>
+		<segment id="71" parent="272" relname="evaluation">Императору Юстиниану можно простить все за такую красоту.</segment>
+		<segment id="72" parent="275" relname="sequence">После Софии мы пешком вернулись в кафе «Тамара»,</segment>
+		<segment id="73" parent="275" relname="sequence">пообедали,</segment>
+		<segment id="74" parent="275" relname="sequence">затем приехал автобус</segment>
+		<segment id="75" parent="275" relname="sequence">и мы поехали дальше.</segment>
+		<segment id="76" parent="276" relname="contrast">Я думал, что мы еще покатаемся по городу,</segment>
+		<segment id="77" parent="276" relname="contrast">но нас отвезли в аэропорт.</segment>
+		<segment id="78" parent="277" relname="span">Халява длилась с 9 часов утра до 2 часов дня.</segment>
+		<segment id="79" parent="78" relname="elaboration">До вылета у меня осталось почти 11 часов.</segment>
+		<segment id="80" parent="279" relname="joint">В аэропорту была суета на входе</segment>
+		<segment id="81" parent="279" relname="joint">и я решил сразу снова ехать в центр на метро.</segment>
+		<segment id="82" parent="280" relname="joint">К самостоятельной поездке по Стамбулу я не сильно готовился.</segment>
+		<segment id="83" parent="280" relname="joint">К тому же ради одного дня покупать местную симку смысла не было</segment>
+		<segment id="84" parent="280" relname="joint">и я был без интернета, только с навигацией от maps.me.</segment>
+		<segment id="85" parent="281" relname="joint">Я обратился за помощью к нашему гиду, молодой прогрессивной турчанке</segment>
+		<segment id="86" parent="281" relname="joint">и она показала мне вход в метро, вернее в огромный подземный комплекс аэропорта.</segment>
+		<segment id="87" parent="296" relname="preparation">В метро меня единственный раз за всю поездку немного «обули».</segment>
+		<segment id="88" parent="290" relname="same-unit">Сейчас</segment>
+		<segment id="89" parent="90" relname="purpose">для поездки в общественном транспорте Стамбула</segment>
+		<segment id="90" parent="289" relname="span">надо иметь карточку.</segment>
+		<segment id="91" parent="408" relname="cause">Живых кассиров в стамбульском метро нет.</segment>
+		<segment id="92" parent="93" relname="condition">Пока я тыкался у автоматов</segment>
+		<segment id="93" parent="284" relname="span">подбежал местный мужичек типа помочь</segment>
+		<segment id="94" parent="285" relname="joint">и содрал с меня 20 лир за карту и положенные на нее 10 лир.</segment>
+		<segment id="95" parent="286" relname="span">Обманул,</segment>
+		<segment id="96" parent="95" relname="cause">на карте оказалось только 6 лир.</segment>
+		<segment id="97" parent="292" relname="sequence">В ценообразовании стамбульского общественного транспорта я так не разобрался.</segment>
+		<segment id="98" parent="291" relname="joint">Потом с горем пополам понял все методы пополнения карты</segment>
+		<segment id="99" parent="291" relname="joint">и больше этим не заморачивался.</segment>
+		<segment id="100" parent="294" relname="evaluation">Так, маленькое приключение.</segment>
+		<segment id="101" parent="298" relname="span">Путь из аэропорта в город до Султанахмет за два дня я проделал четыре раза.</segment>
+		<segment id="102" parent="101" relname="evaluation">Дело это не хитрое и достаточно комфортное.</segment>
+		<segment id="103" parent="299" relname="sequence">Сначала на наземном метро доезжаешь до станции Zeytinburnu,</segment>
+		<segment id="104" parent="303" relname="span">а потом пересаживаешься на скоростной трамвай, который идет через центр до Katabas в районе Бешикташ.</segment>
+		<segment id="105" parent="106" relname="cause">Трамваем я по Стамбулу уже ездил,</segment>
+		<segment id="106" parent="300" relname="span">поэтому я просто включил зрительную память.</segment>
+		<segment id="107" parent="301" relname="sequence">Вот знаменитый челночный Лалели, вот район Большого базара, вот Султанахмет, вот парк Gulhane</segment>
+		<segment id="108" parent="306" relname="span">и трамвай повернул на узкую улицу Hudavendigar.</segment>
+		<segment id="109" parent="108" relname="background">Здесь недалеко я жил в первое посещение Стамбула.</segment>
+		<segment id="110" parent="305" relname="sequence">Но я проехал до остановки Eminonu</segment>
+		<segment id="111" parent="307" relname="span">и прошел на мое самое любимое место в Стамбуле – причал Эминёню.</segment>
+		<segment id="112" parent="111" relname="purpose">Главная цель – покушать моей любимой стамбульской еды, бутерброда со скумбрией.</segment>
+		<segment id="113" parent="308" relname="joint">За семь лет у Галатского моста ничего не изменилось:</segment>
+		<segment id="114" parent="308" relname="joint">суетятся пассажиры паромов,</segment>
+		<segment id="115" parent="308" relname="joint">рыбаки заполнили мост.</segment>
+		<segment id="116" parent="309" relname="span">Скумбрия жарится</segment>
+		<segment id="117" parent="116" relname="evaluation">и вкусная до чертиков.</segment>
+		<segment id="118" parent="313" relname="sequence">Перекусив</segment>
+		<segment id="119" parent="313" relname="sequence">и передохнув,</segment>
+		<segment id="120" parent="315" relname="sequence">я отправился на автобусный хаб Эминёню.</segment>
+		<segment id="121" parent="315" relname="sequence">Здесь я сел в автобус №36CE</segment>
+		<segment id="122" parent="315" relname="sequence">и поехал в великий и ужасный Фанар, в гости к патриарху Варфоломею.</segment>
+		<segment id="123" parent="325" relname="preparation">Система общественного транспорта в Стамбуле очень похожа на московскую.</segment>
+		<segment id="124" parent="319" relname="background">В автобусах турникетов нет,</segment>
+		<segment id="125" parent="318" relname="joint">заходишь</segment>
+		<segment id="126" parent="318" relname="joint">и прикладываешь карточку к валидатору.</segment>
+		<segment id="127" parent="321" relname="span">Главное чтобы на карточке были деньги</segment>
+		<segment id="128" parent="127" relname="purpose">для оплаты проезда.</segment>
+		<segment id="129" parent="323" relname="span">Систему стоимости проезда в стамбульском транспорте я так и не понял.</segment>
+		<segment id="130" parent="322" relname="contrast">На первую поездку денег у меня на карточке хватило,</segment>
+		<segment id="131" parent="322" relname="contrast">а вот на следующую уже нет.</segment>
+		<segment id="132" parent="327" relname="sequence">До Фанара от Эминёню всего несколько остановок</segment>
+		<segment id="133" parent="327" relname="sequence">и я углубился в некогда главный греческий квартал города.</segment>
+		<segment id="134" parent="329" relname="span">Но эти времена уже миновали,</segment>
+		<segment id="135" parent="330" relname="span">после Второй греко-турецкой войны и обмена населением греки покинули район</segment>
+		<segment id="136" parent="135" relname="evaluation">и сейчас он выглядит не очень.</segment>
+		<segment id="137" parent="331" relname="joint">Хотя сейчас он снова набирает моду у местной публики,</segment>
+		<segment id="138" parent="331" relname="joint">реставрируются здания,</segment>
+		<segment id="139" parent="331" relname="joint">открываются кафе.</segment>
+		<segment id="140" parent="334" relname="evaluation">Местами это все выглядит карикатурно.</segment>
+		<segment id="141" parent="335" relname="span">Рядом с музеем Дмитрия Кантемира устроили что-то типа лестницы Селарона в Рио.</segment>
+		<segment id="142" parent="141" relname="evaluation">Выглядит … весело. IMG</segment>
+		<segment id="143" parent="345" relname="preparation">Я наивно думал, что массивное и величественное здание из красного кирпича с куполом, являющееся архитектурной доминантой района и есть резиденция Экуменического патриарха. IMG</segment>
+		<segment id="144" parent="337" relname="span">На фоне его зарешеченных окон и затянутых колючей проволокой стен с удовольствием фотографируются турецкие туристы.</segment>
+		<segment id="145" parent="144" relname="elaboration">Вот как мы держим в своих руках главу православных.</segment>
+		<segment id="146" parent="339" relname="span">Но хитроумные греки за годы сосуществования с османскими султанами и турецкими президентами научились компромиссам.</segment>
+		<segment id="147" parent="342" relname="span">Резиденция Варфоломея в соборе Святого Георгия мирно спряталась в тени краснокирпичного здания.</segment>
+		<segment id="148" parent="341" relname="span">Я бы на месте патриарха Кирилла потребовал у Варфоломея вернуть деньги,</segment>
+		<segment id="149" parent="340" relname="span">которые дал царь Феодор Иоаннович</segment>
+		<segment id="150" parent="149" relname="purpose">на постройку собора.</segment>
+		<segment id="151" parent="343" relname="joint">Окрестности собора Святого Георгия тихи</segment>
+		<segment id="152" parent="343" relname="joint">и благостны.</segment>
+		<segment id="153" parent="351" relname="contrast">Прогулявшись по Фанару я решил вернуться обратно к Эминёню,</segment>
+		<segment id="154" parent="348" relname="same-unit">но</segment>
+		<segment id="155" parent="156" relname="condition">при посадке в автобус</segment>
+		<segment id="156" parent="347" relname="span">выяснилось, что денег на карточке у меня недостаточно,</segment>
+		<segment id="157" parent="349" relname="evaluation">так я понял, что меня наколол помогала в аэропорту.</segment>
+		<segment id="158" parent="352" relname="joint">Водитель мне улыбнулся</segment>
+		<segment id="159" parent="352" relname="joint">и позволил ехать дальше,</segment>
+		<segment id="160" parent="355" relname="joint">но я вышел на следующей остановке</segment>
+		<segment id="161" parent="353" relname="span">и пошел в сторону сооружения,</segment>
+		<segment id="162" parent="161" relname="background">которого еще не существовало в предыдущий визит мой визит в город.</segment>
+		<segment id="163" parent="360" relname="span">За это время построили метро-мост «Золотой Рог». IMG</segment>
+		<segment id="164" parent="359" relname="joint">Интересное сооружения, я немного по нему погулял,</segment>
+		<segment id="165" parent="359" relname="joint">полюбовался шикарными видами на Галату и Эминёню. IMG</segment>
+		<segment id="166" parent="411" relname="background">На мосту расположена станция метро</segment>
+		<segment id="167" parent="362" relname="sequence">и я с помощью местного жителя пополнил транспортную карточку.</segment>
+		<segment id="168" parent="362" relname="sequence">Положил десятку лир, которых мне с лихвой хватило до конца дня.</segment>
+		<segment id="169" parent="362" relname="sequence">Далее я решил вспомнить главное украшение Стамбула - пролив Босфор.</segment>
+		<segment id="170" parent="363" relname="contrast">Семь лет назад я катался на экскурсионном теплоходе на босфорском круизе,</segment>
+		<segment id="171" parent="367" relname="span">а сейчас я решил просто прокатиться на пароме на азиатскую сторону до Ускюдара.</segment>
+		<segment id="172" parent="364" relname="joint">Когда то это был древний Хрисополь</segment>
+		<segment id="173" parent="364" relname="joint">и там стояли десять тысяч Ксенофонта.</segment>
+		<segment id="174" parent="365" relname="span">Сейчас это главный азиатский район Стамбула,</segment>
+		<segment id="175" parent="174" relname="elaboration">паромы только и снуют между Европой и Азией.</segment>
+		<segment id="176" parent="369" relname="span">Я выбрал скромную компанию Turyol,</segment>
+		<segment id="177" parent="368" relname="joint">паромы у них простенькие</segment>
+		<segment id="178" parent="368" relname="joint">и стоят всего 5 лир в один конец.</segment>
+		<segment id="179" parent="374" relname="span">Плыл в Азию я на закате.</segment>
+		<segment id="180" parent="179" relname="evaluation">Шикарные виды на дворцы Топкапы и Долмабахче, Девичью башню и мост через Босфор просто завораживают. IMG IMG IMG</segment>
+		<segment id="181" parent="374" relname="evaluation">Вся прелесть Стамбула перед тобой всего за пятак.</segment>
+		<segment id="182" parent="376" relname="joint">В Ускюдаре я просто чуть погулял,</segment>
+		<segment id="183" parent="376" relname="joint">полюбовался на Европу,</segment>
+		<segment id="184" parent="185" relname="evaluation">турецких денег у меня осталось мало,</segment>
+		<segment id="185" parent="379" relname="span">хватило только на обратный билет.</segment>
+		<segment id="186" parent="381" relname="sequence">Вернулся я в Европу уже после заката.</segment>
+		<segment id="187" parent="381" relname="sequence">Долго гулял по центру.</segment>
+		<segment id="188" parent="383" relname="span">Обменял еще 15 долларов в обменнике на улице Hudavendigar,</segment>
+		<segment id="189" parent="188" relname="elaboration">курс получше, чем в аэропорту.</segment>
+		<segment id="190" parent="384" relname="span">Прогулялся мимо гостиницы Gulhane,</segment>
+		<segment id="191" parent="190" relname="background">в которой жил в 2011 году.</segment>
+		<segment id="192" parent="386" relname="span">Отельчик внешне почти не изменился,</segment>
+		<segment id="193" parent="385" relname="contrast">остался внешний шарм маленькой стамбульской гостиницы,</segment>
+		<segment id="194" parent="385" relname="contrast">но вот стоимость номера явно завышена.</segment>
+		<segment id="195" parent="389" relname="evaluation">С погодой мне повезло.</segment>
+		<segment id="196" parent="388" relname="joint">В этот день было тепло,</segment>
+		<segment id="197" parent="388" relname="joint">сухо.</segment>
+		<segment id="198" parent="390" relname="background">Безветренно, почти как в мае 2011 года.</segment>
+		<segment id="199" parent="394" relname="sequence">Я долго гулял по площади Ипподрома.</segment>
+		<segment id="200" parent="394" relname="sequence">Потом еще раз посетил причал Эминёню,</segment>
+		<segment id="201" parent="394" relname="sequence">поел бутерброд со скумбрией.</segment>
+		<segment id="202" parent="394" relname="sequence">Уже после 10 часов вечера я поехал обратно в аэропорт, на трамвае и метро.</segment>
+		<segment id="203" parent="400" relname="elaboration">Так завершился мой первый день в Стамбуле.</segment>
+		<segment id="204" parent="396" relname="joint">Далее я переезжаю на филиппинскую ветку форума.</segment>
+		<segment id="205" parent="396" relname="joint">Буду писать как я ездил по этим островам.</segment>
+		<segment id="206" parent="404" relname="sequence">Вернусь «на обратном пути».</segment>
+		<segment id="207" parent="398" relname="span">Там я уже был</segment>
+		<segment id="208" parent="397" relname="joint">«утомленный солнцем,</segment>
+		<segment id="209" parent="397" relname="joint">полазивший по пещерам и террасам,</segment>
+		<segment id="210" parent="397" relname="joint">пощекотавшим китовых акул и гигантских черепах.</segment>
+		<segment id="211" parent="403" relname="contrast">Но Стамбул меня опять увлек.</segment>
+		<group id="212" type="span" parent="216" relname="joint"/>
+		<group id="213" type="span" parent="214" relname="span"/>
+		<group id="214" type="span" parent="215" relname="same-unit"/>
+		<group id="215" type="multinuc" parent="216" relname="joint"/>
+		<group id="216" type="multinuc" parent="217" relname="span"/>
+		<group id="217" type="span" parent="218" relname="span"/>
+		<group id="218" type="span" relname="antithesis"/>
+		<group id="219" type="span" parent="221" relname="span"/>
+		<group id="220" type="multinuc" parent="11" relname="elaboration"/>
+		<group id="221" type="span" parent="9" relname="evaluation"/>
+		<group id="222" type="span" parent="213" relname="condition"/>
+		<group id="223" type="multinuc" parent="15" relname="elaboration"/>
+		<group id="224" type="multinuc" parent="223" relname="sequence"/>
+		<group id="225" type="span" parent="226" relname="span"/>
+		<group id="226" type="span" parent="227" relname="sequence"/>
+		<group id="227" type="multinuc" parent="231" relname="span"/>
+		<group id="228" type="multinuc" parent="227" relname="sequence"/>
+		<group id="229" type="multinuc" parent="227" relname="sequence"/>
+		<group id="230" type="span" parent="229" relname="joint"/>
+		<group id="231" type="span" parent="232" relname="span"/>
+		<group id="232" type="span" relname="antithesis"/>
+		<group id="233" type="multinuc" parent="236" relname="span"/>
+		<group id="234" type="multinuc" parent="233" relname="sequence"/>
+		<group id="235" type="multinuc" parent="233" relname="sequence"/>
+		<group id="236" type="span" parent="237" relname="span"/>
+		<group id="237" type="span" parent="241" relname="span"/>
+		<group id="238" type="multinuc" parent="34" relname="elaboration"/>
+		<group id="239" type="span" parent="240" relname="contrast"/>
+		<group id="240" type="multinuc" parent="237" relname="evaluation"/>
+		<group id="241" type="span" relname="antithesis"/>
+		<group id="242" type="multinuc" parent="38" relname="elaboration"/>
+		<group id="243" type="span" parent="253" relname="preparation"/>
+		<group id="244" type="multinuc" parent="253" relname="span"/>
+		<group id="245" type="span" parent="248" relname="span"/>
+		<group id="246" type="multinuc" parent="44" relname="elaboration"/>
+		<group id="247" type="span" parent="245" relname="evaluation"/>
+		<group id="248" type="span" parent="249" relname="span"/>
+		<group id="249" type="span" parent="244" relname="comparison"/>
+		<group id="250" type="span" parent="251" relname="span"/>
+		<group id="251" type="span" parent="252" relname="comparison"/>
+		<group id="252" type="multinuc" parent="248" relname="evaluation"/>
+		<group id="253" type="span" parent="254" relname="span"/>
+		<group id="254" type="span" relname="antithesis"/>
+		<group id="255" type="span" parent="52" relname="cause"/>
+		<group id="256" type="span" parent="258" relname="span"/>
+		<group id="257" type="span" parent="256" relname="elaboration"/>
+		<group id="258" type="span" parent="259" relname="span"/>
+		<group id="259" type="span" parent="260" relname="span"/>
+		<group id="260" type="span" parent="263" relname="span"/>
+		<group id="261" type="multinuc" parent="260" relname="evaluation"/>
+		<group id="262" type="span" parent="261" relname="contrast"/>
+		<group id="263" type="span" relname="antithesis"/>
+		<group id="264" type="span" parent="273" relname="preparation"/>
+		<group id="265" type="span" parent="63" relname="evaluation"/>
+		<group id="266" type="multinuc" parent="271" relname="evaluation"/>
+		<group id="267" type="multinuc" parent="270" relname="span"/>
+		<group id="268" type="span" parent="270" relname="elaboration"/>
+		<group id="269" type="span" parent="266" relname="contrast"/>
+		<group id="270" type="span" parent="269" relname="span"/>
+		<group id="271" type="span" parent="272" relname="span"/>
+		<group id="272" type="span" parent="273" relname="span"/>
+		<group id="273" type="span" parent="274" relname="span"/>
+		<group id="274" type="span" relname="antithesis"/>
+		<group id="275" type="multinuc" parent="405" relname="span"/>
+		<group id="276" type="multinuc" parent="275" relname="sequence"/>
+		<group id="277" type="span" parent="405" relname="elaboration"/>
+		<group id="279" type="multinuc" parent="316" relname="preparation"/>
+		<group id="280" type="multinuc" parent="282" relname="cause"/>
+		<group id="281" type="multinuc" parent="282" relname="span"/>
+		<group id="282" type="span" parent="283" relname="span"/>
+		<group id="283" type="span" parent="316" relname="span"/>
+		<group id="284" type="span" parent="285" relname="joint"/>
+		<group id="285" type="multinuc" parent="287" relname="contrast"/>
+		<group id="286" type="span" parent="287" relname="contrast"/>
+		<group id="287" type="multinuc" parent="293" relname="span"/>
+		<group id="289" type="span" parent="290" relname="same-unit"/>
+		<group id="290" type="multinuc" parent="408" relname="span"/>
+		<group id="291" type="multinuc" parent="292" relname="sequence"/>
+		<group id="292" type="multinuc" parent="293" relname="elaboration"/>
+		<group id="293" type="span" parent="294" relname="span"/>
+		<group id="294" type="span" parent="295" relname="span"/>
+		<group id="295" type="span" parent="296" relname="span"/>
+		<group id="296" type="span" parent="297" relname="span"/>
+		<group id="297" type="span" relname="antithesis"/>
+		<group id="298" type="span" parent="311" relname="preparation"/>
+		<group id="299" type="multinuc" parent="311" relname="span"/>
+		<group id="300" type="span" parent="302" relname="span"/>
+		<group id="301" type="multinuc" parent="300" relname="elaboration"/>
+		<group id="302" type="span" parent="104" relname="elaboration"/>
+		<group id="303" type="span" parent="299" relname="sequence"/>
+		<group id="305" type="multinuc" parent="299" relname="sequence"/>
+		<group id="306" type="span" parent="301" relname="sequence"/>
+		<group id="307" type="span" parent="310" relname="span"/>
+		<group id="308" type="multinuc" parent="307" relname="background"/>
+		<group id="309" type="span" parent="308" relname="joint"/>
+		<group id="310" type="span" parent="305" relname="sequence"/>
+		<group id="311" type="span" parent="312" relname="span"/>
+		<group id="312" type="span" relname="antithesis"/>
+		<group id="313" type="multinuc" parent="315" relname="sequence"/>
+		<group id="315" type="multinuc" relname="antithesis"/>
+		<group id="316" type="span" parent="317" relname="span"/>
+		<group id="317" type="span" relname="antithesis"/>
+		<group id="318" type="multinuc" parent="319" relname="span"/>
+		<group id="319" type="span" parent="320" relname="span"/>
+		<group id="320" type="span" parent="325" relname="span"/>
+		<group id="321" type="span" parent="324" relname="span"/>
+		<group id="322" type="multinuc" parent="129" relname="elaboration"/>
+		<group id="323" type="span" parent="321" relname="evaluation"/>
+		<group id="324" type="span" parent="320" relname="elaboration"/>
+		<group id="325" type="span" parent="326" relname="span"/>
+		<group id="326" type="span" relname="antithesis"/>
+		<group id="327" type="multinuc" parent="328" relname="contrast"/>
+		<group id="328" type="multinuc" relname="antithesis"/>
+		<group id="329" type="span" parent="332" relname="span"/>
+		<group id="330" type="span" parent="134" relname="elaboration"/>
+		<group id="331" type="multinuc" parent="334" relname="span"/>
+		<group id="332" type="span" parent="328" relname="contrast"/>
+		<group id="333" type="span" parent="336" relname="span"/>
+		<group id="334" type="span" parent="333" relname="span"/>
+		<group id="335" type="span" parent="333" relname="elaboration"/>
+		<group id="336" type="span" parent="329" relname="concession"/>
+		<group id="337" type="span" parent="338" relname="contrast"/>
+		<group id="338" type="multinuc" parent="345" relname="span"/>
+		<group id="339" type="span" parent="338" relname="contrast"/>
+		<group id="340" type="span" parent="148" relname="background"/>
+		<group id="341" type="span" parent="147" relname="evaluation"/>
+		<group id="342" type="span" parent="344" relname="span"/>
+		<group id="343" type="multinuc" parent="342" relname="evaluation"/>
+		<group id="344" type="span" parent="146" relname="elaboration"/>
+		<group id="345" type="span" parent="346" relname="span"/>
+		<group id="346" type="span" relname="antithesis"/>
+		<group id="347" type="span" parent="348" relname="same-unit"/>
+		<group id="348" type="multinuc" parent="349" relname="span"/>
+		<group id="349" type="span" parent="350" relname="span"/>
+		<group id="350" type="span" parent="351" relname="contrast"/>
+		<group id="351" type="multinuc" parent="357" relname="solutionhood"/>
+		<group id="352" type="multinuc" parent="356" relname="contrast"/>
+		<group id="353" type="span" parent="354" relname="span"/>
+		<group id="354" type="span" parent="355" relname="joint"/>
+		<group id="355" type="multinuc" parent="356" relname="contrast"/>
+		<group id="356" type="multinuc" parent="357" relname="span"/>
+		<group id="357" type="span" parent="358" relname="span"/>
+		<group id="358" type="span" relname="antithesis"/>
+		<group id="359" type="multinuc" parent="163" relname="evaluation"/>
+		<group id="360" type="span" parent="353" relname="elaboration"/>
+		<group id="362" type="multinuc" parent="411" relname="span"/>
+		<group id="363" type="multinuc" parent="371" relname="span"/>
+		<group id="364" type="multinuc" parent="366" relname="comparison"/>
+		<group id="365" type="span" parent="370" relname="span"/>
+		<group id="366" type="multinuc" parent="171" relname="elaboration"/>
+		<group id="367" type="span" parent="363" relname="contrast"/>
+		<group id="368" type="multinuc" parent="176" relname="elaboration"/>
+		<group id="369" type="span" parent="373" relname="joint"/>
+		<group id="370" type="span" parent="366" relname="comparison"/>
+		<group id="371" type="span" parent="372" relname="span"/>
+		<group id="372" type="span" relname="antithesis"/>
+		<group id="373" type="multinuc" parent="365" relname="elaboration"/>
+		<group id="374" type="span" parent="375" relname="span"/>
+		<group id="375" type="span" parent="373" relname="joint"/>
+		<group id="376" type="multinuc" parent="380" relname="joint"/>
+		<group id="379" type="span" parent="380" relname="joint"/>
+		<group id="380" type="multinuc" parent="381" relname="sequence"/>
+		<group id="381" type="multinuc" relname="antithesis"/>
+		<group id="383" type="span" parent="381" relname="sequence"/>
+		<group id="384" type="span" parent="387" relname="span"/>
+		<group id="385" type="multinuc" parent="192" relname="elaboration"/>
+		<group id="386" type="span" parent="384" relname="evaluation"/>
+		<group id="387" type="span" parent="407" relname="span"/>
+		<group id="388" type="multinuc" parent="389" relname="span"/>
+		<group id="389" type="span" parent="390" relname="span"/>
+		<group id="390" type="span" parent="391" relname="span"/>
+		<group id="391" type="span" parent="387" relname="background"/>
+		<group id="394" type="multinuc" parent="400" relname="span"/>
+		<group id="396" type="multinuc" relname="antithesis"/>
+		<group id="397" type="multinuc" parent="207" relname="elaboration"/>
+		<group id="398" type="span" parent="403" relname="contrast"/>
+		<group id="400" type="span" parent="401" relname="span"/>
+		<group id="401" type="span" parent="381" relname="sequence"/>
+		<group id="403" type="multinuc" parent="404" relname="sequence"/>
+		<group id="404" type="multinuc" parent="396" relname="joint"/>
+		<group id="405" type="span" parent="406" relname="span"/>
+		<group id="406" type="span" relname="antithesis"/>
+		<group id="407" type="span" parent="381" relname="sequence"/>
+		<group id="408" type="span" parent="409" relname="span"/>
+		<group id="409" type="span" parent="295" relname="background"/>
+		<group id="410" type="span" parent="371" relname="preparation"/>
+		<group id="411" type="span" parent="410" relname="span"/>
+  </body>
+</rst>

@@ -1,0 +1,342 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="antithesis" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="background" type="rst" />
+			<rel name="cause" type="rst" />
+			<rel name="comparison" type="multinuc" />
+			<rel name="concession" type="rst" />
+			<rel name="conclusion" type="rst" />
+			<rel name="condition" type="rst" />
+			<rel name="contrast" type="multinuc" />
+			<rel name="effect" type="rst" />
+			<rel name="elaboration" type="rst" />
+			<rel name="evaluation" type="rst" />
+			<rel name="evidence" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="motivation" type="rst" />
+			<rel name="preparation" type="rst" />
+			<rel name="purpose" type="rst" />
+			<rel name="restatement" type="multinuc" />
+			<rel name="same-unit" type="multinuc" />
+			<rel name="sequence" type="multinuc" />
+			<rel name="solutionhood" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="1" relname="antithesis">https://blog.allo.ua/lg-g7-thinq-review_2018-07-12/</segment>
+		<segment id="2" relname="antithesis">Обзор смартфона LG G7 ThinQ: заявка на успех?</segment>
+		<segment id="3" parent="309" relname="elaboration">IMG</segment>
+		<segment id="4" parent="5" relname="background">В мае компания LG анонсировала свой новый флагманский смартфон под названием G7 ThinQ.</segment>
+		<segment id="5" parent="169" relname="span">С технической точки зрения LG G7 ThinQ является одним из самых мощных смартфонов на рынке.</segment>
+		<segment id="6" parent="168" relname="contrast">Среди главных достоинств аппарата стоит выделить платформу Qualcomm Snapdragon 845, 6,1-дюймовый дисплей с разрешением 3120 × 1440 и вырезом в районе верхней грани, отличную двойную камеру, а также стеклянный влагозащищенный корпус.</segment>
+		<segment id="7" parent="167" relname="span">Но хватит ли этого,</segment>
+		<segment id="8" parent="7" relname="purpose">чтобы составить достойную конкуренцию крепко обосновавшимся на вершине Samsung Galaxy S9, iPhone X или Huawei P20 Pro?</segment>
+		<segment id="9" parent="332" relname="elaboration">IMG</segment>
+		<segment id="10" parent="11" relname="preparation">Комплект поставки</segment>
+		<segment id="11" parent="171" relname="span">Помимо самого смартфона, в комплекте вы найдете зарядное устройство, USB Type-C кабель, гарнитуру, инструмент для извлечения лотка с SIM-картами, а также документацию.</segment>
+		<segment id="12" parent="175" relname="joint">В целом, комплект поставки стандартен</segment>
+		<segment id="13" parent="175" relname="joint">и не отличается от большинства других смартфонов компании.</segment>
+		<segment id="14" parent="15" relname="preparation">Дизайн</segment>
+		<segment id="15" parent="177" relname="span">В компании LG всегда любили экспериментировать с дизайном.</segment>
+		<segment id="16" parent="178" relname="sequence">Модель G4 выделялась среди остальных смартфонов экстравагантной кожаной спинкой,</segment>
+		<segment id="17" parent="178" relname="sequence">G5 был наделен модульной конструкцией,</segment>
+		<segment id="18" parent="178" relname="sequence">а G6 стал родоначальником моды на дисплеи формата 18:9.</segment>
+		<segment id="19" parent="20" relname="cause">Тем не менее, на этот раз инженеры решили оставить свои эксперименты</segment>
+		<segment id="20" parent="180" relname="span">и создали смартфон, выполненный в привычном для всех дизайне 2018 года.</segment>
+		<segment id="21" parent="312" relname="span">IMG</segment>
+		<segment id="22" parent="182" relname="joint">Передняя и задняя панели смартфона прикрыты закаленным стеклом,</segment>
+		<segment id="23" parent="182" relname="joint">а в верхней части экрана расположена не так давно вошедшая в моду «монобровь».</segment>
+		<segment id="24" parent="185" relname="contrast">Закаленное стекло, прикрывающее тыльную и фронтальную панели  LG G7 ThinQ, устойчиво к царапинам,</segment>
+		<segment id="25" parent="185" relname="contrast">однако использовать смартфон без чехла мы бы все-таки не рекомендовали.</segment>
+		<segment id="26" parent="191" relname="span">Основа смартфона сделан из металла,</segment>
+		<segment id="27" parent="187" relname="same-unit">в которой,</segment>
+		<segment id="28" parent="29" relname="condition">если постараться,</segment>
+		<segment id="29" parent="186" relname="span">можно увидеть малозаметные пластиковые вставки,</segment>
+		<segment id="30" parent="189" relname="purpose">предназначенные для корректной работы антенн.</segment>
+		<segment id="31" parent="313" relname="span">Пожалуй, основным достоинством корпуса LG G7 ThinQ является его влагозащищенность.</segment>
+		<segment id="32" parent="194" relname="attribution">Производитель обращает внимание,</segment>
+		<segment id="33" parent="193" relname="contrast">что смартфон защищен не просто по стандарту IP68,</segment>
+		<segment id="34" parent="193" relname="contrast">а имеет военный сертификат защиты (Military Standard 810G).</segment>
+		<segment id="35" parent="36" relname="cause">Еще одним приятным моментом является то, что производитель оставил в смартфоне 3,5-мм мини-джек,</segment>
+		<segment id="36" parent="197" relname="span">благодаря чему слушать музыку со смартфона можно без каких-либо переходников. IMG</segment>
+		<segment id="37" parent="38" relname="condition">Если говорить об органах управления,</segment>
+		<segment id="38" parent="199" relname="span">они расположены в привычных местах.</segment>
+		<segment id="39" parent="200" relname="joint">Клавиша включения/блокировки смартфона находится на правом ребре,</segment>
+		<segment id="40" parent="200" relname="joint">а раздельные клавиши громкости расположены на левом торце LG G7 ThinQ. IMG</segment>
+		<segment id="41" parent="202" relname="span">Тут же присутствует еще один непривычный элемент, дополнительная кнопка,</segment>
+		<segment id="42" parent="41" relname="elaboration">при помощи которой можно вызывать Google Assistant. IMG</segment>
+		<segment id="43" parent="208" relname="joint">На верхней грани смартфона можно увидеть только отверстие для вспомогательного микрофона. IMG</segment>
+		<segment id="44" parent="206" relname="span">На задней панели смартфона расположена двойная основная камера и чуть ниже — сканер отпечатков пальцев. IMG</segment>
+		<segment id="45" parent="205" relname="span">На наш взгляд, такое расположение сканера является наиболее комфортным.</segment>
+		<segment id="46" parent="203" relname="joint">Указательный палец ложится туда естественным образом,</segment>
+		<segment id="47" parent="203" relname="joint">и смартфон не нужно перекладывать в руке.</segment>
+		<segment id="48" parent="204" relname="joint">Сам сканер работает очень быстро</segment>
+		<segment id="49" parent="50" relname="cause">и позволяет</segment>
+		<segment id="50" parent="334" relname="span">блокировать не только аппарат, но и отдельные приложения.</segment>
+		<segment id="51" parent="52" relname="concession">Несмотря на довольно внушительные размеры LG G7 ThinQ,</segment>
+		<segment id="52" parent="209" relname="span">за счет вытянутого дисплея и небольшой ширины</segment>
+		<segment id="53" parent="335" relname="span">его довольно удобно держать в</segment>
+		<segment id="54" parent="335" relname="elaboration">IMG</segment>
+		<segment id="55" parent="212" relname="span">В LG G7 ThinQ используется IPS-дисплей,</segment>
+		<segment id="56" parent="211" relname="span">что немного странно для флагманского смартфона,</segment>
+		<segment id="57" parent="56" relname="cause">особенно, учитывая, что LG который год находится в лидерах по производству OLED-экранов.</segment>
+		<segment id="58" parent="213" relname="span">Тем не менее, дисплей смартфона выглядит великолепно.</segment>
+		<segment id="59" parent="224" relname="span">Размер экрана составляет 6,1 дюйма, формат 19:9, а разрешение 3120 × 1440 точек (плотность пикселей при этом достигает 564 ppi).</segment>
+		<segment id="60" parent="215" relname="span">Пользователи, которым не нужно такое высокое разрешение, могут понизить его в настройках.</segment>
+		<segment id="61" parent="214" relname="contrast">В большинстве приложений это не сильно скажется на качестве картинки,</segment>
+		<segment id="62" parent="214" relname="contrast">однако значительно продлит время автономной работы смартфона.</segment>
+		<segment id="63" parent="64" relname="cause">Отдельно хочется отметить высокую яркость экрана и широкие углы обзора,</segment>
+		<segment id="64" parent="216" relname="span">благодаря чему изображение на экране даже в яркий солнечный день останется читабельным.</segment>
+		<segment id="65" parent="216" relname="elaboration">В настройках есть целых шесть режимов цветопередачи, включая «эксперт» с гибкой настройкой. IMG</segment>
+		<segment id="66" parent="218" relname="preparation">Память, чипсет и производительность</segment>
+		<segment id="67" parent="218" relname="span">В LG G7 ThinQ используется платформа Qualcomm Snapdragon 845 в версии Napali,</segment>
+		<segment id="68" parent="314" relname="span">которая подразумевает использование ядер Kryo 385 Gold с пониженной до 2,5 ГГц частотой.</segment>
+		<segment id="69" parent="220" relname="span">Этого более, чем достаточно,</segment>
+		<segment id="70" parent="337" relname="span">чтобы смартфон занимал лидирующие позиции не только в синтетических тестах, но и в реальной жизни,</segment>
+		<segment id="71" parent="70" relname="evidence">предоставляя максимальную на сегодняшний день скорость работы.</segment>
+		<segment id="72" parent="220" relname="evidence">В бенчмарке AnTuTu смартфон выдает внушительные 263328 баллов. IMG</segment>
+		<segment id="73" parent="229" relname="span">Производительности смартфона хватить</segment>
+		<segment id="74" parent="73" relname="purpose">для выполнения абсолютно любых задач — от съемки и воспроизведения 4К-видео до самых «тяжелых» мобильных игр, запущенных на максимальных настройках.</segment>
+		<segment id="75" parent="229" relname="elaboration">Графическая подсистема в LG G7 ThinQ ничем не отличается от использующейся в обычном Snapdragon 845 – Adreno 630. IMG IMG</segment>
+		<segment id="76" parent="231" relname="joint">В зависимости от версии, в смартфоне может быть установлено 4 либо 6 ГБ оперативной и 64 либо 128 ГБ постоянной памяти.</segment>
+		<segment id="77" parent="231" relname="joint">Также существует возможность использовать карт памяти объемом до 2 ГБ.</segment>
+		<segment id="78" parent="235" relname="preparation">Коммуникационные возможности</segment>
+		<segment id="79" parent="315" relname="elaboration">IMG</segment>
+		<segment id="80" parent="315" relname="span">LG G7 ThinQ оснащен всеми современными радиомодулями, включая Wi-Fi ac/a/b/g/n (2.4 и 5 ГГц), Bluetooth 5.0 LE, NFC, LTE-A и GPS (поддерживается A-GPS), ГЛОНАСС.</segment>
+		<segment id="81" parent="237" relname="joint">Смартфон определяет спутники практически мгновенно,</segment>
+		<segment id="82" parent="237" relname="joint">а точность позиционирования составляет около 5-7 метров.</segment>
+		<segment id="83" parent="239" relname="preparation">Звук</segment>
+		<segment id="84" parent="85" relname="background">Как известно, большинство флагманских смартфонов LG могут похвастаться хорошим звуком,</segment>
+		<segment id="85" parent="239" relname="span">и G7 ThinQ не является исключением из этих правил.</segment>
+		<segment id="86" parent="243" relname="span">Начиная с модели V10 компания LG устанавливает в свои топовые смартфоны продвинутый QUAD DAC на основе ES9218P.</segment>
+		<segment id="87" parent="88" relname="attribution">Производитель звуковой «начинки» утверждает,</segment>
+		<segment id="88" parent="241" relname="span">что внутри чипа на самом деле имеется восемь модулей ЦАП, по четыре на канал.</segment>
+		<segment id="89" parent="241" relname="elaboration">Отсюда и взялось обозначение QUAD DAC.</segment>
+		<segment id="90" parent="245" relname="span">Звук в наушниках играет очень чисто, насыщенно, богато и динамично.</segment>
+		<segment id="91" parent="92" relname="cause">В смартфоне есть встроенный эквалайзер,</segment>
+		<segment id="92" parent="338" relname="span">благодаря которому каждый пользователь может настроить звучание в соответствии со своими предпочтениями.</segment>
+		<segment id="93" parent="246" relname="joint">LG G7 ThinQ вполне способен заменить отдельный Hi-Fi плеер</segment>
+		<segment id="94" parent="246" relname="joint">и стать верным спутником самых придирчивых к звуку меломанов.</segment>
+		<segment id="95" parent="250" relname="preparation">Программное обеспечение</segment>
+		<segment id="96" parent="249" relname="elaboration">IMG</segment>
+		<segment id="97" parent="249" relname="span">LG G7 ThinQ работает под управлением ОС Android 8.0 Oreo с собственной оболочкой,</segment>
+		<segment id="98" parent="97" relname="elaboration">которая немного изменилась внешне по сравнению с LG G6 и V30+.</segment>
+		<segment id="99" parent="253" relname="joint">Пользователи могут выбрать один из двух видов отображения: только рабочие столы, либо рабочие столы и отдельное меню с приложениями.</segment>
+		<segment id="100" parent="252" relname="joint">Поддерживаются разные темы оформления,</segment>
+		<segment id="101" parent="252" relname="joint">можно менять размер и сами шрифты,</segment>
+		<segment id="102" parent="252" relname="joint">настраивать сетку основного экрана. IMG</segment>
+		<segment id="103" parent="256" relname="joint">Интерфейс LG G7 ThinQ можно назвать не только функциональным, но и очень красивым.</segment>
+		<segment id="104" parent="256" relname="joint">Меню настроек также имеет два вида: почти стандартный одним списком или отдельными вкладками.</segment>
+		<segment id="105" parent="257" relname="span">Оболочка работает очень плавно.</segment>
+		<segment id="106" parent="105" relname="evidence">По сравнению с предыдущими аппаратами, скроллинг и переключение между задачами стали выглядеть лучше. IMG IMG IMG</segment>
+		<segment id="107" parent="258" relname="span">Вырез в верхней части дисплея можно скрыть,</segment>
+		<segment id="108" parent="107" relname="elaboration">причем для активируемой строки состояния можно самостоятельно задать не только цвет, но и закругление углов.</segment>
+		<segment id="109" parent="260" relname="span">Изменения затронули и Галерею.</segment>
+		<segment id="110" parent="259" relname="sequence">LG G7 ThinQ умеет анализировать то, что изображено на снимках,</segment>
+		<segment id="111" parent="259" relname="sequence">после чего сортирует их по альбомам с соответствующими названиями.</segment>
+		<segment id="112" parent="262" relname="preparation">Камеры</segment>
+		<segment id="113" parent="262" relname="span">Наверное, каждый пользователь, приобретающий флагманский смартфон, ждет от его камеры максимального качества снимков.</segment>
+		<segment id="114" parent="113" relname="elaboration">IMG</segment>
+		<segment id="115" parent="265" relname="span">В LG G7 ThinQ установлена система из двух тыльных объективов,</segment>
+		<segment id="116" parent="264" relname="joint">где основной получил 16-мегапиксельный датчик Sony IMX351 с диафрагмой f/1.6 и оптической стабилизацией,</segment>
+		<segment id="117" parent="264" relname="joint">а в помощь дан дополнительный 16-мегапиксельный широкоугольный сенсор с углом обзора 107° и  светосилой f/1.9.</segment>
+		<segment id="118" parent="339" relname="span">Пользователям доступен широкий арсенал настроек,</segment>
+		<segment id="119" parent="118" relname="purpose">при помощи которых можно получить действительно достойные снимки.</segment>
+		<segment id="120" parent="270" relname="span">Искусственный интеллект (AI CAM) позволяет камере смартфона самостоятельно решать, как обрабатывать тот или иной снимок.</segment>
+		<segment id="121" parent="122" relname="cause">LG G7 ThinQ пытается распознавать и сюжет, и даже объекты в кадре</segment>
+		<segment id="122" parent="269" relname="span">– и в зависимости от того, что увидела камера, подбирает нужный стиль обработки. IMG</segment>
+		<segment id="123" parent="272" relname="same-unit">Ни для кого не секрет, что для того,</segment>
+		<segment id="124" parent="125" relname="purpose">чтобы получить максимально качественные снимки,</segment>
+		<segment id="125" parent="271" relname="span">лучше осуществлять съемку в светлое время сток.</segment>
+		<segment id="126" parent="275" relname="span">Тем не менее, даже в темноте фотографии, сделанные на LG G7 ThinQ, получаются достаточно четкими.</segment>
+		<segment id="127" parent="273" relname="span">В этом камере помогает режим Super Bright Camera,</segment>
+		<segment id="128" parent="127" relname="purpose">позволяющий поглощать больше света.</segment>
+		<segment id="129" parent="341" relname="same-unit">По качеству снимков</segment>
+		<segment id="130" parent="131" relname="condition">в условиях плохой освещенности</segment>
+		<segment id="131" parent="340" relname="span">LG G7 ThinQ готов бросить вызов таким камерофонам как Samsung Galaxy S9 и Huawei P20 Pro.</segment>
+		<segment id="132" parent="317" relname="span">IMG</segment>
+		<segment id="133" parent="318" relname="span">Фронтальная камера не отличается чем-то особенным.</segment>
+		<segment id="134" parent="319" relname="span">8-мегапиксельный модуль имеет светосила ƒ/1,9</segment>
+		<segment id="135" parent="134" relname="purpose">и позволяет делать неплохие по качеству селфи.</segment>
+		<segment id="136" parent="282" relname="span">Среди интересных функций «фронталки» стоит отметить различные стикеры дополненной реальности – незаменимый инструмент для всех, кто не представляет жизнь без ежедневных публикаций в Instagram.</segment>
+		<segment id="137" parent="136" relname="elaboration">Примеры фотографий IMG IMG IMG</segment>
+		<segment id="138" parent="285" relname="preparation">Время автономной работы</segment>
+		<segment id="139" parent="285" relname="span">Смартфон оснащен батарей емкостью всего 3000 мАч,</segment>
+		<segment id="140" parent="139" relname="evaluation">что, по современным меркам, довольно скромно.</segment>
+		<segment id="141" parent="142" relname="attribution">Тем не менее, в LG утверждают,</segment>
+		<segment id="142" parent="287" relname="span">что установленный в смартфоне дисплей потребляет на 30% меньше энергии, чем экран LG G6.</segment>
+		<segment id="143" parent="289" relname="span">На практике,</segment>
+		<segment id="144" parent="143" relname="condition">при активном использовании, постоянном соединении с сетью, синхронизацией большого количества различных аккаунтов, около полу часа звонков и часа веб-серфинга, игр и просмотра видео в YouTube,</segment>
+		<segment id="145" parent="290" relname="same-unit">смартфона хватило почти на сутки.</segment>
+		<segment id="146" parent="294" relname="span">Как и большинство других флагманских смартфонов, LG G7 ThinQ поддерживает быструю зарядку:</segment>
+		<segment id="147" parent="146" relname="elaboration">до 50% устройство заряжается всего за 35 минут.</segment>
+		<segment id="148" parent="324" relname="preparation">Сравнение с конкурентами</segment>
+		<segment id="149" parent="150" relname="condition">Если говорить о конкурентах,</segment>
+		<segment id="150" parent="295" relname="span">у LG G7 ThinQ их довольно много,</segment>
+		<segment id="151" parent="325" relname="span">поэтому завоевать сердца покупателей новинке будет непросто.</segment>
+		<segment id="152" parent="299" relname="span">Мешать смартфону занять лидирующие позиции будут не только флагманы А-брендов (Samsung Galaxy S9 Plus и Apple iPhone X), но и менее популярные Huawei P20 Pro, OnePlus 6 и ASUS Zenfone 5. IMG</segment>
+		<segment id="153" parent="298" relname="contrast">С последним LG G7 ThinQ, кстати, очень похож по дизайну,</segment>
+		<segment id="154" parent="298" relname="contrast">однако ASUS немного проигрывает южнокорейскому флагману по характеристикам.</segment>
+		<segment id="155" parent="327" relname="preparation">ОЦЕНКА BLOG.ALLO.UA</segment>
+		<segment id="156" parent="308" relname="contrast">ПЛЮСЫ: яркий экран, высокопроизводительная «начинка», отличный звук в наушниках, хорошее качество камер, материалы корпуса и защита MIL-STD 810G, быстрая и удобная графическая оболочка.</segment>
+		<segment id="157" parent="308" relname="contrast">МИНУСЫ: привычный дизайн с «монобровью», спорное размещение кнопки Google Assistant, небольшая емкость аккумулятора.</segment>
+		<segment id="158" parent="306" relname="span">ВЫВОДЫ: После ряда неудач у компании наконец получилось создать очень достойный смартфон.</segment>
+		<segment id="159" parent="305" relname="contrast">У G7 ThinQ есть все, что должно быть у современного флагмана: качественный экран, мощный процессор, отличные камеры, шикарный звук…</segment>
+		<segment id="160" parent="304" relname="span">Единственное, что вызывает вопросы - дизайн смартфона.</segment>
+		<segment id="161" parent="342" relname="span">В компании решили использовать актуальные модные решения,</segment>
+		<segment id="162" parent="161" relname="evaluation">которые многим уже успели наскучить.</segment>
+		<segment id="163" parent="329" relname="solutionhood">Сможет ли смартфон LG G7 ThinQ составить достойную конкуренцию таким флагманам, как Samsung Galaxy S9, iPhone X или Huawei P20 Pro?</segment>
+		<segment id="164" parent="302" relname="contrast">Мы думаем, что да,</segment>
+		<segment id="165" parent="302" relname="contrast">а как будет на самом деле - покажет время!</segment>
+		<group id="167" type="span" parent="168" relname="contrast"/>
+		<group id="168" type="multinuc" parent="169" relname="elaboration"/>
+		<group id="169" type="span" parent="309" relname="span"/>
+		<group id="171" type="span" parent="332" relname="span"/>
+		<group id="175" type="multinuc" parent="171" relname="evaluation"/>
+		<group id="177" type="span" parent="179" relname="span"/>
+		<group id="178" type="multinuc" parent="177" relname="evidence"/>
+		<group id="179" type="span" parent="180" relname="background"/>
+		<group id="180" type="span" parent="181" relname="span"/>
+		<group id="181" type="span" parent="234" relname="joint"/>
+		<group id="182" type="multinuc" parent="21" relname="elaboration"/>
+		<group id="185" type="multinuc" parent="192" relname="joint"/>
+		<group id="186" type="span" parent="187" relname="same-unit"/>
+		<group id="187" type="multinuc" parent="189" relname="span"/>
+		<group id="189" type="span" parent="190" relname="span"/>
+		<group id="190" type="span" parent="26" relname="elaboration"/>
+		<group id="191" type="span" parent="192" relname="joint"/>
+		<group id="192" type="multinuc" parent="198" relname="joint"/>
+		<group id="193" type="multinuc" parent="194" relname="span"/>
+		<group id="194" type="span" parent="195" relname="span"/>
+		<group id="195" type="span" parent="31" relname="elaboration"/>
+		<group id="197" type="span" parent="198" relname="joint"/>
+		<group id="198" type="multinuc" parent="234" relname="joint"/>
+		<group id="199" type="span" parent="201" relname="span"/>
+		<group id="200" type="multinuc" parent="199" relname="evidence"/>
+		<group id="201" type="span" parent="208" relname="joint"/>
+		<group id="202" type="span" parent="208" relname="joint"/>
+		<group id="203" type="multinuc" parent="45" relname="evidence"/>
+		<group id="204" type="multinuc" parent="206" relname="elaboration"/>
+		<group id="205" type="span" parent="44" relname="evaluation"/>
+		<group id="206" type="span" parent="207" relname="span"/>
+		<group id="207" type="span" parent="208" relname="joint"/>
+		<group id="208" type="multinuc" parent="234" relname="joint"/>
+		<group id="209" type="span" parent="53" relname="cause"/>
+		<group id="211" type="span" parent="55" relname="evaluation"/>
+		<group id="212" type="span" parent="223" relname="contrast"/>
+		<group id="213" type="span" parent="223" relname="contrast"/>
+		<group id="214" type="multinuc" parent="60" relname="elaboration"/>
+		<group id="215" type="span" parent="59" relname="elaboration"/>
+		<group id="216" type="span" parent="225" relname="span"/>
+		<group id="218" type="span" parent="219" relname="span"/>
+		<group id="219" type="span" parent="233" relname="joint"/>
+		<group id="220" type="span" parent="221" relname="span"/>
+		<group id="221" type="span" parent="68" relname="evaluation"/>
+		<group id="223" type="multinuc" parent="226" relname="span"/>
+		<group id="224" type="span" parent="58" relname="elaboration"/>
+		<group id="225" type="span" parent="228" relname="joint"/>
+		<group id="226" type="span" parent="227" relname="span"/>
+		<group id="227" type="span" parent="228" relname="joint"/>
+		<group id="228" type="multinuc" relname="antithesis"/>
+		<group id="229" type="span" parent="230" relname="span"/>
+		<group id="230" type="span" parent="232" relname="joint"/>
+		<group id="231" type="multinuc" parent="232" relname="joint"/>
+		<group id="232" type="multinuc" parent="233" relname="joint"/>
+		<group id="233" type="multinuc" relname="antithesis"/>
+		<group id="234" type="multinuc" relname="antithesis"/>
+		<group id="235" type="span" parent="236" relname="span"/>
+		<group id="236" type="span" relname="antithesis"/>
+		<group id="237" type="multinuc" parent="80" relname="elaboration"/>
+		<group id="239" type="span" parent="240" relname="span"/>
+		<group id="240" type="span" parent="244" relname="span"/>
+		<group id="241" type="span" parent="242" relname="span"/>
+		<group id="242" type="span" parent="86" relname="elaboration"/>
+		<group id="243" type="span" parent="240" relname="evidence"/>
+		<group id="244" type="span" parent="316" relname="span"/>
+		<group id="245" type="span" parent="247" relname="span"/>
+		<group id="246" type="multinuc" parent="245" relname="evaluation"/>
+		<group id="247" type="span" parent="244" relname="evaluation"/>
+		<group id="249" type="span" parent="250" relname="span"/>
+		<group id="250" type="span" parent="251" relname="span"/>
+		<group id="251" type="span" parent="254" relname="span"/>
+		<group id="252" type="multinuc" parent="253" relname="joint"/>
+		<group id="253" type="multinuc" parent="251" relname="elaboration"/>
+		<group id="254" type="span" parent="261" relname="joint"/>
+		<group id="256" type="multinuc" parent="261" relname="joint"/>
+		<group id="257" type="span" parent="261" relname="joint"/>
+		<group id="258" type="span" parent="261" relname="joint"/>
+		<group id="259" type="multinuc" parent="109" relname="elaboration"/>
+		<group id="260" type="span" parent="261" relname="joint"/>
+		<group id="261" type="multinuc" relname="antithesis"/>
+		<group id="262" type="span" parent="263" relname="span"/>
+		<group id="263" type="span" parent="267" relname="preparation"/>
+		<group id="264" type="multinuc" parent="115" relname="elaboration"/>
+		<group id="265" type="span" parent="266" relname="joint"/>
+		<group id="266" type="multinuc" parent="267" relname="span"/>
+		<group id="267" type="span" parent="268" relname="span"/>
+		<group id="268" type="span" parent="284" relname="joint"/>
+		<group id="269" type="span" parent="120" relname="elaboration"/>
+		<group id="270" type="span" parent="277" relname="span"/>
+		<group id="271" type="span" parent="272" relname="same-unit"/>
+		<group id="272" type="multinuc" parent="276" relname="contrast"/>
+		<group id="273" type="span" parent="274" relname="span"/>
+		<group id="274" type="span" parent="126" relname="elaboration"/>
+		<group id="275" type="span" parent="276" relname="contrast"/>
+		<group id="276" type="multinuc" parent="270" relname="evidence"/>
+		<group id="277" type="span" parent="339" relname="elaboration"/>
+		<group id="278" type="span" parent="266" relname="joint"/>
+		<group id="282" type="span" parent="317" relname="elaboration"/>
+		<group id="284" type="multinuc" relname="antithesis"/>
+		<group id="285" type="span" parent="286" relname="span"/>
+		<group id="286" type="span" parent="288" relname="contrast"/>
+		<group id="287" type="span" parent="288" relname="contrast"/>
+		<group id="288" type="multinuc" parent="291" relname="span"/>
+		<group id="289" type="span" parent="290" relname="same-unit"/>
+		<group id="290" type="multinuc" parent="321" relname="span"/>
+		<group id="291" type="span" parent="321" relname="solutionhood"/>
+		<group id="294" type="span" parent="322" relname="background"/>
+		<group id="295" type="span" parent="325" relname="cause"/>
+		<group id="298" type="multinuc" parent="152" relname="elaboration"/>
+		<group id="299" type="span" parent="151" relname="evidence"/>
+		<group id="302" type="multinuc" parent="329" relname="span"/>
+		<group id="304" type="span" parent="305" relname="contrast"/>
+		<group id="305" type="multinuc" parent="158" relname="elaboration"/>
+		<group id="306" type="span" parent="331" relname="span"/>
+		<group id="308" type="multinuc" parent="331" relname="solutionhood"/>
+		<group id="309" type="span" parent="310" relname="span"/>
+		<group id="310" type="span" relname="antithesis"/>
+		<group id="312" type="span" parent="198" relname="joint"/>
+		<group id="313" type="span" parent="198" relname="joint"/>
+		<group id="314" type="span" parent="67" relname="elaboration"/>
+		<group id="315" type="span" parent="235" relname="span"/>
+		<group id="316" type="span" relname="antithesis"/>
+		<group id="317" type="span" parent="320" relname="span"/>
+		<group id="318" type="span" parent="132" relname="elaboration"/>
+		<group id="319" type="span" parent="133" relname="evidence"/>
+		<group id="320" type="span" parent="284" relname="joint"/>
+		<group id="321" type="span" parent="322" relname="span"/>
+		<group id="322" type="span" parent="323" relname="span"/>
+		<group id="323" type="span" relname="antithesis"/>
+		<group id="324" type="span" parent="326" relname="span"/>
+		<group id="325" type="span" parent="324" relname="span"/>
+		<group id="326" type="span" relname="antithesis"/>
+		<group id="327" type="span" parent="328" relname="span"/>
+		<group id="328" type="span" relname="antithesis"/>
+		<group id="329" type="span" parent="330" relname="span"/>
+		<group id="330" type="span" parent="306" relname="evaluation"/>
+		<group id="331" type="span" parent="327" relname="span"/>
+		<group id="332" type="span" parent="333" relname="span"/>
+		<group id="333" type="span" relname="antithesis"/>
+		<group id="334" type="span" parent="204" relname="joint"/>
+		<group id="335" type="span" parent="336" relname="span"/>
+		<group id="336" type="span" parent="226" relname="preparation"/>
+		<group id="337" type="span" parent="69" relname="purpose"/>
+		<group id="338" type="span" parent="90" relname="elaboration"/>
+		<group id="339" type="span" parent="278" relname="span"/>
+		<group id="340" type="span" parent="341" relname="same-unit"/>
+		<group id="341" type="multinuc" parent="273" relname="evaluation"/>
+		<group id="342" type="span" parent="160" relname="elaboration"/>
+  </body>
+</rst>

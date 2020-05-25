@@ -1,0 +1,543 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="antithesis" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="background" type="rst" />
+			<rel name="cause" type="rst" />
+			<rel name="comparison" type="multinuc" />
+			<rel name="concession" type="rst" />
+			<rel name="conclusion" type="rst" />
+			<rel name="condition" type="rst" />
+			<rel name="contrast" type="multinuc" />
+			<rel name="effect" type="rst" />
+			<rel name="elaboration" type="rst" />
+			<rel name="evaluation" type="rst" />
+			<rel name="evidence" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="motivation" type="rst" />
+			<rel name="preparation" type="rst" />
+			<rel name="purpose" type="rst" />
+			<rel name="restatement" type="multinuc" />
+			<rel name="same-unit" type="multinuc" />
+			<rel name="sequence" type="multinuc" />
+			<rel name="solutionhood" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="1" relname="antithesis">https://evo-lutio.livejournal.com/926151.html</segment>
+		<segment id="2" relname="antithesis">Этика и границы</segment>
+		<segment id="3" parent="270" relname="preparation">Людей с плохими границами всегда очень волнует вопрос этики. Чужой этики особенно. Но и своей тоже.</segment>
+		<segment id="4" parent="261" relname="span">Это то самое белое пальто,</segment>
+		<segment id="5" parent="4" relname="elaboration">которое как белый саван покрывает слепым пятном все собственные изъяны.</segment>
+		<segment id="6" parent="263" relname="span">Любой личностный изъян можно прикрыть белым пальто,</segment>
+		<segment id="7" parent="6" relname="evaluation">называя это этикой.</segment>
+		<segment id="8" parent="264" relname="contrast">Зависимая самооценка?</segment>
+		<segment id="9" parent="264" relname="contrast">Нет, это этика и чуткость к мнению окружающих.</segment>
+		<segment id="10" parent="265" relname="contrast">Границы в слиянии?</segment>
+		<segment id="11" parent="265" relname="contrast">Нет, это этика и забота об окружающих, неравнодушие к ним.</segment>
+		<segment id="12" parent="268" relname="contrast">Сейчас расскажу, почему об этике полезно думать нерыбам,</segment>
+		<segment id="13" parent="269" relname="joint">но бесполезно рыбам</segment>
+		<segment id="14" parent="269" relname="joint">и вредно рапанам.</segment>
+		<segment id="15" parent="276" relname="span">Какой-то минимальной этики,</segment>
+		<segment id="16" parent="275" relname="joint">типа не убий</segment>
+		<segment id="17" parent="275" relname="joint">и не кради,</segment>
+		<segment id="18" parent="277" relname="same-unit">это не касается,</segment>
+		<segment id="19" parent="279" relname="restatement">но эту этику можно рассматривать как разумный эгоизм,</segment>
+		<segment id="20" parent="279" relname="restatement">то есть те же самые нормальные границы.</segment>
+		<segment id="21" parent="280" relname="span">Не делай то,</segment>
+		<segment id="22" parent="21" relname="condition">за что придется дорого заплатить,</segment>
+		<segment id="23" parent="281" relname="joint">соблюдай правила безопасности в социуме,</segment>
+		<segment id="24" parent="281" relname="joint">уважай чужую собственность и чужое право на жизнь,</segment>
+		<segment id="25" parent="282" relname="span">и останешься в правовом поле,</segment>
+		<segment id="26" parent="25" relname="elaboration">которое будет тебя защищать.</segment>
+		<segment id="27" parent="287" relname="same-unit">А вот что касается разговора о более тонкой и высокой этике, об альтруизме, о готовности жертвовать собой ради блага других,</segment>
+		<segment id="28" parent="286" relname="contrast">о щедрости</segment>
+		<segment id="29" parent="286" relname="contrast">вопреки своей выгоде,</segment>
+		<segment id="30" parent="288" relname="span">о заботе о чужом благе более, чем о своем - вот эта вся прекрасная этика,</segment>
+		<segment id="31" parent="30" relname="purpose">необходимая для настоящей эволюции личности,</segment>
+		<segment id="32" parent="287" relname="same-unit">совершенно бесполезна</segment>
+		<segment id="33" parent="289" relname="joint">или даже вредна для людей с несформированными границами.</segment>
+		<segment id="34" parent="290" relname="joint">Не нужно онежьим онегиным наряжаться в белое пальто</segment>
+		<segment id="35" parent="290" relname="joint">и рассуждать о высоких мотивах.</segment>
+		<segment id="36" parent="291" relname="span">За такими "этическими" мотивами ничего кроме слияния не стоит.</segment>
+		<segment id="37" parent="292" relname="joint">Им нужно думать о формировании границ,</segment>
+		<segment id="38" parent="292" relname="joint">на этом фокусироваться,</segment>
+		<segment id="39" parent="295" relname="joint">а к этике своей и особенно чужой относиться спокойно,</segment>
+		<segment id="40" parent="41" relname="cause">не судить никого,</segment>
+		<segment id="41" parent="294" relname="span">да не судимы будут.</segment>
+		<segment id="42" parent="296" relname="joint">Очень важен принцип "не суди" для людей с плохими границами,</segment>
+		<segment id="43" parent="296" relname="joint">соблюдать его надо непременно,</segment>
+		<segment id="44" parent="297" relname="span">он как раз и помогает границы формировать.</segment>
+		<segment id="45" parent="300" relname="contrast">"У них что-то свое,</segment>
+		<segment id="46" parent="300" relname="contrast">у меня свое,</segment>
+		<segment id="47" parent="301" relname="evaluation">не мне судить".</segment>
+		<segment id="48" parent="308" relname="joint">Почему высокая этика и плохие границы не совместимы</segment>
+		<segment id="49" parent="307" relname="same-unit">и</segment>
+		<segment id="50" parent="51" relname="condition">при попытке совместить</segment>
+		<segment id="51" parent="306" relname="span">дают какой-то треш?</segment>
+		<segment id="52" parent="321" relname="span">Потому что люди со слиянием границ не различают свое и чужое.</segment>
+		<segment id="53" parent="309" relname="span">Они пытаются быть альтруистами</segment>
+		<segment id="54" parent="53" relname="condition">за чужой счет,</segment>
+		<segment id="55" parent="314" relname="joint">они думают, что жертвуют собой,</segment>
+		<segment id="56" parent="312" relname="span">а на самом деле жертвуют другими,</segment>
+		<segment id="57" parent="311" relname="joint">их щедрость как та простота, которая хуже воровства,</segment>
+		<segment id="58" parent="311" relname="joint">а их забота о чужом благе всегда почти превращается в насилие.</segment>
+		<segment id="59" parent="317" relname="purpose">Для того, чтобы быть носителем высокой этики - щедрым и альтруистичным человеком,</segment>
+		<segment id="60" parent="315" relname="joint">нужно очень хорошо видеть,</segment>
+		<segment id="61" parent="315" relname="joint">знать</segment>
+		<segment id="62" parent="315" relname="joint">и чувствовать, где действительно ваше: имущество, территория, права и силы,</segment>
+		<segment id="63" parent="316" relname="contrast">а где нет.</segment>
+		<segment id="64" parent="319" relname="span">И нужно иметь это свое,</segment>
+		<segment id="65" parent="64" relname="evaluation">что без нормальных границ сомнительно.</segment>
+		<segment id="66" parent="325" relname="contrast">Представьте себе, что человек пытается быть щедрым и жертвенным,</segment>
+		<segment id="67" parent="325" relname="contrast">но все время отдает чужое.</segment>
+		<segment id="68" parent="326" relname="joint">Он взял у вас деньги</segment>
+		<segment id="69" parent="326" relname="joint">и пожертвовал их в пользу приюта бездомных собак.</segment>
+		<segment id="70" parent="327" relname="contrast">С вашей точки зрения это обман и даже грабеж,</segment>
+		<segment id="71" parent="327" relname="contrast">а с его точки зрения - этичное поведение.</segment>
+		<segment id="72" parent="329" relname="span">И он обвиняет вас в недостатке этики</segment>
+		<segment id="73" parent="72" relname="cause">за ваше возмущение.</segment>
+		<segment id="74" parent="334" relname="joint">Или представьте себе, что человек позвал к вам домой бездомных</segment>
+		<segment id="75" parent="334" relname="joint">и поселил их у вас. Или даже не у вас, а у себя,</segment>
+		<segment id="76" parent="336" relname="contrast">но он ваш - супруг, сын или сосед по коммуналке.</segment>
+		<segment id="77" parent="337" relname="contrast">Он поступил очень этично с собственной точки зрения,</segment>
+		<segment id="78" parent="338" relname="contrast">теперь у вас на кухне - цыганский табор,</segment>
+		<segment id="79" parent="338" relname="contrast">а ваш собственный ребенок боится выходить из комнаты.</segment>
+		<segment id="80" parent="340" relname="contrast">Или сорок кошек соседка сверху завела,</segment>
+		<segment id="81" parent="339" relname="span">они все время орут дурными голосами,</segment>
+		<segment id="82" parent="81" relname="elaboration">а их моча иногда капает у вас с потолка.</segment>
+		<segment id="83" parent="345" relname="span">Или можно представить этичного гражданина,</segment>
+		<segment id="84" parent="346" relname="span">который искренне хочет спасти вас от какой-то беды,</segment>
+		<segment id="85" parent="344" relname="contrast">желание его благое,</segment>
+		<segment id="86" parent="344" relname="contrast">но он не видит границ</segment>
+		<segment id="87" parent="347" relname="span">и спасает вас насильно.</segment>
+		<segment id="88" parent="348" relname="span">Например, он отнимает у вас сигареты,</segment>
+		<segment id="89" parent="88" relname="cause">решив заботиться о вашем здоровье.</segment>
+		<segment id="90" parent="91" relname="cause">Или решает, что бег вредит вашим суставам,</segment>
+		<segment id="91" parent="349" relname="span">и не пускает вас на утреннюю пробежку.</segment>
+		<segment id="92" parent="350" relname="joint">Хочет избавить от неправильных друзей или неверных идей.</segment>
+		<segment id="93" parent="354" relname="span">Он тратит силы на заботу о вас,</segment>
+		<segment id="94" parent="352" relname="contrast">забота о других - это этичное поведение,</segment>
+		<segment id="95" parent="96" relname="condition">но при полном отсутствии границ,</segment>
+		<segment id="96" parent="351" relname="span">забота всегда почти превращается в насилие.</segment>
+		<segment id="97" parent="353" relname="span">И борьба за права всегда превращается в насилие,</segment>
+		<segment id="98" parent="97" relname="condition">если не видеть границ.</segment>
+		<segment id="99" parent="370" relname="span">Или представьте себе, что родственник или супруг раздал другим свои деньги,</segment>
+		<segment id="100" parent="358" relname="contrast">он раздал свое, а не ваше,</segment>
+		<segment id="101" parent="359" relname="span">но теперь вам придется заботиться о нем,</segment>
+		<segment id="102" parent="101" relname="cause">вы не можете его бросить на произвол судьбы.</segment>
+		<segment id="103" parent="360" relname="contrast">Вместо помощи своим детям или родителям,</segment>
+		<segment id="104" parent="361" relname="span">он становится обузой для них,</segment>
+		<segment id="105" parent="104" relname="concession">хотя считает, что повел себя очень этично.</segment>
+		<segment id="106" parent="362" relname="span">Именно поэтому о высокой этике лучше забыть,</segment>
+		<segment id="107" parent="106" relname="condition">если у вас совсем нет границ,</segment>
+		<segment id="108" parent="367" relname="condition">а если они едва наметились пунктиром,</segment>
+		<segment id="109" parent="366" relname="joint">лучше относиться к этическим вопросам осторожней,</segment>
+		<segment id="110" parent="364" relname="span">все время проверять,</segment>
+		<segment id="111" parent="110" relname="condition">не в слиянии ли вы пытаетесь этично себя вести,</segment>
+		<segment id="112" parent="113" relname="condition">и если в слиянии,</segment>
+		<segment id="113" parent="363" relname="span">займитесь лучше правкой локуса, а не этикой.</segment>
+		<segment id="114" parent="388" relname="preparation">Этика - это забота о благе других.</segment>
+		<segment id="115" parent="378" relname="comparison">От уважения к чужим границам это отличается тем,</segment>
+		<segment id="116" parent="379" relname="joint">что уважение к границам - самое минимальное, что вы можете сделать для себя и других - не чинить вокруг себя насилие,</segment>
+		<segment id="117" parent="379" relname="joint">не мешать другим людям жить</segment>
+		<segment id="118" parent="379" relname="joint">и проявлять свою волю в их собственных границах.</segment>
+		<segment id="119" parent="380" relname="span">Это - минимальные правила общежития.</segment>
+		<segment id="120" parent="119" relname="elaboration">Это не этика, а разумное поведение зрячего, а не слепого.</segment>
+		<segment id="121" parent="383" relname="joint">Люди с плохими границами действуют как слепые,</segment>
+		<segment id="122" parent="383" relname="joint">все время путают, где их воля, а где чужая,</segment>
+		<segment id="123" parent="383" relname="joint">все время проецируют на других свои желания,</segment>
+		<segment id="124" parent="384" relname="span">пытаются давить на других,</segment>
+		<segment id="125" parent="124" relname="cause">думая, что это нормальное общение и их волеизъявление.</segment>
+		<segment id="126" parent="385" relname="span">Проявлять свою волю</segment>
+		<segment id="127" parent="126" relname="condition">без учета того, что есть и чужая воля,</segment>
+		<segment id="128" parent="386" relname="same-unit">вот что такое - не иметь границ.</segment>
+		<segment id="129" parent="400" relname="span">И вот представьте себе:</segment>
+		<segment id="130" parent="392" relname="span">если человек не видит,</segment>
+		<segment id="131" parent="130" relname="elaboration">где начинается чужая воля,</segment>
+		<segment id="132" parent="393" relname="span">он начинает простирать свою волю за чужие границы,</segment>
+		<segment id="133" parent="394" relname="span">и тогда любое "благо" которое он пытается сделать для другого</segment>
+		<segment id="134" parent="133" relname="evaluation">и считает своей щедростью,</segment>
+		<segment id="135" parent="396" relname="span">осуществляется</segment>
+		<segment id="136" parent="135" relname="condition">за счет этого другого или других.</segment>
+		<segment id="137" parent="399" relname="joint">Альтруист за чужой счет - вот кем является такой спаситель,</segment>
+		<segment id="138" parent="399" relname="joint">а благодетель является насильником.</segment>
+		<segment id="139" parent="402" relname="sequence">Сначала нужно научиться видеть чужое,</segment>
+		<segment id="140" parent="402" relname="sequence">потом уже делиться своим.</segment>
+		<segment id="141" parent="405" relname="contrast">Вы должны точно знать, что делитесь именно своим,</segment>
+		<segment id="142" parent="403" relname="contrast">а не принимаете за свое - чужое или то, что вроде ваше,</segment>
+		<segment id="143" parent="403" relname="contrast">но вы должны это близким,</segment>
+		<segment id="144" parent="404" relname="span">должны выполнить сначала свой прямой долг,</segment>
+		<segment id="145" parent="406" relname="sequence">а потом уже блистать щедростью.</segment>
+		<segment id="146" parent="407" relname="sequence">Сначала нужно научиться отличать реальную чужую нужду от своей проекции,</segment>
+		<segment id="147" parent="407" relname="sequence">потом уже помогать.</segment>
+		<segment id="148" parent="408" relname="joint">Вы должны точно знать, что второму нужна ваша помощь,</segment>
+		<segment id="149" parent="408" relname="joint">полезна</segment>
+		<segment id="150" parent="408" relname="joint">и не противоречит его воле,</segment>
+		<segment id="151" parent="410" relname="same-unit">иначе вы становитесь не благодетелем, а насильником,</segment>
+		<segment id="152" parent="411" relname="span">или искусителем, позволяющим другому человеку деградировать</segment>
+		<segment id="153" parent="152" relname="condition">при вашей поддержке.</segment>
+		<segment id="154" parent="421" relname="contrast">Правда люди с совсем плохими границами всегда вредят в первую очередь себе.</segment>
+		<segment id="155" parent="419" relname="joint">Вот люди с хорошими границами, но недостатком этики могут вредить другим, а себе в отдаленной перспективе,</segment>
+		<segment id="156" parent="419" relname="joint">ограничивают свой рост,</segment>
+		<segment id="157" parent="420" relname="contrast">но в настоящее время могут извлекать пользу.</segment>
+		<segment id="158" parent="159" relname="cause">А люди с плохими границами вредят себе,</segment>
+		<segment id="159" parent="422" relname="span">поэтому им особенно важно не прятать плохие границы за "этикой".</segment>
+		<segment id="160" parent="422" relname="evaluation">Это важно для них.</segment>
+		<segment id="161" parent="424" relname="span">Самый понятный всем пример "этичное" поведение некоторых онегиных, которые боятся бросить женщину,</segment>
+		<segment id="162" parent="161" relname="condition">пока она им не опротивела.</segment>
+		<segment id="163" parent="425" relname="joint">Им кажется, что неэтично бросать ту, которая любит их,</segment>
+		<segment id="164" parent="425" relname="joint">нельзя наносить рану.</segment>
+		<segment id="165" parent="434" relname="span">В результате они тянут волынку,</segment>
+		<segment id="166" parent="165" relname="condition">пока не возненавидят эту женщину.</segment>
+		<segment id="167" parent="429" relname="joint">В основном, страдают сами,</segment>
+		<segment id="168" parent="429" relname="joint">истощаются</segment>
+		<segment id="169" parent="429" relname="joint">и отмораживаются,</segment>
+		<segment id="170" parent="433" relname="span">но и женщине не приносят ничего хорошего.</segment>
+		<segment id="171" parent="431" relname="span">Не хватает уважения к ней и понимания,</segment>
+		<segment id="172" parent="432" relname="span">что не в их границах заставить себя полюбить</segment>
+		<segment id="173" parent="172" relname="evaluation">- это за пределами их возможностей, как и стремление избавить женщин от огорчений по этому поводу.</segment>
+		<segment id="174" parent="428" relname="evaluation">Вместо этики получается зло.</segment>
+		<segment id="175" parent="444" relname="preparation">Помните, как в сериале Онегин вообразил, что должен заботиться о влюбленной бедняжке Белоснежке?</segment>
+		<segment id="176" parent="438" relname="contrast">В результате Казанова спал с ней в его кровати,</segment>
+		<segment id="177" parent="439" relname="contrast">а Белоснежка страдала от постоянных выносов ей мозга, от настоящего эмоционального насилия,</segment>
+		<segment id="178" parent="440" relname="span">но боялась уйти</segment>
+		<segment id="179" parent="178" relname="cause">от жадности.</segment>
+		<segment id="180" parent="181" relname="condition">Пока Онегин старался быть этичным,</segment>
+		<segment id="181" parent="441" relname="span">он едва не потерял любимую и любящую его девушку, Золушку.</segment>
+		<segment id="182" parent="442" relname="joint">И себя терял.</segment>
+		<segment id="183" parent="446" relname="contrast">Хорошо хоть Петя спас Онегина от этой "этики",</segment>
+		<segment id="184" parent="448" relname="contrast">но получилось неприятно для Онегина, оскорбительно и больно,</segment>
+		<segment id="185" parent="186" relname="condition">а будь его границы лучше,</segment>
+		<segment id="186" parent="447" relname="span">не было бы оскорблений со стороны Казановы и Белоснежки.</segment>
+		<segment id="187" parent="450" relname="evaluation">Больше уважения к Белоснежке и понимания ограничения своих возможностей Онегину бы не помешали, да?</segment>
+		<segment id="188" parent="473" relname="preparation">Второй понятный пример, это как рапаны обоего пола стараются изначально "выяснить все на берегу".</segment>
+		<segment id="189" parent="453" relname="joint">В паре ли человек,</segment>
+		<segment id="190" parent="453" relname="joint">насколько свободен,</segment>
+		<segment id="191" parent="453" relname="joint">какие у него намерения, а вдруг серьезные или наоборот,</segment>
+		<segment id="192" parent="453" relname="joint">вдруг намерения не совпадают с их,</segment>
+		<segment id="193" parent="470" relname="span">надо выяснить все на берегу, до начала отношений.</segment>
+		<segment id="194" parent="471" relname="contrast">Надо выяснить все про отношения, которых пока еще нет.</segment>
+		<segment id="195" parent="457" relname="contrast">Это кажется этичным поведением, порядочным и ответственным,</segment>
+		<segment id="196" parent="460" relname="span">а по сути является блокировкой спонтанности.</segment>
+		<segment id="197" parent="458" relname="joint">Нет уважения к другому человеку и самому потоку жизни,</segment>
+		<segment id="198" parent="458" relname="joint">все хочется заранее проконтролировать,</segment>
+		<segment id="199" parent="458" relname="joint">расписать</segment>
+		<segment id="200" parent="459" relname="span">и обсудить на словах,</segment>
+		<segment id="201" parent="200" relname="condition">не давая вещам случиться.</segment>
+		<segment id="202" parent="461" relname="joint">Вот из-за такой "этики" онежьи онегины совсем почти не имеют спонтанности</segment>
+		<segment id="203" parent="466" relname="span">и даже либидо их задавлено.</segment>
+		<segment id="204" parent="465" relname="contrast">Некоторым алкоголь помогает раскрепоститься,</segment>
+		<segment id="205" parent="463" relname="cause">но потом так стыдно за "неэтичное" поведение,</segment>
+		<segment id="206" parent="462" relname="joint">что блокировка становится еще больше,</segment>
+		<segment id="207" parent="462" relname="joint">а отвращение к спонтанности сильней.</segment>
+		<segment id="208" parent="467" relname="contrast">А ведь спонтанность - это сама жизнь.</segment>
+		<segment id="209" parent="480" relname="span">Два вида белых пальто есть у онегиных.</segment>
+		<segment id="210" parent="475" relname="span">Отвращение к казановам</segment>
+		<segment id="211" parent="210" relname="cause">за то, что они легкомысленны,</segment>
+		<segment id="212" parent="476" relname="span">и отвращение к печориным</segment>
+		<segment id="213" parent="477" relname="joint">за то, что они слишком смелы</segment>
+		<segment id="214" parent="477" relname="joint">и независимы.</segment>
+		<segment id="215" parent="479" relname="contrast">Казановы и правда слишком легкомысленны,</segment>
+		<segment id="216" parent="479" relname="contrast">а печорины слишком смелы.</segment>
+		<segment id="217" parent="481" relname="joint">Но самим онегинам очень сильно не хватает того и другого,</segment>
+		<segment id="218" parent="483" relname="span">у них дефицит и смелости, и легкости, очень большой дефицит,</segment>
+		<segment id="219" parent="482" relname="joint">из-за которого они ни себя, ни женщин не могут сделать счастливыми,</segment>
+		<segment id="220" parent="484" relname="joint">живут, пригруженные могильной плитой</segment>
+		<segment id="221" parent="484" relname="joint">и других этим грузят.</segment>
+		<segment id="222" parent="486" relname="contrast">Им бы взглянуть с симпатией на казанов и печориных или хотя бы с любопытством,</segment>
+		<segment id="223" parent="487" relname="joint">но они закрываются белым пальто</segment>
+		<segment id="224" parent="487" relname="joint">и держатся за воображаемую "этику".</segment>
+		<segment id="225" parent="502" relname="span">Этика настоящая начинается только после того, как появляются границы.</segment>
+		<segment id="226" parent="492" relname="contrast">Вот где вы можете точно видеть, что жертвуете и почему,</segment>
+		<segment id="227" parent="492" relname="contrast">никогда не пожертвуете ничем чужим или тем, что для вас жизненно важно и без чего вы станете обузой другим.</segment>
+		<segment id="228" parent="229" relname="condition">Если вы пожертвовали последнее,</segment>
+		<segment id="229" parent="493" relname="span">вероятней всего кому-то придется взять на себя заботу о вас.</segment>
+		<segment id="230" parent="495" relname="span">И возможно вы навязали свою жертву,</segment>
+		<segment id="231" parent="494" relname="joint">потому что с плохими границами вы не можете увидеть реальных потребностей других людей,</segment>
+		<segment id="232" parent="494" relname="joint">проецируете на них свои желания.</segment>
+		<segment id="233" parent="496" relname="joint">То есть с плохими границами вы живете в хаосе,</segment>
+		<segment id="234" parent="496" relname="joint">все время наступаете другим на ноги,</segment>
+		<segment id="235" parent="496" relname="joint">хватаете их вещи,</segment>
+		<segment id="236" parent="497" relname="contrast">пытаетесь другими рулить,</segment>
+		<segment id="237" parent="497" relname="contrast">думая, что рулите собой.</segment>
+		<segment id="238" parent="499" relname="evaluation">О какой этике может быть речь?</segment>
+		<segment id="239" parent="504" relname="contrast">Сначала надо уважению научиться,</segment>
+		<segment id="240" parent="504" relname="contrast">а потом уже учиться настоящей любви.</segment>
+		<segment id="241" parent="505" relname="span">Этика - это про любовь.</segment>
+		<segment id="242" parent="520" relname="contrast">Про ту любовь, которая не страсть и не влечение, а чистое удовольствие от чужого благополучия.</segment>
+		<segment id="243" parent="244" relname="condition">Без уважения</segment>
+		<segment id="244" parent="506" relname="span">это непременно превращается в насилие, насилие над другими или над собой. Причем в насилие</segment>
+		<segment id="245" parent="506" relname="cause">из-за страха оказаться неэтичным.</segment>
+		<segment id="246" parent="247" relname="purpose">Для любви</segment>
+		<segment id="247" parent="508" relname="span">необходима эмпатия,</segment>
+		<segment id="248" parent="249" relname="purpose">а для эмпатии</segment>
+		<segment id="249" parent="509" relname="span">нужно отделение границ,</segment>
+		<segment id="250" parent="510" relname="contrast">иначе вместо эмпатии будут сплошные свои проекции.</segment>
+		<segment id="251" parent="513" relname="span">И свобода необходима</segment>
+		<segment id="252" parent="251" relname="purpose">для настоящей любви,</segment>
+		<segment id="253" parent="514" relname="restatement">а свобода начинается с независимости,</segment>
+		<segment id="254" parent="517" relname="span">то есть с отделения своих границ.</segment>
+		<segment id="255" parent="515" relname="span">Все начинается с отделения границ.</segment>
+		<segment id="256" parent="255" relname="elaboration">Личность с этого начинается.</segment>
+		<segment id="257" parent="516" relname="contrast">Без личных границ вы - не отдельная личность, а биологический материал.</segment>
+		<segment id="258" relname="antithesis">Насколько эта тема понятна?</segment>
+		<segment id="259" relname="antithesis">Можете примеры привести?</segment>
+		<group id="261" type="span" parent="270" relname="span"/>
+		<group id="263" type="span" parent="267" relname="span"/>
+		<group id="264" type="multinuc" parent="266" relname="joint"/>
+		<group id="265" type="multinuc" parent="266" relname="joint"/>
+		<group id="266" type="multinuc" parent="263" relname="elaboration"/>
+		<group id="267" type="span" parent="261" relname="elaboration"/>
+		<group id="268" type="multinuc" parent="305" relname="span"/>
+		<group id="269" type="multinuc" parent="268" relname="contrast"/>
+		<group id="270" type="span" parent="274" relname="span"/>
+		<group id="272" type="span" parent="273" relname="span"/>
+		<group id="273" type="span" relname="antithesis"/>
+		<group id="274" type="span" parent="272" relname="solutionhood"/>
+		<group id="275" type="multinuc" parent="15" relname="elaboration"/>
+		<group id="276" type="span" parent="277" relname="same-unit"/>
+		<group id="277" type="multinuc" parent="278" relname="contrast"/>
+		<group id="278" type="multinuc" parent="284" relname="span"/>
+		<group id="279" type="multinuc" parent="278" relname="contrast"/>
+		<group id="280" type="span" parent="281" relname="joint"/>
+		<group id="281" type="multinuc" parent="282" relname="condition"/>
+		<group id="282" type="span" parent="283" relname="span"/>
+		<group id="283" type="span" parent="284" relname="elaboration"/>
+		<group id="284" type="span" parent="285" relname="span"/>
+		<group id="285" type="span" parent="305" relname="background"/>
+		<group id="286" type="multinuc" parent="287" relname="same-unit"/>
+		<group id="287" type="multinuc" parent="289" relname="joint"/>
+		<group id="288" type="span" parent="287" relname="same-unit"/>
+		<group id="289" type="multinuc" parent="304" relname="contrast"/>
+		<group id="290" type="multinuc" parent="36" relname="cause"/>
+		<group id="291" type="span" parent="299" relname="contrast"/>
+		<group id="292" type="multinuc" parent="293" relname="contrast"/>
+		<group id="293" type="multinuc" parent="299" relname="contrast"/>
+		<group id="294" type="span" parent="298" relname="span"/>
+		<group id="295" type="multinuc" parent="293" relname="contrast"/>
+		<group id="296" type="multinuc" parent="44" relname="cause"/>
+		<group id="297" type="span" parent="303" relname="span"/>
+		<group id="298" type="span" parent="295" relname="joint"/>
+		<group id="299" type="multinuc" parent="304" relname="contrast"/>
+		<group id="300" type="multinuc" parent="301" relname="span"/>
+		<group id="301" type="span" parent="302" relname="span"/>
+		<group id="302" type="span" parent="297" relname="elaboration"/>
+		<group id="303" type="span" parent="294" relname="evaluation"/>
+		<group id="304" type="multinuc" relname="antithesis"/>
+		<group id="305" type="span" parent="272" relname="span"/>
+		<group id="306" type="span" parent="307" relname="same-unit"/>
+		<group id="307" type="multinuc" parent="308" relname="joint"/>
+		<group id="308" type="multinuc" parent="323" relname="solutionhood"/>
+		<group id="309" type="span" parent="314" relname="joint"/>
+		<group id="311" type="multinuc" parent="56" relname="elaboration"/>
+		<group id="312" type="span" parent="313" relname="contrast"/>
+		<group id="313" type="multinuc" parent="52" relname="elaboration"/>
+		<group id="314" type="multinuc" parent="313" relname="contrast"/>
+		<group id="315" type="multinuc" parent="316" relname="contrast"/>
+		<group id="316" type="multinuc" parent="320" relname="joint"/>
+		<group id="317" type="span" parent="318" relname="span"/>
+		<group id="318" type="span" parent="322" relname="contrast"/>
+		<group id="319" type="span" parent="320" relname="joint"/>
+		<group id="320" type="multinuc" parent="317" relname="span"/>
+		<group id="321" type="span" parent="322" relname="contrast"/>
+		<group id="322" type="multinuc" parent="323" relname="span"/>
+		<group id="323" type="span" parent="324" relname="span"/>
+		<group id="324" type="span" relname="antithesis"/>
+		<group id="325" type="multinuc" parent="342" relname="preparation"/>
+		<group id="326" type="multinuc" parent="332" relname="span"/>
+		<group id="327" type="multinuc" parent="330" relname="span"/>
+		<group id="329" type="span" parent="330" relname="evaluation"/>
+		<group id="330" type="span" parent="331" relname="span"/>
+		<group id="331" type="span" parent="332" relname="evaluation"/>
+		<group id="332" type="span" parent="333" relname="span"/>
+		<group id="333" type="span" parent="341" relname="joint"/>
+		<group id="334" type="multinuc" parent="336" relname="contrast"/>
+		<group id="336" type="multinuc" parent="526" relname="span"/>
+		<group id="337" type="multinuc" parent="526" relname="evaluation"/>
+		<group id="338" type="multinuc" parent="337" relname="contrast"/>
+		<group id="339" type="span" parent="340" relname="contrast"/>
+		<group id="340" type="multinuc" parent="341" relname="joint"/>
+		<group id="341" type="multinuc" parent="342" relname="span"/>
+		<group id="342" type="span" parent="343" relname="span"/>
+		<group id="343" type="span" relname="antithesis"/>
+		<group id="344" type="multinuc" parent="87" relname="cause"/>
+		<group id="345" type="span" parent="375" relname="preparation"/>
+		<group id="346" type="span" parent="83" relname="elaboration"/>
+		<group id="347" type="span" parent="84" relname="elaboration"/>
+		<group id="348" type="span" parent="350" relname="joint"/>
+		<group id="349" type="span" parent="350" relname="joint"/>
+		<group id="350" type="multinuc" parent="355" relname="span"/>
+		<group id="351" type="span" parent="352" relname="contrast"/>
+		<group id="352" type="multinuc" parent="93" relname="elaboration"/>
+		<group id="353" type="span" parent="356" relname="joint"/>
+		<group id="354" type="span" parent="356" relname="joint"/>
+		<group id="355" type="span" parent="357" relname="span"/>
+		<group id="356" type="multinuc" parent="355" relname="evaluation"/>
+		<group id="357" type="span" parent="374" relname="joint"/>
+		<group id="358" type="multinuc" parent="371" relname="cause"/>
+		<group id="359" type="span" parent="358" relname="contrast"/>
+		<group id="360" type="multinuc" parent="371" relname="span"/>
+		<group id="361" type="span" parent="360" relname="contrast"/>
+		<group id="362" type="span" parent="369" relname="joint"/>
+		<group id="363" type="span" parent="364" relname="elaboration"/>
+		<group id="364" type="span" parent="365" relname="span"/>
+		<group id="365" type="span" parent="366" relname="joint"/>
+		<group id="366" type="multinuc" parent="367" relname="span"/>
+		<group id="367" type="span" parent="368" relname="span"/>
+		<group id="368" type="span" parent="369" relname="joint"/>
+		<group id="369" type="multinuc" parent="373" relname="span"/>
+		<group id="370" type="span" parent="374" relname="joint"/>
+		<group id="371" type="span" parent="372" relname="span"/>
+		<group id="372" type="span" parent="99" relname="elaboration"/>
+		<group id="373" type="span" parent="377" relname="span"/>
+		<group id="374" type="multinuc" parent="375" relname="span"/>
+		<group id="375" type="span" parent="376" relname="span"/>
+		<group id="376" type="span" parent="373" relname="solutionhood"/>
+		<group id="377" type="span" relname="antithesis"/>
+		<group id="378" type="multinuc" parent="381" relname="span"/>
+		<group id="379" type="multinuc" parent="378" relname="comparison"/>
+		<group id="380" type="span" parent="381" relname="elaboration"/>
+		<group id="381" type="span" parent="382" relname="span"/>
+		<group id="382" type="span" parent="387" relname="contrast"/>
+		<group id="383" type="multinuc" parent="387" relname="contrast"/>
+		<group id="384" type="span" parent="383" relname="joint"/>
+		<group id="385" type="span" parent="386" relname="same-unit"/>
+		<group id="386" type="multinuc" parent="390" relname="span"/>
+		<group id="387" type="multinuc" parent="388" relname="span"/>
+		<group id="388" type="span" parent="389" relname="span"/>
+		<group id="389" type="span" parent="390" relname="solutionhood"/>
+		<group id="390" type="span" parent="391" relname="span"/>
+		<group id="391" type="span" relname="antithesis"/>
+		<group id="392" type="span" parent="132" relname="condition"/>
+		<group id="393" type="span" parent="129" relname="elaboration"/>
+		<group id="394" type="span" parent="395" relname="same-unit"/>
+		<group id="395" type="multinuc" parent="397" relname="span"/>
+		<group id="396" type="span" parent="395" relname="same-unit"/>
+		<group id="397" type="span" parent="398" relname="span"/>
+		<group id="398" type="span" parent="401" relname="span"/>
+		<group id="399" type="multinuc" parent="398" relname="evaluation"/>
+		<group id="400" type="span" parent="397" relname="cause"/>
+		<group id="401" type="span" parent="417" relname="solutionhood"/>
+		<group id="402" type="multinuc" parent="412" relname="span"/>
+		<group id="403" type="multinuc" parent="144" relname="condition"/>
+		<group id="404" type="span" parent="405" relname="contrast"/>
+		<group id="405" type="multinuc" parent="406" relname="sequence"/>
+		<group id="406" type="multinuc" parent="412" relname="elaboration"/>
+		<group id="407" type="multinuc" parent="415" relname="span"/>
+		<group id="408" type="multinuc" parent="409" relname="contrast"/>
+		<group id="409" type="multinuc" parent="415" relname="elaboration"/>
+		<group id="410" type="multinuc" parent="409" relname="contrast"/>
+		<group id="411" type="span" parent="410" relname="same-unit"/>
+		<group id="412" type="span" parent="413" relname="span"/>
+		<group id="413" type="span" parent="414" relname="joint"/>
+		<group id="414" type="multinuc" parent="417" relname="span"/>
+		<group id="415" type="span" parent="416" relname="span"/>
+		<group id="416" type="span" parent="414" relname="joint"/>
+		<group id="417" type="span" parent="418" relname="span"/>
+		<group id="418" type="span" relname="antithesis"/>
+		<group id="419" type="multinuc" parent="420" relname="contrast"/>
+		<group id="420" type="multinuc" parent="436" relname="contrast"/>
+		<group id="421" type="multinuc" parent="435" relname="preparation"/>
+		<group id="422" type="span" parent="423" relname="span"/>
+		<group id="423" type="span" parent="436" relname="contrast"/>
+		<group id="424" type="span" parent="426" relname="span"/>
+		<group id="425" type="multinuc" parent="424" relname="elaboration"/>
+		<group id="426" type="span" parent="427" relname="cause"/>
+		<group id="427" type="span" parent="428" relname="span"/>
+		<group id="428" type="span" parent="435" relname="span"/>
+		<group id="429" type="multinuc" parent="430" relname="joint"/>
+		<group id="430" type="multinuc" parent="434" relname="elaboration"/>
+		<group id="431" type="span" parent="170" relname="elaboration"/>
+		<group id="432" type="span" parent="171" relname="elaboration"/>
+		<group id="433" type="span" parent="430" relname="joint"/>
+		<group id="434" type="span" parent="427" relname="span"/>
+		<group id="435" type="span" parent="437" relname="span"/>
+		<group id="436" type="multinuc" parent="421" relname="contrast"/>
+		<group id="437" type="span" relname="antithesis"/>
+		<group id="438" type="multinuc" parent="443" relname="span"/>
+		<group id="439" type="multinuc" parent="438" relname="contrast"/>
+		<group id="440" type="span" parent="439" relname="contrast"/>
+		<group id="441" type="span" parent="442" relname="joint"/>
+		<group id="442" type="multinuc" parent="443" relname="elaboration"/>
+		<group id="443" type="span" parent="444" relname="span"/>
+		<group id="444" type="span" parent="445" relname="span"/>
+		<group id="445" type="span" parent="451" relname="solutionhood"/>
+		<group id="446" type="multinuc" parent="451" relname="span"/>
+		<group id="447" type="span" parent="448" relname="contrast"/>
+		<group id="448" type="multinuc" parent="450" relname="span"/>
+		<group id="449" type="span" parent="446" relname="contrast"/>
+		<group id="450" type="span" parent="449" relname="span"/>
+		<group id="451" type="span" parent="452" relname="span"/>
+		<group id="452" type="span" relname="antithesis"/>
+		<group id="453" type="multinuc" parent="193" relname="solutionhood"/>
+		<group id="457" type="multinuc" parent="472" relname="evaluation"/>
+		<group id="458" type="multinuc" parent="469" relname="cause"/>
+		<group id="459" type="span" parent="458" relname="joint"/>
+		<group id="460" type="span" parent="457" relname="contrast"/>
+		<group id="461" type="multinuc" parent="469" relname="span"/>
+		<group id="462" type="multinuc" parent="463" relname="span"/>
+		<group id="463" type="span" parent="464" relname="span"/>
+		<group id="464" type="span" parent="465" relname="contrast"/>
+		<group id="465" type="multinuc" parent="203" relname="elaboration"/>
+		<group id="466" type="span" parent="461" relname="joint"/>
+		<group id="467" type="multinuc" parent="196" relname="elaboration"/>
+		<group id="468" type="span" parent="467" relname="contrast"/>
+		<group id="469" type="span" parent="468" relname="span"/>
+		<group id="470" type="span" parent="471" relname="contrast"/>
+		<group id="471" type="multinuc" parent="472" relname="span"/>
+		<group id="472" type="span" parent="473" relname="span"/>
+		<group id="473" type="span" parent="474" relname="span"/>
+		<group id="474" type="span" relname="antithesis"/>
+		<group id="475" type="span" parent="478" relname="same-unit"/>
+		<group id="476" type="span" parent="478" relname="same-unit"/>
+		<group id="477" type="multinuc" parent="212" relname="cause"/>
+		<group id="478" type="multinuc" parent="209" relname="elaboration"/>
+		<group id="479" type="multinuc" parent="491" relname="span"/>
+		<group id="480" type="span" parent="491" relname="preparation"/>
+		<group id="481" type="multinuc" parent="485" relname="contrast"/>
+		<group id="482" type="multinuc" parent="218" relname="cause"/>
+		<group id="483" type="span" parent="481" relname="joint"/>
+		<group id="484" type="multinuc" parent="482" relname="joint"/>
+		<group id="485" type="multinuc" parent="488" relname="solutionhood"/>
+		<group id="486" type="multinuc" parent="488" relname="span"/>
+		<group id="487" type="multinuc" parent="486" relname="contrast"/>
+		<group id="488" type="span" parent="489" relname="span"/>
+		<group id="489" type="span" relname="antithesis"/>
+		<group id="490" type="span" parent="485" relname="contrast"/>
+		<group id="491" type="span" parent="490" relname="span"/>
+		<group id="492" type="multinuc" parent="225" relname="elaboration"/>
+		<group id="493" type="span" parent="498" relname="span"/>
+		<group id="494" type="multinuc" parent="230" relname="cause"/>
+		<group id="495" type="span" parent="493" relname="elaboration"/>
+		<group id="496" type="multinuc" parent="499" relname="span"/>
+		<group id="497" type="multinuc" parent="496" relname="joint"/>
+		<group id="498" type="span" parent="501" relname="span"/>
+		<group id="499" type="span" parent="500" relname="span"/>
+		<group id="500" type="span" parent="498" relname="elaboration"/>
+		<group id="501" type="span" parent="503" relname="contrast"/>
+		<group id="502" type="span" parent="503" relname="contrast"/>
+		<group id="503" type="multinuc" relname="antithesis"/>
+		<group id="504" type="multinuc" parent="521" relname="preparation"/>
+		<group id="505" type="span" parent="521" relname="span"/>
+		<group id="506" type="span" parent="512" relname="span"/>
+		<group id="508" type="span" parent="511" relname="joint"/>
+		<group id="509" type="span" parent="510" relname="contrast"/>
+		<group id="510" type="multinuc" parent="511" relname="joint"/>
+		<group id="511" type="multinuc" parent="505" relname="elaboration"/>
+		<group id="512" type="span" parent="520" relname="contrast"/>
+		<group id="513" type="span" parent="518" relname="span"/>
+		<group id="514" type="multinuc" parent="523" relname="span"/>
+		<group id="515" type="span" parent="516" relname="contrast"/>
+		<group id="516" type="multinuc" parent="254" relname="elaboration"/>
+		<group id="517" type="span" parent="514" relname="restatement"/>
+		<group id="518" type="span" parent="511" relname="joint"/>
+		<group id="520" type="multinuc" parent="241" relname="elaboration"/>
+		<group id="521" type="span" parent="522" relname="span"/>
+		<group id="522" type="span" relname="antithesis"/>
+		<group id="523" type="span" parent="513" relname="elaboration"/>
+		<group id="525" type="span" parent="341" relname="joint"/>
+		<group id="526" type="span" parent="525" relname="span"/>
+  </body>
+</rst>

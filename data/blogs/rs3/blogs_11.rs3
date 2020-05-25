@@ -1,0 +1,158 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="antithesis" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="background" type="rst" />
+			<rel name="cause" type="rst" />
+			<rel name="comparison" type="multinuc" />
+			<rel name="concession" type="rst" />
+			<rel name="conclusion" type="rst" />
+			<rel name="condition" type="rst" />
+			<rel name="contrast" type="multinuc" />
+			<rel name="effect" type="rst" />
+			<rel name="elaboration" type="rst" />
+			<rel name="evaluation" type="rst" />
+			<rel name="evidence" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="motivation" type="rst" />
+			<rel name="preparation" type="rst" />
+			<rel name="purpose" type="rst" />
+			<rel name="restatement" type="multinuc" />
+			<rel name="same-unit" type="multinuc" />
+			<rel name="sequence" type="multinuc" />
+			<rel name="solutionhood" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="1" relname="antithesis">https://kosmetista.ru/blog/pricheski/97337.html</segment>
+		<segment id="2" relname="antithesis">Масло для волос Mythic Oil от L'oreal Professionnel</segment>
+		<segment id="3" relname="antithesis">Доброе время суток!</segment>
+		<segment id="4" parent="138" relname="same-unit">Помимо стандартного набора</segment>
+		<segment id="5" parent="6" relname="purpose">для ухода за волосами «шампунь + кондиционер»</segment>
+		<segment id="6" parent="137" relname="span">у меня всегда присутствует ещё как минимум масло,</segment>
+		<segment id="7" parent="124" relname="elaboration">именно о нём сегодняшний отзыв.</segment>
+		<segment id="8" parent="139" relname="elaboration">IMG</segment>
+		<segment id="9" parent="71" relname="preparation">Моё мнение:</segment>
+		<segment id="10" parent="68" relname="span">Профессиональную линейку</segment>
+		<segment id="11" parent="10" relname="purpose">для ухода за волосами от L’Oreal</segment>
+		<segment id="12" parent="69" relname="same-unit">я безусловно знаю,</segment>
+		<segment id="13" parent="70" relname="contrast">но как-то так сложилось, что ничего не пробовала.</segment>
+		<segment id="14" parent="75" relname="span">Знакомство началось с масла Mythic Oil Nourishing Oil For All Hair Types.</segment>
+		<segment id="15" parent="141" relname="span">У меня сухие, тонкие, окрашенные волосы,</segment>
+		<segment id="16" parent="15" relname="elaboration">требующие тщательного ухода и максимального увлажнения.</segment>
+		<segment id="17" parent="74" relname="span">Масло – мой must-have.</segment>
+		<segment id="18" parent="94" relname="span">Масло L’Oreal оказалось действительно хорошим.</segment>
+		<segment id="19" parent="84" relname="span">Оно имеет классическую масляную текстуру</segment>
+		<segment id="20" parent="77" relname="attribution">(как заявляет производитель</segment>
+		<segment id="21" parent="76" relname="contrast">в составе только масла</segment>
+		<segment id="22" parent="76" relname="contrast">и нет силикона,</segment>
+		<segment id="23" parent="81" relname="span">но тут я не поняла прикола, ведь в составе значится Dimethiconol,</segment>
+		<segment id="24" parent="80" relname="joint">то ли наврали,</segment>
+		<segment id="25" parent="80" relname="joint">то ли что-то напутали в описании,</segment>
+		<segment id="26" parent="82" relname="span">в любом случае, для меня не страшно,</segment>
+		<segment id="27" parent="26" relname="cause">я силикона в средствах для волос не боюсь).</segment>
+		<segment id="28" parent="29" relname="cause">Масло концентрированное,</segment>
+		<segment id="29" parent="126" relname="span">поэтому расход экономичен,</segment>
+		<segment id="30" parent="87" relname="condition">если взять много,</segment>
+		<segment id="31" parent="86" relname="joint">то мои тонкие волосы может переутяжелить</segment>
+		<segment id="32" parent="86" relname="joint">и убрать свежесть и объём.</segment>
+		<segment id="33" parent="127" relname="elaboration">После пары применений я уже знала свою «дозу».</segment>
+		<segment id="34" parent="96" relname="joint">Впитывается быстро.</segment>
+		<segment id="35" parent="92" relname="joint">Моментально смягчает,</segment>
+		<segment id="36" parent="92" relname="joint">увлажняет</segment>
+		<segment id="37" parent="92" relname="joint">и питает волосы,</segment>
+		<segment id="38" parent="93" relname="joint">из сухих и безжизненный они превращаются в нормальные.</segment>
+		<segment id="39" parent="129" relname="evaluation">На ощупь волосы становятся очень приятными.</segment>
+		<segment id="40" parent="97" relname="sequence">Я наношу масло после мытья на отжатые полотенцем волосы,</segment>
+		<segment id="41" parent="98" relname="joint">далее даю им высохнуть либо самостоятельно,</segment>
+		<segment id="42" parent="98" relname="joint">либо укладываю феном.</segment>
+		<segment id="43" parent="100" relname="span">Также капельку наношу уже на сухие волосы,</segment>
+		<segment id="44" parent="99" relname="joint">чтобы убрать пушистость</segment>
+		<segment id="45" parent="99" relname="joint">и придать дополнительный блеск.</segment>
+		<segment id="46" parent="101" relname="contrast">На моих светлых волосах блеск не сильно заметен,</segment>
+		<segment id="47" parent="101" relname="contrast">но он есть,</segment>
+		<segment id="48" parent="131" relname="comparison">думаю, на тёмных волосах он будет более выраженным.</segment>
+		<segment id="49" parent="50" relname="condition">Если вы в поисках базового масла для волос,</segment>
+		<segment id="50" parent="106" relname="span">то Mythic Oil неплохой вариант,</segment>
+		<segment id="51" parent="107" relname="contrast">оно не делает чудес,</segment>
+		<segment id="52" parent="107" relname="contrast">но ухаживает за волосами от мытья до мытья.</segment>
+		<segment id="53" parent="112" relname="span">У меня масло в миниатюрном формате,</segment>
+		<segment id="54" parent="111" relname="span">брала специально</segment>
+		<segment id="55" parent="54" relname="purpose">для отпуска.</segment>
+		<segment id="56" parent="113" relname="span">Но даже миниатюрная упаковка сделана на совесть – из стекла )</segment>
+		<segment id="57" parent="56" relname="elaboration">транспортировку в багаже флакон прошёл без проблем.</segment>
+		<segment id="58" parent="116" relname="condition">Единственное, когда у меня осталась где-то 1/3</segment>
+		<segment id="59" parent="115" relname="contrast">дозатор перестал нормально выдавать средство,</segment>
+		<segment id="60" parent="115" relname="contrast">а начал плеваться.</segment>
+		<segment id="61" parent="121" relname="evaluation">Аромат приятный — лёгкий цветочный.</segment>
+		<segment id="62" parent="135" relname="span">IMG IMG</segment>
+		<segment id="63" parent="123" relname="joint">Срок использования: 1,5 месяца</segment>
+		<segment id="64" parent="123" relname="joint">Цена: около 500 руб.</segment>
+		<segment id="65" parent="133" relname="evaluation">Оценка: 5  </segment>
+		<group id="68" type="span" parent="69" relname="same-unit"/>
+		<group id="69" type="multinuc" parent="70" relname="contrast"/>
+		<group id="70" type="multinuc" parent="71" relname="span"/>
+		<group id="71" type="span" parent="72" relname="span"/>
+		<group id="72" type="span" parent="73" relname="span"/>
+		<group id="73" type="span" relname="antithesis"/>
+		<group id="74" type="span" parent="14" relname="elaboration"/>
+		<group id="75" type="span" parent="94" relname="preparation"/>
+		<group id="76" type="multinuc" parent="77" relname="span"/>
+		<group id="77" type="span" parent="78" relname="span"/>
+		<group id="78" type="span" parent="79" relname="contrast"/>
+		<group id="79" type="multinuc" parent="19" relname="elaboration"/>
+		<group id="80" type="multinuc" parent="23" relname="elaboration"/>
+		<group id="81" type="span" parent="83" relname="span"/>
+		<group id="82" type="span" parent="81" relname="evaluation"/>
+		<group id="83" type="span" parent="79" relname="contrast"/>
+		<group id="84" type="span" parent="18" relname="elaboration"/>
+		<group id="86" type="multinuc" parent="87" relname="span"/>
+		<group id="87" type="span" parent="88" relname="span"/>
+		<group id="88" type="span" parent="126" relname="elaboration"/>
+		<group id="92" type="multinuc" parent="93" relname="joint"/>
+		<group id="93" type="multinuc" parent="129" relname="span"/>
+		<group id="94" type="span" parent="95" relname="span"/>
+		<group id="95" type="span" relname="antithesis"/>
+		<group id="96" type="multinuc" parent="105" relname="joint"/>
+		<group id="97" type="multinuc" parent="105" relname="joint"/>
+		<group id="98" type="multinuc" parent="97" relname="sequence"/>
+		<group id="99" type="multinuc" parent="43" relname="purpose"/>
+		<group id="100" type="span" parent="104" relname="span"/>
+		<group id="101" type="multinuc" parent="131" relname="comparison"/>
+		<group id="104" type="span" parent="97" relname="sequence"/>
+		<group id="105" type="multinuc" parent="109" relname="span"/>
+		<group id="106" type="span" parent="108" relname="span"/>
+		<group id="107" type="multinuc" parent="106" relname="elaboration"/>
+		<group id="108" type="span" parent="109" relname="evaluation"/>
+		<group id="109" type="span" parent="110" relname="span"/>
+		<group id="110" type="span" relname="antithesis"/>
+		<group id="111" type="span" parent="53" relname="cause"/>
+		<group id="112" type="span" parent="114" relname="contrast"/>
+		<group id="113" type="span" parent="114" relname="contrast"/>
+		<group id="114" type="multinuc" parent="120" relname="span"/>
+		<group id="115" type="multinuc" parent="116" relname="span"/>
+		<group id="116" type="span" parent="117" relname="span"/>
+		<group id="117" type="span" parent="120" relname="elaboration"/>
+		<group id="120" type="span" parent="121" relname="span"/>
+		<group id="121" type="span" parent="132" relname="span"/>
+		<group id="123" type="multinuc" parent="133" relname="span"/>
+		<group id="124" type="span" parent="139" relname="span"/>
+		<group id="126" type="span" parent="127" relname="span"/>
+		<group id="127" type="span" parent="128" relname="span"/>
+		<group id="128" type="span" parent="105" relname="joint"/>
+		<group id="129" type="span" parent="130" relname="span"/>
+		<group id="130" type="span" parent="96" relname="joint"/>
+		<group id="131" type="multinuc" parent="100" relname="elaboration"/>
+		<group id="132" type="span" parent="136" relname="span"/>
+		<group id="133" type="span" parent="134" relname="span"/>
+		<group id="134" type="span" parent="62" relname="elaboration"/>
+		<group id="135" type="span" parent="132" relname="elaboration"/>
+		<group id="136" type="span" relname="antithesis"/>
+		<group id="137" type="span" parent="138" relname="same-unit"/>
+		<group id="138" type="multinuc" parent="124" relname="span"/>
+		<group id="139" type="span" parent="140" relname="span"/>
+		<group id="140" type="span" parent="72" relname="preparation"/>
+		<group id="141" type="span" parent="17" relname="background"/>
+  </body>
+</rst>

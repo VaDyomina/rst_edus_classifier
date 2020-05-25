@@ -1,0 +1,916 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="antithesis" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="background" type="rst" />
+			<rel name="cause" type="rst" />
+			<rel name="comparison" type="multinuc" />
+			<rel name="concession" type="rst" />
+			<rel name="conclusion" type="rst" />
+			<rel name="condition" type="rst" />
+			<rel name="contrast" type="multinuc" />
+			<rel name="effect" type="rst" />
+			<rel name="elaboration" type="rst" />
+			<rel name="evaluation" type="rst" />
+			<rel name="evidence" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="motivation" type="rst" />
+			<rel name="preparation" type="rst" />
+			<rel name="purpose" type="rst" />
+			<rel name="restatement" type="multinuc" />
+			<rel name="same-unit" type="multinuc" />
+			<rel name="sequence" type="multinuc" />
+			<rel name="solutionhood" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="1" relname="antithesis">https://ru-travel.livejournal.com/33771843.html</segment>
+		<segment id="2" relname="antithesis">Тао-Кларджети, потерянная Грузия: Поиски монастыря Парехи.</segment>
+		<segment id="3" parent="450" relname="preparation">Из всех путешествий, совершённых в прошлом году, поездка к руинам монастыря Парехи оказалась для меня самым значимым событием.</segment>
+		<segment id="4" parent="919" relname="contrast">Казалось бы, никому неизвестное место,</segment>
+		<segment id="5" parent="919" relname="contrast">но находящееся буквально в нескольких часах езды от дома,</segment>
+		<segment id="6" parent="920" relname="span">перекрыло впечатления от дальних экзотических стран</segment>
+		<segment id="7" parent="448" relname="comparison">и настолько прочно укоренилось в душе,</segment>
+		<segment id="8" parent="447" relname="span">что я даже испытываю некоторую ревность от того,</segment>
+		<segment id="9" parent="8" relname="cause">что открываю его для всеобщего обозрения.</segment>
+		<segment id="10" parent="451" relname="elaboration">IMG</segment>
+		<segment id="11" parent="453" relname="span">В этот раз я направлялся в Турцию,</segment>
+		<segment id="12" parent="921" relname="contrast">не имея собственного транспорта,</segment>
+		<segment id="13" parent="922" relname="span">но надеясь обзавестись им на месте, в городке Хопа,</segment>
+		<segment id="14" parent="13" relname="background">что находится буквально в нескольких километрах от границы.</segment>
+		<segment id="15" parent="454" relname="span">Это обстоятельство добавляло всей затее некий налёт непредсказуемости,</segment>
+		<segment id="16" parent="15" relname="cause">поскольку в Турции я еще ни разу не брал машину в аренду.</segment>
+		<segment id="17" parent="458" relname="contrast">Сначала я пытался пойти цивилизованным путём, - заранее, через интернет -</segment>
+		<segment id="18" parent="457" relname="joint">но международные сети в Хопе не представлены,</segment>
+		<segment id="19" parent="455" relname="joint">а локальные фирмочки хоть и существуют</segment>
+		<segment id="20" parent="455" relname="joint">и даже имеют сайты,</segment>
+		<segment id="21" parent="456" relname="contrast">но не доросли до услуги онлайн-бронирования.</segment>
+		<segment id="22" parent="459" relname="contrast">Я попробовал послать запрос через форму обратной связи на одном из сайтов,</segment>
+		<segment id="23" parent="459" relname="contrast">но ответа так и не получил.</segment>
+		<segment id="24" parent="873" relname="span">Пришлось ехать наудачу.</segment>
+		<segment id="25" parent="923" relname="span">От Батуми до пограничного перехода в Сарпи курсирует общественный транспорт,</segment>
+		<segment id="26" parent="25" relname="elaboration">часто переполненный даже в несезон.</segment>
+		<segment id="27" parent="482" relname="joint">По ту сторону границы дежурят многочисленные маршрутки, доставляющие желающих в Кемальпашу и дальше в Хопу.</segment>
+		<segment id="28" parent="483" relname="contrast">Пройти этот отрезок можно быстро и дёшево...</segment>
+		<segment id="29" parent="30" relname="cause">Но к большинству достопримечательностей Тао-Кларджети рейсовые автобусы не ходят,</segment>
+		<segment id="30" parent="874" relname="span">нужна машина...</segment>
+		<segment id="31" parent="461" relname="joint">Я заранее выписал адреса пяти мест, предлагающих автопрокат.</segment>
+		<segment id="32" parent="461" relname="joint">И начал поиски с той конторы, в которую послал запрос.</segment>
+		<segment id="33" parent="462" relname="span">Нашел место и даже выцветшую вывеску, размером метр на полметра,</segment>
+		<segment id="34" parent="33" relname="elaboration">под которой оказался... продуктовый магазин.</segment>
+		<segment id="35" parent="36" relname="cause">Зайдя в него и поинтересовавшись судьбой авто-проката,</segment>
+		<segment id="36" parent="924" relname="span">я получил неожиданный ответ, что "да, авто-прокат здесь,</segment>
+		<segment id="37" parent="463" relname="contrast">но свободных машин сейчас нет".</segment>
+		<segment id="38" parent="39" relname="condition">Придя по второму адресу,</segment>
+		<segment id="39" parent="925" relname="span">я не обнаружил ничего, кроме мясной лавки.</segment>
+		<segment id="40" parent="467" relname="joint">Но заглянуть</segment>
+		<segment id="41" parent="467" relname="joint">и спросить не догадался;</segment>
+		<segment id="42" parent="468" relname="cause">кто его знает, может, хозяин-мясник и даёт покататься на своей старой Дации, совмещая бизнес.</segment>
+		<segment id="43" parent="477" relname="span">Мне повезло в третьем месте - при некоем отеле.</segment>
+		<segment id="44" parent="473" relname="comparison">Парень на стойке регистрации предложил седан по цене чуть дороже,</segment>
+		<segment id="45" parent="876" relname="same-unit">чем я видел в интернете,</segment>
+		<segment id="46" parent="471" relname="span">но не настолько,</segment>
+		<segment id="47" parent="46" relname="purpose">чтобы вступать в торги.</segment>
+		<segment id="48" parent="474" relname="sequence">Я подписал какой-то липовый акт осмотра,</segment>
+		<segment id="49" parent="474" relname="sequence">оставил в залог запасной паспорт, которым в случае чего можно было пожертвовать.</segment>
+		<segment id="50" parent="475" relname="sequence">Вскоре приехал хозяин машины</segment>
+		<segment id="51" parent="475" relname="sequence">и отдал мне ключи.</segment>
+		<segment id="52" parent="848" relname="elaboration">По дороге из Хопы в Артвин. IMG</segment>
+		<segment id="53" parent="495" relname="span">Я поехал по уже знакомой горной дороге в Артвин, живописной как вся восточная Турция.</segment>
+		<segment id="54" parent="494" relname="sequence">Сделал дежурную остановку на одной из смотровых площадок перевала с видом на уходящее вдаль Чёрное море и крыши Хопы, занявшие узкое ущелье.</segment>
+		<segment id="55" parent="494" relname="sequence">У въезда в посёлок Дюзкой (утраченное грузинское название Чкхала) мне попался средневековый мост с двумя пролётами, не замеченный в прошлые поездки.</segment>
+		<segment id="56" parent="495" relname="elaboration">Мост у посёлка Дюзкой. IMG</segment>
+		<segment id="57" parent="498" relname="span">За Артвином я свернул на серпантин к посёлку Толгоми.</segment>
+		<segment id="58" parent="57" relname="elaboration">Он поднимается над плотиной Артвинской ГЭС.</segment>
+		<segment id="59" parent="499" relname="joint">Эта дорога проложена по краю затопленного водохранилищем ущелья</segment>
+		<segment id="60" parent="926" relname="span">и ведёт с одной стороны в Ардануч, захолустный городок,</segment>
+		<segment id="61" parent="60" relname="elaboration">бывший когда-то без малого столицей Грузии,</segment>
+		<segment id="62" parent="996" relname="same-unit">а с другой - в область Шавшети,</segment>
+		<segment id="63" parent="928" relname="span">где стоит одноимённая крепость,</segment>
+		<segment id="64" parent="63" relname="background">о которой я рассказывал пару лет назад,</segment>
+		<segment id="65" parent="929" relname="same-unit">и дальше - в Ардаган.</segment>
+		<segment id="66" parent="502" relname="elaboration">Красоту предстоящего пути можно оценить уже здесь. IMG</segment>
+		<segment id="67" parent="505" relname="span">Точкой отчёта всех этих дорог является внушительный мост, переброшенный через бирюзовую гладь водохранилища.</segment>
+		<segment id="68" parent="504" relname="joint">Можно поехать влево - в Ардаган,</segment>
+		<segment id="69" parent="504" relname="joint">можно поехать вправо - в Ардануч.</segment>
+		<segment id="70" parent="506" relname="span">Из Ардануча в Ардаган существует прямая дорога, ведущая мимо многочисленных летних поселений,</segment>
+		<segment id="71" parent="70" relname="evaluation">но в каком она состоянии я пока не могу сказать.</segment>
+		<segment id="72" parent="930" relname="span">Здесь я допустил ошибку,</segment>
+		<segment id="73" parent="72" relname="cause">поверив картам Гугла и Maps.me.</segment>
+		<segment id="74" parent="877" relname="span">Дело в том, что одновременно со строительством плотины</segment>
+		<segment id="75" parent="74" relname="background">(её открытие состоялось более пяти лет назад)</segment>
+		<segment id="76" parent="509" relname="same-unit">была проложена и новая дорога.</segment>
+		<segment id="77" parent="510" relname="joint">Её прорубили в скале на противоположном берегу,</segment>
+		<segment id="78" parent="510" relname="joint">и это к ней ведёт мост.</segment>
+		<segment id="79" parent="512" relname="contrast">Старая дорога оказалась затоплена.</segment>
+		<segment id="80" parent="511" relname="joint">Но на картах она по прежнему присутствует</segment>
+		<segment id="81" parent="933" relname="same-unit">и я,</segment>
+		<segment id="82" parent="83" relname="cause">не зная об этом,</segment>
+		<segment id="83" parent="932" relname="span">выбрал её.</segment>
+		<segment id="84" parent="934" relname="elaboration">Мост через ущелье. IMG</segment>
+		<segment id="85" parent="519" relname="span">Этот пятикилометровый отрезок оказался страшным в прямом смысле.</segment>
+		<segment id="86" parent="518" relname="span">Гигантские наспех расчищенные обвалы, неукреплённые отвесные скалы, с которых ветер то и дело сдувал мелкие камни.</segment>
+		<segment id="87" parent="88" relname="condition">Не покидала и мысль о том, что если в таком состоянии находится самое начало пути к древнему монастырю,</segment>
+		<segment id="88" parent="517" relname="span">то что будет дальше...</segment>
+		<segment id="89" parent="520" relname="joint">Я добрался до селения с грузинским названием Цкалтетра</segment>
+		<segment id="90" parent="520" relname="joint">и начал спускаться по серпантину к основной дороге.</segment>
+		<segment id="91" parent="521" relname="joint">До выезда к нужному повороту оставалась буквально сотня-другая метров,</segment>
+		<segment id="92" parent="521" relname="joint">он уже виднелся на противоположном берегу.</segment>
+		<segment id="93" parent="525" relname="span">У последнего дома местный житель колол дрова.</segment>
+		<segment id="94" parent="523" relname="cause">Когда я проезжал мимо,</segment>
+		<segment id="95" parent="522" relname="joint">он отложил своё дело</segment>
+		<segment id="96" parent="522" relname="joint">и любезно подвинулся.</segment>
+		<segment id="97" parent="526" relname="sequence">Но через пару поворотов серпантина на дороге оказались разбросаны валуны.</segment>
+		<segment id="98" parent="526" relname="sequence">Ещё через два-три поворота дорога плавным наклоном уходила прямо в воду.</segment>
+		<segment id="99" parent="526" relname="sequence">С трудом развернув машину, я стал взбираться наверх.</segment>
+		<segment id="100" parent="527" relname="span">Коловший дрова исчез,</segment>
+		<segment id="101" parent="100" relname="evaluation">наверное, хохотал над нашими злопыханиями.</segment>
+		<segment id="102" parent="530" relname="span">(Вообще, я не впервые наблюдаю эту отличительную черту местных жителей - не влазить без спроса в чужие дела.</segment>
+		<segment id="103" parent="882" relname="span">"Ну едет себе человек по дороге, которая через сто метров уйдёт под воду -</segment>
+		<segment id="104" parent="881" relname="joint">значит ему так нужно</segment>
+		<segment id="105" parent="881" relname="joint">и не моё это дело предостерегать.")</segment>
+		<segment id="106" parent="535" relname="elaboration">Последствия обвала на старой дороге. IMG</segment>
+		<segment id="107" parent="936" relname="span">Скорее всего я бы выехал на нужную дорогу,</segment>
+		<segment id="108" parent="107" relname="condition">проедь дальше мимо Цкалпетры.</segment>
+		<segment id="109" parent="537" relname="joint">Судя по спутниковым картам, такая вероятность была</segment>
+		<segment id="110" parent="537" relname="joint">и можно было попытаться,</segment>
+		<segment id="111" parent="538" relname="contrast">но время поджимало.</segment>
+		<segment id="112" parent="539" relname="evidence">Уже становилось ясно, что из программы сегодняшнего дня придётся вычеркнуть посещение монастыря Хандзта.</segment>
+		<segment id="113" parent="541" relname="same-unit">Интернет,</segment>
+		<segment id="114" parent="540" relname="joint">чтобы разобраться</segment>
+		<segment id="115" parent="540" relname="joint">и скоординировать движение,</segment>
+		<segment id="116" parent="542" relname="span">не работал.</segment>
+		<segment id="117" parent="883" relname="span">Я принял решение возвращаться к мосту.</segment>
+		<segment id="118" parent="883" relname="elaboration">На обратном пути. Видна правильная дорога на противоположном берегу и мост вдали. IMG Вид с "правильной" дороги. Видны крыши селения Цкалтетра. Отсюда до Парехи 12 км. IMG</segment>
+		<segment id="119" parent="937" relname="restatement">Территориально Парехи</segment>
+		<segment id="120" parent="937" relname="restatement">(он же Парехта)</segment>
+		<segment id="121" parent="938" relname="same-unit">находится на востоке Турции в провинции Артвин,</segment>
+		<segment id="122" parent="547" relname="span">входившей некогда в важнейший как с культурной, так и исторической точек зрения грузинский край Кларджети,</segment>
+		<segment id="123" parent="122" relname="elaboration">утраченный в пользу более сильного соседа многие столетия назад.</segment>
+		<segment id="124" parent="548" relname="elaboration">(Тао-Кларджети - собирательное название районов южной Грузии, образовавших средневековое княжество, соседствовавшее с древней Иберией и подчинявшееся ей.)</segment>
+		<segment id="125" parent="940" relname="span">Истории Тао-Кларджети я коснулся,</segment>
+		<segment id="126" parent="125" relname="cause">описывая поездку в Хахули.</segment>
+		<segment id="127" parent="550" relname="joint">Повторю вкратце.</segment>
+		<segment id="128" parent="555" relname="span">У Вахтанга Горгасали (440—502), одного из любимейших грузинским народом царей, была дочь Вахтандухт.</segment>
+		<segment id="129" parent="553" relname="span">Дочь вышла замуж за некоего Гуарама,</segment>
+		<segment id="130" parent="129" relname="background">получившего с приданным титул правителя (эристава) области Тао.</segment>
+		<segment id="131" parent="941" relname="span">Их первенец Баграт дал имя одному из самых известных и древних родов Европы - Багратионам,</segment>
+		<segment id="132" parent="131" relname="elaboration">продержавшемуся у власти следующие полторы тысячи лет.</segment>
+		<segment id="133" parent="565" relname="preparation">Прошло два туманных столетия с войнами и прочими катаклизмами.</segment>
+		<segment id="134" parent="556" relname="span">В середине 8-го века княжеством правил Адарнасе, потомок Баграта.</segment>
+		<segment id="135" parent="942" relname="span">Адарнасе удачно породнился с царствующей фамилией,</segment>
+		<segment id="136" parent="135" relname="cause">женившись на дочери царя Иберии Нерсе.</segment>
+		<segment id="137" parent="558" relname="span">Однако настали тяжелые времена,</segment>
+		<segment id="138" parent="557" relname="joint">земля была захвачена арабами,</segment>
+		<segment id="139" parent="557" relname="joint">царь оказался в багдадской тюрьме</segment>
+		<segment id="140" parent="557" relname="joint">и Грузия, как национальное государство, фактически сократилась до размеров княжества Тао-Кларджети, этой некогда окраины грузинской земли.</segment>
+		<segment id="141" parent="559" relname="joint">Ашот I, сын Адарнасе, заручившись поддержкой Византии, вел периодические войны с арабами</segment>
+		<segment id="142" parent="559" relname="joint">и, судя по растущей территории своего царства, - успешно.</segment>
+		<segment id="143" parent="560" relname="joint">Население его любило</segment>
+		<segment id="144" parent="560" relname="joint">и земля процветала.</segment>
+		<segment id="145" parent="567" relname="joint">Потомки Ашота с переменным успехом продолжали начатое дело</segment>
+		<segment id="146" parent="885" relname="span">и на границе первого и второго тысячелетий царь Тао-Кларджети Давид III Великий стал одним из самых значимых правителей на Кавказе.</segment>
+		<segment id="147" parent="146" relname="elaboration">При нем был построен храм в Ошки - один из четырех Великих Кафедралов и первый среди них.</segment>
+		<segment id="148" parent="149" relname="cause">Со смертью бездетного Давида Великого</segment>
+		<segment id="149" parent="943" relname="span">фактически кончилась независимость Тао-Кларджети.</segment>
+		<segment id="150" parent="570" relname="joint">Княжество было поглощено Византией</segment>
+		<segment id="151" parent="572" relname="span">и вернулось в состав Грузии уже при Давиде Строителе и царице Тамаре,</segment>
+		<segment id="152" parent="571" relname="joint">когда Византийская империя ослабла</segment>
+		<segment id="153" parent="571" relname="joint">и теряла влияние.</segment>
+		<segment id="154" parent="578" relname="joint">В XVI веке захватнические войны Османской империи лишили Грузию Тао-Кларджети.</segment>
+		<segment id="155" parent="578" relname="joint">Родина правящей династии Багратиони досталась туркам-иноверцам.</segment>
+		<segment id="156" parent="574" relname="span">Вместе с тем грузины остались без одного из своих культурных и религиозных столпов,</segment>
+		<segment id="157" parent="156" relname="cause">поскольку эта вроде бы окраина была центром монашеского движения, бурно развившимся в VIII-XI веках</segment>
+		<segment id="158" parent="574" relname="elaboration">(выходцы Тао основали за рубежом - в Византии, Палестине, Сирии, - грузинские монастыри, среди них - монастырь Креста в Иерусалиме).</segment>
+		<segment id="159" parent="577" relname="span">По итогам русско-турецкой войны 1877—1878 годов территория бывшего княжества вошла в состав России.</segment>
+		<segment id="160" parent="948" relname="same-unit">16 марта 1921 года в Москве</segment>
+		<segment id="161" parent="946" relname="condition">без участия представителей Армении, Грузии и Азербайджана</segment>
+		<segment id="162" parent="946" relname="span">был подписан печально известный Московский договор,</segment>
+		<segment id="163" parent="164" relname="attribution">согласно которому</segment>
+		<segment id="164" parent="945" relname="span">бассейн реки Чорох, гора Арарат и другие приграничные территории отошли к Турции.</segment>
+		<segment id="165" parent="886" relname="elaboration">Средневековый мостик у села Цкалтетра. Начало дороги к монастырю Парехи. IMG</segment>
+		<segment id="166" parent="589" relname="span">Новую дорогу тоже не назовёшь безопасной.</segment>
+		<segment id="167" parent="583" relname="span">Обвал обрушил часть породы, ушедшей вместе с дорожным полотном в воду.</segment>
+		<segment id="168" parent="167" relname="elaboration">"Шрам" от этого события, произошедшего уже после моей предыдущей поездки в Шавшети, служит напоминанием, что горы - это не игрушка...</segment>
+		<segment id="169" parent="585" relname="span">Началом дороги к монастырю можно считать небольшой средневековый мостик.</segment>
+		<segment id="170" parent="584" relname="contrast">Давно не используемый,</segment>
+		<segment id="171" parent="584" relname="contrast">но прочно вросший в скалу.</segment>
+		<segment id="172" parent="587" relname="comparison">Посёлки вокруг, в особенности отдалённые и глухие, в основном хранят свои исторические грузинские названия (по крайней мере на электронных картах).</segment>
+		<segment id="173" parent="586" relname="span">Крупные деревни, такие как Берта (Ортакой), известны под новыми топонимами.</segment>
+		<segment id="174" parent="173" relname="elaboration">Посёлок Парехи теперь называется Дуванишка.</segment>
+		<segment id="175" parent="601" relname="elaboration">Берта. IMG</segment>
+		<segment id="176" parent="592" relname="same-unit">На склоне горы над посёлком Берта (середина пути к Парехи) еще при жизни одного из самых почитаемых святых Грузинской православной церкви Григория Хандзтели (Хандзтийского)</segment>
+		<segment id="177" parent="178" relname="evaluation">(есть предположение, что немногим позже - между 909 и 943 гг.)</segment>
+		<segment id="178" parent="591" relname="span">был основан одноимённый монастырь.</segment>
+		<segment id="179" parent="599" relname="joint">Впервые о нём в X веке упоминает Георгий Мерчуле, монах монастыря Хандзта и автор книги «Житие Григория Хандзтели» (951 г.).</segment>
+		<segment id="180" parent="599" relname="joint">Обширные развалины вокруг указывают на то, что при монастыре функционировала школа.</segment>
+		<segment id="181" parent="599" relname="joint">Источники относят Берту, наравне с монастырями Парехи, Мидзнадзори, Цкаростави, Анчи к числу литературных центров юго-западной Грузии.</segment>
+		<segment id="182" parent="599" relname="joint">Имя монастыря закрепилось за известным грузинским писарем того времени Зекепе Бертели (X в.), очевидно, работавшем при нём.</segment>
+		<segment id="183" parent="598" relname="span">Сохранились два важных манускрипта - Бертские Евангелия.</segment>
+		<segment id="184" parent="594" relname="joint">Первый, более ранний и датируемый 988 г., каким-то образом оказался в США</segment>
+		<segment id="185" parent="594" relname="joint">и хранится в музее одной из богословских школ.</segment>
+		<segment id="186" parent="597" relname="span">Второй, двенадцатого века, покрытый золотым окладом, выполненным в монастыре Опиза, выставляется в Национальном центре рукописей в Тбилиси.</segment>
+		<segment id="187" parent="888" relname="contrast">Полагаю, что никто из этнических турков - современных жителей посёлка Ортакой, затерянного в турецкой глубинке - не знает об этом</segment>
+		<segment id="188" parent="888" relname="contrast">(а грузин или лазов согласно переписи среди них нет ни одного)...</segment>
+		<segment id="189" parent="598" relname="elaboration">Бертское Евангелие, XII в. Бертское Евангелие</segment>
+		<segment id="190" parent="605" relname="sequence">После захвата Тао-Кларджети Османской империей в XVI веке,</segment>
+		<segment id="191" parent="605" relname="sequence">монастырь оказался заброшен.</segment>
+		<segment id="192" parent="603" relname="joint">В XIX веке остатки здания главной церкви были перестроены в мечеть,</segment>
+		<segment id="193" parent="603" relname="joint">появился минарет.</segment>
+		<segment id="194" parent="604" relname="span">Я не нашел времени подняться к монастырю,</segment>
+		<segment id="195" parent="194" relname="concession">хотя с него открывается отличный вид на ущелье и окрестные горы.</segment>
+		<segment id="196" parent="889" relname="background">Говорят, что сохранились маленькие, уже нечитаемые фрагменты росписи.</segment>
+		<segment id="197" parent="607" relname="attribution">[По ссылке можно посмотреть виртуальный тур вокруг здания бывшего монастыря.]</segment>
+		<segment id="198" parent="857" relname="joint">Берта. Здание храма, перестроенного в мечеть и руины трапезной. IMG В другом ракурсе. IMG IMG Дом в Ортакое. Каменные руины у его основания наверняка помнят оригинальное название посёлка. IMG</segment>
+		<segment id="199" parent="856" relname="span">Вид на центр Ортакоя. Монастыря Парехи отсюда не видно,</segment>
+		<segment id="200" parent="199" relname="cause">он находится немного в стороне, на полпути к заснеженным вершинам. IMG</segment>
+		<segment id="201" parent="616" relname="span">Центр Ортакоя оказался вполне городским.</segment>
+		<segment id="202" parent="201" relname="elaboration">Высокий мост через реку, компактная мечеть, крытая остановка и парочка магазинов. И всё это вокруг небольшой площади.</segment>
+		<segment id="203" parent="617" relname="contrast">Особенно приятно меня удивило то, что, несмотря на захолустную глубинку, на лавочке чинно сидели несколько мужчин, одетых в пусть старые и видавшие виды, но аккуратные костюмы.</segment>
+		<segment id="204" parent="949" relname="span">К сожалению, в современной Грузии советская традиция всегда носить пиджак,</segment>
+		<segment id="205" parent="204" relname="background">ещё бывшая в моём детстве,</segment>
+		<segment id="206" parent="950" relname="same-unit">сошла на нет...</segment>
+		<segment id="207" parent="624" relname="sequence">Я обратился к проходящему мимо человеку с вязанкой хвороста на плече с просьбой показать верное направление.</segment>
+		<segment id="208" parent="619" relname="span">"Эжванта, Дуванишка," - повторял я названия деревень, которые должны были оказаться на пути.</segment>
+		<segment id="209" parent="620" relname="joint">Человек что-то пролепетал в ответ</segment>
+		<segment id="210" parent="620" relname="joint">и махнул рукой в сторону.</segment>
+		<segment id="211" parent="212" relname="cause">Поехав в указанном направлении,</segment>
+		<segment id="212" parent="951" relname="span">я через несколько десятков метров уткнулся в чей-то двор.</segment>
+		<segment id="213" parent="621" relname="joint">Пришлось давать задний ход</segment>
+		<segment id="214" parent="621" relname="joint">и снова выруливать на площадь.</segment>
+		<segment id="215" parent="627" relname="joint">На этот раз я обратился к сидящим на лавочке.</segment>
+		<segment id="216" parent="627" relname="joint">После небольшого совещания, они выделили мне провожатого - невысокого болтливого мужичка, страдающего ДЦП.</segment>
+		<segment id="217" parent="858" relname="elaboration">Ортакой. Еду в неверном направлении. IMG</segment>
+		<segment id="218" parent="631" relname="contrast">Сложно сказать насколько востребована была дорога, проходящая через Берту к монастырю Парехи и ведущая дальше в горы, где наверняка доходила до перевала Чискари,</segment>
+		<segment id="219" parent="631" relname="contrast">но она определённо использовалась в древности.</segment>
+		<segment id="220" parent="632" relname="background">До конца XV века где-то в этом районе проходил важный транспортный коридор "Мичихиани".</segment>
+		<segment id="221" parent="638" relname="comparison">Наверное, в короткий летний промежуток времени осилить его возможно и в наше время.</segment>
+		<segment id="222" parent="957" relname="span">А зимой жители по ту сторону перевала случается оказываются отрезанными от остальной части Турции</segment>
+		<segment id="223" parent="222" relname="cause">из-за сильных снегопадов.</segment>
+		<segment id="224" parent="635" relname="condition">И если кому-то требуется вырваться из снежного плена,</segment>
+		<segment id="225" parent="634" relname="joint">то он вынужден делать длительный переход через грузинскую территорию</segment>
+		<segment id="226" parent="634" relname="joint">и снова возвращаться в Турцию, пересекая границу в другой точке.</segment>
+		<segment id="227" parent="959" relname="span">В снежных шапках хребта, называемого Чишанскими горами, вершины которых достигают трёх с лишним километров, рождаются воды реки Мачахлисцкали, спускающейся со стороны Грузии в Мачахельское ущелье,</segment>
+		<segment id="228" parent="958" relname="span">известное средневековыми каменными мостами</segment>
+		<segment id="229" parent="228" relname="background">(об этом месте я подробно рассказывал в статье "Мосты Мачахельской долины".)</segment>
+		<segment id="230" parent="640" relname="span">Сейчас автомобильная дорога заканчивается в Дуванишке, точнее немного дальше - в летней высокогорной деревеньке Накаребули,</segment>
+		<segment id="231" parent="230" relname="elaboration">где как и во многих других горных посёлках Артвинского ила (провинции), собирают известный на всю Турцию мёд...</segment>
+		<segment id="232" parent="961" relname="same-unit">В паре километров от Дуванишки,</segment>
+		<segment id="233" parent="234" relname="condition">находясь на серпантине на противоположном краю ущелья,</segment>
+		<segment id="234" parent="960" relname="span">я, наконец, заметил развалины монастыря, сливающиеся с породой.</segment>
+		<segment id="235" parent="641" relname="span">Но отсюда попасть к ним невозможно -</segment>
+		<segment id="236" parent="235" relname="cause">скалы стоят практически вертикально.</segment>
+		<segment id="237" parent="643" relname="contrast">Провожатый постоянно что-то лопотал,</segment>
+		<segment id="238" parent="643" relname="contrast">но мне уже и так стало понятно, что толку от него будет не много.</segment>
+		<segment id="239" parent="891" relname="span">В итоге, мы ошиблись дорогой</segment>
+		<segment id="240" parent="644" relname="span">и я вырулил к очередному дому, хозяин которого, к счастью, подсказал верное направление.</segment>
+		<segment id="241" parent="644" relname="elaboration">Оказалось, что мне предстоит ещё около километра пройти пешком, и это единственный путь.</segment>
+		<segment id="242" parent="646" relname="joint">Предполагая, что местные могут не знать названия "Парехи"</segment>
+		<segment id="243" parent="646" relname="joint">и то, что в прошлом здесь был монастырь,</segment>
+		<segment id="244" parent="962" relname="restatement">я обращался, используя турецкое слово "калеси",</segment>
+		<segment id="245" parent="962" relname="restatement">означающее "крепость" или "замок",</segment>
+		<segment id="246" parent="648" relname="joint">но только здесь, когда провожатый и хозяин дома общались между собой,</segment>
+		<segment id="247" parent="648" relname="joint">и в их разговоре я слышал многократно повторяющееся "калеси",</segment>
+		<segment id="248" parent="650" relname="span">я понял, что выбрал верную тактику.</segment>
+		<segment id="249" parent="652" relname="joint">То, что для меня было монастырём Парехи,</segment>
+		<segment id="250" parent="652" relname="joint">для них являлось развалинами безымянной крепости.</segment>
+		<segment id="251" parent="668" relname="elaboration">Первый вид на Парехи с серпантина, ведущего в Дуванишку. IMG Дуванишка - последний круглогодичный населённый пункт на этой дороге. IMG</segment>
+		<segment id="252" parent="668" relname="span">Дуванишка оказалась интересным местом.</segment>
+		<segment id="253" parent="254" relname="cause">Конечно, яркий окрас целлофана, которым на зиму накрывают солому, или спутниковые тарелки, выбиваются из общей картины -</segment>
+		<segment id="254" parent="662" relname="span">размывают древность.</segment>
+		<segment id="255" parent="667" relname="span">Но атмосфера, присущая горным поселениям, - будь то деревни по дороге в Ушгули или знаменитый комплекс в Шатили - всё ещё присутствует.</segment>
+		<segment id="256" parent="666" relname="span">Вдруг приходит чувство, что это место живое.</segment>
+		<segment id="257" parent="665" relname="span">И словно в подтверждение хозяйка одного из домов, завидев странных пришельцев, протягивает в окно мелкие, но оказавшиеся очень вкусными груши.</segment>
+		<segment id="258" parent="664" relname="joint">В такие моменты время стирается,</segment>
+		<segment id="259" parent="664" relname="joint">и ты понимаешь, что подобная ситуация могла повториться и сто и двести и тысячу лет назад...</segment>
+		<segment id="260" parent="861" relname="joint">Вид на Дуванишку, где среди невысоких деревянных и каменных домов затесался пятиэтажный особняк.</segment>
+		<segment id="261" parent="861" relname="joint">Люди живут здесь своим трудом, но я бы не сказал, что бедно. IMG</segment>
+		<segment id="262" parent="861" relname="joint">Дом с двумя трубами. Судя по кладке, может быть ровесником монастыря. IMG</segment>
+		<segment id="263" parent="674" relname="joint">Я оставил машину возле мечети</segment>
+		<segment id="264" parent="674" relname="joint">и углубился во дворы, ища возможность спуститься к реке.</segment>
+		<segment id="265" parent="680" relname="sequence">Первый двор сменился вторым и следом третьим.</segment>
+		<segment id="266" parent="675" relname="joint">Бетонная дорожка петляла мимо построек</segment>
+		<segment id="267" parent="675" relname="joint">и, наконец, вывела к узкому коридору, уводящему вниз.</segment>
+		<segment id="268" parent="676" relname="span">Ограждённый с двух сторон коридор напоминал пересохшее русло -</segment>
+		<segment id="269" parent="965" relname="span">он был выложен из больших камней,</segment>
+		<segment id="270" parent="269" relname="evaluation">спускаться по которым оказалось очень неудобно.</segment>
+		<segment id="271" parent="679" relname="span">Показалась река,</segment>
+		<segment id="272" parent="271" relname="elaboration">перейдя которую, я убедился, что выбрал верное направление.</segment>
+		<segment id="273" parent="681" relname="span">Мне оставалось только поспешить в сторону монастыря,</segment>
+		<segment id="274" parent="273" relname="purpose">чтобы обогнать заходящее солнце.</segment>
+		<segment id="275" parent="683" relname="span">Вскоре за мостиком река устремляется вниз, создавая живописные каскады, не видимые с автомобильной дороги.</segment>
+		<segment id="276" parent="275" relname="evaluation">Их внезапное появление делает место ещё более зрелищным.</segment>
+		<segment id="277" parent="683" relname="elaboration">За мостиком. IMG IMG Река устремляется вниз, создавая живописные каскады. IMG</segment>
+		<segment id="278" parent="898" relname="span">Основание Парехи также связано с известной личностью.</segment>
+		<segment id="279" parent="897" relname="span">Я узнал о ней, изучая материалы</segment>
+		<segment id="280" parent="279" relname="purpose">для описания поездки в монастырь Зарзма.</segment>
+		<segment id="281" parent="687" relname="span">Еще жив был Григорий Хандзтели (примерно в 830-40-е годы),</segment>
+		<segment id="282" parent="281" relname="elaboration">когда в монастыре появился шавшетец (Шавшети - исторический грузинский регион, находившийся восточнее Тао и Кларджети) Михаил (Микел) Парехский.</segment>
+		<segment id="283" parent="284" relname="cause">Получив благословение отца Григория,</segment>
+		<segment id="284" parent="966" relname="span">Михаил неподалеку в труднодоступном скалистом пещерном месте построил маленькую часовню, возле которой вырос скит, впоследствии ставший монастырём Парехи</segment>
+		<segment id="285" parent="966" relname="elaboration">(название которого и переводится как «пещера»).</segment>
+		<segment id="286" parent="689" relname="span">Однажды во время молитвы у преподобного Михаила было видение — отправить своих учеников братьев Серапиона и Иоанна в Самцхе (также регион Грузии)</segment>
+		<segment id="287" parent="286" relname="purpose">для основания монастыря,</segment>
+		<segment id="288" parent="690" relname="span">«при этом он показал ему приметы места,</segment>
+		<segment id="289" parent="288" relname="elaboration">на котором, найдя его, они должны были построить монастырь,</segment>
+		<segment id="290" parent="690" relname="purpose">чтобы в нем собрались многие души во славу Бога и Владыки всех»</segment>
+		<segment id="291" parent="970" relname="span">(Согласно книге «Житие и подвижничество Богоносного блаженного отца нашего Серапиона Зарзмели»,</segment>
+		<segment id="292" parent="291" relname="elaboration">написанной в X веке).</segment>
+		<segment id="293" parent="693" relname="joint">Серапион покорился благословению духовника</segment>
+		<segment id="294" parent="693" relname="joint">и около 861 г. вместе со своими сподвижниками отправился в путь, взяв с собой чудотворную икону Преображения Господня.</segment>
+		<segment id="295" parent="903" relname="joint">После долгих поисков братья основали монастырь Зарзма.</segment>
+		<segment id="296" parent="695" relname="span">У иконы своя непростая судьба;</segment>
+		<segment id="297" parent="694" relname="joint">в сильно поврежденном виде, но она сохранилась до наших дней</segment>
+		<segment id="298" parent="694" relname="joint">и сейчас находится в Национальном музее Грузии.</segment>
+		<segment id="299" parent="695" relname="attribution">(Подробнее об иконе см. здесь).</segment>
+		<segment id="300" parent="697" relname="joint">Михаил же скончался в глубокой старости</segment>
+		<segment id="301" parent="697" relname="joint">и был похоронен в основанной им обители.</segment>
+		<segment id="302" parent="698" relname="contrast">Приходящие на его могилу верующие чудесным образом исцелялись,</segment>
+		<segment id="303" parent="698" relname="contrast">но сведений о её месторасположении не сохранилось.</segment>
+		<segment id="304" parent="701" relname="span">Жизнь и учения святого описали его ученики.</segment>
+		<segment id="305" parent="304" relname="elaboration">Известно о книге Василия Зарзмели «Житие Михаила Парехского» (X век), ни одной копии которой к настоящему времени не обнаружено.</segment>
+		<segment id="306" parent="705" relname="span">В IX-X веках Парехи играл роль в церковной, монашеской и культурной жизни.</segment>
+		<segment id="307" parent="306" relname="elaboration">В летописях даже сохранилось имя монастырского писаря Иллариона Парекели.</segment>
+		<segment id="308" parent="706" relname="contrast">Но на следующую тысячу лет монастырь практически исчез из виду.</segment>
+		<segment id="309" parent="707" relname="span">В средневековье он существовал,</segment>
+		<segment id="310" parent="309" relname="evidence">тому есть подтверждения.</segment>
+		<segment id="311" parent="708" relname="span">А в 1904 году, когда Кларджети посещал исследователь Николай Марр</segment>
+		<segment id="312" parent="311" relname="elaboration">(труды которого на эту тему, к сожалению, коллекционная редкость),</segment>
+		<segment id="313" parent="709" relname="joint">здесь уже лежали руины.</segment>
+		<segment id="314" parent="714" relname="span">Первая экспедиция Вахтанга Джобадзе посетила Парехи в 1995 году</segment>
+		<segment id="315" parent="712" relname="span">(исследования "грузинских" областей Турции этим учёным крайне важны:</segment>
+		<segment id="316" parent="973" relname="cause">будучи эмигрантом и гражданином США,</segment>
+		<segment id="317" parent="972" relname="same-unit">он,</segment>
+		<segment id="318" parent="319" relname="cause">в отличие от советских коллег,</segment>
+		<segment id="319" parent="971" relname="span">имел возможность к доступу и изучению монастырей,</segment>
+		<segment id="320" parent="711" relname="joint">чем и пользовался;</segment>
+		<segment id="321" parent="976" relname="same-unit">он же обнаружил</segment>
+		<segment id="322" parent="323" relname="attribution">упомянутые мной в "Кипрских заметках"</segment>
+		<segment id="323" parent="975" relname="span">остатки грузинского монастыря возле Полиса).</segment>
+		<segment id="324" parent="715" relname="contrast">Тогда была обнаружена еле читаемая надпись в одной из церквей с именем одного из ктиторов,</segment>
+		<segment id="325" parent="715" relname="contrast">но уже спустя 10 лет она была утрачена.</segment>
+		<segment id="326" parent="734" relname="elaboration">IMG Тропинка к монастырю. IMG</segment>
+		<segment id="327" parent="724" relname="span">За водопадом становится различимой ведущая к монастырю тропинка.</segment>
+		<segment id="328" parent="723" relname="joint">Где-то возле неё в прошлом находились монастырские сады и огороды.</segment>
+		<segment id="329" parent="723" relname="joint">Позади них работали две водяные мельницы.</segment>
+		<segment id="330" parent="725" relname="joint">Тропинка приводит к скалистому уступу, за которым тянется вдоль обрыва до самого конца комплекса.</segment>
+		<segment id="331" parent="726" relname="joint">Когда-то единственный проход в монастырь преграждался воротами,</segment>
+		<segment id="332" parent="726" relname="joint">но от них не осталось и следа.</segment>
+		<segment id="333" parent="728" relname="span">Первые руины на пути, которые я увидел, предположительно были трапезной.</segment>
+		<segment id="334" parent="333" relname="elaboration">Это крупное строение, сложенное из тёсанного камня.</segment>
+		<segment id="335" parent="727" relname="joint">Сейчас оно засыпано землёй и камнями настолько,</segment>
+		<segment id="336" parent="727" relname="joint">что единственный путь проходит выше уровня окон-бойниц.</segment>
+		<segment id="337" parent="729" relname="elaboration">Внутри трапезной растёт молодое дерево.</segment>
+		<segment id="338" parent="730" relname="elaboration">IMG</segment>
+		<segment id="339" parent="740" relname="span">За трапезной самый узкий участок пути, шириной в одного человека.</segment>
+		<segment id="340" parent="339" relname="elaboration">Отсюда главный "парехский ракурс" - две церкви, стоящие на краю неприступного обрыва.</segment>
+		<segment id="341" parent="736" relname="joint">Даже без крыш, скромные по своим размерам, пребывающие в руинах, они выглядят мощно</segment>
+		<segment id="342" parent="736" relname="joint">и словно оживляют и без того волшебный вид.</segment>
+		<segment id="343" parent="344" relname="purpose">Чтобы возвести их строителям древности</segment>
+		<segment id="344" parent="738" relname="span">пришлось сначала соорудить на скале два огромных постамента.</segment>
+		<segment id="345" parent="741" relname="elaboration">IMG IMG IMG</segment>
+		<segment id="346" parent="977" relname="span">По мнению Вахтанга Джобадзе, верхняя церковь - базилика - самое старое здание Парехи, строившееся во второй половине IX века</segment>
+		<segment id="347" parent="346" relname="condition">при участии основателя Михаила.</segment>
+		<segment id="348" parent="745" relname="span">Стиль постройки не выбивается из того, что было принято в средневековье в этих краях.</segment>
+		<segment id="349" parent="743" relname="joint">Размер церкви 11,15 на 4,75 м.</segment>
+		<segment id="350" parent="743" relname="joint">Имеется полукруглая апсида в алтарной части, ориентированная как положено на восток.</segment>
+		<segment id="351" parent="746" relname="joint">Три стены из четырёх более-менее сохранились.</segment>
+		<segment id="352" parent="353" relname="cause">Крыша рухнула внутрь храма,</segment>
+		<segment id="353" parent="978" relname="span">завалив его.</segment>
+		<segment id="354" parent="978" relname="evaluation">Вероятно, что полноценных археологических работ под завалами до сих пор не проводилось.</segment>
+		<segment id="355" parent="356" relname="cause">Однако, Н. Марр обнаружил в здании человеческие кости,</segment>
+		<segment id="356" parent="749" relname="span">это позволило ему сделать вывод, что именно здесь был похоронен Св. Михаил Парехский.</segment>
+		<segment id="357" parent="750" relname="contrast">Будущие исследователи, впрочем, не разделили его мнение.</segment>
+		<segment id="358" parent="910" relname="span">С северной стороны церкви существовала пристройка.</segment>
+		<segment id="359" parent="358" relname="elaboration">Найденные керамические трубы указывали на то, что в ней находился баптистерий (крестильня).</segment>
+		<segment id="360" parent="865" relname="elaboration">Верхняя и нижняя церкви. IMG Главный фасад. Вход и окно над ним теперь представляют собой единое целое. IMG Внутри. IMG Апсида верхней церкви. IMG Засыпанный вход в крестильню. IMG</segment>
+		<segment id="361" parent="362" relname="cause">Спустя некоторое время, когда пропускной способности церкви стало недостаточно для количества подвязавшихся при монастыре,</segment>
+		<segment id="362" parent="980" relname="span">был построен еще один храм.</segment>
+		<segment id="363" parent="364" relname="purpose">Для его строительства</segment>
+		<segment id="364" parent="981" relname="span">использовали кусок скалы на 6 метров ниже первой церкви.</segment>
+		<segment id="365" parent="759" relname="joint">Площадку для храма, а также несуществующей ныне террасы перед ним соорудили практически на обрыве.</segment>
+		<segment id="366" parent="759" relname="joint">От верхней церкви вниз вела лестница, также утраченная.</segment>
+		<segment id="367" parent="768" relname="span">Постройку новой церкви исследователи отнесли к рубежу IX и X веков.</segment>
+		<segment id="368" parent="767" relname="span">Она оказалась более сложно спланирована (трёхнефная базилика).</segment>
+		<segment id="369" parent="766" relname="contrast">Размер здания не превышал 12 на 8,3 м.</segment>
+		<segment id="370" parent="765" relname="span">Но одна деталь особенно отличала её от других кларджетских церквей - наличие двери с южной стороны здания, выходящего на пропасть, где наверняка находился балкон.</segment>
+		<segment id="371" parent="983" relname="span">Предположу, что его соорудили</segment>
+		<segment id="372" parent="761" relname="span">не для того, чтобы братия могла любоваться окрестностями</segment>
+		<segment id="373" parent="372" relname="evidence">(вид был для них привычен),</segment>
+		<segment id="374" parent="762" relname="contrast">а для того, что внутрь храма проникало больше света.</segment>
+		<segment id="375" parent="769" relname="comparison">Сейчас внутри здания камни и мусор от обрушившихся стен, колонн и кровли, но алтарная часть храма более-менее сохранилась.</segment>
+		<segment id="376" parent="868" relname="elaboration">Вид на нижнюю церковь с верхней. IMG Дерево, выросшее внутри нижней церкви. IMG Проём в восточном фасаде на месте окна. Вид внутрь церкви. IMG Помещение (ризник?) в правом углу церкви сбоку от алтаря. IMG Внутри помещения. IMG</segment>
+		<segment id="377" parent="783" relname="joint">Церкви стоят примерно посредине территории, занятой в прошлом монастырём.</segment>
+		<segment id="378" parent="379" relname="condition">Если пройти дальше,</segment>
+		<segment id="379" parent="775" relname="span">то на пути оказывается водопад.</segment>
+		<segment id="380" parent="776" relname="span">Удивительно, но небольшой ручеёк талой воды за прошедшую тысячу лет не нашёл себе другого русла.</segment>
+		<segment id="381" parent="380" relname="background">Эта вода снабжала монастырь питьевой водой.</segment>
+		<segment id="382" parent="776" relname="elaboration">Брызги от него мелкой водяной пылью разносятся в воздухе.</segment>
+		<segment id="383" parent="780" relname="cause">Под водопадом кто-то заботливо установил на двух камнях доску -</segment>
+		<segment id="384" parent="779" relname="joint">можно присесть</segment>
+		<segment id="385" parent="779" relname="joint">и немного отключиться от оставшегося далеко позади современного мира со всей его спешкой...</segment>
+		<segment id="386" parent="871" relname="elaboration">Взгляд назад. IMG Взгляд вперёд. IMG Водопад. IMG IMG</segment>
+		<segment id="387" parent="787" relname="span">Среди развалин монастыря Парехи различается ещё несколько строений,</segment>
+		<segment id="388" parent="387" relname="concession">хотя все они в основном уничтожены.</segment>
+		<segment id="389" parent="788" relname="span">Несколько небольших зданий примыкали к скале в самой дальней, восточной части комплекса.</segment>
+		<segment id="390" parent="389" relname="evaluation">Вероятно, это были кельи.</segment>
+		<segment id="391" parent="790" relname="span">В одном месте я заметил небольшой фрагмент штукатурки,</segment>
+		<segment id="392" parent="789" relname="contrast">рисунок на нём стёрся,</segment>
+		<segment id="393" parent="789" relname="contrast">но эскизный набросок ещё присутствует.</segment>
+		<segment id="394" parent="985" relname="joint">На самом краю, где кончается тропинка</segment>
+		<segment id="395" parent="985" relname="joint">и нависает скала, создавая естественную защиту от непогоды,</segment>
+		<segment id="396" parent="986" relname="same-unit">хорошо различимы следы копоти,</segment>
+		<segment id="397" parent="793" relname="contrast">но что и когда здесь могло гореть?</segment>
+		<segment id="398" parent="869" relname="joint">Здание в дальней части монастыря. IMG Пройти дальше можно было не мимо, а только сквозь него.</segment>
+		<segment id="399" parent="797" relname="contrast">IMG Строители не пытались придать помещениям четкие геометрические формы,</segment>
+		<segment id="400" parent="797" relname="contrast">но обыгрывали изгибы скалы.</segment>
+		<segment id="401" parent="869" relname="joint">IMG Фрагмент отделки. IMG Следы построек присутствуют и дальше.</segment>
+		<segment id="402" parent="869" relname="joint">Обратите внимание насколько далеко осталась деревня Дуванишка. IMG IMG Копоть. IMG Дальше нет пути. IMG Дорога к Парехи. IMG</segment>
+		<segment id="403" parent="404" relname="cause">Аккурат в тот момент, когда я достиг восточного края Парехи, солнце скрылось за горами,</segment>
+		<segment id="404" parent="987" relname="span">погрузив всё в прохладную октябрьскую тень.</segment>
+		<segment id="405" parent="809" relname="attribution">Этот символичный момент словно объяснял мне то, что всё произошло вовремя,</segment>
+		<segment id="406" parent="807" relname="joint">что неспроста я ошибся дорогой, потеряв время,</segment>
+		<segment id="407" parent="808" relname="span">неспроста не успел в этот день в Хандзту</segment>
+		<segment id="408" parent="407" relname="background">(изначально я саму эту поездку называл "По следам Григория Хандзтели").</segment>
+		<segment id="409" parent="811" relname="span">Словно кто-то, души людей, причастных к этой обители, или сам основатель хотели,</segment>
+		<segment id="410" parent="409" relname="purpose">чтобы о них и о Парехи помнили не в контексте, а как о чём-то важном, заслуживающем отдельного внимания у потомков.</segment>
+		<segment id="411" parent="914" relname="elaboration">Горные цветы. IMG На обратном пути. IMG IMG Церкви. Видна дверь нижнего храма, выходящая на обрыв. IMG</segment>
+		<segment id="412" parent="820" relname="preparation">На протяжении многих столетий не было упоминаний ни о монастыре Берта, ни о монастыре Парехи.</segment>
+		<segment id="413" parent="816" relname="joint">Туркам и эти и все другие доставшиеся объекты с культурной точки зрения были не интересны,</segment>
+		<segment id="414" parent="816" relname="joint">а по факту даже в какой-то мере опасны, как напоминание о том, что это изначально чужая земля.</segment>
+		<segment id="415" parent="817" relname="joint">Поэтому за прошедшие века бесхозные здания обветшали,</segment>
+		<segment id="416" parent="817" relname="joint">а во многих местах и обрушились.</segment>
+		<segment id="417" parent="990" relname="joint">Камни, из которых были сложены стены храмов, часто шли на строительство домов местных жителей.</segment>
+		<segment id="418" parent="988" relname="span">Тем постройкам, - монастырь Берта в их числе</segment>
+		<segment id="419" parent="418" relname="background">- которые были переоборудованы в мечети,</segment>
+		<segment id="420" parent="989" relname="same-unit">удалось выстоять...</segment>
+		<segment id="421" parent="823" relname="span">Первые попытки исследования памятников Тао-Кларджети были предприняты лишь в короткий период между 1878 и 1921 гг.,</segment>
+		<segment id="422" parent="421" relname="background">когда эти земли принадлежали Российской империи.</segment>
+		<segment id="423" parent="824" relname="joint">Несколько организованных экспедиций провели обмеры ключевых храмов,</segment>
+		<segment id="424" parent="824" relname="joint">задокументировали их состояние</segment>
+		<segment id="425" parent="824" relname="joint">и сделали зарисовки, а иногда и фотографии.</segment>
+		<segment id="426" parent="825" relname="sequence">И после возвращения территории Турции, на протяжении нескольких десятилетий эти скудные материалы были единственным источником, на основании которых учёные могли описывать памятники бывшей юго-западной Грузии.</segment>
+		<segment id="427" parent="826" relname="span">И только совсем недавно, наконец, появилась возможность увидеть то, что осталось</segment>
+		<segment id="428" parent="427" relname="condition">(если осталось)</segment>
+		<segment id="429" parent="827" relname="same-unit">от этих храмов воочию...</segment>
+		<segment id="430" parent="829" relname="contrast">Интерес к ним пока ещё не велик,</segment>
+		<segment id="431" parent="829" relname="contrast">но его всё равно больше, чем когда-либо.</segment>
+		<segment id="432" parent="831" relname="condition">И чем большее количество людей заинтересуется этими местами,</segment>
+		<segment id="433" parent="831" relname="span">тем скорее их назовут тем, чем они являются по факту - культурным, историческим и религиозным наследием всего человечества.</segment>
+		<segment id="434" parent="917" relname="elaboration">Водопад. IMG Трапезная. IMG Река внизу. IMG Водопад. IMG</segment>
+		<segment id="435" parent="844" relname="preparation">В Хопу я вернулся поздно вечером.</segment>
+		<segment id="436" parent="842" relname="span">Хозяин волновался.</segment>
+		<segment id="437" parent="841" relname="contrast">Оказывается он многократно писал мне,</segment>
+		<segment id="438" parent="992" relname="same-unit">но</segment>
+		<segment id="439" parent="440" relname="cause">по причине отсутствия связи</segment>
+		<segment id="440" parent="991" relname="span">его сообщения я получил с большой задержкой.</segment>
+		<segment id="441" parent="843" relname="joint">К счастью, ему нужно было ехать к границе,</segment>
+		<segment id="442" parent="994" relname="same-unit">и,</segment>
+		<segment id="443" parent="444" relname="cause">воспользовавшись его предложением подвезти,</segment>
+		<segment id="444" parent="993" relname="span">я существенно ускорил возвращение в Батуми.</segment>
+		<segment id="445" parent="845" relname="elaboration">IMG</segment>
+		<segment id="446" relname="antithesis">5 октября 2017 г.</segment>
+		<group id="447" type="span" parent="448" relname="comparison"/>
+		<group id="448" type="multinuc" parent="449" relname="joint"/>
+		<group id="449" type="multinuc" parent="450" relname="span"/>
+		<group id="450" type="span" parent="451" relname="span"/>
+		<group id="451" type="span" parent="452" relname="span"/>
+		<group id="452" type="span" relname="antithesis"/>
+		<group id="453" type="span" parent="489" relname="span"/>
+		<group id="454" type="span" parent="453" relname="evaluation"/>
+		<group id="455" type="multinuc" parent="456" relname="contrast"/>
+		<group id="456" type="multinuc" parent="457" relname="joint"/>
+		<group id="457" type="multinuc" parent="458" relname="contrast"/>
+		<group id="458" type="multinuc" parent="488" relname="joint"/>
+		<group id="459" type="multinuc" parent="24" relname="cause"/>
+		<group id="461" type="multinuc" parent="874" relname="elaboration"/>
+		<group id="462" type="span" parent="465" relname="preparation"/>
+		<group id="463" type="multinuc" parent="464" relname="span"/>
+		<group id="464" type="span" parent="465" relname="span"/>
+		<group id="465" type="span" parent="466" relname="span"/>
+		<group id="466" type="span" parent="478" relname="sequence"/>
+		<group id="467" type="multinuc" parent="468" relname="span"/>
+		<group id="468" type="span" parent="469" relname="span"/>
+		<group id="469" type="span" parent="470" relname="contrast"/>
+		<group id="470" type="multinuc" parent="478" relname="sequence"/>
+		<group id="471" type="span" parent="876" relname="same-unit"/>
+		<group id="472" type="span" parent="473" relname="comparison"/>
+		<group id="473" type="multinuc" parent="476" relname="sequence"/>
+		<group id="474" type="multinuc" parent="476" relname="sequence"/>
+		<group id="475" type="multinuc" parent="476" relname="sequence"/>
+		<group id="476" type="multinuc" parent="43" relname="elaboration"/>
+		<group id="477" type="span" parent="478" relname="sequence"/>
+		<group id="478" type="multinuc" parent="480" relname="span"/>
+		<group id="480" type="span" parent="481" relname="span"/>
+		<group id="481" type="span" parent="487" relname="span"/>
+		<group id="482" type="multinuc" parent="484" relname="span"/>
+		<group id="483" type="multinuc" parent="482" relname="joint"/>
+		<group id="484" type="span" parent="481" relname="preparation"/>
+		<group id="487" type="span" parent="491" relname="elaboration"/>
+		<group id="488" type="multinuc" parent="490" relname="span"/>
+		<group id="489" type="span" parent="490" relname="preparation"/>
+		<group id="490" type="span" parent="491" relname="span"/>
+		<group id="491" type="span" parent="492" relname="span"/>
+		<group id="492" type="span" relname="antithesis"/>
+		<group id="494" type="multinuc" parent="53" relname="elaboration"/>
+		<group id="495" type="span" parent="848" relname="span"/>
+		<group id="498" type="span" parent="502" relname="span"/>
+		<group id="499" type="multinuc" parent="498" relname="elaboration"/>
+		<group id="502" type="span" parent="503" relname="span"/>
+		<group id="503" type="span" parent="995" relname="sequence"/>
+		<group id="504" type="multinuc" parent="67" relname="elaboration"/>
+		<group id="505" type="span" parent="507" relname="span"/>
+		<group id="506" type="span" parent="505" relname="elaboration"/>
+		<group id="507" type="span" parent="931" relname="preparation"/>
+		<group id="509" type="multinuc" parent="879" relname="span"/>
+		<group id="510" type="multinuc" parent="879" relname="elaboration"/>
+		<group id="511" type="multinuc" parent="512" relname="contrast"/>
+		<group id="512" type="multinuc" parent="513" relname="joint"/>
+		<group id="513" type="multinuc" parent="930" relname="elaboration"/>
+		<group id="517" type="span" parent="86" relname="elaboration"/>
+		<group id="518" type="span" parent="85" relname="elaboration"/>
+		<group id="519" type="span" parent="534" relname="preparation"/>
+		<group id="520" type="multinuc" parent="533" relname="joint"/>
+		<group id="521" type="multinuc" parent="533" relname="joint"/>
+		<group id="522" type="multinuc" parent="523" relname="span"/>
+		<group id="523" type="span" parent="524" relname="span"/>
+		<group id="524" type="span" parent="93" relname="elaboration"/>
+		<group id="525" type="span" parent="532" relname="contrast"/>
+		<group id="526" type="multinuc" parent="532" relname="contrast"/>
+		<group id="527" type="span" parent="531" relname="span"/>
+		<group id="530" type="span" parent="527" relname="elaboration"/>
+		<group id="531" type="span" parent="880" relname="sequence"/>
+		<group id="532" type="multinuc" parent="880" relname="sequence"/>
+		<group id="533" type="multinuc" parent="534" relname="span"/>
+		<group id="534" type="span" parent="535" relname="span"/>
+		<group id="535" type="span" parent="850" relname="span"/>
+		<group id="537" type="multinuc" parent="538" relname="contrast"/>
+		<group id="538" type="multinuc" parent="936" relname="elaboration"/>
+		<group id="539" type="span" parent="543" relname="span"/>
+		<group id="540" type="multinuc" parent="116" relname="purpose"/>
+		<group id="541" type="multinuc" parent="544" relname="joint"/>
+		<group id="542" type="span" parent="541" relname="same-unit"/>
+		<group id="543" type="span" parent="544" relname="joint"/>
+		<group id="544" type="multinuc" parent="117" relname="solutionhood"/>
+		<group id="547" type="span" parent="939" relname="elaboration"/>
+		<group id="548" type="span" parent="549" relname="span"/>
+		<group id="549" type="span" parent="551" relname="preparation"/>
+		<group id="550" type="multinuc" parent="551" relname="span"/>
+		<group id="551" type="span" parent="552" relname="span"/>
+		<group id="552" type="span" relname="antithesis"/>
+		<group id="553" type="span" parent="941" relname="cause"/>
+		<group id="554" type="span" parent="128" relname="elaboration"/>
+		<group id="555" type="span" parent="580" relname="sequence"/>
+		<group id="556" type="span" parent="563" relname="contrast"/>
+		<group id="557" type="multinuc" parent="137" relname="elaboration"/>
+		<group id="558" type="span" parent="563" relname="contrast"/>
+		<group id="559" type="multinuc" parent="561" relname="span"/>
+		<group id="560" type="multinuc" parent="561" relname="elaboration"/>
+		<group id="561" type="span" parent="562" relname="span"/>
+		<group id="562" type="span" parent="564" relname="sequence"/>
+		<group id="563" type="multinuc" parent="564" relname="sequence"/>
+		<group id="564" type="multinuc" parent="565" relname="span"/>
+		<group id="565" type="span" parent="566" relname="span"/>
+		<group id="566" type="span" parent="580" relname="sequence"/>
+		<group id="567" type="multinuc" parent="580" relname="sequence"/>
+		<group id="570" type="multinuc" parent="943" relname="elaboration"/>
+		<group id="571" type="multinuc" parent="151" relname="cause"/>
+		<group id="572" type="span" parent="570" relname="joint"/>
+		<group id="574" type="span" parent="575" relname="span"/>
+		<group id="575" type="span" parent="579" relname="span"/>
+		<group id="577" type="span" parent="580" relname="sequence"/>
+		<group id="578" type="multinuc" parent="575" relname="preparation"/>
+		<group id="579" type="span" parent="580" relname="sequence"/>
+		<group id="580" type="multinuc" parent="886" relname="span"/>
+		<group id="583" type="span" parent="588" relname="joint"/>
+		<group id="584" type="multinuc" parent="169" relname="elaboration"/>
+		<group id="585" type="span" parent="588" relname="joint"/>
+		<group id="586" type="span" parent="587" relname="comparison"/>
+		<group id="587" type="multinuc" parent="590" relname="joint"/>
+		<group id="588" type="multinuc" parent="166" relname="elaboration"/>
+		<group id="589" type="span" parent="590" relname="joint"/>
+		<group id="590" type="multinuc" relname="antithesis"/>
+		<group id="591" type="span" parent="592" relname="same-unit"/>
+		<group id="592" type="multinuc" parent="600" relname="preparation"/>
+		<group id="594" type="multinuc" parent="595" relname="sequence"/>
+		<group id="595" type="multinuc" parent="183" relname="elaboration"/>
+		<group id="596" type="span" parent="186" relname="evaluation"/>
+		<group id="597" type="span" parent="595" relname="sequence"/>
+		<group id="598" type="span" parent="855" relname="span"/>
+		<group id="599" type="multinuc" parent="600" relname="span"/>
+		<group id="600" type="span" parent="601" relname="span"/>
+		<group id="601" type="span" parent="854" relname="span"/>
+		<group id="603" type="multinuc" parent="605" relname="sequence"/>
+		<group id="604" type="span" parent="606" relname="joint"/>
+		<group id="605" type="multinuc" parent="606" relname="joint"/>
+		<group id="606" type="multinuc" parent="889" relname="span"/>
+		<group id="607" type="span" parent="608" relname="span"/>
+		<group id="608" type="span" parent="890" relname="span"/>
+		<group id="616" type="span" parent="618" relname="joint"/>
+		<group id="617" type="multinuc" parent="618" relname="joint"/>
+		<group id="618" type="multinuc" parent="629" relname="joint"/>
+		<group id="619" type="span" parent="624" relname="sequence"/>
+		<group id="620" type="multinuc" parent="624" relname="sequence"/>
+		<group id="621" type="multinuc" parent="954" relname="span"/>
+		<group id="624" type="multinuc" parent="955" relname="cause"/>
+		<group id="627" type="multinuc" parent="628" relname="sequence"/>
+		<group id="628" type="multinuc" parent="629" relname="joint"/>
+		<group id="629" type="multinuc" parent="858" relname="span"/>
+		<group id="631" type="multinuc" parent="632" relname="span"/>
+		<group id="632" type="span" parent="633" relname="span"/>
+		<group id="633" type="span" parent="639" relname="span"/>
+		<group id="634" type="multinuc" parent="635" relname="span"/>
+		<group id="635" type="span" parent="636" relname="span"/>
+		<group id="636" type="span" parent="957" relname="elaboration"/>
+		<group id="637" type="span" parent="638" relname="comparison"/>
+		<group id="638" type="multinuc" parent="633" relname="elaboration"/>
+		<group id="639" type="span" relname="antithesis"/>
+		<group id="640" type="span" parent="656" relname="joint"/>
+		<group id="641" type="span" parent="642" relname="contrast"/>
+		<group id="642" type="multinuc" parent="656" relname="joint"/>
+		<group id="643" type="multinuc" parent="239" relname="cause"/>
+		<group id="644" type="span" parent="645" relname="span"/>
+		<group id="645" type="span" parent="654" relname="span"/>
+		<group id="646" type="multinuc" parent="963" relname="cause"/>
+		<group id="648" type="multinuc" parent="649" relname="span"/>
+		<group id="649" type="span" parent="248" relname="cause"/>
+		<group id="650" type="span" parent="892" relname="contrast"/>
+		<group id="652" type="multinuc" parent="893" relname="evidence"/>
+		<group id="654" type="span" parent="655" relname="span"/>
+		<group id="655" type="span" parent="658" relname="elaboration"/>
+		<group id="656" type="multinuc" parent="657" relname="span"/>
+		<group id="657" type="span" parent="658" relname="span"/>
+		<group id="658" type="span" parent="659" relname="span"/>
+		<group id="659" type="span" relname="antithesis"/>
+		<group id="662" type="span" parent="663" relname="contrast"/>
+		<group id="663" type="multinuc" parent="252" relname="elaboration"/>
+		<group id="664" type="multinuc" parent="257" relname="evaluation"/>
+		<group id="665" type="span" parent="256" relname="evidence"/>
+		<group id="666" type="span" parent="255" relname="evaluation"/>
+		<group id="667" type="span" parent="663" relname="contrast"/>
+		<group id="668" type="span" parent="860" relname="span"/>
+		<group id="674" type="multinuc" parent="680" relname="sequence"/>
+		<group id="675" type="multinuc" parent="677" relname="span"/>
+		<group id="676" type="span" parent="677" relname="elaboration"/>
+		<group id="677" type="span" parent="678" relname="span"/>
+		<group id="678" type="span" parent="680" relname="sequence"/>
+		<group id="679" type="span" parent="682" relname="span"/>
+		<group id="680" type="multinuc" relname="antithesis"/>
+		<group id="681" type="span" parent="679" relname="elaboration"/>
+		<group id="682" type="span" parent="680" relname="sequence"/>
+		<group id="683" type="span" parent="862" relname="span"/>
+		<group id="687" type="span" parent="967" relname="background"/>
+		<group id="689" type="span" parent="902" relname="joint"/>
+		<group id="690" type="span" parent="691" relname="span"/>
+		<group id="691" type="span" parent="969" relname="span"/>
+		<group id="693" type="multinuc" parent="903" relname="joint"/>
+		<group id="694" type="multinuc" parent="296" relname="elaboration"/>
+		<group id="695" type="span" parent="696" relname="span"/>
+		<group id="696" type="span" parent="904" relname="elaboration"/>
+		<group id="697" type="multinuc" parent="699" relname="span"/>
+		<group id="698" type="multinuc" parent="699" relname="elaboration"/>
+		<group id="699" type="span" parent="700" relname="span"/>
+		<group id="700" type="span" parent="702" relname="sequence"/>
+		<group id="701" type="span" parent="702" relname="sequence"/>
+		<group id="702" type="multinuc" parent="906" relname="sequence"/>
+		<group id="705" type="span" parent="706" relname="contrast"/>
+		<group id="706" type="multinuc" parent="710" relname="sequence"/>
+		<group id="707" type="span" parent="710" relname="sequence"/>
+		<group id="708" type="span" parent="709" relname="joint"/>
+		<group id="709" type="multinuc" parent="710" relname="sequence"/>
+		<group id="710" type="multinuc" relname="antithesis"/>
+		<group id="711" type="multinuc" parent="315" relname="cause"/>
+		<group id="712" type="span" parent="713" relname="joint"/>
+		<group id="713" type="multinuc" parent="314" relname="elaboration"/>
+		<group id="714" type="span" parent="716" relname="span"/>
+		<group id="715" type="multinuc" parent="714" relname="elaboration"/>
+		<group id="716" type="span" parent="710" relname="sequence"/>
+		<group id="723" type="multinuc" parent="327" relname="elaboration"/>
+		<group id="724" type="span" parent="725" relname="joint"/>
+		<group id="725" type="multinuc" parent="731" relname="span"/>
+		<group id="726" type="multinuc" parent="731" relname="elaboration"/>
+		<group id="727" type="multinuc" parent="728" relname="cause"/>
+		<group id="728" type="span" parent="729" relname="span"/>
+		<group id="729" type="span" parent="730" relname="span"/>
+		<group id="730" type="span" parent="853" relname="span"/>
+		<group id="731" type="span" parent="732" relname="span"/>
+		<group id="732" type="span" parent="733" relname="joint"/>
+		<group id="733" type="multinuc" parent="734" relname="span"/>
+		<group id="734" type="span" parent="864" relname="span"/>
+		<group id="736" type="multinuc" parent="737" relname="span"/>
+		<group id="737" type="span" parent="739" relname="span"/>
+		<group id="738" type="span" parent="737" relname="elaboration"/>
+		<group id="739" type="span" parent="740" relname="evaluation"/>
+		<group id="740" type="span" parent="741" relname="span"/>
+		<group id="741" type="span" parent="742" relname="span"/>
+		<group id="742" type="span" relname="antithesis"/>
+		<group id="743" type="multinuc" parent="348" relname="elaboration"/>
+		<group id="745" type="span" parent="746" relname="joint"/>
+		<group id="746" type="multinuc" parent="747" relname="span"/>
+		<group id="747" type="span" parent="748" relname="span"/>
+		<group id="748" type="span" parent="909" relname="contrast"/>
+		<group id="749" type="span" parent="750" relname="contrast"/>
+		<group id="750" type="multinuc" parent="909" relname="contrast"/>
+		<group id="752" type="span" parent="753" relname="joint"/>
+		<group id="753" type="multinuc" parent="865" relname="span"/>
+		<group id="759" type="multinuc" parent="980" relname="elaboration"/>
+		<group id="761" type="span" parent="371" relname="purpose"/>
+		<group id="762" type="multinuc" parent="370" relname="evaluation"/>
+		<group id="765" type="span" parent="766" relname="contrast"/>
+		<group id="766" type="multinuc" parent="368" relname="elaboration"/>
+		<group id="767" type="span" parent="367" relname="elaboration"/>
+		<group id="768" type="span" parent="769" relname="comparison"/>
+		<group id="769" type="multinuc" parent="867" relname="span"/>
+		<group id="775" type="span" parent="778" relname="span"/>
+		<group id="776" type="span" parent="777" relname="span"/>
+		<group id="777" type="span" parent="775" relname="elaboration"/>
+		<group id="778" type="span" parent="782" relname="joint"/>
+		<group id="779" type="multinuc" parent="780" relname="span"/>
+		<group id="780" type="span" parent="781" relname="span"/>
+		<group id="781" type="span" parent="782" relname="joint"/>
+		<group id="782" type="multinuc" parent="783" relname="joint"/>
+		<group id="783" type="multinuc" parent="871" relname="span"/>
+		<group id="787" type="span" parent="791" relname="span"/>
+		<group id="788" type="span" parent="787" relname="elaboration"/>
+		<group id="789" type="multinuc" parent="391" relname="elaboration"/>
+		<group id="790" type="span" parent="791" relname="elaboration"/>
+		<group id="791" type="span" parent="792" relname="span"/>
+		<group id="792" type="span" parent="794" relname="joint"/>
+		<group id="793" type="multinuc" parent="794" relname="joint"/>
+		<group id="794" type="multinuc" parent="911" relname="span"/>
+		<group id="797" type="multinuc" parent="869" relname="joint"/>
+		<group id="807" type="multinuc" parent="809" relname="span"/>
+		<group id="808" type="span" parent="807" relname="joint"/>
+		<group id="809" type="span" parent="810" relname="span"/>
+		<group id="810" type="span" parent="812" relname="comparison"/>
+		<group id="811" type="span" parent="812" relname="comparison"/>
+		<group id="812" type="multinuc" parent="913" relname="span"/>
+		<group id="816" type="multinuc" parent="818" relname="span"/>
+		<group id="817" type="multinuc" parent="819" relname="span"/>
+		<group id="818" type="span" parent="819" relname="cause"/>
+		<group id="819" type="span" parent="820" relname="span"/>
+		<group id="820" type="span" parent="821" relname="span"/>
+		<group id="821" type="span" parent="836" relname="joint"/>
+		<group id="823" type="span" parent="828" relname="span"/>
+		<group id="824" type="multinuc" parent="823" relname="elaboration"/>
+		<group id="825" type="multinuc" parent="836" relname="joint"/>
+		<group id="826" type="span" parent="827" relname="same-unit"/>
+		<group id="827" type="multinuc" parent="835" relname="span"/>
+		<group id="828" type="span" parent="825" relname="sequence"/>
+		<group id="829" type="multinuc" parent="832" relname="span"/>
+		<group id="831" type="span" parent="916" relname="span"/>
+		<group id="832" type="span" parent="833" relname="span"/>
+		<group id="833" type="span" parent="835" relname="elaboration"/>
+		<group id="834" type="span" parent="825" relname="sequence"/>
+		<group id="835" type="span" parent="834" relname="span"/>
+		<group id="836" type="multinuc" parent="917" relname="span"/>
+		<group id="841" type="multinuc" parent="436" relname="cause"/>
+		<group id="842" type="span" parent="844" relname="span"/>
+		<group id="843" type="multinuc" parent="842" relname="elaboration"/>
+		<group id="844" type="span" parent="845" relname="span"/>
+		<group id="845" type="span" parent="846" relname="span"/>
+		<group id="846" type="span" relname="antithesis"/>
+		<group id="848" type="span" parent="870" relname="span"/>
+		<group id="850" type="span" relname="antithesis"/>
+		<group id="853" type="span" parent="733" relname="joint"/>
+		<group id="854" type="span" relname="antithesis"/>
+		<group id="855" type="span" parent="599" relname="joint"/>
+		<group id="856" type="span" parent="857" relname="joint"/>
+		<group id="857" type="multinuc" parent="608" relname="elaboration"/>
+		<group id="858" type="span" parent="859" relname="span"/>
+		<group id="859" type="span" relname="antithesis"/>
+		<group id="860" type="span" parent="896" relname="span"/>
+		<group id="861" type="multinuc" parent="860" relname="elaboration"/>
+		<group id="862" type="span" parent="680" relname="sequence"/>
+		<group id="864" type="span" relname="antithesis"/>
+		<group id="865" type="span" parent="866" relname="span"/>
+		<group id="866" type="span" relname="antithesis"/>
+		<group id="867" type="span" parent="868" relname="span"/>
+		<group id="868" type="span" parent="984" relname="span"/>
+		<group id="869" type="multinuc" parent="911" relname="elaboration"/>
+		<group id="870" type="span" parent="995" relname="sequence"/>
+		<group id="871" type="span" parent="872" relname="span"/>
+		<group id="872" type="span" relname="antithesis"/>
+		<group id="873" type="span" parent="488" relname="joint"/>
+		<group id="874" type="span" parent="875" relname="span"/>
+		<group id="875" type="span" parent="483" relname="contrast"/>
+		<group id="876" type="multinuc" parent="472" relname="span"/>
+		<group id="877" type="span" parent="509" relname="same-unit"/>
+		<group id="878" type="span" parent="513" relname="joint"/>
+		<group id="879" type="span" parent="878" relname="span"/>
+		<group id="880" type="multinuc" parent="533" relname="joint"/>
+		<group id="881" type="multinuc" parent="103" relname="evaluation"/>
+		<group id="882" type="span" parent="102" relname="elaboration"/>
+		<group id="883" type="span" parent="884" relname="span"/>
+		<group id="884" type="span" relname="antithesis"/>
+		<group id="885" type="span" parent="567" relname="joint"/>
+		<group id="886" type="span" parent="887" relname="span"/>
+		<group id="887" type="span" relname="antithesis"/>
+		<group id="888" type="multinuc" parent="596" relname="span"/>
+		<group id="889" type="span" parent="607" relname="span"/>
+		<group id="890" type="span" relname="antithesis"/>
+		<group id="891" type="span" parent="240" relname="cause"/>
+		<group id="892" type="multinuc" parent="893" relname="span"/>
+		<group id="893" type="span" parent="894" relname="span"/>
+		<group id="894" type="span" parent="895" relname="span"/>
+		<group id="895" type="span" parent="654" relname="elaboration"/>
+		<group id="896" type="span" relname="antithesis"/>
+		<group id="897" type="span" parent="278" relname="background"/>
+		<group id="898" type="span" parent="907" relname="preparation"/>
+		<group id="902" type="multinuc" parent="906" relname="sequence"/>
+		<group id="903" type="multinuc" parent="904" relname="span"/>
+		<group id="904" type="span" parent="905" relname="span"/>
+		<group id="905" type="span" parent="906" relname="sequence"/>
+		<group id="906" type="multinuc" parent="907" relname="span"/>
+		<group id="907" type="span" parent="908" relname="span"/>
+		<group id="908" type="span" relname="antithesis"/>
+		<group id="909" type="multinuc" parent="752" relname="span"/>
+		<group id="910" type="span" parent="753" relname="joint"/>
+		<group id="911" type="span" parent="912" relname="span"/>
+		<group id="912" type="span" relname="antithesis"/>
+		<group id="913" type="span" parent="914" relname="span"/>
+		<group id="914" type="span" parent="915" relname="span"/>
+		<group id="915" type="span" relname="antithesis"/>
+		<group id="916" type="span" parent="832" relname="elaboration"/>
+		<group id="917" type="span" parent="918" relname="span"/>
+		<group id="918" type="span" relname="antithesis"/>
+		<group id="919" type="multinuc" parent="6" relname="background"/>
+		<group id="920" type="span" parent="449" relname="joint"/>
+		<group id="921" type="multinuc" parent="11" relname="condition"/>
+		<group id="922" type="span" parent="921" relname="contrast"/>
+		<group id="923" type="span" parent="482" relname="joint"/>
+		<group id="924" type="span" parent="463" relname="contrast"/>
+		<group id="925" type="span" parent="470" relname="contrast"/>
+		<group id="926" type="span" parent="996" relname="same-unit"/>
+		<group id="927" type="span" parent="499" relname="joint"/>
+		<group id="928" type="span" parent="929" relname="same-unit"/>
+		<group id="929" type="multinuc" parent="997" relname="elaboration"/>
+		<group id="930" type="span" parent="931" relname="span"/>
+		<group id="931" type="span" parent="934" relname="span"/>
+		<group id="932" type="span" parent="933" relname="same-unit"/>
+		<group id="933" type="multinuc" parent="511" relname="joint"/>
+		<group id="934" type="span" parent="935" relname="span"/>
+		<group id="935" type="span" relname="antithesis"/>
+		<group id="936" type="span" parent="539" relname="span"/>
+		<group id="937" type="multinuc" parent="938" relname="same-unit"/>
+		<group id="938" type="multinuc" parent="939" relname="span"/>
+		<group id="939" type="span" parent="548" relname="span"/>
+		<group id="940" type="span" parent="550" relname="joint"/>
+		<group id="941" type="span" parent="554" relname="span"/>
+		<group id="942" type="span" parent="134" relname="elaboration"/>
+		<group id="943" type="span" parent="944" relname="span"/>
+		<group id="944" type="span" parent="580" relname="sequence"/>
+		<group id="945" type="span" parent="162" relname="elaboration"/>
+		<group id="946" type="span" parent="947" relname="span"/>
+		<group id="947" type="span" parent="948" relname="same-unit"/>
+		<group id="948" type="multinuc" parent="580" relname="sequence"/>
+		<group id="949" type="span" parent="950" relname="same-unit"/>
+		<group id="950" type="multinuc" parent="617" relname="contrast"/>
+		<group id="951" type="span" parent="954" relname="cause"/>
+		<group id="954" type="span" parent="955" relname="span"/>
+		<group id="955" type="span" parent="956" relname="span"/>
+		<group id="956" type="span" parent="628" relname="sequence"/>
+		<group id="957" type="span" parent="637" relname="span"/>
+		<group id="958" type="span" parent="227" relname="elaboration"/>
+		<group id="959" type="span" parent="657" relname="preparation"/>
+		<group id="960" type="span" parent="961" relname="same-unit"/>
+		<group id="961" type="multinuc" parent="642" relname="contrast"/>
+		<group id="962" type="multinuc" parent="963" relname="span"/>
+		<group id="963" type="span" parent="964" relname="span"/>
+		<group id="964" type="span" parent="892" relname="contrast"/>
+		<group id="965" type="span" parent="268" relname="cause"/>
+		<group id="966" type="span" parent="967" relname="span"/>
+		<group id="967" type="span" parent="968" relname="span"/>
+		<group id="968" type="span" parent="906" relname="sequence"/>
+		<group id="969" type="span" parent="902" relname="joint"/>
+		<group id="970" type="span" parent="691" relname="attribution"/>
+		<group id="971" type="span" parent="972" relname="same-unit"/>
+		<group id="972" type="multinuc" parent="973" relname="span"/>
+		<group id="973" type="span" parent="974" relname="span"/>
+		<group id="974" type="span" parent="711" relname="joint"/>
+		<group id="975" type="span" parent="976" relname="same-unit"/>
+		<group id="976" type="multinuc" parent="713" relname="joint"/>
+		<group id="977" type="span" parent="747" relname="preparation"/>
+		<group id="978" type="span" parent="979" relname="span"/>
+		<group id="979" type="span" parent="746" relname="joint"/>
+		<group id="980" type="span" parent="982" relname="span"/>
+		<group id="981" type="span" parent="759" relname="joint"/>
+		<group id="982" type="span" relname="antithesis"/>
+		<group id="983" type="span" parent="762" relname="contrast"/>
+		<group id="984" type="span" relname="antithesis"/>
+		<group id="985" type="multinuc" parent="986" relname="same-unit"/>
+		<group id="986" type="multinuc" parent="793" relname="contrast"/>
+		<group id="987" type="span" parent="913" relname="cause"/>
+		<group id="988" type="span" parent="989" relname="same-unit"/>
+		<group id="989" type="multinuc" parent="990" relname="joint"/>
+		<group id="990" type="multinuc" parent="836" relname="joint"/>
+		<group id="991" type="span" parent="992" relname="same-unit"/>
+		<group id="992" type="multinuc" parent="841" relname="contrast"/>
+		<group id="993" type="span" parent="994" relname="same-unit"/>
+		<group id="994" type="multinuc" parent="843" relname="joint"/>
+		<group id="995" type="multinuc" relname="antithesis"/>
+		<group id="996" type="multinuc" parent="997" relname="span"/>
+		<group id="997" type="span" parent="927" relname="span"/>
+  </body>
+</rst>

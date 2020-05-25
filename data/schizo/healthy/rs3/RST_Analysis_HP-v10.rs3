@@ -1,0 +1,65 @@
+<rst>
+<header>
+	<relations>
+			<rel name="antithesis" type="rst"/>
+			<rel name="background" type="rst"/>
+			<rel name="cause" type="rst"/>
+			<rel name="circumstance" type="rst"/>
+			<rel name="concession" type="rst"/>
+			<rel name="condition" type="rst"/>
+			<rel name="contrast" type="multinuc"/>
+			<rel name="elaboration" type="rst"/>
+			<rel name="evaluation" type="rst"/>
+			<rel name="evidence" type="rst"/>
+			<rel name="joint" type="multinuc"/>
+			<rel name="justify" type="rst"/>
+			<rel name="motivation" type="rst"/>
+			<rel name="preparation" type="rst"/>
+			<rel name="purpose" type="rst"/>
+			<rel name="restatement" type="multinuc"/>
+			<rel name="restatement" type="rst"/>
+			<rel name="result" type="rst"/>
+			<rel name="sequence" type="multinuc"/>
+			<rel name="solutionhood" type="rst"/>
+		</relations>
+</header>
+<body>
+		<segment id="1" parent="22" relname="span">о ну крестьянин собирает на ферме груши 1</segment>
+		<segment id="2" parent="1" relname="elaboration">это он лайкрозиночки есть 2</segment>
+		<segment id="3" parent="45" relname="span">пока он там значит собирает и наверху 3</segment>
+		<segment id="4" parent="3" relname="elaboration">наверху значит сидит 4</segment>
+		<segment id="5" parent="26" relname="span">значит появляется какой-то парень такой типа Тома Сойера в общих словах 5</segment>
+		<segment id="6" parent="5" relname="elaboration">который с велосипедом 6</segment>
+		<segment id="7" parent="46" relname="sequence">стаскивает значит у него это самое корзинку целую мальчик 7</segment>
+		<segment id="8" parent="46" relname="sequence">дядька ничего не замечает 8</segment>
+		<segment id="9" parent="35" relname="sequence">ну он едет на велосипеде значит к себе там домой с этой корзиной 9</segment>
+		<segment id="10" parent="36" relname="span">значит сталкивается с девчонкой 10</segment>
+		<segment id="11" parent="10" relname="elaboration">которая на велосипеде навстречу едет 11</segment>
+		<segment id="12" parent="35" relname="sequence">теряет шляпу 12</segment>
+		<segment id="13" parent="35" relname="sequence">ии роняет всю корзину 13</segment>
+		<segment id="14" parent="51" relname="span">но к счастью значит как раз тимуровцы рядом значит 14</segment>
+		<segment id="15" parent="14" relname="elaboration">которые- значит помогают ему 15</segment>
+		<segment id="16" parent="52" relname="sequence">собирают всю эту значит корзину обратно 16</segment>
+		<segment id="17" parent="52" relname="sequence">ну вот отправляют его дальше 17</segment>
+		<segment id="18" parent="50" relname="span">а сами идут по своим делам счастливые довольные 18</segment>
+		<segment id="19" parent="18" relname="circumstance">получив три груши за все удовольствие 19</segment>
+		<segment id="20" parent="49" relname="joint">ну вот 20</segment>
+		<segment id="21" parent="49" relname="joint">вот примерно так 21</segment>
+		<group id="22" type="span" parent="55" relname="preparation"/>
+		<group id="26" type="span" parent="46" relname="sequence"/>
+		<group id="35" type="multinuc" parent="54" relname="sequence"/>
+		<group id="36" type="span" parent="35" relname="sequence"/>
+		<group id="45" type="span" parent="47" relname="circumstance"/>
+		<group id="46" type="multinuc" parent="47" relname="span"/>
+		<group id="47" type="span" parent="48" relname="span"/>
+		<group id="48" type="span" parent="54" relname="sequence"/>
+		<group id="49" type="multinuc" parent="56" relname="antithesis"/>
+		<group id="50" type="span" parent="53" relname="contrast"/>
+		<group id="51" type="span" parent="52" relname="sequence"/>
+		<group id="52" type="multinuc" parent="53" relname="contrast"/>
+		<group id="53" type="multinuc" parent="54" relname="sequence"/>
+		<group id="54" type="multinuc" parent="55" relname="span"/>
+		<group id="55" type="span" parent="56" relname="span"/>
+		<group id="56" type="span" />
+  </body>
+</rst>

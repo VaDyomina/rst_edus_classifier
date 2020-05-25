@@ -1,0 +1,226 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="antithesis" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="background" type="rst" />
+			<rel name="cause" type="rst" />
+			<rel name="comparison" type="multinuc" />
+			<rel name="concession" type="rst" />
+			<rel name="conclusion" type="rst" />
+			<rel name="condition" type="rst" />
+			<rel name="contrast" type="multinuc" />
+			<rel name="effect" type="rst" />
+			<rel name="elaboration" type="rst" />
+			<rel name="evaluation" type="rst" />
+			<rel name="evidence" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="motivation" type="rst" />
+			<rel name="preparation" type="rst" />
+			<rel name="purpose" type="rst" />
+			<rel name="restatement" type="multinuc" />
+			<rel name="same-unit" type="multinuc" />
+			<rel name="sequence" type="multinuc" />
+			<rel name="solutionhood" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="1" relname="antithesis">https://my-first-time.livejournal.com/568230.html</segment>
+		<segment id="2" relname="antithesis">МОИ ПЕРВЫЕ ПОИСКИ ПРОПАВШЕГО ЧЕЛОВЕКА (ТРЕНИРОВКА)</segment>
+		<segment id="3" parent="108" relname="evaluation">Потеря близкого человека - настоящая беда.</segment>
+		<segment id="4" parent="98" relname="contrast">Латвия, в которой я живу - маленькая страна,</segment>
+		<segment id="5" parent="98" relname="contrast">но каждый год у нас пропадает без вести много людей.</segment>
+		<segment id="6" parent="99" relname="joint">К счастью, многие находятся сами,</segment>
+		<segment id="7" parent="99" relname="joint">кого-то находит полиция,</segment>
+		<segment id="8" parent="100" relname="contrast">некоторые так и остаются в списках пропавших без вести.</segment>
+		<segment id="9" parent="101" relname="span">Но иногда возникает необходимость искать человека всем миром-</segment>
+		<segment id="10" parent="9" relname="elaboration">например, когда кто-то заблудился в лесу.</segment>
+		<segment id="11" parent="105" relname="span">В Латвии есть волонтерская организация, добровольцы которой занимаются такими поисками.</segment>
+		<segment id="12" parent="103" relname="sequence">На сайте организации я заполнила анкету-заявку,</segment>
+		<segment id="13" parent="103" relname="sequence">меня приняли кандидатом в волонтеры,</segment>
+		<segment id="14" parent="104" relname="span">и через несколько дней пригласили на тренировку</segment>
+		<segment id="15" parent="14" relname="purpose">по поиску потерявшихся в лесу людей.</segment>
+		<segment id="16" parent="130" relname="preparation">Тренировка проходила в лесу под Ригой, на заброшенном военном полигоне.</segment>
+		<segment id="17" parent="112" relname="sequence">Приехало довольно много новичков - человек 50.</segment>
+		<segment id="18" parent="111" relname="joint">Сначала каждый из нас должен был представиться</segment>
+		<segment id="19" parent="111" relname="joint">и вкратце рассказать о себе.</segment>
+		<segment id="20" parent="112" relname="sequence">Потом нам объяснили задачу - в лесу спрятаны "потеряшки", которых нам предстоит найти.</segment>
+		<segment id="21" parent="116" relname="span">Первыми на маршрут выходят кинологи с поисковыми собаками.</segment>
+		<segment id="22" parent="21" relname="elaboration">Сегодня приехали две собаки - акита Юлэ и бордер-колли Джей.</segment>
+		<segment id="23" parent="121" relname="condition">Когда поисковая собака находит в лесу человека или предмет,</segment>
+		<segment id="24" parent="120" relname="joint">она лаем обозначает свою находку</segment>
+		<segment id="25" parent="120" relname="joint">и ложится рядом с ней.</segment>
+		<segment id="26" parent="124" relname="span">Конечно, собака ищет не человека, а поощрение, которое ей положено за находку.</segment>
+		<segment id="27" parent="125" relname="span">Для Юлэ это лакомство, а для Джея - любимая игрушка.</segment>
+		<segment id="28" parent="27" relname="elaboration">На фотографии Юлэ.</segment>
+		<segment id="29" parent="127" relname="condition">Пока собаки работают,</segment>
+		<segment id="30" parent="126" relname="joint">нас разбивают на группы</segment>
+		<segment id="31" parent="126" relname="joint">и выдают карты, где для каждой группы обозначен квадрат поиска.</segment>
+		<segment id="32" parent="132" relname="elaboration">К каждой группе прикрепляется опытный инструктор.</segment>
+		<segment id="33" parent="134" relname="joint">Перво-наперво нас всех обрабатывают средством от клещей</segment>
+		<segment id="34" parent="136" relname="span">и напоминают, что желательно иметь с собой  питьевую воду,</segment>
+		<segment id="35" parent="34" relname="purpose">потому что главная наша задача - вернуться домой невредимыми.</segment>
+		<segment id="36" parent="138" relname="span">Потом каждому выдают ярко-красную нарукавную повязку и шест с красным флажком -</segment>
+		<segment id="37" parent="137" relname="joint">участники поисков должны видеть друг друга</segment>
+		<segment id="38" parent="137" relname="joint">и иметь опознавательный знак.</segment>
+		<segment id="39" parent="139" relname="joint">Нас выводят на исходную позицию</segment>
+		<segment id="40" parent="139" relname="joint">и распределяют группы по участкам.</segment>
+		<segment id="41" parent="42" relname="purpose">Чтобы поски были эффективными,</segment>
+		<segment id="42" parent="140" relname="span">прочесывать лес надо цепью.</segment>
+		<segment id="43" parent="141" relname="span">Нас выстраивают шеренгой.</segment>
+		<segment id="44" parent="43" relname="elaboration">Надо запомнить своего соседа слева и соседа справа.</segment>
+		<segment id="45" parent="145" relname="joint">И впредь каждый должен сторого придерживаться своего места в шеренге</segment>
+		<segment id="46" parent="145" relname="joint">и соблюдать дистанцию.</segment>
+		<segment id="47" parent="146" relname="sequence">Наконец, собаки закончили свою работу в лесу,</segment>
+		<segment id="48" parent="146" relname="sequence">и нам дают команду начинать движение.</segment>
+		<segment id="49" parent="204" relname="span">И тут оказывается, что идти цепью не тк-то просто!</segment>
+		<segment id="50" parent="148" relname="span">Идти надо медленно,</segment>
+		<segment id="51" parent="50" relname="condition">внимательно осматривая все вокруг себя,</segment>
+		<segment id="52" parent="150" relname="joint">и при этом нельзя ни обгонять своих товарищей,</segment>
+		<segment id="53" parent="150" relname="joint">ни отставать от них .</segment>
+		<segment id="54" parent="152" relname="condition">Если кто-то отстал хоть на несколько метров,</segment>
+		<segment id="55" parent="151" relname="joint">вся шеренга останавливается</segment>
+		<segment id="56" parent="151" relname="joint">и ждет.</segment>
+		<segment id="57" parent="167" relname="span">Иначе можно пропустить что-то важное!</segment>
+		<segment id="58" parent="57" relname="elaboration">Фиксировать надо любой предмет, которого не должно быть в лесу - будь то конфетный фантик, носовой платок или отпечаток обуви.</segment>
+		<segment id="59" parent="60" relname="cause">Так как мы идем по заброшенному воленному полигону,</segment>
+		<segment id="60" parent="158" relname="span">у нас на пути множество естественных и искусственных препятствий - ям и горок, старых блиндажей и ангаров.</segment>
+		<segment id="61" parent="62" relname="cause">Все это надо надо внимательно осматривать</segment>
+		<segment id="62" parent="159" relname="span">- человек может быть и в яме, и на крыше сарая.</segment>
+		<segment id="63" parent="160" relname="contrast">Но каждый должен идти строго по своей линии.</segment>
+		<segment id="64" parent="65" relname="condition">Если на пути у кого-то, к примеру, блиндаж,</segment>
+		<segment id="65" parent="161" relname="span">осматривает его человек, на чьей линии этот блиндаж находится.</segment>
+		<segment id="66" parent="163" relname="joint">Остальные стоят на своих местах</segment>
+		<segment id="67" parent="163" relname="joint">и ждут, пока закончится осмотр.</segment>
+		<segment id="68" parent="166" relname="sequence">Потом все вместе начинают движение дальше.</segment>
+		<segment id="69" parent="172" relname="elaboration">А на этой фотографии всеобщая радость - соседняя группа нашла своего "потеряшку"</segment>
+		<segment id="70" parent="174" relname="evaluation">Я все время переживала,</segment>
+		<segment id="71" parent="173" relname="contrast">что наш потеряшка окажется на моей линии,</segment>
+		<segment id="72" parent="173" relname="contrast">и я его не увижу.</segment>
+		<segment id="73" parent="175" relname="elaboration">Собственно, так и получилось.</segment>
+		<segment id="74" parent="177" relname="joint">Человек сидел на дереве (вокруг одни сосны, а тут вдруг клен)</segment>
+		<segment id="75" parent="177" relname="joint">и был практически невидим среди листьев.</segment>
+		<segment id="76" parent="178" relname="contrast">Он потом рассказывал, что я смотрела на него в упор</segment>
+		<segment id="77" parent="178" relname="contrast">- и не видела!</segment>
+		<segment id="78" parent="180" relname="contrast">Наверное, я так и прошла бы мимо,</segment>
+		<segment id="79" parent="179" relname="span">но его боковым зрение заметил мой сосед</segment>
+		<segment id="80" parent="79" relname="background">- отслуживший в армии парень.</segment>
+		<segment id="81" parent="210" relname="evaluation">Сказал- армейская привычка,</segment>
+		<segment id="82" parent="209" relname="joint">шел</segment>
+		<segment id="83" parent="209" relname="joint">и высматривал снайпера.</segment>
+		<segment id="84" parent="188" relname="contrast">Я, конечно, расстороилась,</segment>
+		<segment id="85" parent="189" relname="joint">но на "разборе полетов" все меня утешали</segment>
+		<segment id="86" parent="190" relname="comparison">и сказали, что в упор действительно практически невозможно заметить человека в листве,</segment>
+		<segment id="87" parent="190" relname="comparison">сбоку его видно лучше.</segment>
+		<segment id="88" parent="193" relname="evaluation">И вот что странно -</segment>
+		<segment id="89" parent="191" relname="joint">люди идут в лес за грибами</segment>
+		<segment id="90" parent="192" relname="span">и одеваются чуть не в камуфляж,</segment>
+		<segment id="91" parent="90" relname="condition">превращаясь в человека-невидимку.</segment>
+		<segment id="92" parent="196" relname="span">Но такая одежда хороша лишь тогда,</segment>
+		<segment id="93" parent="92" relname="condition">когда надо в лесу незаметно пописать.</segment>
+		<segment id="94" parent="197" relname="span">Пожалуйста, надевайте что-то яркое,</segment>
+		<segment id="95" parent="94" relname="condition">когда идете в лес,</segment>
+		<segment id="96" parent="197" relname="elaboration">особенно на детей и пожилых родственников!</segment>
+		<segment id="97" parent="206" relname="joint">Не теряйте друг друга!</segment>
+		<group id="98" type="multinuc" parent="108" relname="span"/>
+		<group id="99" type="multinuc" parent="100" relname="contrast"/>
+		<group id="100" type="multinuc" parent="102" relname="contrast"/>
+		<group id="101" type="span" parent="106" relname="span"/>
+		<group id="102" type="multinuc" parent="107" relname="span"/>
+		<group id="103" type="multinuc" parent="11" relname="elaboration"/>
+		<group id="104" type="span" parent="110" relname="span"/>
+		<group id="105" type="span" parent="101" relname="elaboration"/>
+		<group id="106" type="span" parent="102" relname="contrast"/>
+		<group id="107" type="span" parent="119" relname="span"/>
+		<group id="108" type="span" parent="109" relname="span"/>
+		<group id="109" type="span" parent="107" relname="preparation"/>
+		<group id="110" type="span" parent="103" relname="sequence"/>
+		<group id="111" type="multinuc" parent="112" relname="sequence"/>
+		<group id="112" type="multinuc" parent="130" relname="span"/>
+		<group id="116" type="span" parent="129" relname="span"/>
+		<group id="119" type="span" relname="antithesis"/>
+		<group id="120" type="multinuc" parent="121" relname="span"/>
+		<group id="121" type="span" parent="122" relname="span"/>
+		<group id="122" type="span" parent="123" relname="contrast"/>
+		<group id="123" type="multinuc" parent="116" relname="elaboration"/>
+		<group id="124" type="span" parent="123" relname="contrast"/>
+		<group id="125" type="span" parent="26" relname="elaboration"/>
+		<group id="126" type="multinuc" parent="132" relname="span"/>
+		<group id="127" type="span" parent="128" relname="span"/>
+		<group id="128" type="span" parent="143" relname="preparation"/>
+		<group id="129" type="span" parent="112" relname="sequence"/>
+		<group id="130" type="span" parent="131" relname="span"/>
+		<group id="131" type="span" relname="antithesis"/>
+		<group id="132" type="span" parent="127" relname="span"/>
+		<group id="133" type="multinuc" parent="143" relname="span"/>
+		<group id="134" type="multinuc" parent="133" relname="sequence"/>
+		<group id="136" type="span" parent="134" relname="joint"/>
+		<group id="137" type="multinuc" parent="36" relname="elaboration"/>
+		<group id="138" type="span" parent="133" relname="sequence"/>
+		<group id="139" type="multinuc" parent="133" relname="sequence"/>
+		<group id="140" type="span" parent="141" relname="cause"/>
+		<group id="141" type="span" parent="142" relname="span"/>
+		<group id="142" type="span" parent="133" relname="sequence"/>
+		<group id="143" type="span" parent="144" relname="span"/>
+		<group id="144" type="span" relname="antithesis"/>
+		<group id="145" type="multinuc" parent="147" relname="joint"/>
+		<group id="146" type="multinuc" parent="147" relname="joint"/>
+		<group id="147" type="multinuc" parent="204" relname="preparation"/>
+		<group id="148" type="span" parent="149" relname="contrast"/>
+		<group id="149" type="multinuc" parent="49" relname="elaboration"/>
+		<group id="150" type="multinuc" parent="157" relname="span"/>
+		<group id="151" type="multinuc" parent="152" relname="span"/>
+		<group id="152" type="span" parent="153" relname="span"/>
+		<group id="153" type="span" parent="157" relname="elaboration"/>
+		<group id="156" type="span" parent="168" relname="contrast"/>
+		<group id="157" type="span" parent="156" relname="span"/>
+		<group id="158" type="span" parent="165" relname="preparation"/>
+		<group id="159" type="span" parent="160" relname="contrast"/>
+		<group id="160" type="multinuc" parent="164" relname="solutionhood"/>
+		<group id="161" type="span" parent="162" relname="joint"/>
+		<group id="162" type="multinuc" parent="166" relname="sequence"/>
+		<group id="163" type="multinuc" parent="162" relname="joint"/>
+		<group id="164" type="span" parent="172" relname="span"/>
+		<group id="165" type="span" parent="171" relname="span"/>
+		<group id="166" type="multinuc" parent="164" relname="span"/>
+		<group id="167" type="span" parent="168" relname="contrast"/>
+		<group id="168" type="multinuc" parent="149" relname="contrast"/>
+		<group id="171" type="span" relname="antithesis"/>
+		<group id="172" type="span" parent="165" relname="span"/>
+		<group id="173" type="multinuc" parent="174" relname="span"/>
+		<group id="174" type="span" parent="175" relname="span"/>
+		<group id="175" type="span" parent="176" relname="span"/>
+		<group id="176" type="span" parent="186" relname="preparation"/>
+		<group id="177" type="multinuc" parent="185" relname="joint"/>
+		<group id="178" type="multinuc" parent="183" relname="span"/>
+		<group id="179" type="span" parent="181" relname="span"/>
+		<group id="180" type="multinuc" parent="183" relname="elaboration"/>
+		<group id="181" type="span" parent="180" relname="contrast"/>
+		<group id="182" type="span" parent="179" relname="elaboration"/>
+		<group id="183" type="span" parent="184" relname="span"/>
+		<group id="184" type="span" parent="185" relname="joint"/>
+		<group id="185" type="multinuc" parent="186" relname="span"/>
+		<group id="186" type="span" parent="187" relname="span"/>
+		<group id="187" type="span" relname="antithesis"/>
+		<group id="188" type="multinuc" parent="200" relname="preparation"/>
+		<group id="189" type="multinuc" parent="188" relname="contrast"/>
+		<group id="190" type="multinuc" parent="189" relname="joint"/>
+		<group id="191" type="multinuc" parent="193" relname="span"/>
+		<group id="192" type="span" parent="191" relname="joint"/>
+		<group id="193" type="span" parent="194" relname="span"/>
+		<group id="194" type="span" parent="195" relname="contrast"/>
+		<group id="195" type="multinuc" parent="200" relname="span"/>
+		<group id="196" type="span" parent="195" relname="contrast"/>
+		<group id="197" type="span" parent="198" relname="span"/>
+		<group id="198" type="span" parent="206" relname="joint"/>
+		<group id="200" type="span" parent="201" relname="span"/>
+		<group id="201" type="span" parent="207" relname="solutionhood"/>
+		<group id="204" type="span" parent="205" relname="span"/>
+		<group id="205" type="span" relname="antithesis"/>
+		<group id="206" type="multinuc" parent="207" relname="span"/>
+		<group id="207" type="span" parent="208" relname="span"/>
+		<group id="208" type="span" relname="antithesis"/>
+		<group id="209" type="multinuc" parent="210" relname="span"/>
+		<group id="210" type="span" parent="182" relname="span"/>
+  </body>
+</rst>

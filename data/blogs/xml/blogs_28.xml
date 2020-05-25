@@ -1,0 +1,463 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="antithesis" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="background" type="rst" />
+			<rel name="cause" type="rst" />
+			<rel name="comparison" type="multinuc" />
+			<rel name="concession" type="rst" />
+			<rel name="conclusion" type="rst" />
+			<rel name="condition" type="rst" />
+			<rel name="contrast" type="multinuc" />
+			<rel name="effect" type="rst" />
+			<rel name="elaboration" type="rst" />
+			<rel name="evaluation" type="rst" />
+			<rel name="evidence" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="motivation" type="rst" />
+			<rel name="preparation" type="rst" />
+			<rel name="purpose" type="rst" />
+			<rel name="restatement" type="multinuc" />
+			<rel name="same-unit" type="multinuc" />
+			<rel name="sequence" type="multinuc" />
+			<rel name="solutionhood" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="1" relname="antithesis">http://wikifit.ru/%d1%87%d0%b0%d1%81%d1%82%d1%8b%d0%b9-%d0%b2%d0%be%d0%bf%d1%80%d0%be%d1%81-%d0%bd%d0%b0%d1%87%d0%b0%d0%bb%d0%b0-%d1%82%d1%80%d0%b5%d0%bd%d0%b8%d1%80%d0%be%d0%b2%d0%b0%d1%82%d1%8c%d1%81%d1%8f-%d0%b8/</segment>
+		<segment id="2" relname="antithesis">Частый вопрос: Начала тренироваться и правильно питаться, а вес не уходит или увеличился! Что я делаю не так?</segment>
+		<segment id="3" relname="antithesis">IMG</segment>
+		<segment id="4" parent="442" relname="joint">Многие девушки, которые начинают тренироваться, начинают вести правильный режим питания,</segment>
+		<segment id="5" parent="442" relname="joint">не едят ничего вредного,</segment>
+		<segment id="6" parent="219" relname="sequence">спустя 2-3 недели начинают разочаровываться.</segment>
+		<segment id="7" parent="222" relname="span">А разочарование приходит с таким вопросом,</segment>
+		<segment id="8" parent="220" relname="joint">почему я тренируюсь 2-3 недели,</segment>
+		<segment id="9" parent="220" relname="joint">кушаю правильно,</segment>
+		<segment id="10" parent="221" relname="contrast">а мой вес стоит?</segment>
+		<segment id="11" parent="227" relname="span">Такие мысли возникают практически у каждой девушки,</segment>
+		<segment id="12" parent="226" relname="span">потому что в голове сидит установка,</segment>
+		<segment id="13" parent="14" relname="condition">когда следуешь диете</segment>
+		<segment id="14" parent="225" relname="span">– ты худеешь быстро!</segment>
+		<segment id="15" parent="228" relname="joint">А тут начала тренироваться,</segment>
+		<segment id="16" parent="228" relname="joint">питаться правильно,</segment>
+		<segment id="17" parent="229" relname="contrast">и за 2-3 недели ничего не случается!</segment>
+		<segment id="18" parent="19" relname="condition">Вот села бы на кефирную(гречневую, кремлёвскую) диету</segment>
+		<segment id="19" parent="230" relname="span">и за это время стала бы уже тростиночкой!!!</segment>
+		<segment id="20" parent="234" relname="contrast">Девушки, то, о чём вы грезите, о быстрых результатах</segment>
+		<segment id="21" parent="234" relname="contrast">– это не путь девушки, которая приходит к тренировкам и правильной системе питания.</segment>
+		<segment id="22" parent="236" relname="span">Быстрые результаты – это путь к плохому здоровью,</segment>
+		<segment id="23" parent="235" relname="span">быстро из нашего организма уходят только мышцы и вода,</segment>
+		<segment id="24" parent="23" relname="elaboration">которые мы уничтожаем в процессе нездоровых диет, пестрящих в интернете своей уникальностью и супер-результатам!</segment>
+		<segment id="25" parent="26" relname="condition">Сидя на диете,</segment>
+		<segment id="26" parent="239" relname="span">вы теряете вес за счёт мышц, за счёт воды,</segment>
+		<segment id="27" parent="240" relname="sequence">весы показывают снижение вашего веса</segment>
+		<segment id="28" parent="241" relname="span">и вы радуетесь.</segment>
+		<segment id="29" parent="422" relname="solutionhood">А далее, что вы получаете?</segment>
+		<segment id="30" parent="243" relname="contrast">Получаете меньше килограмм, меньше мышечной ткани, лёгкие кости, обезвоженное тело,</segment>
+		<segment id="31" parent="243" relname="contrast">но при этом % жира вырос</segment>
+		<segment id="32" parent="242" relname="joint">и ваши бока такие же жирные,</segment>
+		<segment id="33" parent="242" relname="joint">ноги дряблые,</segment>
+		<segment id="34" parent="244" relname="contrast">но зато вы радуетесь цифре на весах!</segment>
+		<segment id="35" parent="443" relname="span">Вы похудели на 5, на 10, на 20 килограммов</segment>
+		<segment id="36" parent="35" relname="cause">благодаря диете!</segment>
+		<segment id="37" parent="247" relname="contrast">Дряблая кожа, отсутствие мышц и большая прослойка жира всё ещё есть!</segment>
+		<segment id="38" parent="251" relname="sequence">Далее, начинаете кушать, как прежде,</segment>
+		<segment id="39" parent="248" relname="span">вес начинает расти,</segment>
+		<segment id="40" parent="39" relname="cause">потому что во время такой диеты тело находилось в стрессе,</segment>
+		<segment id="41" parent="250" relname="joint">вес растёт быстро,</segment>
+		<segment id="42" parent="249" relname="span">и это вес совсем не мышечной массы, тех красивых форм и изгибов, а жира! Того самого жира,</segment>
+		<segment id="43" parent="42" relname="elaboration">который добавляет вам бугры на теле, в виде целлюлита, складок на боках, спине и животе и толстых ног!</segment>
+		<segment id="44" parent="45" relname="condition">Если ваша задача именно такой результат,</segment>
+		<segment id="45" parent="254" relname="span">то сидите на диетах,</segment>
+		<segment id="46" parent="255" relname="contrast">но вы никогда не будете довольны результатом!</segment>
+		<segment id="47" parent="263" relname="preparation">А теперь поговорим и тренировках и сбалансированном питании.</segment>
+		<segment id="48" parent="257" relname="span">Эту часть я хочу посвятить и своим ученицам</segment>
+		<segment id="49" parent="48" relname="elaboration">(часть которых не понимает, что быстрых результатов не бывает),</segment>
+		<segment id="50" parent="261" relname="span">а также тем девушкам,</segment>
+		<segment id="51" parent="258" relname="joint">которые быстро разочаровываются в фитнесе</segment>
+		<segment id="52" parent="258" relname="joint">и бросают его,</segment>
+		<segment id="53" parent="259" relname="cause">как бы не видя результатов и даже увеличивающегося веса!</segment>
+		<segment id="54" parent="55" relname="condition">Когда мы начинаем заниматься спортом,</segment>
+		<segment id="55" parent="265" relname="span">мы начинаем нагружать наши мышцы.</segment>
+		<segment id="56" parent="444" relname="span">Для кого-то даже работа с маленьким весом, как 1 кг. гантели</segment>
+		<segment id="57" parent="445" relname="span">– это уже приводит к даже небольшому разрыву мышечных волокон.</segment>
+		<segment id="58" parent="266" relname="joint">Долго держатся мышечные боли,</segment>
+		<segment id="59" parent="266" relname="joint">тело требует восстановления…</segment>
+		<segment id="60" parent="267" relname="contrast">И вес  стоит…</segment>
+		<segment id="61" parent="267" relname="contrast">А у кого-то даже увеличивается на 1-2 кг.</segment>
+		<segment id="62" parent="272" relname="span">Процесс восстановления и укрепления мышц проходит</segment>
+		<segment id="63" parent="62" relname="condition">с длительной задержкой воды.</segment>
+		<segment id="64" parent="271" relname="span">Потому что нашим мышечным волокнам нужна жидкость,</segment>
+		<segment id="65" parent="64" relname="cause">с помощью которой все обменные процессы на уровне клеток проходят быстрее.</segment>
+		<segment id="66" parent="277" relname="comparison">Вы, наверное, замечали, что на слизистых шрамы и любые порезы заживают быстрее, не оставляя следа.</segment>
+		<segment id="67" parent="273" relname="span">Наш организм естественно создаёт такие же условия</segment>
+		<segment id="68" parent="67" relname="purpose">для восстановления мышц.</segment>
+		<segment id="69" parent="275" relname="span">У нас задерживается много жидкости</segment>
+		<segment id="70" parent="274" relname="span">для восстановления мышечных волокон,</segment>
+		<segment id="71" parent="70" relname="elaboration">которые мы травмируем во время тренировок, даже начального уровня.</segment>
+		<segment id="72" parent="279" relname="span">Своим качественным питанием мы настраиваем работу наших гормонов на нужный лад, так,</segment>
+		<segment id="73" parent="72" relname="purpose">чтобы не было никаких сбоев в работе гормональной системы и всех обменных процессов.</segment>
+		<segment id="74" parent="282" relname="cause">Именно благодаря такому состоянию организма, во время сбалансированного питания,</segment>
+		<segment id="75" parent="281" relname="joint">наше тело выполняет свои функции без сбоев в работе,</segment>
+		<segment id="76" parent="280" relname="joint">восстановление происходит быстрее и легче.</segment>
+		<segment id="77" parent="284" relname="span">А это значит, что необходимые для нас процессы происходят быстрее,</segment>
+		<segment id="78" parent="77" relname="elaboration">тело перестраивается на полноценную работу, регенерацию тканей, восстановление мышечной ткани, укрепления её, а также жиросжигания.</segment>
+		<segment id="79" parent="287" relname="comparison">Жир, к сожалению, не горит так быстро,</segment>
+		<segment id="80" parent="287" relname="comparison">как нам этого хочется.</segment>
+		<segment id="81" parent="425" relname="purpose">Для этого, нужно создавать условия жиросжигания.</segment>
+		<segment id="82" parent="289" relname="contrast">Помните, мы сжигаем жир не только на тренировке,</segment>
+		<segment id="83" parent="289" relname="contrast">но большую часть именно в период восстановления наших мышц и организма после интенсивного тренинга.</segment>
+		<segment id="84" parent="85" relname="condition">При поддержании правильного режима питания и при сохранении режима тренировок</segment>
+		<segment id="85" parent="293" relname="span">вы разгоняете свои обменные процессы до высоких скоростей,</segment>
+		<segment id="86" parent="294" relname="contrast">но, ПОМНИТЕ – это не процесс 1-2 недель.</segment>
+		<segment id="87" parent="303" relname="span">Ведь ваша – цель изменить тело.</segment>
+		<segment id="88" parent="302" relname="span">Изменение тела происходит постепенно.</segment>
+		<segment id="89" parent="295" relname="joint">Обменные процессы должны наладить свою работу</segment>
+		<segment id="90" parent="295" relname="joint">и только правильным питанием вы способны запустить эту работу.</segment>
+		<segment id="91" parent="296" relname="joint">Только занимаясь регулярно</segment>
+		<segment id="92" parent="296" relname="joint">и отдаваясь 100% тренингу,</segment>
+		<segment id="93" parent="299" relname="span">вы будете заставлять ваше тело меняться.</segment>
+		<segment id="94" parent="297" relname="joint">Но это не быстрый процесс,</segment>
+		<segment id="95" parent="298" relname="span">и вы должны быть готовы не к быстрому результату, а стабильному процессу,</segment>
+		<segment id="96" parent="95" relname="elaboration">которое приведёт ваше тело в идеальное состояние.</segment>
+		<segment id="97" parent="311" relname="solutionhood">Почему не видно результат сразу?</segment>
+		<segment id="98" parent="311" relname="span">Объясняю.</segment>
+		<segment id="99" parent="310" relname="span">У всех абсолютно разная проблема в работе организма,</segment>
+		<segment id="100" parent="307" relname="span">у кого-то очень плохой обмен веществ,</segment>
+		<segment id="101" parent="306" relname="joint">чтобы его восстановить</segment>
+		<segment id="102" parent="306" relname="joint">и сделать его быстрее.</segment>
+		<segment id="103" parent="308" relname="span">У кого-то уже патологические нарушения в работе гормонов,</segment>
+		<segment id="104" parent="103" relname="elaboration">которые не позволяют увидеть быстрый результат.</segment>
+		<segment id="105" parent="313" relname="span">Ваше тело нужно правильно программировать.</segment>
+		<segment id="106" parent="105" relname="elaboration">программировать как на физическом, так и на эмоциональном уровне.</segment>
+		<segment id="107" parent="314" relname="span">Необходимо вести очень здоровый режим питания,</segment>
+		<segment id="108" parent="107" relname="purpose">чтобы помочь организму работать на полную мощь, как физически, так и эмоционально.</segment>
+		<segment id="109" parent="317" relname="restatement">У одной девушки скорость обменных процессов выше, чем у другой,</segment>
+		<segment id="110" parent="456" relname="span">а это означает, что результаты у неё будут быстрее, чем у той, у которой обмен веществ настолько плохой от её образа жизни,</segment>
+		<segment id="111" parent="320" relname="joint">что  может огорчать</segment>
+		<segment id="112" parent="319" relname="span">и сбивать с пути ту, у которой медленнее идут результаты.</segment>
+		<segment id="113" parent="325" relname="span">У одной девушки есть лишний вес,</segment>
+		<segment id="114" parent="113" relname="cause">как причина переедания,</segment>
+		<segment id="115" parent="447" relname="span">а у другой может быть причина сбоя работы гормональной системы</segment>
+		<segment id="116" parent="115" relname="cause">от того питания,</segment>
+		<segment id="117" parent="447" relname="elaboration">которым она создала себе это состояние.</segment>
+		<segment id="118" parent="332" relname="joint">А на перестройку работы гормонов требуются недели, а порой месяцы</segment>
+		<segment id="119" parent="328" relname="joint">и вы не должны отчаиваться</segment>
+		<segment id="120" parent="328" relname="joint">и бросать,</segment>
+		<segment id="121" parent="449" relname="same-unit">потому что</segment>
+		<segment id="122" parent="123" relname="condition">бросая</segment>
+		<segment id="123" parent="448" relname="span">вы будете вредить дальше,</segment>
+		<segment id="124" parent="448" relname="cause">не дождавшись восстановления корректной работы организма.</segment>
+		<segment id="125" parent="337" relname="same-unit">Также,</segment>
+		<segment id="126" parent="127" relname="background">как я и описала выше,</segment>
+		<segment id="127" parent="336" relname="span">первый месяц можно ожидать даже прибавки массы и объёмов тела,</segment>
+		<segment id="128" parent="338" relname="contrast">но это только от задержки жидкости в теле,</segment>
+		<segment id="129" parent="339" relname="joint">если у вас в порядке ваша гормональная система</segment>
+		<segment id="130" parent="339" relname="joint">и нет никаких других проблем.</segment>
+		<segment id="131" parent="430" relname="same-unit">Обычно, в течении 3-5 недель из тела выходит та жидкость,</segment>
+		<segment id="132" parent="342" relname="span">которая скопилась</segment>
+		<segment id="133" parent="132" relname="condition">при начале тренинга</segment>
+		<segment id="134" parent="344" relname="span">и вы резко видите свой результат.</segment>
+		<segment id="135" parent="345" relname="contrast">Казалось бы, ещё 3-4 дня назад была надутой,</segment>
+		<segment id="136" parent="345" relname="contrast">а тут бац, и уже другой вид.</segment>
+		<segment id="137" parent="346" relname="evaluation">Это тоже нормально.</segment>
+		<segment id="138" parent="348" relname="joint">Как только тело адаптируется,</segment>
+		<segment id="139" parent="348" relname="joint">мышечные волокна восстанавливаются,</segment>
+		<segment id="140" parent="349" relname="span">тело начинает сливать лишнюю жидкость.</segment>
+		<segment id="141" parent="142" relname="cause">Зная ваши процессы в организме</segment>
+		<segment id="142" parent="451" relname="span">вы можете быть уверены,</segment>
+		<segment id="143" parent="353" relname="joint">что вы на верном пути</segment>
+		<segment id="144" parent="353" relname="joint">и нужно только терпение.</segment>
+		<segment id="145" parent="432" relname="span">Построить тело, как у меня, за 3 месяца нереально.</segment>
+		<segment id="146" parent="454" relname="span">Я работаю со своим телом уже несколько лет.</segment>
+		<segment id="147" parent="146" relname="condition">Без срывов, без обжирательства, без лени!</segment>
+		<segment id="148" parent="355" relname="joint">Это постоянный процесс,</segment>
+		<segment id="149" parent="355" relname="joint">непрерывная работа  со своим телом и духом.</segment>
+		<segment id="150" parent="358" relname="solutionhood">Как вы можете ожидать, что ваше тело примет фигуру фитнесс-модели за 3-4 недели?</segment>
+		<segment id="151" parent="358" relname="span">Это невозможно!</segment>
+		<segment id="152" parent="357" relname="span">Физические процессы не настолько быстры,</segment>
+		<segment id="153" parent="152" relname="purpose">чтобы за 1 месяц решать проблему нескольких или многих лет малоподвижного образа жизни, переедания и съедаемого пищевого мусора(шоколадки, тортики, печеньки, сахар и прочие вредности)…</segment>
+		<segment id="154" parent="365" relname="joint">Запаситесь терпением.</segment>
+		<segment id="155" parent="365" relname="joint">Делайте свою работу.</segment>
+		<segment id="156" parent="363" relname="joint">Следите за питанием,</segment>
+		<segment id="157" parent="363" relname="joint">делайте все тренировки,</segment>
+		<segment id="158" parent="364" relname="span">и в один день вы увидите, как быстро изменилось ваше тело.</segment>
+		<segment id="159" parent="368" relname="joint">Только верьте себе,</segment>
+		<segment id="160" parent="368" relname="joint">помогайте своему телу меняться,</segment>
+		<segment id="161" parent="433" relname="contrast">не поедайте ночами конфетку, уходя на 3 шага назад.</segment>
+		<segment id="162" parent="370" relname="cause">Дайте время телу привыкнуть к режиму</segment>
+		<segment id="163" parent="369" relname="joint">и оно само начнёт трансформироваться</segment>
+		<segment id="164" parent="369" relname="joint">и подстраиваться под ваш новый образ жизни.</segment>
+		<segment id="165" parent="374" relname="joint">Главное, знайте, что все процессы в нашем организме закономерны,</segment>
+		<segment id="166" parent="434" relname="span">что наше тело это тонкой организации машина.</segment>
+		<segment id="167" parent="375" relname="span">И ею нужно правильно управлять,</segment>
+		<segment id="168" parent="167" relname="purpose">чтобы достигать тех результатов, которые хотите достичь.</segment>
+		<segment id="169" parent="379" relname="span">И помните, красивое, стройное, здоровое тело – это дорога, длиной всю жизнь!</segment>
+		<segment id="170" parent="169" relname="elaboration">Вы будете менять своё тело не одним днём, а неделями, месяцами и годами!</segment>
+		<segment id="171" parent="380" relname="joint">Запаситесь терпением,</segment>
+		<segment id="172" parent="380" relname="joint">верьте в себя,</segment>
+		<segment id="173" parent="380" relname="joint">управляйте собой и своими желаниями</segment>
+		<segment id="174" parent="381" relname="span">и вы достигните того тела, которое хотите,</segment>
+		<segment id="175" parent="382" relname="contrast">но не торопите те физиологические процессы, которые невозможно пропустить.</segment>
+		<segment id="176" parent="383" relname="joint">Если вы хотите стрелку весов вниз,</segment>
+		<segment id="177" parent="383" relname="joint">и вас не волнует внешний вид</segment>
+		<segment id="178" parent="386" relname="span">– интернет полон опасных и нездоровых диет!</segment>
+		<segment id="179" parent="384" relname="joint">Если ваша задача сохранить мышцы,</segment>
+		<segment id="180" parent="384" relname="joint">укрепить их,</segment>
+		<segment id="181" parent="384" relname="joint">нарастить</segment>
+		<segment id="182" parent="385" relname="span">– это каждодневный труд на кухне и на тренировках!</segment>
+		<segment id="183" parent="388" relname="joint">Почему вес стоит первые 2-4 недели?</segment>
+		<segment id="184" parent="388" relname="joint">Или даже почему вы набираете 1-2 кг.?</segment>
+		<segment id="185" parent="390" relname="joint">Потому что у вас скапливается много жидкости в организме!</segment>
+		<segment id="186" parent="389" relname="joint">Потому что ваши мышцы становятся тяжелее,</segment>
+		<segment id="187" parent="389" relname="joint">их плотность увеличивается,</segment>
+		<segment id="188" parent="389" relname="joint">они становятся плотнее.</segment>
+		<segment id="189" parent="393" relname="span">Наше тело очень умное,</segment>
+		<segment id="190" parent="455" relname="span">и оно защищает тело от физических нагрузок</segment>
+		<segment id="191" parent="190" relname="cause">именно делая его сильнее,</segment>
+		<segment id="192" parent="392" relname="joint">мышцы плотнее</segment>
+		<segment id="193" parent="392" relname="joint">и выносливее.</segment>
+		<segment id="194" parent="439" relname="span">А это процесс длительного времени.</segment>
+		<segment id="195" parent="399" relname="span">Организму нужно время</segment>
+		<segment id="196" parent="195" relname="purpose">для восстановления.</segment>
+		<segment id="197" parent="401" relname="span">Также вопрос из этого же разряда, увеличиваются ноги в объёмах, в первые недели иди месяцы.</segment>
+		<segment id="198" parent="402" relname="contrast">Многие считают, что можно легко перекачать ноги,</segment>
+		<segment id="199" parent="402" relname="contrast">но это совсем не так.</segment>
+		<segment id="200" parent="405" relname="span">В первые месяцы в ногах будет много воды,</segment>
+		<segment id="201" parent="200" relname="cause">так как там самые крупные мышцы.</segment>
+		<segment id="202" parent="406" relname="contrast">Они как бы наливаются в объёмах от воды,</segment>
+		<segment id="203" parent="406" relname="contrast">но жир ещё не успевает сгореть.</segment>
+		<segment id="204" parent="408" relname="span">Многие паникуют и бросают занятия,</segment>
+		<segment id="205" parent="204" relname="cause">думая, что мышцы выросли.</segment>
+		<segment id="206" parent="412" relname="span">Девочки, дорогие, поймите, мышцы не растут так быстро.</segment>
+		<segment id="207" parent="411" relname="joint">Это вода может задерживаться на длительное время</segment>
+		<segment id="208" parent="411" relname="joint">и жир медленно гореть.</segment>
+		<segment id="209" parent="210" relname="cause">Запаситесь терпением,</segment>
+		<segment id="210" parent="413" relname="span">это со временем уйдёт.</segment>
+		<segment id="211" parent="414" relname="joint">И вода уйдёт</segment>
+		<segment id="212" parent="414" relname="joint">и жир сгорит</segment>
+		<segment id="213" parent="414" relname="joint">и останутся красивейшие, стройные, подтянутые ножки. Ножки, о которых вы мечтаете и которые хотите иметь!</segment>
+		<segment id="214" parent="417" relname="joint">Терпение – это ваш лучший друг</segment>
+		<segment id="215" parent="417" relname="joint">и спутник по жизни!</segment>
+		<group id="219" type="multinuc" parent="223" relname="span"/>
+		<group id="220" type="multinuc" parent="221" relname="contrast"/>
+		<group id="221" type="multinuc" parent="7" relname="elaboration"/>
+		<group id="222" type="span" parent="223" relname="elaboration"/>
+		<group id="223" type="span" parent="224" relname="span"/>
+		<group id="224" type="span" relname="antithesis"/>
+		<group id="225" type="span" parent="12" relname="elaboration"/>
+		<group id="226" type="span" parent="11" relname="cause"/>
+		<group id="227" type="span" parent="233" relname="contrast"/>
+		<group id="228" type="multinuc" parent="229" relname="contrast"/>
+		<group id="229" type="multinuc" parent="231" relname="span"/>
+		<group id="230" type="span" parent="231" relname="evaluation"/>
+		<group id="231" type="span" parent="232" relname="span"/>
+		<group id="232" type="span" parent="233" relname="contrast"/>
+		<group id="233" type="multinuc" relname="antithesis"/>
+		<group id="234" type="multinuc" parent="237" relname="span"/>
+		<group id="235" type="span" parent="22" relname="evidence"/>
+		<group id="236" type="span" parent="237" relname="elaboration"/>
+		<group id="237" type="span" parent="238" relname="span"/>
+		<group id="238" type="span" relname="antithesis"/>
+		<group id="239" type="span" parent="240" relname="sequence"/>
+		<group id="240" type="multinuc" parent="28" relname="cause"/>
+		<group id="241" type="span" relname="antithesis"/>
+		<group id="242" type="multinuc" parent="244" relname="contrast"/>
+		<group id="243" type="multinuc" parent="245" relname="joint"/>
+		<group id="244" type="multinuc" parent="245" relname="joint"/>
+		<group id="245" type="multinuc" parent="443" relname="cause"/>
+		<group id="246" type="span" parent="247" relname="contrast"/>
+		<group id="247" type="multinuc" parent="252" relname="sequence"/>
+		<group id="248" type="span" parent="251" relname="sequence"/>
+		<group id="249" type="span" parent="250" relname="joint"/>
+		<group id="250" type="multinuc" parent="251" relname="sequence"/>
+		<group id="251" type="multinuc" parent="252" relname="sequence"/>
+		<group id="252" type="multinuc" parent="422" relname="span"/>
+		<group id="254" type="span" parent="255" relname="contrast"/>
+		<group id="255" type="multinuc" parent="423" relname="evaluation"/>
+		<group id="257" type="span" parent="262" relname="same-unit"/>
+		<group id="258" type="multinuc" parent="259" relname="span"/>
+		<group id="259" type="span" parent="260" relname="span"/>
+		<group id="260" type="span" parent="50" relname="elaboration"/>
+		<group id="261" type="span" parent="262" relname="same-unit"/>
+		<group id="262" type="multinuc" parent="263" relname="span"/>
+		<group id="263" type="span" parent="264" relname="span"/>
+		<group id="264" type="span" relname="antithesis"/>
+		<group id="265" type="span" parent="444" relname="preparation"/>
+		<group id="266" type="multinuc" parent="268" relname="joint"/>
+		<group id="267" type="multinuc" parent="268" relname="joint"/>
+		<group id="268" type="multinuc" parent="57" relname="elaboration"/>
+		<group id="269" type="span" parent="270" relname="span"/>
+		<group id="270" type="span" relname="antithesis"/>
+		<group id="271" type="span" parent="272" relname="cause"/>
+		<group id="272" type="span" parent="446" relname="span"/>
+		<group id="273" type="span" parent="276" relname="span"/>
+		<group id="274" type="span" parent="69" relname="purpose"/>
+		<group id="275" type="span" parent="273" relname="elaboration"/>
+		<group id="276" type="span" parent="277" relname="comparison"/>
+		<group id="277" type="multinuc" parent="446" relname="elaboration"/>
+		<group id="278" type="span" relname="antithesis"/>
+		<group id="279" type="span" parent="286" relname="span"/>
+		<group id="280" type="multinuc" parent="281" relname="joint"/>
+		<group id="281" type="multinuc" parent="282" relname="span"/>
+		<group id="282" type="span" parent="283" relname="span"/>
+		<group id="283" type="span" parent="285" relname="span"/>
+		<group id="284" type="span" parent="283" relname="evaluation"/>
+		<group id="285" type="span" parent="279" relname="elaboration"/>
+		<group id="286" type="span" relname="antithesis"/>
+		<group id="287" type="multinuc" parent="425" relname="span"/>
+		<group id="289" type="multinuc" parent="426" relname="background"/>
+		<group id="293" type="span" parent="294" relname="contrast"/>
+		<group id="294" type="multinuc" parent="304" relname="span"/>
+		<group id="295" type="multinuc" parent="300" relname="joint"/>
+		<group id="296" type="multinuc" parent="93" relname="condition"/>
+		<group id="297" type="multinuc" parent="301" relname="contrast"/>
+		<group id="298" type="span" parent="297" relname="joint"/>
+		<group id="299" type="span" parent="300" relname="joint"/>
+		<group id="300" type="multinuc" parent="301" relname="contrast"/>
+		<group id="301" type="multinuc" parent="88" relname="elaboration"/>
+		<group id="302" type="span" parent="87" relname="elaboration"/>
+		<group id="303" type="span" parent="304" relname="elaboration"/>
+		<group id="304" type="span" parent="305" relname="span"/>
+		<group id="305" type="span" relname="antithesis"/>
+		<group id="306" type="multinuc" parent="100" relname="elaboration"/>
+		<group id="307" type="span" parent="309" relname="comparison"/>
+		<group id="308" type="span" parent="309" relname="comparison"/>
+		<group id="309" type="multinuc" parent="99" relname="elaboration"/>
+		<group id="310" type="span" parent="98" relname="elaboration"/>
+		<group id="311" type="span" parent="428" relname="span"/>
+		<group id="313" type="span" parent="315" relname="span"/>
+		<group id="314" type="span" parent="313" relname="elaboration"/>
+		<group id="315" type="span" parent="429" relname="span"/>
+		<group id="317" type="multinuc" parent="323" relname="span"/>
+		<group id="319" type="span" parent="320" relname="joint"/>
+		<group id="320" type="multinuc" parent="110" relname="cause"/>
+		<group id="323" type="span" parent="324" relname="span"/>
+		<group id="324" type="span" parent="333" relname="joint"/>
+		<group id="325" type="span" parent="327" relname="comparison"/>
+		<group id="326" type="span" parent="327" relname="comparison"/>
+		<group id="327" type="multinuc" parent="333" relname="joint"/>
+		<group id="328" type="multinuc" parent="330" relname="span"/>
+		<group id="329" type="span" parent="330" relname="cause"/>
+		<group id="330" type="span" parent="331" relname="span"/>
+		<group id="331" type="span" parent="332" relname="joint"/>
+		<group id="332" type="multinuc" parent="334" relname="evidence"/>
+		<group id="333" type="multinuc" parent="334" relname="span"/>
+		<group id="334" type="span" parent="335" relname="span"/>
+		<group id="335" type="span" relname="antithesis"/>
+		<group id="336" type="span" parent="337" relname="same-unit"/>
+		<group id="337" type="multinuc" parent="338" relname="contrast"/>
+		<group id="338" type="multinuc" parent="340" relname="span"/>
+		<group id="339" type="multinuc" parent="340" relname="condition"/>
+		<group id="340" type="span" parent="341" relname="span"/>
+		<group id="341" type="span" parent="352" relname="span"/>
+		<group id="342" type="span" parent="430" relname="same-unit"/>
+		<group id="343" type="span" parent="134" relname="cause"/>
+		<group id="344" type="span" parent="351" relname="span"/>
+		<group id="345" type="multinuc" parent="346" relname="span"/>
+		<group id="346" type="span" parent="347" relname="span"/>
+		<group id="347" type="span" parent="350" relname="span"/>
+		<group id="348" type="multinuc" parent="140" relname="cause"/>
+		<group id="349" type="span" parent="347" relname="elaboration"/>
+		<group id="350" type="span" parent="344" relname="elaboration"/>
+		<group id="351" type="span" parent="341" relname="elaboration"/>
+		<group id="352" type="span" relname="antithesis"/>
+		<group id="353" type="multinuc" parent="451" relname="elaboration"/>
+		<group id="355" type="multinuc" parent="454" relname="elaboration"/>
+		<group id="357" type="span" parent="151" relname="cause"/>
+		<group id="358" type="span" parent="431" relname="span"/>
+		<group id="359" type="span" parent="145" relname="elaboration"/>
+		<group id="362" type="multinuc" relname="antithesis"/>
+		<group id="363" type="multinuc" parent="158" relname="cause"/>
+		<group id="364" type="span" parent="366" relname="elaboration"/>
+		<group id="365" type="multinuc" parent="366" relname="span"/>
+		<group id="366" type="span" parent="367" relname="span"/>
+		<group id="367" type="span" parent="373" relname="joint"/>
+		<group id="368" type="multinuc" parent="433" relname="contrast"/>
+		<group id="369" type="multinuc" parent="370" relname="span"/>
+		<group id="370" type="span" parent="371" relname="span"/>
+		<group id="371" type="span" parent="372" relname="joint"/>
+		<group id="372" type="multinuc" parent="373" relname="joint"/>
+		<group id="373" type="multinuc" parent="377" relname="span"/>
+		<group id="374" type="multinuc" parent="377" relname="evaluation"/>
+		<group id="375" type="span" parent="166" relname="elaboration"/>
+		<group id="377" type="span" parent="378" relname="span"/>
+		<group id="378" type="span" relname="antithesis"/>
+		<group id="379" type="span" parent="436" relname="preparation"/>
+		<group id="380" type="multinuc" parent="174" relname="cause"/>
+		<group id="381" type="span" parent="382" relname="contrast"/>
+		<group id="382" type="multinuc" parent="435" relname="joint"/>
+		<group id="383" type="multinuc" parent="178" relname="condition"/>
+		<group id="384" type="multinuc" parent="182" relname="condition"/>
+		<group id="385" type="span" parent="387" relname="contrast"/>
+		<group id="386" type="span" parent="387" relname="contrast"/>
+		<group id="387" type="multinuc" parent="435" relname="joint"/>
+		<group id="388" type="multinuc" parent="397" relname="span"/>
+		<group id="389" type="multinuc" parent="390" relname="joint"/>
+		<group id="390" type="multinuc" parent="395" relname="span"/>
+		<group id="391" type="multinuc" parent="189" relname="elaboration"/>
+		<group id="392" type="multinuc" parent="391" relname="joint"/>
+		<group id="393" type="span" parent="394" relname="span"/>
+		<group id="394" type="span" parent="395" relname="elaboration"/>
+		<group id="395" type="span" parent="396" relname="span"/>
+		<group id="396" type="span" parent="438" relname="span"/>
+		<group id="397" type="span" parent="398" relname="span"/>
+		<group id="398" type="span" parent="396" relname="solutionhood"/>
+		<group id="399" type="span" parent="194" relname="elaboration"/>
+		<group id="401" type="span" parent="403" relname="preparation"/>
+		<group id="402" type="multinuc" parent="403" relname="span"/>
+		<group id="403" type="span" parent="404" relname="span"/>
+		<group id="404" type="span" parent="440" relname="solutionhood"/>
+		<group id="405" type="span" parent="407" relname="span"/>
+		<group id="406" type="multinuc" parent="405" relname="elaboration"/>
+		<group id="407" type="span" parent="408" relname="cause"/>
+		<group id="408" type="span" parent="409" relname="span"/>
+		<group id="409" type="span" parent="420" relname="contrast"/>
+		<group id="411" type="multinuc" parent="206" relname="evidence"/>
+		<group id="412" type="span" parent="419" relname="span"/>
+		<group id="413" type="span" parent="416" relname="span"/>
+		<group id="414" type="multinuc" parent="415" relname="span"/>
+		<group id="415" type="span" parent="413" relname="elaboration"/>
+		<group id="416" type="span" parent="418" relname="span"/>
+		<group id="417" type="multinuc" parent="416" relname="evaluation"/>
+		<group id="418" type="span" parent="412" relname="elaboration"/>
+		<group id="419" type="span" parent="420" relname="contrast"/>
+		<group id="420" type="multinuc" parent="440" relname="span"/>
+		<group id="422" type="span" parent="423" relname="span"/>
+		<group id="423" type="span" parent="424" relname="span"/>
+		<group id="424" type="span" relname="antithesis"/>
+		<group id="425" type="span" parent="426" relname="span"/>
+		<group id="426" type="span" parent="427" relname="span"/>
+		<group id="427" type="span" relname="antithesis"/>
+		<group id="428" type="span" parent="315" relname="solutionhood"/>
+		<group id="429" type="span" relname="antithesis"/>
+		<group id="430" type="multinuc" parent="343" relname="span"/>
+		<group id="431" type="span" parent="362" relname="joint"/>
+		<group id="432" type="span" parent="452" relname="evidence"/>
+		<group id="433" type="multinuc" parent="372" relname="joint"/>
+		<group id="434" type="span" parent="374" relname="joint"/>
+		<group id="435" type="multinuc" parent="436" relname="span"/>
+		<group id="436" type="span" parent="437" relname="span"/>
+		<group id="437" type="span" relname="antithesis"/>
+		<group id="438" type="span" relname="antithesis"/>
+		<group id="439" type="span" parent="393" relname="evaluation"/>
+		<group id="440" type="span" parent="441" relname="span"/>
+		<group id="441" type="span" relname="antithesis"/>
+		<group id="442" type="multinuc" parent="219" relname="sequence"/>
+		<group id="443" type="span" parent="246" relname="span"/>
+		<group id="444" type="span" parent="269" relname="span"/>
+		<group id="445" type="span" parent="56" relname="cause"/>
+		<group id="446" type="span" parent="278" relname="span"/>
+		<group id="447" type="span" parent="326" relname="span"/>
+		<group id="448" type="span" parent="450" relname="span"/>
+		<group id="449" type="multinuc" parent="329" relname="span"/>
+		<group id="450" type="span" parent="449" relname="same-unit"/>
+		<group id="451" type="span" parent="452" relname="span"/>
+		<group id="452" type="span" parent="453" relname="span"/>
+		<group id="453" type="span" parent="362" relname="joint"/>
+		<group id="454" type="span" parent="359" relname="span"/>
+		<group id="455" type="span" parent="391" relname="joint"/>
+		<group id="456" type="span" parent="317" relname="restatement"/>
+  </body>
+</rst>

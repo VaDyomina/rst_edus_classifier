@@ -1,0 +1,404 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="antithesis" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="background" type="rst" />
+			<rel name="cause" type="rst" />
+			<rel name="comparison" type="multinuc" />
+			<rel name="concession" type="rst" />
+			<rel name="conclusion" type="rst" />
+			<rel name="condition" type="rst" />
+			<rel name="contrast" type="multinuc" />
+			<rel name="effect" type="rst" />
+			<rel name="elaboration" type="rst" />
+			<rel name="evaluation" type="rst" />
+			<rel name="evidence" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="motivation" type="rst" />
+			<rel name="preparation" type="rst" />
+			<rel name="purpose" type="rst" />
+			<rel name="restatement" type="multinuc" />
+			<rel name="same-unit" type="multinuc" />
+			<rel name="sequence" type="multinuc" />
+			<rel name="solutionhood" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="1" relname="antithesis">https://pudgik.livejournal.com/1367624.html</segment>
+		<segment id="2" relname="antithesis">Зоошиза и сохранятели семьи: судьба одной квартиры</segment>
+		<segment id="3" parent="190" relname="span">ФБ гудит.</segment>
+		<segment id="4" parent="3" relname="cause">Подопечных фонда "Волонтеры в помощь детям-сиротам" лишили родительских прав на четверых детей IMG</segment>
+		<segment id="5" parent="191" relname="sequence">Фонд "Волонтеры в помощь детям-сиротам" помогает семье с 2012 года</segment>
+		<segment id="6" parent="191" relname="sequence">и даже сделал в 2013 ремонт в квартире.</segment>
+		<segment id="7" parent="8" relname="cause">Поскольку мама и папа - выпускники детского дома,</segment>
+		<segment id="8" parent="378" relname="span">и не приспособлены к жизни по причине, в которой не виноваты,</segment>
+		<segment id="9" parent="196" relname="span">мы помогаем им наладить быт, в первую очередь, ради детей,</segment>
+		<segment id="10" parent="195" relname="comparison">чтобы они не оказались в интернате,</segment>
+		<segment id="11" parent="195" relname="comparison">как это произошло с их родителями." IMG</segment>
+		<segment id="12" parent="202" relname="span">Казалось бы, вот оно счастье.</segment>
+		<segment id="13" parent="200" relname="cause">Быт семье наладили,</segment>
+		<segment id="14" parent="199" relname="joint">живи,</segment>
+		<segment id="15" parent="199" relname="joint">радуйся,</segment>
+		<segment id="16" parent="199" relname="joint">расти детей.</segment>
+		<segment id="17" parent="205" relname="span">Прошло шесть лет.</segment>
+		<segment id="18" parent="204" relname="joint">Квартира не просто вернулась в исходное состояние бомжатника,</segment>
+		<segment id="19" parent="204" relname="joint">но и обзавелась четвероногими обитателями.</segment>
+		<segment id="20" parent="220" relname="span">На данный момент в ней живут, помимо людей, еще и около 50 животных: 20 собак, 24 кошки, многочисленные кролики и несчитанные полчища тараканов.</segment>
+		<segment id="21" parent="22" relname="condition">Как это выглядит, можно посмотреть в передаче "Мужское и женское"</segment>
+		<segment id="22" parent="386" relname="span">и порадоваться, что дерьмо с потолка капает не у вас, а у кого-то другого. IMG</segment>
+		<segment id="23" parent="213" relname="span">Или в сюжете Вестей.</segment>
+		<segment id="24" parent="212" relname="contrast">Он короче,</segment>
+		<segment id="25" parent="210" relname="span">но алкоголизм родителей,</segment>
+		<segment id="26" parent="25" relname="elaboration">упомянутый в репортаже,</segment>
+		<segment id="27" parent="211" relname="same-unit">не подтверждают сотрудники и волонтеры фонда.</segment>
+		<segment id="28" parent="215" relname="evaluation">Впрочем, сама Надя (мать семейства) сформулировала это в эфире "Мужского и женского" как "ну он не каждый день пьет".</segment>
+		<segment id="29" parent="214" relname="joint">Запахи через экран, на наше счастье, не передаются,</segment>
+		<segment id="30" parent="214" relname="joint">да и хруст тараканов, падающих с потолка, тоже остался за кадром.</segment>
+		<segment id="31" parent="32" relname="cause">На фоне скандала с девочкой-маугли, найденной в Москве, соседям семьи удалось дожать "органы",</segment>
+		<segment id="32" parent="222" relname="span">и родителей прав лишили.</segment>
+		<segment id="33" parent="223" relname="span">Старшая девочка сейчас учится на ветеринара,</segment>
+		<segment id="34" parent="33" relname="elaboration">18 ей исполнится в самом ближайшем будущем.</segment>
+		<segment id="35" parent="228" relname="span">Лишение прав родителей дает  ей новые перспективы:</segment>
+		<segment id="36" parent="224" relname="same-unit">статус сироты предполагает хорошую социальную помощь</segment>
+		<segment id="37" parent="226" relname="span">и шанс претендовать на свое жилье,</segment>
+		<segment id="38" parent="225" relname="span">если признать совместное проживание с родителями невозможным</segment>
+		<segment id="39" parent="38" relname="cause">из-за санитарного состояния квартиры.</segment>
+		<segment id="40" parent="380" relname="contrast">Правда, последнее поставит под вопрос возможность вернуть в дом младших братьев.</segment>
+		<segment id="41" parent="230" relname="joint">Но общественность требует,</segment>
+		<segment id="42" parent="230" relname="joint">негодует</segment>
+		<segment id="43" parent="230" relname="joint">и возмущается.</segment>
+		<segment id="44" parent="231" relname="contrast">Ведь главное в жизни любовь,</segment>
+		<segment id="45" parent="231" relname="contrast">а не какая-то там чистота.</segment>
+		<segment id="46" parent="237" relname="span">Этот случай ничем не отличался бы от десятков других таких же,</segment>
+		<segment id="47" parent="236" relname="span">если бы не один аспект, о котором почему-то никто так и не заговорил,</segment>
+		<segment id="48" parent="47" relname="concession">хотя он очевиден.</segment>
+		<segment id="49" parent="239" relname="span">Что же осталось вне поля зрения общественности,</segment>
+		<segment id="50" parent="238" relname="joint">хотя журналисты добросовестно это показали</segment>
+		<segment id="51" parent="238" relname="joint">и описали?</segment>
+		<segment id="52" parent="241" relname="joint">И именно об этом почему-то пока все молчат.</segment>
+		<segment id="53" parent="247" relname="span">Что же, буду первой, кто заговорит.</segment>
+		<segment id="54" parent="244" relname="span">Автор этого комментария дал мне его</segment>
+		<segment id="55" parent="54" relname="condition">на условиях анонимности,</segment>
+		<segment id="56" parent="244" relname="concession">хотя живет за несколько сотен километров от Москвы.</segment>
+		<segment id="57" parent="246" relname="contrast">Но он все равно опасается как за свою безопасность, так и за жизнь своих животных.</segment>
+		<segment id="58" parent="387" relname="span">****** - То, что я увидел на видео из данной квартиры, в среде зоозащитников называется "черная передержка".</segment>
+		<segment id="59" parent="248" relname="span">(передержка - место, куда волонтеры-зоозащитники привозят подобранное ими животное,</segment>
+		<segment id="60" parent="59" relname="condition">если не могут взять его к себе,</segment>
+		<segment id="61" parent="250" relname="span">и где оно находится все то время,</segment>
+		<segment id="62" parent="249" relname="span">пока ему ищется постоянное место пребывания.</segment>
+		<segment id="63" parent="62" relname="purpose">для содержания животного на передержке</segment>
+		<segment id="64" parent="260" relname="span">обычно организуется сбор средств в социальных сетях.</segment>
+		<segment id="65" parent="252" relname="span">человек, дающий свои реквизиты</segment>
+		<segment id="66" parent="65" relname="purpose">для сбора</segment>
+		<segment id="67" parent="253" relname="same-unit">называется "финансовый куратор",</segment>
+		<segment id="68" parent="254" relname="elaboration">он может иметь до нескольких десятков животных на "кураторстве".</segment>
+		<segment id="69" parent="258" relname="span">Отчеты... Ну, тут все как у людей.</segment>
+		<segment id="70" parent="256" relname="joint">Либо они есть в полном объеме и с огромным уважением к тем, кто не прошел мимо,</segment>
+		<segment id="71" parent="388" relname="contrast">либо дал денег</segment>
+		<segment id="72" parent="389" relname="joint">и давай, до свидания,</segment>
+		<segment id="73" parent="389" relname="joint">подавись своими 500 рублями. - прим. мое)</segment>
+		<segment id="74" parent="268" relname="preparation">Остается вопрос, почему сами зоозащитники, которые снабжали данную семью животными, закрывали глаза на то, что это ад для животных.</segment>
+		<segment id="75" parent="264" relname="span">У собак и у кошек есть базовые потребности кроме еды.</segment>
+		<segment id="76" parent="75" relname="elaboration">Это любовь и внимание хозяев, личное пространство, потребность в физических и умственных нагрузках.</segment>
+		<segment id="77" parent="264" relname="elaboration">Всего этого животные были лишены в данной семье.</segment>
+		<segment id="78" parent="267" relname="joint">Соседи свидетельствуют, что глава семьи выгуливал двух собак (из 20 - прим. мое).</segment>
+		<segment id="79" parent="266" relname="contrast">Остальные отправлялись на самовыгул,</segment>
+		<segment id="80" parent="266" relname="contrast">но большинство в принципе не покидало стен этого собачьего ада.</segment>
+		<segment id="81" parent="271" relname="span">Так почему молчат зоозащитники, которые готовы "сожрать живьем" любого, кто по их мнению плохо обращается с животным?</segment>
+		<segment id="82" parent="270" relname="joint">Например, потерял в новогоднюю ночь</segment>
+		<segment id="83" parent="270" relname="joint">или же предпочел гуманную эвтаназию возрастного пса с тяжелыми травмами вместо протезирования раздробленных лап.</segment>
+		<segment id="84" parent="273" relname="joint">- Мое мнение - данная передержка была очень дешевой, фактически "за корм",</segment>
+		<segment id="85" parent="273" relname="joint">но деньги на эту передержку кураторы животных собирали по полной программе.</segment>
+		<segment id="86" parent="275" relname="span">Волонтеры от зоозащиты</segment>
+		<segment id="87" parent="274" relname="span">(далее я буду называть их только зоошиза</segment>
+		<segment id="88" parent="87" relname="cause">- потому что только шиза могла отправлять животных на данную передержку)</segment>
+		<segment id="89" parent="276" relname="same-unit">пользовались психическими особенностями женщины.</segment>
+		<segment id="90" parent="277" relname="elaboration">Эти психические особенности имеют название - хордерство. Собирательство животных.</segment>
+		<segment id="91" parent="383" relname="contrast">Кстати данный "таракан" в голове у хозяйки "передержки" подтверждают и волонтеры фонда "Отказники", которые курировали семью.</segment>
+		<segment id="92" parent="284" relname="contrast">Правда в своих текстах в защиту семьи они представляют Надежду как сердобольную спасительницу.</segment>
+		<segment id="93" parent="283" relname="span">Но нет.</segment>
+		<segment id="94" parent="282" relname="contrast">Это не спасение и не помощь животным.</segment>
+		<segment id="95" parent="281" relname="joint">Это издевательство над ними, над их природой.</segment>
+		<segment id="96" parent="280" relname="comparison">Это психическое заболевание - брать в дом больше животных,</segment>
+		<segment id="97" parent="280" relname="comparison">чем ты можешь обеспечить не только едой, но и пространством, и вниманием.</segment>
+		<segment id="98" parent="287" relname="sequence">В США и Западной Европе собак бы просто изъяли у человека с полицией.</segment>
+		<segment id="99" parent="286" relname="span">И после следили бы ,</segment>
+		<segment id="100" parent="99" relname="purpose">чтобы данная семья никогда не завела бы ни одно животное.</segment>
+		<segment id="101" parent="291" relname="contrast">А собак попытались бы социализировать.</segment>
+		<segment id="102" parent="103" relname="condition">А если социализация оказалась бы невозможной</segment>
+		<segment id="103" parent="289" relname="span">- гуманно усыпили.</segment>
+		<segment id="104" parent="289" relname="cause">Потому что нельзя пристраивать животных, которые не выходили на улицу несколько лет подряд. Которые привыкли справлять нужду в квартире.</segment>
+		<segment id="105" parent="298" relname="cause">- Но мы живем в России.</segment>
+		<segment id="106" parent="295" relname="joint">И у нас зоошиза вытаскивает этих собак с "передержки"</segment>
+		<segment id="107" parent="295" relname="joint">и уже пристраивает.</segment>
+		<segment id="108" parent="297" relname="span">Собаки при этом окусываются</segment>
+		<segment id="109" parent="296" relname="joint">- они боятся людей,</segment>
+		<segment id="110" parent="296" relname="joint">боятся улицы...</segment>
+		<segment id="111" parent="314" relname="joint">В общем ближайшие пару месяцев всем добрым людям, желающим помочь беспородным собакам я рекомендую избегать локации "Балашиха" на Авито.</segment>
+		<segment id="112" parent="301" relname="contrast">Более того, рекомендую не брать кота в мешке,</segment>
+		<segment id="113" parent="300" relname="joint">а ездить</segment>
+		<segment id="114" parent="300" relname="joint">и знакомиться с собакой.</segment>
+		<segment id="115" parent="302" relname="joint">Смотреть как гуляет на поводке,</segment>
+		<segment id="116" parent="302" relname="joint">напрашиваться в квартиру к пристраивающему</segment>
+		<segment id="117" parent="303" relname="span">и пить там чай не менее двух часов,</segment>
+		<segment id="118" parent="117" relname="condition">пристально наблюдая за собакой.</segment>
+		<segment id="119" parent="306" relname="condition">И если за эти два часа собака сходит в туалет в квартире</segment>
+		<segment id="120" parent="305" relname="joint">- разворачиваться</segment>
+		<segment id="121" parent="305" relname="joint">и уходить</segment>
+		<segment id="122" parent="123" relname="cause">(это актуально для щенков старше 8 мес</segment>
+		<segment id="123" parent="308" relname="span">- после этого возраста собака в состоянии терпеть до улицы).</segment>
+		<segment id="124" parent="310" relname="span">Собаки из этого собачьего ада скорее всего никогда не научатся ходить в туалет на улице.</segment>
+		<segment id="125" parent="124" relname="cause">У них годами закреплялось поведение, что туалет - это в квартире.</segment>
+		<segment id="126" parent="311" relname="joint">Либо им потребуется серьезная коррекция поведения с участием кинолога.</segment>
+		<segment id="127" parent="317" relname="span">Например вот щенок из этого скрина. Щенок из собачьего ада в Балашихе Голдик.</segment>
+		<segment id="128" parent="316" relname="joint">Фото сделано в 4 месяца,</segment>
+		<segment id="129" parent="321" relname="span">новое фото возможности сделать нет, по словам куратора.</segment>
+		<segment id="130" parent="320" relname="span">И я понимаю почему.</segment>
+		<segment id="131" parent="132" relname="cause">В квартире его фотографировать нельзя</segment>
+		<segment id="132" parent="318" relname="span">- там филиал помойки.</segment>
+		<segment id="133" parent="319" relname="joint">А на улице эта собака будет ползать на брюхе от страха.</segment>
+		<segment id="134" parent="323" relname="span">Кобелю между прочим сейчас два года.</segment>
+		<segment id="135" parent="322" relname="span">Это фактически приговор.</segment>
+		<segment id="136" parent="135" relname="elaboration">Он никогда не станет собакой-компаньоном.</segment>
+		<segment id="137" parent="324" relname="elaboration">IMG</segment>
+		<segment id="138" parent="139" relname="cause">- Вот только зоошиза не расскажет потенциальным хозяевам, что у собачки проблемы,</segment>
+		<segment id="139" parent="326" relname="span">поэтому лучше просто не брать беспородных собак из Балашихи ближайший год.</segment>
+		<segment id="140" parent="327" relname="span">Кстати интересно, что в судьбе собак с этой "передержки" активное участие принимает Виктория Павленко,</segment>
+		<segment id="141" parent="140" relname="elaboration">которая широко известна тем, что украла лабрадора-поводыря.</segment>
+		<segment id="142" parent="330" relname="span">В Балашихе тоже есть два лабрадора, которых отказались отдать породной команде помощи.</segment>
+		<segment id="143" parent="329" relname="span">Предполагаю, что эти лабрадоры были украдены.</segment>
+		<segment id="144" parent="145" relname="cause">Кражи породистых собак - это самый надежный бизнес зоошизы</segment>
+		<segment id="145" parent="328" relname="span">- на породистых подают лучше.</segment>
+		<segment id="146" parent="384" relname="span">Так что всем заводчикам и владельцам лабрадоров рекомендую внимательно посмотреть видео</segment>
+		<segment id="147" parent="331" relname="joint">- возможно у вас получится опознать знакомую собаку</segment>
+		<segment id="148" parent="331" relname="joint">и спасти ее из этого ада.</segment>
+		<segment id="149" parent="336" relname="attribution">Сергей, заводчик КО, владелец питомника</segment>
+		<segment id="150" parent="390" relname="span">***** Замечу, что у Сергея есть основания опасаться за свою безопасность.</segment>
+		<segment id="151" parent="338" relname="span">Вокруг закона "Об ответственном обращении с животными" кипит борьба между активистами кинологического движения и зоорадикалами.</segment>
+		<segment id="152" parent="339" relname="joint">Последние недавно от слов перешли к делу</segment>
+		<segment id="153" parent="339" relname="joint">и прострелили лобовое стекло на машине одной из активисток.</segment>
+		<segment id="154" parent="341" relname="span">Сборы на животных это такой же криминальный бизнес, как и сборы на больных детей.</segment>
+		<segment id="155" parent="154" relname="elaboration">И главный его плюс для "спасателей" - полное отсутствие интереса у органов правопорядка к тому, что творится в этой сфере.</segment>
+		<segment id="156" parent="346" relname="cause">За правами детей хоть и со скрипом, но следят врачи и органы опеки.</segment>
+		<segment id="157" parent="343" relname="contrast">Так что если только собирать деньги,</segment>
+		<segment id="158" parent="342" relname="joint">но не лечить ребенка</segment>
+		<segment id="159" parent="342" relname="joint">и не кормить его,</segment>
+		<segment id="160" parent="344" relname="joint">рано или поздно на пороге нарисуется чиновник</segment>
+		<segment id="161" parent="344" relname="joint">и начнет задавать неприятные вопросы.</segment>
+		<segment id="162" parent="347" relname="span">Собаки и кошки никому не интересны,</segment>
+		<segment id="163" parent="162" relname="condition">пока их дерьмо не начнет протекать к соседям.</segment>
+		<segment id="164" parent="348" relname="span">И, в отличие от "выгодной деточки" выгодных собачек можно насобирать по обочинам в любой момент,</segment>
+		<segment id="165" parent="164" relname="condition">если старые сдохнут.</segment>
+		<segment id="166" parent="354" relname="joint">Именно зоошиза - зоорадикалы пользуются болезнью Надежды и ее неспособностью осознать, что пятьдесят животных в доме это не любовь,</segment>
+		<segment id="167" parent="354" relname="joint">это издевательство как над членами ее семьи и соседями, так и над друзьями нашими меньшими.</segment>
+		<segment id="168" parent="355" relname="joint">Ее дочь уже по уши в этом бизнесе и в сотрудничестве с этими людьми,</segment>
+		<segment id="169" parent="355" relname="joint">а муж получил первую судимость за кражу четырех овчарок из питомника.</segment>
+		<segment id="170" parent="363" relname="contrast">Волонтеры пишут о последнем с умилением,</segment>
+		<segment id="171" parent="362" relname="joint">но работник питомника всегда может договориться на пет-щенка,</segment>
+		<segment id="172" parent="360" relname="same-unit">и уж четырех собак</segment>
+		<segment id="173" parent="174" relname="purpose">"для любви"</segment>
+		<segment id="174" parent="359" relname="span">красть точно не обязательно.</segment>
+		<segment id="175" parent="176" relname="purpose">А вот для разведения и продажи щенков</segment>
+		<segment id="176" parent="358" relname="span">четыре разнополых животных в самый раз.</segment>
+		<segment id="177" parent="364" relname="elaboration">IMG-TXT</segment>
+		<segment id="178" parent="367" relname="span">Я не знаю, почему об эксплуатации больной женщины зоошизой не хотят говорить волонтеры и сотрудники фонда.</segment>
+		<segment id="179" parent="366" relname="joint">Возможно, тоже боятся попасть под раздачу</segment>
+		<segment id="180" parent="366" relname="joint">и узнать, что они не спасители детей, а сволочи-живодеры.</segment>
+		<segment id="181" parent="369" relname="joint">Они в курсе, что Надежде свозили животных со всей округи,</segment>
+		<segment id="182" parent="368" relname="contrast">и женщина явно не из тех, кто будет героически молчать,</segment>
+		<segment id="183" parent="368" relname="contrast">но не сдаст имена зоошизы.</segment>
+		<segment id="184" parent="372" relname="span">Впрочем, возможно, сотрудники фонда просто очень заняты.</segment>
+		<segment id="185" parent="371" relname="joint">Они ищут журналистов, готовых писать об истории семьи из Балашихи без общения с соседями и опекой</segment>
+		<segment id="186" parent="371" relname="joint">и защищать право детей расти под присмотром любящих мамы и папы. Среди духовного богатства, тараканов, экскрементов и десятков животных.</segment>
+		<segment id="187" parent="373" relname="span">Потому что без боя зоошиза никогда не откажется от дешевой и дружелюбной передержки с "ветеринарным сопровождением", как представят ее жертвователям,</segment>
+		<segment id="188" parent="187" relname="condition">едва старшая дочь Нади получит диплом ветеринара.</segment>
+		<segment id="189" parent="376" relname="elaboration">IMG-TXT</segment>
+		<group id="190" type="span" parent="192" relname="preparation"/>
+		<group id="191" type="multinuc" parent="192" relname="span"/>
+		<group id="192" type="span" parent="193" relname="span"/>
+		<group id="193" type="span" parent="198" relname="span"/>
+		<group id="195" type="multinuc" parent="9" relname="purpose"/>
+		<group id="196" type="span" parent="197" relname="span"/>
+		<group id="197" type="span" parent="203" relname="span"/>
+		<group id="198" type="span" relname="antithesis"/>
+		<group id="199" type="multinuc" parent="200" relname="span"/>
+		<group id="200" type="span" parent="201" relname="span"/>
+		<group id="201" type="span" parent="12" relname="elaboration"/>
+		<group id="202" type="span" parent="197" relname="evaluation"/>
+		<group id="203" type="span" parent="193" relname="cause"/>
+		<group id="204" type="multinuc" parent="17" relname="elaboration"/>
+		<group id="205" type="span" parent="220" relname="preparation"/>
+		<group id="210" type="span" parent="211" relname="same-unit"/>
+		<group id="211" type="multinuc" parent="215" relname="span"/>
+		<group id="212" type="multinuc" parent="23" relname="elaboration"/>
+		<group id="213" type="span" parent="219" relname="joint"/>
+		<group id="214" type="multinuc" parent="216" relname="evaluation"/>
+		<group id="215" type="span" parent="216" relname="span"/>
+		<group id="216" type="span" parent="217" relname="span"/>
+		<group id="217" type="span" parent="212" relname="contrast"/>
+		<group id="219" type="multinuc" parent="20" relname="elaboration"/>
+		<group id="220" type="span" parent="221" relname="span"/>
+		<group id="221" type="span" relname="antithesis"/>
+		<group id="222" type="span" parent="229" relname="preparation"/>
+		<group id="223" type="span" parent="229" relname="span"/>
+		<group id="224" type="multinuc" parent="35" relname="elaboration"/>
+		<group id="225" type="span" parent="380" relname="contrast"/>
+		<group id="226" type="span" parent="224" relname="same-unit"/>
+		<group id="228" type="span" parent="234" relname="contrast"/>
+		<group id="229" type="span" parent="379" relname="span"/>
+		<group id="230" type="multinuc" parent="232" relname="span"/>
+		<group id="231" type="multinuc" parent="232" relname="cause"/>
+		<group id="232" type="span" parent="233" relname="span"/>
+		<group id="233" type="span" parent="234" relname="contrast"/>
+		<group id="234" type="multinuc" parent="223" relname="elaboration"/>
+		<group id="236" type="span" parent="46" relname="condition"/>
+		<group id="237" type="span" parent="239" relname="preparation"/>
+		<group id="238" type="multinuc" parent="49" relname="concession"/>
+		<group id="239" type="span" parent="240" relname="span"/>
+		<group id="240" type="span" parent="241" relname="joint"/>
+		<group id="241" type="multinuc" parent="242" relname="span"/>
+		<group id="242" type="span" parent="247" relname="solutionhood"/>
+		<group id="244" type="span" parent="245" relname="span"/>
+		<group id="245" type="span" parent="246" relname="contrast"/>
+		<group id="246" type="multinuc" parent="53" relname="elaboration"/>
+		<group id="247" type="span" parent="381" relname="span"/>
+		<group id="248" type="span" parent="251" relname="joint"/>
+		<group id="249" type="span" parent="61" relname="condition"/>
+		<group id="250" type="span" parent="251" relname="joint"/>
+		<group id="251" type="multinuc" parent="261" relname="span"/>
+		<group id="252" type="span" parent="253" relname="same-unit"/>
+		<group id="253" type="multinuc" parent="254" relname="span"/>
+		<group id="254" type="span" parent="255" relname="span"/>
+		<group id="255" type="span" parent="259" relname="joint"/>
+		<group id="256" type="multinuc" parent="69" relname="elaboration"/>
+		<group id="258" type="span" parent="259" relname="joint"/>
+		<group id="259" type="multinuc" parent="64" relname="elaboration"/>
+		<group id="260" type="span" parent="261" relname="elaboration"/>
+		<group id="261" type="span" parent="262" relname="span"/>
+		<group id="262" type="span" parent="58" relname="elaboration"/>
+		<group id="264" type="span" parent="265" relname="span"/>
+		<group id="265" type="span" parent="268" relname="span"/>
+		<group id="266" type="multinuc" parent="267" relname="joint"/>
+		<group id="267" type="multinuc" parent="265" relname="evidence"/>
+		<group id="268" type="span" parent="269" relname="span"/>
+		<group id="269" type="span" parent="382" relname="span"/>
+		<group id="270" type="multinuc" parent="81" relname="evidence"/>
+		<group id="271" type="span" parent="269" relname="evaluation"/>
+		<group id="273" type="multinuc" parent="292" relname="preparation"/>
+		<group id="274" type="span" parent="86" relname="elaboration"/>
+		<group id="275" type="span" parent="276" relname="same-unit"/>
+		<group id="276" type="multinuc" parent="277" relname="span"/>
+		<group id="277" type="span" parent="278" relname="span"/>
+		<group id="278" type="span" parent="292" relname="span"/>
+		<group id="280" type="multinuc" parent="281" relname="joint"/>
+		<group id="281" type="multinuc" parent="282" relname="contrast"/>
+		<group id="282" type="multinuc" parent="93" relname="evidence"/>
+		<group id="283" type="span" parent="284" relname="contrast"/>
+		<group id="284" type="multinuc" parent="383" relname="contrast"/>
+		<group id="286" type="span" parent="287" relname="sequence"/>
+		<group id="287" type="multinuc" parent="288" relname="joint"/>
+		<group id="288" type="multinuc" parent="294" relname="comparison"/>
+		<group id="289" type="span" parent="290" relname="span"/>
+		<group id="290" type="span" parent="291" relname="contrast"/>
+		<group id="291" type="multinuc" parent="288" relname="joint"/>
+		<group id="292" type="span" parent="293" relname="span"/>
+		<group id="293" type="span" parent="294" relname="comparison"/>
+		<group id="294" type="multinuc" relname="antithesis"/>
+		<group id="295" type="multinuc" parent="297" relname="cause"/>
+		<group id="296" type="multinuc" parent="108" relname="cause"/>
+		<group id="297" type="span" parent="298" relname="span"/>
+		<group id="298" type="span" parent="299" relname="span"/>
+		<group id="299" type="span" parent="315" relname="span"/>
+		<group id="300" type="multinuc" parent="304" relname="joint"/>
+		<group id="301" type="multinuc" parent="313" relname="joint"/>
+		<group id="302" type="multinuc" parent="304" relname="joint"/>
+		<group id="303" type="span" parent="302" relname="joint"/>
+		<group id="304" type="multinuc" parent="301" relname="contrast"/>
+		<group id="305" type="multinuc" parent="306" relname="span"/>
+		<group id="306" type="span" parent="307" relname="span"/>
+		<group id="307" type="span" parent="309" relname="span"/>
+		<group id="308" type="span" parent="307" relname="evidence"/>
+		<group id="309" type="span" parent="312" relname="span"/>
+		<group id="310" type="span" parent="311" relname="joint"/>
+		<group id="311" type="multinuc" parent="309" relname="elaboration"/>
+		<group id="312" type="span" parent="313" relname="joint"/>
+		<group id="313" type="multinuc" parent="314" relname="joint"/>
+		<group id="314" type="multinuc" parent="299" relname="evaluation"/>
+		<group id="315" type="span" relname="antithesis"/>
+		<group id="316" type="multinuc" parent="127" relname="elaboration"/>
+		<group id="317" type="span" parent="324" relname="span"/>
+		<group id="318" type="span" parent="319" relname="joint"/>
+		<group id="319" type="multinuc" parent="130" relname="elaboration"/>
+		<group id="320" type="span" parent="129" relname="cause"/>
+		<group id="321" type="span" parent="316" relname="joint"/>
+		<group id="322" type="span" parent="134" relname="evaluation"/>
+		<group id="323" type="span" parent="317" relname="elaboration"/>
+		<group id="324" type="span" parent="325" relname="span"/>
+		<group id="325" type="span" relname="antithesis"/>
+		<group id="326" type="span" parent="335" relname="preparation"/>
+		<group id="327" type="span" parent="335" relname="span"/>
+		<group id="328" type="span" parent="143" relname="elaboration"/>
+		<group id="329" type="span" parent="142" relname="evaluation"/>
+		<group id="330" type="span" parent="146" relname="cause"/>
+		<group id="331" type="multinuc" parent="332" relname="span"/>
+		<group id="332" type="span" parent="333" relname="span"/>
+		<group id="333" type="span" parent="327" relname="elaboration"/>
+		<group id="335" type="span" parent="336" relname="span"/>
+		<group id="336" type="span" parent="337" relname="span"/>
+		<group id="337" type="span" relname="antithesis"/>
+		<group id="338" type="span" parent="340" relname="span"/>
+		<group id="339" type="multinuc" parent="338" relname="elaboration"/>
+		<group id="340" type="span" parent="353" relname="span"/>
+		<group id="341" type="span" parent="352" relname="span"/>
+		<group id="342" type="multinuc" parent="343" relname="contrast"/>
+		<group id="343" type="multinuc" parent="345" relname="condition"/>
+		<group id="344" type="multinuc" parent="345" relname="span"/>
+		<group id="345" type="span" parent="346" relname="span"/>
+		<group id="346" type="span" parent="351" relname="span"/>
+		<group id="347" type="span" parent="349" relname="joint"/>
+		<group id="348" type="span" parent="349" relname="joint"/>
+		<group id="349" type="multinuc" parent="350" relname="contrast"/>
+		<group id="350" type="multinuc" parent="341" relname="evidence"/>
+		<group id="351" type="span" parent="350" relname="contrast"/>
+		<group id="352" type="span" parent="340" relname="elaboration"/>
+		<group id="353" type="span" parent="150" relname="elaboration"/>
+		<group id="354" type="multinuc" parent="356" relname="span"/>
+		<group id="355" type="multinuc" parent="356" relname="background"/>
+		<group id="356" type="span" parent="357" relname="span"/>
+		<group id="357" type="span" parent="364" relname="span"/>
+		<group id="358" type="span" parent="361" relname="contrast"/>
+		<group id="359" type="span" parent="360" relname="same-unit"/>
+		<group id="360" type="multinuc" parent="361" relname="contrast"/>
+		<group id="361" type="multinuc" parent="362" relname="joint"/>
+		<group id="362" type="multinuc" parent="363" relname="contrast"/>
+		<group id="363" type="multinuc" parent="357" relname="elaboration"/>
+		<group id="364" type="span" parent="365" relname="span"/>
+		<group id="365" type="span" relname="antithesis"/>
+		<group id="366" type="multinuc" parent="178" relname="evaluation"/>
+		<group id="367" type="span" parent="370" relname="joint"/>
+		<group id="368" type="multinuc" parent="369" relname="joint"/>
+		<group id="369" type="multinuc" parent="370" relname="joint"/>
+		<group id="370" type="multinuc" parent="375" relname="contrast"/>
+		<group id="371" type="multinuc" parent="184" relname="elaboration"/>
+		<group id="372" type="span" parent="385" relname="span"/>
+		<group id="373" type="span" parent="374" relname="span"/>
+		<group id="374" type="span" parent="372" relname="cause"/>
+		<group id="375" type="multinuc" parent="376" relname="span"/>
+		<group id="376" type="span" parent="377" relname="span"/>
+		<group id="377" type="span" relname="antithesis"/>
+		<group id="378" type="span" parent="196" relname="cause"/>
+		<group id="379" type="span" relname="antithesis"/>
+		<group id="380" type="multinuc" parent="37" relname="condition"/>
+		<group id="381" type="span" relname="antithesis"/>
+		<group id="382" type="span" relname="antithesis"/>
+		<group id="383" type="multinuc" parent="278" relname="elaboration"/>
+		<group id="384" type="span" parent="332" relname="cause"/>
+		<group id="385" type="span" parent="375" relname="contrast"/>
+		<group id="386" type="span" parent="219" relname="joint"/>
+		<group id="387" type="span" relname="antithesis"/>
+		<group id="388" type="multinuc" parent="256" relname="joint"/>
+		<group id="389" type="multinuc" parent="388" relname="contrast"/>
+		<group id="390" type="span" relname="antithesis"/>
+  </body>
+</rst>

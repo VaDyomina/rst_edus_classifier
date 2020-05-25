@@ -1,0 +1,83 @@
+<rst>
+<header>
+	<relations>
+			<rel name="antithesis" type="rst"/>
+			<rel name="background" type="rst"/>
+			<rel name="cause" type="rst"/>
+			<rel name="circumstance" type="rst"/>
+			<rel name="concession" type="rst"/>
+			<rel name="condition" type="rst"/>
+			<rel name="contrast" type="multinuc"/>
+			<rel name="elaboration" type="rst"/>
+			<rel name="evaluation" type="rst"/>
+			<rel name="evidence" type="rst"/>
+			<rel name="joint" type="multinuc"/>
+			<rel name="justify" type="rst"/>
+			<rel name="motivation" type="rst"/>
+			<rel name="preparation" type="rst"/>
+			<rel name="purpose" type="rst"/>
+			<rel name="restatement" type="multinuc"/>
+			<rel name="restatement" type="rst"/>
+			<rel name="result" type="rst"/>
+			<rel name="sequence" type="multinuc"/>
+			<rel name="solutionhood" type="rst"/>
+		</relations>
+</header>
+<body>
+		<segment id="1" parent="84" relname="span">собирал груши 1</segment>
+		<segment id="2" parent="64" relname="sequence">мимо проезжал мальчик на велосипеде 2</segment>
+		<segment id="3" parent="64" relname="sequence">и корзину с грушами забрал 3</segment>
+		<segment id="4" parent="31" relname="span">но он приехал специально 4</segment>
+		<segment id="5" parent="4" relname="purpose">чтобы их забрать 5</segment>
+		<segment id="6" parent="33" relname="span">он знал 6</segment>
+		<segment id="7" parent="6" relname="background">что здесь сборщик груш 7</segment>
+		<segment id="8" parent="68" relname="joint">а проходил человек с козой 8</segment>
+		<segment id="9" parent="68" relname="joint">и не взял ни одной груши 9</segment>
+		<segment id="10" parent="69" relname="joint">а мальчик погрузил это себе на велосипед 10</segment>
+		<segment id="11" parent="69" relname="joint">и поехал 11</segment>
+		<segment id="12" parent="41" relname="span">и случайно столкнулся 12</segment>
+		<segment id="13" parent="12" relname="cause">загляделся на девушку 13</segment>
+		<segment id="14" parent="41" relname="result">упал 14</segment>
+		<segment id="15" parent="71" relname="result">потерял шляпу 15</segment>
+		<segment id="16" parent="72" relname="result">и рассыпал груши 16</segment>
+		<segment id="17" parent="75" relname="restatement">и трое друзей помогли ему собрать эти груши 17</segment>
+		<segment id="18" parent="75" relname="restatement">отдали шляпу 18</segment>
+		<segment id="19" parent="76" relname="result">и получили взамен три груши каждому по одной 19</segment>
+		<segment id="20" parent="49" relname="span">а сборщик груш очень удивился 20</segment>
+		<segment id="21" parent="20" relname="circumstance">когда спустился с дерева 21</segment>
+		<segment id="22" parent="50" relname="span">было три корзины 22</segment>
+		<segment id="23" parent="22" relname="concession">а осталось две причём одна пустая 23</segment>
+		<segment id="24" parent="80" relname="evidence">и увидел 24</segment>
+		<segment id="25" parent="79" relname="joint">что мальчики шли 25</segment>
+		<segment id="26" parent="79" relname="joint">и ели его груши 26</segment>
+		<segment id="27" parent="81" relname="antithesis">но корзинки у них не было 27</segment>
+		<group id="31" type="span" parent="65" relname="span"/>
+		<group id="33" type="span" parent="31" relname="cause"/>
+		<group id="41" type="span" parent="71" relname="span"/>
+		<group id="49" type="span" parent="59" relname="span"/>
+		<group id="50" type="span" parent="49" relname="cause"/>
+		<group id="59" type="span" parent="78" relname="antithesis"/>
+		<group id="64" type="multinuc" parent="66" relname="span"/>
+		<group id="65" type="span" parent="66" relname="antithesis"/>
+		<group id="66" type="span" parent="67" relname="span"/>
+		<group id="67" type="span" parent="70" relname="contrast"/>
+		<group id="68" type="multinuc" parent="70" relname="contrast"/>
+		<group id="69" type="multinuc" parent="70" relname="contrast"/>
+		<group id="70" type="multinuc" parent="85" relname="sequence"/>
+		<group id="71" type="span" parent="72" relname="span"/>
+		<group id="72" type="span" parent="73" relname="span"/>
+		<group id="73" type="span" parent="74" relname="sequence"/>
+		<group id="74" type="multinuc" parent="78" relname="span"/>
+		<group id="75" type="multinuc" parent="76" relname="span"/>
+		<group id="76" type="span" parent="77" relname="span"/>
+		<group id="77" type="span" parent="74" relname="sequence"/>
+		<group id="78" type="span" parent="83" relname="span"/>
+		<group id="79" type="multinuc" parent="80" relname="span"/>
+		<group id="80" type="span" parent="81" relname="span"/>
+		<group id="81" type="span" parent="82" relname="span"/>
+		<group id="82" type="span" parent="85" relname="sequence"/>
+		<group id="83" type="span" parent="85" relname="sequence"/>
+		<group id="84" type="span" parent="85" relname="sequence"/>
+		<group id="85" type="multinuc" />
+  </body>
+</rst>

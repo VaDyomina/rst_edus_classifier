@@ -1,0 +1,356 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="antithesis" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="background" type="rst" />
+			<rel name="cause" type="rst" />
+			<rel name="comparison" type="multinuc" />
+			<rel name="concession" type="rst" />
+			<rel name="conclusion" type="rst" />
+			<rel name="condition" type="rst" />
+			<rel name="contrast" type="multinuc" />
+			<rel name="effect" type="rst" />
+			<rel name="elaboration" type="rst" />
+			<rel name="evaluation" type="rst" />
+			<rel name="evidence" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="motivation" type="rst" />
+			<rel name="preparation" type="rst" />
+			<rel name="purpose" type="rst" />
+			<rel name="restatement" type="multinuc" />
+			<rel name="same-unit" type="multinuc" />
+			<rel name="sequence" type="multinuc" />
+			<rel name="solutionhood" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="1" relname="antithesis">https://blog.byndyu.ru/2015/05/kanban.html</segment>
+		<segment id="2" relname="antithesis">Стендапы в стиле Kanban</segment>
+		<segment id="3" parent="169" relname="preparation">Stand-up meeting, Daily Scrum Meeting или просто планёрки стали привычной практикой в IT.</segment>
+		<segment id="4" parent="163" relname="span">Я описывал различные нюансы стендапов ещё 5 лет назад</segment>
+		<segment id="5" parent="4" relname="attribution">в статье Stand-up meeting:</segment>
+		<segment id="6" parent="164" relname="same-unit">лучшие и худшие практики.</segment>
+		<segment id="7" parent="165" relname="span">Казалось бы, техника проведения стендапов уже рассмотрена со всех сторон.</segment>
+		<segment id="8" parent="7" relname="evaluation">Что в планёрке может быть сложного?</segment>
+		<segment id="9" parent="167" relname="span">Но совсем недавно наша компания начала практиковать несколько другой подход,</segment>
+		<segment id="10" parent="9" relname="purpose">с помощью которого мы ускорили выход задач в релиз.</segment>
+		<segment id="11" parent="171" relname="joint">Всё началось, когда летом 2014 года в Москве мы с Асхатом шли на тренинг</segment>
+		<segment id="12" parent="171" relname="joint">и он обратил моё внимание на разницу между стендапами в Scrum и Kanban.</segment>
+		<segment id="13" parent="173" relname="span">До этого я не придавал особого значения таким нюансам.</segment>
+		<segment id="14" parent="172" relname="contrast">У нас в компании для части проектов используется Kanban,</segment>
+		<segment id="15" parent="172" relname="contrast">но стиль стендапов остался от Scrum'а.</segment>
+		<segment id="16" parent="176" relname="span">Сейчас мы поменяли подход к стендапам,</segment>
+		<segment id="17" parent="174" relname="joint">об этом я расскажу дальше,</segment>
+		<segment id="18" parent="174" relname="joint">покажу разницу между тем, что было и тем, что стало.</segment>
+		<segment id="19" parent="175" relname="span">В конце статьи есть ссылки</segment>
+		<segment id="20" parent="19" relname="purpose">для более глубокого погружения в тему с описанием разных мнений и нюансов.</segment>
+		<segment id="21" parent="216" relname="preparation">Разница в стендапах между Scrum и Kanban</segment>
+		<segment id="22" parent="23" relname="condition">Если вы новичок в Scrum,</segment>
+		<segment id="23" parent="180" relname="span">то для начала рекомендую прочитать про Daily Scrum.</segment>
+		<segment id="24" parent="329" relname="span">В Scrum стендап ориентирован на людей</segment>
+		<segment id="25" parent="24" relname="elaboration">— каждый член команды по очереди рассказывает о результатах за прошлый день,</segment>
+		<segment id="26" parent="181" relname="joint">даёт обещание на текущий день</segment>
+		<segment id="27" parent="181" relname="joint">и делится проблемами.</segment>
+		<segment id="28" parent="182" relname="span">Дело в том, что в Scrum упор делается на выполнение обещания,</segment>
+		<segment id="29" parent="28" relname="elaboration">которое команда даёт на итерацию во время планирования.</segment>
+		<segment id="30" parent="183" relname="span">Нужно сделать всё,</segment>
+		<segment id="31" parent="30" relname="purpose">чтобы выполнить обещание.</segment>
+		<segment id="32" parent="184" relname="span">Цель стендапа</segment>
+		<segment id="33" parent="187" relname="joint">— отследить сможем ли мы выполнить все задачи итерации,</segment>
+		<segment id="34" parent="35" relname="condition">если нет,</segment>
+		<segment id="35" parent="185" relname="span">то как можно раньше понять, в чем проблема</segment>
+		<segment id="36" parent="186" relname="span">и принять меры.</segment>
+		<segment id="37" parent="203" relname="preparation">Дальше речь пойдет про Kanban.</segment>
+		<segment id="38" parent="39" relname="condition">Если вы не использовали его,</segment>
+		<segment id="39" parent="193" relname="span">то рекомендую сначала прочитать бесплатную книгу Priming Kanban.</segment>
+		<segment id="40" parent="195" relname="span">В Kanban преследуются другие цели</segment>
+		<segment id="41" parent="194" relname="restatement">— важно максимально сократить Lead Time,</segment>
+		<segment id="42" parent="194" relname="restatement">т.е. время работы над задачей на всех этапах.</segment>
+		<segment id="43" parent="200" relname="span">В связи с этим меняется и подход к стендапу.</segment>
+		<segment id="44" parent="199" relname="span">Он делается с ориентацией на доску, фокусировку на потоке задач и обнаружению бутылочных горлышек.</segment>
+		<segment id="45" parent="196" relname="joint">Получается, что мы идем по колонкам с задачами справа налево,</segment>
+		<segment id="46" parent="198" relname="span">обсуждаем каким образом можно побыстрее перевести задачу на следующий этап.</segment>
+		<segment id="47" parent="48" relname="condition">При обсуждении каждой задачи</segment>
+		<segment id="48" parent="197" relname="span">по ней может высказаться любой член команды.</segment>
+		<segment id="49" parent="206" relname="span">Вообще, стендап не является частью практик Канбан.</segment>
+		<segment id="50" parent="204" relname="contrast">В Канбан особо и практик-то нет,</segment>
+		<segment id="51" parent="205" relname="span">есть только несколько основных принципов.</segment>
+		<segment id="52" parent="51" relname="elaboration">Стендап можно считать одним из способов реализации принципа improve continuously.</segment>
+		<segment id="53" parent="209" relname="comparison">Итого получаем, что Scrum meeting идет вокруг людей, которые рассказывают про задачи,</segment>
+		<segment id="54" parent="209" relname="comparison">а Канбан meeting идет вокруг задач.</segment>
+		<segment id="55" parent="211" relname="condition">Если говорить другим языком,</segment>
+		<segment id="56" parent="210" relname="comparison">то в Scrum имеем связь Программист 1 <-> * User Story,</segment>
+		<segment id="57" parent="210" relname="comparison">а в Kanban связь User Story 1 <-> * Программист.</segment>
+		<segment id="58" parent="241" relname="preparation">Описание процесса</segment>
+		<segment id="59" parent="241" relname="span">Давайте по шагам рассмотрим из чего состоит стендап в Kanban.</segment>
+		<segment id="60" parent="59" relname="elaboration">Для примера будем рассматривать доску из статьи в Википедии.</segment>
+		<segment id="61" parent="221" relname="span">1. Вся команда собирается вокруг доски.</segment>
+		<segment id="62" parent="330" relname="joint">Если команда распределенная</segment>
+		<segment id="63" parent="330" relname="joint">и доска электронная,</segment>
+		<segment id="64" parent="218" relname="joint">то все открывают эту доску</segment>
+		<segment id="65" parent="218" relname="joint">и созваниваются.</segment>
+		<segment id="66" parent="222" relname="span">2. Желательно назначить того, кто будет ведущим.</segment>
+		<segment id="67" parent="66" relname="elaboration">Это может быть кто-то из команды или любой другой человек, кто умеет проводить открытые обсуждения.</segment>
+		<segment id="68" parent="327" relname="preparation">3. Идем по колонкам справа налево и по задачам сверху вниз.</segment>
+		<segment id="69" parent="70" relname="cause">Суть в том, что самая правая колонка означает завершение работы,</segment>
+		<segment id="70" parent="326" relname="span">поэтому задачи, которые стоят ближе всех к завершению, имеют высокую ценность.</segment>
+		<segment id="71" parent="72" relname="condition">Чем быстрее мы переведем задачу в самую правую колонку,</segment>
+		<segment id="72" parent="224" relname="span">тем меньше будет Lead Time.</segment>
+		<segment id="73" parent="230" relname="span">4. В нашем примере самая правая User Story 754.</segment>
+		<segment id="74" parent="231" relname="sequence">Ведущий спрашивает: "Что мешает нам переместить задачу 754 в колонку Deployed?".</segment>
+		<segment id="75" parent="227" relname="joint">Несколько человек могут сказать причину</segment>
+		<segment id="76" parent="227" relname="joint">и объяснить, что мы ждем подтверждения от руководителя компании.</segment>
+		<segment id="77" parent="228" relname="elaboration">В этом случае задача явно помечается стикером или комментарием, что она заблокирована по причине такой-то.</segment>
+		<segment id="78" parent="236" relname="span">5. Следующая User Story 75.</segment>
+		<segment id="79" parent="235" relname="sequence">Ведущий задает тот же вопрос.</segment>
+		<segment id="80" parent="232" relname="span">Например, один из членов команды,</segment>
+		<segment id="81" parent="80" relname="elaboration">кто отвечает за тестирование на Pre-Production среде,</segment>
+		<segment id="82" parent="233" relname="same-unit">говорит, что берет эту задачу себе в работу.</segment>
+		<segment id="83" parent="234" relname="joint">Он берет карточку с задачей</segment>
+		<segment id="84" parent="234" relname="joint">и "тянет" ее в колонку Test on Pre-Production System.</segment>
+		<segment id="85" parent="235" relname="sequence">На этой задаче отмечаем, кто взял ее в работу стикером.</segment>
+		<segment id="86" parent="237" relname="span">6. Дальше идем по всем задачам, которые есть на доске,</segment>
+		<segment id="87" parent="86" relname="condition">пока ресурсы команды не закончатся.</segment>
+		<segment id="88" parent="238" relname="span">Каждый возьмет себе задачи в работу,</segment>
+		<segment id="89" parent="239" relname="joint">чтобы на следующем стендапе перенести задачи в следующие колонки</segment>
+		<segment id="90" parent="239" relname="joint">или рассказать, что блокирует работу.</segment>
+		<segment id="91" parent="245" relname="comparison">Как можно заметить, в Kanban,</segment>
+		<segment id="92" parent="245" relname="comparison">в отличие от Scrum,</segment>
+		<segment id="93" parent="246" relname="same-unit">обязательно нужна доска с визуализацией ситуации на проекте.</segment>
+		<segment id="94" parent="95" relname="cause">Т.к. вы обсуждаете не конкретные действия людей, а текущее положение задач и их поток,</segment>
+		<segment id="95" parent="247" relname="span">очень важно видеть где эти задачи находятся.</segment>
+		<segment id="96" parent="248" relname="span">Как раз поэтому стендапы в стиле Kanban ещё называют Story-focused stand-up или Work Items Attend.</segment>
+		<segment id="97" parent="251" relname="contrast">Кроме того, можно задавать 3 вопроса</segment>
+		<segment id="98" parent="251" relname="contrast">(а можно не задавать, это же Kanban),</segment>
+		<segment id="99" parent="253" relname="comparison">как это делается в Scrum,</segment>
+		<segment id="100" parent="255" relname="contrast">но эти вопросы будут возникать вокруг задач,</segment>
+		<segment id="101" parent="255" relname="contrast">а не вокруг членов команды:</segment>
+		<segment id="102" parent="256" relname="joint">1. Что мешает движению задачи?</segment>
+		<segment id="103" parent="256" relname="joint">2. Как задача двигается по потоку?</segment>
+		<segment id="104" parent="256" relname="joint">3. Что можно улучшить?</segment>
+		<segment id="105" parent="266" relname="preparation">Результаты перехода</segment>
+		<segment id="106" parent="265" relname="span">После смены стиля стендапов со Scrum на Kanban результат появляется сразу.</segment>
+		<segment id="107" parent="264" relname="span">Для примера привожу Cumulative flow diagram с проекта, где мы применили новые стендапы.</segment>
+		<segment id="108" parent="263" relname="joint">Мы сделали это 24 марта</segment>
+		<segment id="109" parent="263" relname="joint">и вы можете увидеть, как поменялась ситуация — мы увеличили выход задач в релиз: IMG</segment>
+		<segment id="110" parent="265" relname="background">Более подробно про Cumulative flow diagram рекомендую посмотреть в презентации Explaining Cumulative Flow Diagrams</segment>
+		<segment id="111" parent="317" relname="preparation">Причины зависания задач</segment>
+		<segment id="112" parent="268" relname="joint">Важно понять, почему до этого задачи висели на последних стадиях</segment>
+		<segment id="113" parent="268" relname="joint">и не уходили в релиз.</segment>
+		<segment id="114" parent="269" relname="joint">Все в команде понимают процессы управления IT-проектами,</segment>
+		<segment id="115" parent="269" relname="joint">заказчик в курсе текущей ситуации,</segment>
+		<segment id="116" parent="270" relname="contrast">но бывает, что задачи подолгу ждут.</segment>
+		<segment id="117" parent="317" relname="span">Мы выделил несколько причин:</segment>
+		<segment id="118" parent="287" relname="preparation">- Большое количество заблокированных задач.</segment>
+		<segment id="119" parent="273" relname="joint">Например, задача дошла до предпоследней стадии</segment>
+		<segment id="120" parent="273" relname="joint">и ждет подтверждения от Product Owner'а (PO) на заливку.</segment>
+		<segment id="121" parent="274" relname="span">При этом PO может быть занят,</segment>
+		<segment id="122" parent="121" relname="cause">сменил фокус на другие задачи.</segment>
+		<segment id="123" parent="276" relname="joint">Получается, что задача висит в одном шаге от релиза,</segment>
+		<segment id="124" parent="276" relname="joint">в нее уже вложили много рабочего времени</segment>
+		<segment id="125" parent="276" relname="joint">и остается сделать небольшое усилие.</segment>
+		<segment id="126" parent="127" relname="condition">Если мы делаем стендапы в стиле Scrum,</segment>
+		<segment id="127" parent="277" relname="span">такие задачи некому тянуть в релиз,</segment>
+		<segment id="128" parent="277" relname="cause">потому что этой задачей никто уже давно не занимается.</segment>
+		<segment id="129" parent="281" relname="condition">Когда мы делаем стендап в стиле Kanban,</segment>
+		<segment id="130" parent="279" relname="joint">такие задачи сразу становятся видны,</segment>
+		<segment id="131" parent="280" relname="span">кроме того каждый стендап мы к ним возвращаемся,</segment>
+		<segment id="132" parent="131" relname="cause">т.к. идем справа налево.</segment>
+		<segment id="133" parent="296" relname="preparation">- Приоритет у задач меняется.</segment>
+		<segment id="134" parent="289" relname="contrast">Задачи доходят до последних стадий,</segment>
+		<segment id="135" parent="290" relname="joint">вдруг становятся не очень важными,</segment>
+		<segment id="136" parent="290" relname="joint">команда переключается на новые задачи.</segment>
+		<segment id="137" parent="291" relname="joint">Получается, что PO сменил приоритеты</segment>
+		<segment id="138" parent="291" relname="joint">и не дал завершить работу.</segment>
+		<segment id="139" parent="294" relname="span">Изначально все мирились с таким положением вещей,</segment>
+		<segment id="140" parent="139" relname="cause">потому что во время стендапов в стиле Scrum идет обсуждение задач, над которыми команда работает сейчас.</segment>
+		<segment id="141" parent="294" relname="elaboration">Всё, что было до этого не так интересно.</segment>
+		<segment id="142" parent="306" relname="preparation">- Работа заполняет время, отпущенное на неё..</segment>
+		<segment id="143" parent="144" relname="condition">Если итерация идет 3 недели,</segment>
+		<segment id="144" parent="298" relname="span">то все задачи будут висеть где-то на доске до завершения итерации.</segment>
+		<segment id="145" parent="146" relname="condition">Даже, если какая-то задача может быть сделана раньше,</segment>
+		<segment id="146" parent="299" relname="span">то она может не дойти до последней стадии.</segment>
+		<segment id="147" parent="148" relname="cause">В Scrum нет цели уменьшить Lead Time,</segment>
+		<segment id="148" parent="300" relname="span">тогда зачем релизить задачу раньше окончания итерации?</segment>
+		<segment id="149" parent="304" relname="joint">Kanban подталкивает задачи в релиз,</segment>
+		<segment id="150" parent="304" relname="joint">а стендапы в стиле Kanban этому способствуют.</segment>
+		<segment id="151" parent="312" relname="preparation">- Много работы != много результата.</segment>
+		<segment id="152" parent="308" relname="contrast">На Scrum meeting команда может обсудить как много было сделано вчера.</segment>
+		<segment id="153" parent="309" relname="span">Но означает ли ударная работа, что команда дала много бизнес-результата?</segment>
+		<segment id="154" parent="153" relname="elaboration">Возможно после ударной работы образовалось много бутылочных горлышек?</segment>
+		<segment id="155" parent="310" relname="joint">Важным является поток задач</segment>
+		<segment id="156" parent="310" relname="joint">и его нужно конролировать.</segment>
+		<segment id="157" parent="322" relname="preparation">Заключение</segment>
+		<segment id="158" parent="159" relname="evaluation">Переход на стендапы в стиле Kanban очень прост.</segment>
+		<segment id="159" parent="321" relname="span">Использовать его можно с любого момента работы над проектом.</segment>
+		<segment id="160" parent="319" relname="condition">Не важно какой у вас сейчас процесс: Scrum, Kanban, Scrumban или что-то ещё,</segment>
+		<segment id="161" parent="162" relname="condition">если у вас есть доска и визуализация текущей ситуации на проекте,</segment>
+		<segment id="162" parent="319" relname="span">то описанный способ проведения стендапов вам подойдет.</segment>
+		<group id="163" type="span" parent="164" relname="same-unit"/>
+		<group id="164" type="multinuc" parent="168" relname="background"/>
+		<group id="165" type="span" parent="166" relname="contrast"/>
+		<group id="166" type="multinuc" parent="168" relname="span"/>
+		<group id="167" type="span" parent="166" relname="contrast"/>
+		<group id="168" type="span" parent="169" relname="span"/>
+		<group id="169" type="span" parent="170" relname="span"/>
+		<group id="170" type="span" relname="antithesis"/>
+		<group id="171" type="multinuc" parent="324" relname="background"/>
+		<group id="172" type="multinuc" parent="13" relname="background"/>
+		<group id="173" type="span" parent="179" relname="contrast"/>
+		<group id="174" type="multinuc" parent="178" relname="span"/>
+		<group id="175" type="span" parent="178" relname="elaboration"/>
+		<group id="176" type="span" parent="179" relname="contrast"/>
+		<group id="177" type="span" parent="16" relname="elaboration"/>
+		<group id="178" type="span" parent="177" relname="span"/>
+		<group id="179" type="multinuc" parent="324" relname="span"/>
+		<group id="180" type="span" parent="191" relname="preparation"/>
+		<group id="181" type="multinuc" parent="190" relname="span"/>
+		<group id="182" type="span" parent="189" relname="span"/>
+		<group id="183" type="span" parent="188" relname="span"/>
+		<group id="184" type="span" parent="183" relname="elaboration"/>
+		<group id="185" type="span" parent="36" relname="cause"/>
+		<group id="186" type="span" parent="187" relname="joint"/>
+		<group id="187" type="multinuc" parent="32" relname="purpose"/>
+		<group id="188" type="span" parent="182" relname="elaboration"/>
+		<group id="189" type="span" parent="190" relname="elaboration"/>
+		<group id="190" type="span" parent="191" relname="span"/>
+		<group id="191" type="span" parent="192" relname="span"/>
+		<group id="192" type="span" parent="214" relname="comparison"/>
+		<group id="193" type="span" parent="201" relname="background"/>
+		<group id="194" type="multinuc" parent="40" relname="purpose"/>
+		<group id="195" type="span" parent="200" relname="cause"/>
+		<group id="196" type="multinuc" parent="44" relname="elaboration"/>
+		<group id="197" type="span" parent="46" relname="elaboration"/>
+		<group id="198" type="span" parent="196" relname="joint"/>
+		<group id="199" type="span" parent="43" relname="elaboration"/>
+		<group id="200" type="span" parent="201" relname="span"/>
+		<group id="201" type="span" parent="202" relname="span"/>
+		<group id="202" type="span" parent="207" relname="joint"/>
+		<group id="203" type="span" parent="208" relname="span"/>
+		<group id="204" type="multinuc" parent="49" relname="evidence"/>
+		<group id="205" type="span" parent="204" relname="contrast"/>
+		<group id="206" type="span" parent="207" relname="joint"/>
+		<group id="207" type="multinuc" parent="203" relname="span"/>
+		<group id="208" type="span" parent="214" relname="comparison"/>
+		<group id="209" type="multinuc" parent="213" relname="restatement"/>
+		<group id="210" type="multinuc" parent="211" relname="span"/>
+		<group id="211" type="span" parent="212" relname="span"/>
+		<group id="212" type="span" parent="213" relname="restatement"/>
+		<group id="213" type="multinuc" parent="215" relname="span"/>
+		<group id="214" type="multinuc" parent="215" relname="solutionhood"/>
+		<group id="215" type="span" parent="216" relname="span"/>
+		<group id="216" type="span" parent="217" relname="span"/>
+		<group id="217" type="span" relname="antithesis"/>
+		<group id="218" type="multinuc" parent="219" relname="span"/>
+		<group id="219" type="span" parent="220" relname="span"/>
+		<group id="220" type="span" parent="61" relname="elaboration"/>
+		<group id="221" type="span" parent="242" relname="sequence"/>
+		<group id="222" type="span" parent="242" relname="sequence"/>
+		<group id="224" type="span" parent="326" relname="elaboration"/>
+		<group id="227" type="multinuc" parent="231" relname="sequence"/>
+		<group id="228" type="span" parent="229" relname="span"/>
+		<group id="229" type="span" parent="73" relname="elaboration"/>
+		<group id="230" type="span" parent="242" relname="sequence"/>
+		<group id="231" type="multinuc" parent="228" relname="span"/>
+		<group id="232" type="span" parent="233" relname="same-unit"/>
+		<group id="233" type="multinuc" parent="235" relname="sequence"/>
+		<group id="234" type="multinuc" parent="235" relname="sequence"/>
+		<group id="235" type="multinuc" parent="78" relname="elaboration"/>
+		<group id="236" type="span" parent="242" relname="sequence"/>
+		<group id="237" type="span" parent="240" relname="span"/>
+		<group id="238" type="span" parent="237" relname="elaboration"/>
+		<group id="239" type="multinuc" parent="88" relname="purpose"/>
+		<group id="240" type="span" parent="242" relname="sequence"/>
+		<group id="241" type="span" parent="260" relname="span"/>
+		<group id="242" type="multinuc" parent="243" relname="span"/>
+		<group id="243" type="span" parent="244" relname="span"/>
+		<group id="244" type="span" parent="261" relname="solutionhood"/>
+		<group id="245" type="multinuc" parent="246" relname="same-unit"/>
+		<group id="246" type="multinuc" parent="249" relname="span"/>
+		<group id="247" type="span" parent="96" relname="cause"/>
+		<group id="248" type="span" parent="249" relname="elaboration"/>
+		<group id="249" type="span" parent="250" relname="span"/>
+		<group id="250" type="span" parent="259" relname="joint"/>
+		<group id="251" type="multinuc" parent="252" relname="span"/>
+		<group id="252" type="span" parent="253" relname="comparison"/>
+		<group id="253" type="multinuc" parent="254" relname="contrast"/>
+		<group id="254" type="multinuc" parent="257" relname="span"/>
+		<group id="255" type="multinuc" parent="254" relname="contrast"/>
+		<group id="256" type="multinuc" parent="257" relname="elaboration"/>
+		<group id="257" type="span" parent="258" relname="span"/>
+		<group id="258" type="span" parent="259" relname="joint"/>
+		<group id="259" type="multinuc" parent="261" relname="span"/>
+		<group id="260" type="span" parent="243" relname="preparation"/>
+		<group id="261" type="span" parent="262" relname="span"/>
+		<group id="262" type="span" relname="antithesis"/>
+		<group id="263" type="multinuc" parent="107" relname="elaboration"/>
+		<group id="264" type="span" parent="106" relname="evidence"/>
+		<group id="265" type="span" parent="266" relname="span"/>
+		<group id="266" type="span" parent="267" relname="span"/>
+		<group id="267" type="span" relname="antithesis"/>
+		<group id="268" type="multinuc" parent="271" relname="span"/>
+		<group id="269" type="multinuc" parent="270" relname="contrast"/>
+		<group id="270" type="multinuc" parent="271" relname="elaboration"/>
+		<group id="271" type="span" parent="272" relname="span"/>
+		<group id="272" type="span" parent="117" relname="solutionhood"/>
+		<group id="273" type="multinuc" parent="275" relname="joint"/>
+		<group id="274" type="span" parent="275" relname="joint"/>
+		<group id="275" type="multinuc" parent="283" relname="cause"/>
+		<group id="276" type="multinuc" parent="283" relname="span"/>
+		<group id="277" type="span" parent="278" relname="span"/>
+		<group id="278" type="span" parent="285" relname="comparison"/>
+		<group id="279" type="multinuc" parent="281" relname="span"/>
+		<group id="280" type="span" parent="279" relname="joint"/>
+		<group id="281" type="span" parent="282" relname="span"/>
+		<group id="282" type="span" parent="285" relname="comparison"/>
+		<group id="283" type="span" parent="284" relname="span"/>
+		<group id="284" type="span" parent="286" relname="solutionhood"/>
+		<group id="285" type="multinuc" parent="286" relname="span"/>
+		<group id="286" type="span" parent="287" relname="span"/>
+		<group id="287" type="span" parent="288" relname="span"/>
+		<group id="288" type="span" parent="314" relname="joint"/>
+		<group id="289" type="multinuc" parent="292" relname="cause"/>
+		<group id="290" type="multinuc" parent="289" relname="contrast"/>
+		<group id="291" type="multinuc" parent="292" relname="span"/>
+		<group id="292" type="span" parent="293" relname="span"/>
+		<group id="293" type="span" parent="296" relname="span"/>
+		<group id="294" type="span" parent="295" relname="span"/>
+		<group id="295" type="span" parent="293" relname="background"/>
+		<group id="296" type="span" parent="297" relname="span"/>
+		<group id="297" type="span" parent="314" relname="joint"/>
+		<group id="298" type="span" parent="301" relname="joint"/>
+		<group id="299" type="span" parent="301" relname="joint"/>
+		<group id="300" type="span" parent="302" relname="cause"/>
+		<group id="301" type="multinuc" parent="302" relname="span"/>
+		<group id="302" type="span" parent="303" relname="span"/>
+		<group id="303" type="span" parent="305" relname="comparison"/>
+		<group id="304" type="multinuc" parent="305" relname="comparison"/>
+		<group id="305" type="multinuc" parent="306" relname="span"/>
+		<group id="306" type="span" parent="307" relname="span"/>
+		<group id="307" type="span" parent="314" relname="joint"/>
+		<group id="308" type="multinuc" parent="311" relname="solutionhood"/>
+		<group id="309" type="span" parent="308" relname="contrast"/>
+		<group id="310" type="multinuc" parent="311" relname="span"/>
+		<group id="311" type="span" parent="312" relname="span"/>
+		<group id="312" type="span" parent="313" relname="span"/>
+		<group id="313" type="span" parent="314" relname="joint"/>
+		<group id="314" type="multinuc" parent="315" relname="span"/>
+		<group id="315" type="span" parent="316" relname="span"/>
+		<group id="316" type="span" relname="antithesis"/>
+		<group id="317" type="span" parent="318" relname="span"/>
+		<group id="318" type="span" parent="315" relname="preparation"/>
+		<group id="319" type="span" parent="320" relname="span"/>
+		<group id="320" type="span" parent="321" relname="elaboration"/>
+		<group id="321" type="span" parent="322" relname="span"/>
+		<group id="322" type="span" parent="323" relname="span"/>
+		<group id="323" type="span" relname="antithesis"/>
+		<group id="324" type="span" parent="325" relname="span"/>
+		<group id="325" type="span" relname="antithesis"/>
+		<group id="326" type="span" parent="327" relname="span"/>
+		<group id="327" type="span" parent="328" relname="span"/>
+		<group id="328" type="span" parent="242" relname="sequence"/>
+		<group id="329" type="span" parent="181" relname="joint"/>
+		<group id="330" type="multinuc" parent="219" relname="condition"/>
+  </body>
+</rst>

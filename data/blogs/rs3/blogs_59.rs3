@@ -1,0 +1,192 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="antithesis" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="background" type="rst" />
+			<rel name="cause" type="rst" />
+			<rel name="comparison" type="multinuc" />
+			<rel name="concession" type="rst" />
+			<rel name="conclusion" type="rst" />
+			<rel name="condition" type="rst" />
+			<rel name="contrast" type="multinuc" />
+			<rel name="effect" type="rst" />
+			<rel name="elaboration" type="rst" />
+			<rel name="evaluation" type="rst" />
+			<rel name="evidence" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="motivation" type="rst" />
+			<rel name="preparation" type="rst" />
+			<rel name="purpose" type="rst" />
+			<rel name="restatement" type="multinuc" />
+			<rel name="same-unit" type="multinuc" />
+			<rel name="sequence" type="multinuc" />
+			<rel name="solutionhood" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="1" relname="antithesis">https://fritzmorgen.livejournal.com/1588644.html#cutid1</segment>
+		<segment id="2" relname="antithesis">Станет ли Россия властелином мира? IMG</segment>
+		<segment id="3" parent="93" relname="preparation">Самые сильные программисты живут, конечно, в России.</segment>
+		<segment id="4" parent="5" relname="cause">Государство долго не поддерживало их,</segment>
+		<segment id="5" parent="86" relname="span">из-за чего программистам приходилось искать себя за рубежом,</segment>
+		<segment id="6" parent="92" relname="span">однако сейчас ситуация изменилась.</segment>
+		<segment id="7" parent="89" relname="span">Мы на полную включились в гонку,</segment>
+		<segment id="8" parent="88" relname="span">победа в которой</segment>
+		<segment id="9" parent="8" relname="purpose">позволит России занять наше законное место, место первой (среди равных) страны мира.</segment>
+		<segment id="10" parent="91" relname="same-unit">Иногда я думаю,</segment>
+		<segment id="11" parent="12" relname="condition">что если бы СССР не распался в 1991 году,</segment>
+		<segment id="12" parent="90" relname="span">компьютеры стали бы главным направлением «внутренней эмиграции».</segment>
+		<segment id="13" parent="95" relname="joint">Петь под гитару вокруг костра, конечно, здорово,</segment>
+		<segment id="14" parent="95" relname="joint">равно как и читать заполночь добытые с боем сокровища мировой литературы,</segment>
+		<segment id="15" parent="96" relname="contrast">однако эти эскапистские удовольствия померкли бы перед путешествиями по виртуальным мирам.</segment>
+		<segment id="16" parent="97" relname="span">Сегодня,</segment>
+		<segment id="17" parent="16" relname="condition">когда тебе доступен любой вид деятельности, — от ведения бизнеса до покатушек на снегоходах,</segment>
+		<segment id="18" parent="98" relname="same-unit">— компьютерные игры являются всего лишь одним из способов приятно занять время.</segment>
+		<segment id="19" parent="101" relname="same-unit">Однако,</segment>
+		<segment id="20" parent="99" relname="joint">когда ты огорожен от мира железным занавесом</segment>
+		<segment id="21" parent="99" relname="joint">и даже в самых смелых мечтах не надеешься лично увидеть Нотр-Дам,</segment>
+		<segment id="22" parent="100" relname="span">привлекательность диких земель Тамриэля становится просто невыносимой…</segment>
+		<segment id="23" parent="113" relname="preparation">Вернёмся обратно в наши дни.</segment>
+		<segment id="24" parent="113" relname="span">За последние 5-10 лет в России выросли корпорации, которые по своей технологической вооружённости находятся на более чем мировом уровне.</segment>
+		<segment id="25" parent="107" relname="span">Недавно в соцсетях рассказывали забавную историю про заказчика,</segment>
+		<segment id="26" parent="106" relname="span">который потребовал позвонить в «Яндекс»,</segment>
+		<segment id="27" parent="26" relname="purpose">чтобы те поставили сайт его свечного заводика на первое место в выдаче.</segment>
+		<segment id="28" parent="29" relname="condition">В случае отказа</segment>
+		<segment id="29" parent="108" relname="span">заказчик угрожал купить «Яндекс» с потрохами</segment>
+		<segment id="30" parent="110" relname="joint">— даже не догадываясь, видимо, что корпорация стоит сейчас около 700 млрд рублей,</segment>
+		<segment id="31" parent="32" relname="condition">и что даже если он привезёт в Москву поезд с этой суммой наличными,</segment>
+		<segment id="32" parent="109" relname="span">столь важный актив ему всё равно не продадут.</segment>
+		<segment id="33" parent="125" relname="preparation">Ещё одной технологической корпорацией, играющей в одной лиге с «Яндексом», стал «Сбербанк».</segment>
+		<segment id="34" parent="124" relname="span">В одном из образовательных центров «Сбербанка», в «Школе 21», Владимир Путин провёл вчера совещание по вопросам создания искусственного интеллекта.</segment>
+		<segment id="35" parent="34" relname="attribution">Процитирую самое важное: http://kremlin.ru/events/president/news/60630</segment>
+		<segment id="36" parent="116" relname="same-unit">"При этом борьба за технологическое лидерство, прежде всего, в сфере искусственного интеллекта,</segment>
+		<segment id="37" parent="38" relname="background">и вы все прекрасно это знаете, уважаемые коллеги,</segment>
+		<segment id="38" parent="115" relname="span">уже стала полем глобальной конкуренции.</segment>
+		<segment id="39" parent="120" relname="condition">Скорость создания новых продуктов и решений растёт в геометрической прогрессии, по экспоненте.</segment>
+		<segment id="40" parent="117" relname="sequence">Уже говорил</segment>
+		<segment id="41" parent="117" relname="sequence">и хочу ещё раз повторить:</segment>
+		<segment id="42" parent="118" relname="span">если кто-то сможет обеспечить монополию в сфере искусственного интеллекта</segment>
+		<segment id="43" parent="42" relname="background">– ну, последствия нам всем понятны,</segment>
+		<segment id="44" parent="119" relname="span">– тот станет властелином мира…"</segment>
+		<segment id="45" parent="140" relname="span">Разумеется, это не просто разговоры на модную тему.</segment>
+		<segment id="46" parent="126" relname="joint">Россия встала на путь построения цифровой экономики</segment>
+		<segment id="47" parent="126" relname="joint">и в осознанно участвует в гонке по созданию полноценного ИИ.</segment>
+		<segment id="48" parent="139" relname="span">Конкретно сейчас президент ставит перед ответственными лицами четыре задачи:</segment>
+		<segment id="49" parent="128" relname="span">1. Создать площадки</segment>
+		<segment id="50" parent="49" relname="purpose">для работы учёных</segment>
+		<segment id="51" parent="129" relname="joint">и влить туда крупные суммы денег.</segment>
+		<segment id="52" parent="132" relname="span">2. Привлечь к работе лучших специалистов, причём не только россиян, но и иностранцев.</segment>
+		<segment id="53" parent="131" relname="same-unit">Талантливым иностранцам</segment>
+		<segment id="54" parent="55" relname="condition">без проволочек</segment>
+		<segment id="55" parent="130" relname="span">выдать гражданство.</segment>
+		<segment id="56" parent="133" relname="span">3. Снять все законодательные барьеры,</segment>
+		<segment id="57" parent="56" relname="condition">мешающие развивать цифровые технологии.</segment>
+		<segment id="58" parent="134" relname="span">4. Организовать масштабный цифровой ликбез,</segment>
+		<segment id="59" parent="58" relname="purpose">чтобы подготовить население к переменам.</segment>
+		<segment id="60" parent="61" relname="condition">Если вы следите за новостями,</segment>
+		<segment id="61" parent="135" relname="span">вы знаете, что по всем этим направлением уже ведётся активная работа.</segment>
+		<segment id="62" parent="137" relname="span">Что ещё приятнее, у нас уже есть конкретные успехи</segment>
+		<segment id="63" parent="64" relname="condition">— так, например, автопилот «Яндекса» является если не лучшим в мире,</segment>
+		<segment id="64" parent="136" relname="span">то как минимум одним из лучших.</segment>
+		<segment id="65" parent="142" relname="joint">Нас ожидают весьма захватывающее будущее:</segment>
+		<segment id="66" parent="142" relname="joint">в ближайшие 10-15 лет от успехов наших цифровых «спортсменов» будет зависеть очень многое.</segment>
+		<segment id="67" parent="163" relname="preparation">Конечно, создание искусственного интеллекта — не единственный возможный путь развития для России.</segment>
+		<segment id="68" parent="148" relname="span">Можно было последовать, например, примеру сделавших ставку на экологию Филиппин:</segment>
+		<segment id="69" parent="68" relname="background">там недавно приняли закон, обязывающий студентов посадить по десять деревьев перед получением диплома.</segment>
+		<segment id="70" parent="151" relname="span">Можно было сосредоточиться на наших славных традициях,</segment>
+		<segment id="71" parent="150" relname="span">став оплотом здравого смысла в быстро меняющемся мире:</segment>
+		<segment id="72" parent="149" relname="joint">законсервироваться,</segment>
+		<segment id="73" parent="149" relname="joint">пытаться строить славное прошлое в духе Российской Империи 2.0 или СССР 2.0.</segment>
+		<segment id="74" parent="152" relname="span">Наконец, можно было удариться в клоун-демократию,</segment>
+		<segment id="75" parent="74" relname="condition">начав следовать издевательским советам с Запада.</segment>
+		<segment id="76" parent="160" relname="span">Построение цифровой экономики отличается от всех других сценариев только одним.</segment>
+		<segment id="77" parent="154" relname="contrast">Если создание цифровой экономики даёт России хороший шанс на развитие,</segment>
+		<segment id="78" parent="154" relname="contrast">все остальные сценарии ведут к неизбежному проигрышу — или медленному, или быстрому.</segment>
+		<segment id="79" parent="155" relname="span">Глядя на наших друзей и партнёров,</segment>
+		<segment id="80" parent="79" relname="evaluation">многие из которых выбрали себе заведомо проигрышные пути,</segment>
+		<segment id="81" parent="156" relname="span">я испытываю смешанные чувства.</segment>
+		<segment id="82" parent="157" relname="contrast">Мне грустно, что потенциально великие страны добровольно обрекли себя на поражение и деградацию,</segment>
+		<segment id="83" parent="158" relname="joint">однако я всё же не готов сильно огорчаться тому факту, что некоторые наши сильные конкуренты или присели отдохнуть на беговую дорожку,</segment>
+		<segment id="84" parent="158" relname="joint">или даже побежали в обратную сторону.</segment>
+		<segment id="85" relname="antithesis"></segment>
+		<group id="86" type="span" parent="87" relname="contrast"/>
+		<group id="87" type="multinuc" parent="93" relname="span"/>
+		<group id="88" type="span" parent="7" relname="elaboration"/>
+		<group id="89" type="span" parent="6" relname="elaboration"/>
+		<group id="90" type="span" parent="91" relname="same-unit"/>
+		<group id="91" type="multinuc" parent="104" relname="preparation"/>
+		<group id="92" type="span" parent="87" relname="contrast"/>
+		<group id="93" type="span" parent="94" relname="span"/>
+		<group id="94" type="span" relname="antithesis"/>
+		<group id="95" type="multinuc" parent="96" relname="contrast"/>
+		<group id="96" type="multinuc" parent="103" relname="span"/>
+		<group id="97" type="span" parent="98" relname="same-unit"/>
+		<group id="98" type="multinuc" parent="102" relname="contrast"/>
+		<group id="99" type="multinuc" parent="22" relname="condition"/>
+		<group id="100" type="span" parent="101" relname="same-unit"/>
+		<group id="101" type="multinuc" parent="102" relname="contrast"/>
+		<group id="102" type="multinuc" parent="103" relname="elaboration"/>
+		<group id="103" type="span" parent="104" relname="span"/>
+		<group id="104" type="span" parent="105" relname="span"/>
+		<group id="105" type="span" relname="antithesis"/>
+		<group id="106" type="span" parent="25" relname="elaboration"/>
+		<group id="107" type="span" parent="112" relname="span"/>
+		<group id="108" type="span" parent="111" relname="contrast"/>
+		<group id="109" type="span" parent="110" relname="joint"/>
+		<group id="110" type="multinuc" parent="111" relname="contrast"/>
+		<group id="111" type="multinuc" parent="107" relname="elaboration"/>
+		<group id="112" type="span" parent="24" relname="background"/>
+		<group id="113" type="span" parent="114" relname="span"/>
+		<group id="114" type="span" relname="antithesis"/>
+		<group id="115" type="span" parent="116" relname="same-unit"/>
+		<group id="116" type="multinuc" parent="122" relname="span"/>
+		<group id="117" type="multinuc" parent="119" relname="attribution"/>
+		<group id="118" type="span" parent="44" relname="condition"/>
+		<group id="119" type="span" parent="120" relname="span"/>
+		<group id="120" type="span" parent="121" relname="span"/>
+		<group id="121" type="span" parent="122" relname="elaboration"/>
+		<group id="122" type="span" parent="123" relname="span"/>
+		<group id="123" type="span" parent="125" relname="span"/>
+		<group id="124" type="span" parent="123" relname="attribution"/>
+		<group id="125" type="span" parent="127" relname="span"/>
+		<group id="126" type="multinuc" parent="45" relname="background"/>
+		<group id="127" type="span" relname="antithesis"/>
+		<group id="128" type="span" parent="129" relname="joint"/>
+		<group id="129" type="multinuc" parent="138" relname="joint"/>
+		<group id="130" type="span" parent="131" relname="same-unit"/>
+		<group id="131" type="multinuc" parent="52" relname="elaboration"/>
+		<group id="132" type="span" parent="138" relname="joint"/>
+		<group id="133" type="span" parent="138" relname="joint"/>
+		<group id="134" type="span" parent="138" relname="joint"/>
+		<group id="135" type="span" parent="143" relname="joint"/>
+		<group id="136" type="span" parent="62" relname="elaboration"/>
+		<group id="137" type="span" parent="143" relname="joint"/>
+		<group id="138" type="multinuc" parent="48" relname="elaboration"/>
+		<group id="139" type="span" parent="147" relname="span"/>
+		<group id="140" type="span" parent="139" relname="preparation"/>
+		<group id="142" type="multinuc" parent="144" relname="evaluation"/>
+		<group id="143" type="multinuc" parent="144" relname="span"/>
+		<group id="144" type="span" parent="145" relname="span"/>
+		<group id="145" type="span" parent="146" relname="span"/>
+		<group id="146" type="span" relname="antithesis"/>
+		<group id="147" type="span" parent="145" relname="solutionhood"/>
+		<group id="148" type="span" parent="153" relname="comparison"/>
+		<group id="149" type="multinuc" parent="71" relname="elaboration"/>
+		<group id="150" type="span" parent="70" relname="evaluation"/>
+		<group id="151" type="span" parent="153" relname="comparison"/>
+		<group id="152" type="span" parent="153" relname="comparison"/>
+		<group id="153" type="multinuc" parent="160" relname="solutionhood"/>
+		<group id="154" type="multinuc" parent="76" relname="elaboration"/>
+		<group id="155" type="span" parent="81" relname="condition"/>
+		<group id="156" type="span" parent="159" relname="span"/>
+		<group id="157" type="multinuc" parent="156" relname="evaluation"/>
+		<group id="158" type="multinuc" parent="157" relname="contrast"/>
+		<group id="159" type="span" parent="161" relname="contrast"/>
+		<group id="160" type="span" parent="162" relname="span"/>
+		<group id="161" type="multinuc" parent="163" relname="span"/>
+		<group id="162" type="span" parent="161" relname="contrast"/>
+		<group id="163" type="span" parent="164" relname="span"/>
+		<group id="164" type="span" relname="antithesis"/>
+  </body>
+</rst>

@@ -1,0 +1,128 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="antithesis" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="background" type="rst" />
+			<rel name="cause" type="rst" />
+			<rel name="comparison" type="multinuc" />
+			<rel name="concession" type="rst" />
+			<rel name="conclusion" type="rst" />
+			<rel name="condition" type="rst" />
+			<rel name="contrast" type="multinuc" />
+			<rel name="effect" type="rst" />
+			<rel name="elaboration" type="rst" />
+			<rel name="evaluation" type="rst" />
+			<rel name="evidence" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="motivation" type="rst" />
+			<rel name="preparation" type="rst" />
+			<rel name="purpose" type="rst" />
+			<rel name="restatement" type="multinuc" />
+			<rel name="same-unit" type="multinuc" />
+			<rel name="sequence" type="multinuc" />
+			<rel name="solutionhood" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="1" relname="antithesis">https://kosmetista.ru/blog/uhodovaya-kosmetika/96561.html</segment>
+		<segment id="2" relname="antithesis">Klairs Rich Moist Soothing Cream - Увлажняющий и успокаивающий крем от Klairs IMG</segment>
+		<segment id="3" relname="antithesis">Здравствуйте, уважаемые читатели!</segment>
+		<segment id="4" parent="63" relname="span">Предлагаю вам взглянуть на увлажняющий крем крем от корейского бренда Klairs.</segment>
+		<segment id="5" parent="4" relname="evaluation">Бренд Dear, Klairs у меня на данный момент в любимчиках.</segment>
+		<segment id="6" parent="53" relname="contrast">Всё, что пробовала</segment>
+		<segment id="7" parent="53" relname="contrast">(а я всё пробовала),</segment>
+		<segment id="8" parent="57" relname="span">не вызывает удивленного поднятия брови,</segment>
+		<segment id="9" parent="58" relname="span">как это обычно бывает с корейскими брендами,</segment>
+		<segment id="10" parent="9" relname="evaluation">когда в стоге сена нужно отыскать иголку.</segment>
+		<segment id="11" parent="12" relname="evidence">Добротный бренд, который специализируется на уходе за чувствительной кожей,</segment>
+		<segment id="12" parent="59" relname="span">следовательно в составе нет отдушек, красителей, спирта, и других непонятных вещей.</segment>
+		<segment id="13" parent="59" relname="elaboration">Не тестируется на животных.</segment>
+		<segment id="14" parent="60" relname="contrast">Ценник невысокий,</segment>
+		<segment id="15" parent="60" relname="contrast">а качество отличное.</segment>
+		<segment id="16" parent="66" relname="sequence">Раньше они выпускали свои кремы в банках,</segment>
+		<segment id="17" parent="67" relname="span">сейчас перешли на тюбики,</segment>
+		<segment id="18" parent="17" relname="evaluation">что намного лучше в плане безопасности крема. IMG</segment>
+		<segment id="19" parent="70" relname="span">Тюбик объёмом 60 мл.</segment>
+		<segment id="20" parent="68" relname="span">Упаковка не очень удобная,</segment>
+		<segment id="21" parent="72" relname="span">мне, наверное, придется разрезать тубу,</segment>
+		<segment id="22" parent="21" relname="purpose">чтобы извлечь остатки крема.</segment>
+		<segment id="23" parent="24" relname="condition">Если бы пробка была меньшего размера,</segment>
+		<segment id="24" parent="71" relname="span">это упростило бы процесс извлечения остатков.</segment>
+		<segment id="25" parent="80" relname="joint">Имеет ненавязчивый травянистый запах.</segment>
+		<segment id="26" parent="75" relname="contrast">Текстура плотная,</segment>
+		<segment id="27" parent="75" relname="contrast">но быстро и легко распределяется.</segment>
+		<segment id="28" parent="76" relname="joint">Следов не оставляет,</segment>
+		<segment id="29" parent="79" relname="contrast">не жирнит,</segment>
+		<segment id="30" parent="77" relname="joint">но с косметикой может скатываться,</segment>
+		<segment id="31" parent="32" relname="cause">да и сама косметика долго на нем не живёт,</segment>
+		<segment id="32" parent="78" relname="span">поэтому я его перевела в вечерние. IMG</segment>
+		<segment id="33" parent="82" relname="contrast">Многие пишут, что после нанесения крема кожа аж светится изнутри, ах, ох!</segment>
+		<segment id="34" parent="83" relname="span">— это шиммер.</segment>
+		<segment id="35" parent="36" relname="cause">Это шиммер.</segment>
+		<segment id="36" parent="84" relname="span">Поэтому я снижу немного оценку,</segment>
+		<segment id="37" parent="85" relname="span">зачем мне шиммер вечером?</segment>
+		<segment id="38" parent="39" relname="concession">Хотя они позиционируют этот крем как дневной для всех типов кожи,</segment>
+		<segment id="39" parent="86" relname="span">мне больше кажется, что он подойдет для сухой и нормальной как дневной крем, для комби и жирной — как ночной. IMG</segment>
+		<segment id="40" parent="101" relname="elaboration">В составе бета-глюкан, церамиды, экстракты аниса, алоэ, грейпфрута, папайи, индийского лотоса, пиона, рапса, шлемника байкальского, эвкалипта, сельдерея, моркови, томатов, капусты, брокколи, риса, портулака, пеларгонии, масло ши, жожоба, лаванды, цитрусов.</segment>
+		<segment id="41" parent="88" relname="joint">Действием крема я довольна,</segment>
+		<segment id="42" parent="89" relname="span">хороший вариант на холодное время года</segment>
+		<segment id="43" parent="42" relname="cause">— он дает ощутимое увлажнение и питание.</segment>
+		<segment id="44" parent="90" relname="joint">Покупала именно с прицелом на зиму,</segment>
+		<segment id="45" parent="90" relname="joint">ждала хорошего качественного увлажнения.</segment>
+		<segment id="46" parent="91" relname="span">Производитель оправдал мои ожидания.</segment>
+		<segment id="47" parent="92" relname="contrast">Пользуюсь на ночь, не каждый день,</segment>
+		<segment id="48" parent="93" relname="span">но надо уже его добить,</segment>
+		<segment id="49" parent="48" relname="cause">скоро зима закончится.</segment>
+		<segment id="50" parent="94" relname="evaluation">Крем достойный внимания и покупки.</segment>
+		<segment id="51" relname="antithesis">Спасибо за внимание,</segment>
+		<segment id="52" relname="antithesis">Jolsie.</segment>
+		<group id="53" type="multinuc" parent="103" relname="same-unit"/>
+		<group id="57" type="span" parent="103" relname="same-unit"/>
+		<group id="58" type="span" parent="8" relname="background"/>
+		<group id="59" type="span" parent="61" relname="span"/>
+		<group id="60" type="multinuc" parent="61" relname="elaboration"/>
+		<group id="61" type="span" parent="62" relname="span"/>
+		<group id="62" type="span" parent="64" relname="span"/>
+		<group id="63" type="span" parent="105" relname="preparation"/>
+		<group id="64" type="span" relname="antithesis"/>
+		<group id="66" type="multinuc" parent="74" relname="preparation"/>
+		<group id="67" type="span" parent="66" relname="sequence"/>
+		<group id="68" type="span" parent="73" relname="contrast"/>
+		<group id="70" type="span" parent="74" relname="span"/>
+		<group id="71" type="span" parent="73" relname="contrast"/>
+		<group id="72" type="span" parent="20" relname="cause"/>
+		<group id="73" type="multinuc" parent="19" relname="evaluation"/>
+		<group id="74" type="span" parent="102" relname="span"/>
+		<group id="75" type="multinuc" parent="80" relname="joint"/>
+		<group id="76" type="multinuc" parent="80" relname="joint"/>
+		<group id="77" type="multinuc" parent="79" relname="contrast"/>
+		<group id="78" type="span" parent="77" relname="joint"/>
+		<group id="79" type="multinuc" parent="76" relname="joint"/>
+		<group id="80" type="multinuc" parent="99" relname="span"/>
+		<group id="82" type="multinuc" parent="101" relname="span"/>
+		<group id="83" type="span" parent="82" relname="contrast"/>
+		<group id="84" type="span" parent="37" relname="cause"/>
+		<group id="85" type="span" parent="87" relname="span"/>
+		<group id="86" type="span" parent="85" relname="elaboration"/>
+		<group id="87" type="span" parent="34" relname="evaluation"/>
+		<group id="88" type="multinuc" parent="96" relname="preparation"/>
+		<group id="89" type="span" parent="88" relname="joint"/>
+		<group id="90" type="multinuc" parent="46" relname="solutionhood"/>
+		<group id="91" type="span" parent="96" relname="span"/>
+		<group id="92" type="multinuc" parent="94" relname="span"/>
+		<group id="93" type="span" parent="92" relname="contrast"/>
+		<group id="94" type="span" parent="95" relname="span"/>
+		<group id="95" type="span" parent="91" relname="background"/>
+		<group id="96" type="span" parent="97" relname="span"/>
+		<group id="97" type="span" relname="antithesis"/>
+		<group id="98" type="span" parent="70" relname="elaboration"/>
+		<group id="99" type="span" parent="98" relname="span"/>
+		<group id="100" type="span" parent="99" relname="evaluation"/>
+		<group id="101" type="span" parent="100" relname="span"/>
+		<group id="102" type="span" relname="antithesis"/>
+		<group id="103" type="multinuc" parent="105" relname="span"/>
+		<group id="104" type="span" parent="62" relname="evaluation"/>
+		<group id="105" type="span" parent="104" relname="span"/>
+  </body>
+</rst>

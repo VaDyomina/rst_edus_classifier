@@ -1,0 +1,274 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="antithesis" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="background" type="rst" />
+			<rel name="cause" type="rst" />
+			<rel name="comparison" type="multinuc" />
+			<rel name="concession" type="rst" />
+			<rel name="conclusion" type="rst" />
+			<rel name="condition" type="rst" />
+			<rel name="contrast" type="multinuc" />
+			<rel name="effect" type="rst" />
+			<rel name="elaboration" type="rst" />
+			<rel name="evaluation" type="rst" />
+			<rel name="evidence" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="motivation" type="rst" />
+			<rel name="preparation" type="rst" />
+			<rel name="purpose" type="rst" />
+			<rel name="restatement" type="multinuc" />
+			<rel name="same-unit" type="multinuc" />
+			<rel name="sequence" type="multinuc" />
+			<rel name="solutionhood" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="1" relname="antithesis">http://sergeyteplyakov.blogspot.com/2013/09/blog-post_24.html</segment>
+		<segment id="2" relname="antithesis">Культ карго в программировании</segment>
+		<segment id="3" parent="128" relname="span">Замечали ли вы за собой, своими коллегами или друзьями одну интересную особенность:</segment>
+		<segment id="4" parent="5" relname="cause">когда у кого-то начинает что-либо хорошо получаться,</segment>
+		<segment id="5" parent="127" relname="span">то почти всегда найдутся «подражатели», которые попытаются повторить тот же самый успех, путем копирования видимых действий оригинала?</segment>
+		<segment id="6" parent="129" relname="span">При этом обычно, это подражание ни к чему не приводит,</segment>
+		<segment id="7" parent="241" relname="span">поскольку «подражатель» начинает копировать лишь несколько видимых аспектов,</segment>
+		<segment id="8" parent="7" relname="condition">без понимания всех внутренних причин успеха.</segment>
+		<segment id="9" parent="132" relname="preparation">Первые примеры такого подражания легко увидеть у детей или подростков.</segment>
+		<segment id="10" parent="131" relname="joint">Вспомните, как мы встречались мальчишками осенью</segment>
+		<segment id="11" parent="131" relname="joint">и кто-то начинал хвастаться своими бицепсами.</segment>
+		<segment id="12" parent="134" relname="span">Сразу же вокруг него соберется группа однокашников, страстно желающих узнать рецепт успеха.</segment>
+		<segment id="13" parent="135" relname="span">При этом самое смешное, наблюдать, как избирательно работает наш мозг,</segment>
+		<segment id="14" parent="13" relname="elaboration">который воспринимает лишь то, что мы хотим услышать.</segment>
+		<segment id="15" parent="136" relname="cause">Так во фразе: "я тренировался на турнике каждый день по 40 минут в течении трех месяцев", мы услышим лишь «тренировался на турнике»</segment>
+		<segment id="16" parent="136" relname="span">и будем озадачены отсутствием результата через неделю,</segment>
+		<segment id="17" parent="16" relname="condition">подтянувшись за все это время 4 раза.</segment>
+		<segment id="18" parent="246" relname="span">"А, турник – это не для меня!</segment>
+		<segment id="19" parent="242" relname="joint">У меня мышцы спины слабые"</segment>
+		<segment id="20" parent="242" relname="joint">("руки слишком длинные",</segment>
+		<segment id="21" parent="242" relname="joint">"турник во дворе кривой",</segment>
+		<segment id="22" parent="242" relname="joint">"нет подходящих перчаток" и т.п.), услышим мы через неделю,</segment>
+		<segment id="23" parent="243" relname="cause">когда энтузиазм ребят начнет спадать.</segment>
+		<segment id="24" parent="147" relname="span">Однако с аналогичной ситуацией сталкиваются не только подростки, но и вполне себе зрелые люди, занимающиеся, например, разработкой ПО.</segment>
+		<segment id="25" parent="26" relname="cause">Поскольку успех проекта – дело не простое,</segment>
+		<segment id="26" parent="142" relname="span">то не удивительно, что индустрия и отдельные ее участники начинают подражать успешным командам.</segment>
+		<segment id="27" parent="28" relname="cause">Но и в этом случае следование чужим советам и слепое копирование чужих практик редко приводит</segment>
+		<segment id="28" parent="247" relname="span">к успеху.</segment>
+		<segment id="29" parent="144" relname="span">Как и тот подросток, добившийся успеха на турнике, успешная команда разработчиков, приходят к применению новых подходов постепенно и сознательно,</segment>
+		<segment id="30" parent="143" relname="joint">понимая с какими проблемами они столкнулись</segment>
+		<segment id="31" parent="143" relname="joint">и какие для этого есть подходящие решения.</segment>
+		<segment id="32" parent="148" relname="span">Совет об использовании нового подхода или инструмента будет воспринят на порядок лучше,</segment>
+		<segment id="33" parent="32" relname="condition">если будет ложится на подготовленную почву – на соответствующий опыт.</segment>
+		<segment id="34" parent="35" relname="condition">Прежде чем слепо браться за новый язык программирования</segment>
+		<segment id="35" parent="234" relname="span">нужно понимать, чем не устраивает текущий.</segment>
+		<segment id="36" parent="37" relname="cause">Нужно понимать, в чем заключается проблема</segment>
+		<segment id="37" parent="150" relname="span">и только после этого, путем проб и ошибок стоит искать подходящее решение.</segment>
+		<segment id="38" parent="152" relname="contrast">Чужой опыт невероятно полезен,</segment>
+		<segment id="39" parent="40" relname="cause">но попытка перепрыгнуть через несколько ступенек эволюции</segment>
+		<segment id="40" parent="151" relname="span">может привести к противоположным результатам.</segment>
+		<segment id="41" parent="157" relname="span">Давайте рассмотрим следующий пример.</segment>
+		<segment id="42" parent="156" relname="joint">Предположим, мы хотим начать использовать новые асинхронные возможности языка C# (async/await)</segment>
+		<segment id="43" parent="156" relname="joint">или хотим поделиться своим успешным опытом использования этой штуки в своем проекте.</segment>
+		<segment id="44" parent="248" relname="cause">С одной стороны, мы можем начать расписывать все радости этой async-ов и await-ов</segment>
+		<segment id="45" parent="248" relname="span">и убедить команду в том, что это именно та возможность,</segment>
+		<segment id="46" parent="45" relname="elaboration">отсутствие которой не позволяло вовремя сдать ваши проекты.</segment>
+		<segment id="47" parent="159" relname="contrast">Но можно подойти с другой стороны.</segment>
+		<segment id="48" parent="163" relname="condition">Когда я рассказываю об асинхронном программировании,</segment>
+		<segment id="49" parent="161" relname="sequence">я прежде всего говорю о преимуществах и недостатках синхронной и асинхронной модели программирования,</segment>
+		<segment id="50" parent="162" relname="span">а потом рассказываю об эволюции паттернов асинхронного программирования на платформе .NET:</segment>
+		<segment id="51" parent="50" relname="elaboration">начиная от APM, через EAP, к TAP и потом уже к async/await.</segment>
+		<segment id="52" parent="165" relname="joint">При этом я стараюсь убедить слушателей (или своих коллег), что async/await – это лишь вершина айсберга</segment>
+		<segment id="53" parent="165" relname="joint">и вам понадобиться понимание всех аспектов, на которых эти возможности построены (такие как Synchronization Context, TPL и многие.).</segment>
+		<segment id="54" parent="55" relname="cause">Попытка разобраться с подобным инструментом с наскока</segment>
+		<segment id="55" parent="167" relname="span">приведет к тому, что появятся различные фобии и комплексы:</segment>
+		<segment id="56" parent="168" relname="span">"async/await – это плохо,</segment>
+		<segment id="57" parent="56" relname="cause">поскольку из-за этого страдает производительность",</segment>
+		<segment id="58" parent="169" relname="span">"async/await не стоит использовать,</segment>
+		<segment id="59" parent="58" relname="cause">поскольку это усложняет обработку ошибок" и т.п.</segment>
+		<segment id="60" parent="172" relname="contrast">Эти замечания вполне обоснованы,</segment>
+		<segment id="61" parent="172" relname="contrast">но говорят они не столько о проблемах async-ов, сколько о недопонимании принципов этой возможности и истории ее возникновения.</segment>
+		<segment id="62" parent="63" relname="cause">Подход "а давайте быстренько внедрим вот эту новую штуку" приводит</segment>
+		<segment id="63" parent="249" relname="span">к возникновению известного "бага" в поведении,</segment>
+		<segment id="64" parent="176" relname="span">известного нынче под именем культа карго,</segment>
+		<segment id="65" parent="175" relname="span">автором которого является Ричард Фейнман</segment>
+		<segment id="66" parent="174" relname="contrast">(который описывал его в контексте науки,</segment>
+		<segment id="67" parent="174" relname="contrast">но он применим и к другим областям, таким как разработка ПО):</segment>
+		<segment id="68" parent="69" relname="preparation">"У народностей, населяющих регионы южных морей, бытует «культ карго».</segment>
+		<segment id="69" parent="178" relname="span">В войну к ним прилетали самолеты с массой полезных вещей.</segment>
+		<segment id="70" parent="179" relname="span">Теперь люди хотят,</segment>
+		<segment id="71" parent="70" relname="purpose">чтобы так было опять.</segment>
+		<segment id="72" parent="180" relname="sequence">Поэтому они устраивают некое подобие взлетно-посадочной полосы,</segment>
+		<segment id="73" parent="180" relname="sequence">вдоль нее разжигают костры,</segment>
+		<segment id="74" parent="180" relname="sequence">строят будку, в которой сидит человек, изображающий диспетчера (с деревяшками вместо наушников и бамбуковыми палочками-антеннами),</segment>
+		<segment id="75" parent="180" relname="sequence">и ждут приземления самолета.</segment>
+		<segment id="76" parent="183" relname="span">Они все делают как нужно.</segment>
+		<segment id="77" parent="182" relname="joint">По форме все правильно.</segment>
+		<segment id="78" parent="182" relname="joint">Все выглядит так, как было раньше.</segment>
+		<segment id="79" parent="184" relname="contrast">Вот только самолеты не приземляются.</segment>
+		<segment id="80" parent="190" relname="span">Я называю такие вещи наукой «культа карго» (наукой самолетопоклонников):</segment>
+		<segment id="81" parent="189" relname="contrast">соблюдаются все внешние признаки и рецепты научного исследования,</segment>
+		<segment id="82" parent="188" relname="span">но нет чего-то очень важного,</segment>
+		<segment id="83" parent="82" relname="cause">потому что самолеты так и не приземляются."</segment>
+		<segment id="84" parent="195" relname="span">Хорошей иллюстрацией карго культа является байка про пять обезьян,</segment>
+		<segment id="85" parent="194" relname="span">которые в конечном итоге стали бояться достать бананы,</segment>
+		<segment id="86" parent="193" relname="span">хотя и никто из них уже и не знал, что будет плохого,</segment>
+		<segment id="87" parent="86" relname="condition">если они попытаются это сделать.</segment>
+		<segment id="88" parent="237" relname="elaboration">IMG</segment>
+		<segment id="89" parent="90" relname="cause">Недопонимание могут приводить</segment>
+		<segment id="90" parent="252" relname="span">к появлению специальных стандартов кодирования</segment>
+		<segment id="91" parent="252" relname="condition">(если речь идет о языках программирования и библиотеках)</segment>
+		<segment id="92" parent="198" relname="same-unit">или изменению процессов разработки таким образом,</segment>
+		<segment id="93" parent="200" relname="joint">чтобы уберечься от несуществующих проблем</segment>
+		<segment id="94" parent="200" relname="joint">или использовать якобы наиболее передовые техники и методики.</segment>
+		<segment id="95" parent="203" relname="span">Так, можно встретить целые команды, в которых нельзя использовать цикл foreach в языке C#,</segment>
+		<segment id="96" parent="202" relname="span">только потому, что некоторый авторитетный товарищ из этой команды 10 лет назад прочитал вумную статью,</segment>
+		<segment id="97" parent="96" relname="elaboration">в которой говорилось, что пустой цикл foreach аж-но в 3 раза медленнее пустого цикла for.</segment>
+		<segment id="98" parent="207" relname="span">Или можно встретить команды,</segment>
+		<segment id="99" parent="204" relname="joint">в которых для каждого класса требуется написать интерфейс,</segment>
+		<segment id="100" parent="205" relname="span">и обязательно использовать DI-контейнер якобы</segment>
+		<segment id="101" parent="100" relname="purpose">для улучшения дизайна.</segment>
+		<segment id="102" parent="210" relname="span">При этом вся команда плюется,</segment>
+		<segment id="103" parent="209" relname="joint">потому что разобраться в коде невозможно,</segment>
+		<segment id="104" parent="209" relname="joint">написание юнит-теста занимает полдня,</segment>
+		<segment id="105" parent="209" relname="joint">каждое изменение ломает два десятка этих самых тестов,</segment>
+		<segment id="106" parent="209" relname="joint">а добавление даже самой маленькой возможности требует невероятных усилий.</segment>
+		<segment id="107" parent="211" relname="contrast">Часть команды чувствует, что здесь что-то не так,</segment>
+		<segment id="108" parent="211" relname="contrast">но боится выглядеть белой вороной на фоне остальных.</segment>
+		<segment id="109" parent="214" relname="joint">Многие понимают, что идет подмена понятий</segment>
+		<segment id="110" parent="213" relname="span">и IoC отождествляется с хорошим дизайном,</segment>
+		<segment id="111" parent="212" relname="contrast">хотя на самом деле контейнер лишь инструмент, а не самоцель.</segment>
+		<segment id="112" parent="256" relname="same-unit">Как и с турником,</segment>
+		<segment id="113" parent="255" relname="purpose">чтобы добиться успеха в разработке ПО,</segment>
+		<segment id="114" parent="218" relname="contrast">нам нужно не просто слепо перенимать чьи-то подходы,</segment>
+		<segment id="115" parent="218" relname="contrast">а критически их анализировать.</segment>
+		<segment id="116" parent="222" relname="contrast">Это не значит, что не нужно использовать чужой опыт и признавать авторитеты,</segment>
+		<segment id="117" parent="221" relname="joint">это лишь значит, что время от времени нужно пересматривать свои подходы</segment>
+		<segment id="118" parent="221" relname="joint">и смотреть, не изменилось ли ваше к ним отношение за прошедшее время.</segment>
+		<segment id="119" parent="225" relname="joint">З.Ы. Многие, скорее всего, слышали такое высказывание, что если вы смотрите на свой код годичной давности,</segment>
+		<segment id="120" parent="225" relname="joint">и не считаете его го#%$-кодом,</segment>
+		<segment id="121" parent="226" relname="span">то это значит, что вы остановились в своем развитии.</segment>
+		<segment id="122" parent="227" relname="span">Я бы не был столь категоричным,</segment>
+		<segment id="123" parent="122" relname="cause">поскольку кодирование пусть и важный, но не единственный аспект разработки ПО.</segment>
+		<segment id="124" parent="229" relname="span">Поэтому я бы несколько изменил формулировку таким образом:</segment>
+		<segment id="125" parent="126" relname="condition">если через год вы не изменили своего мнения хотя бы в одном из аспектов разработки ПО (кодирование, дизайн, архитектура, работа с пользователями, методологии разработки ПО и др),</segment>
+		<segment id="126" parent="228" relname="span">значит вы остановились в своем развитии.</segment>
+		<group id="127" type="span" parent="3" relname="elaboration"/>
+		<group id="128" type="span" parent="130" relname="joint"/>
+		<group id="129" type="span" parent="130" relname="joint"/>
+		<group id="130" type="multinuc" relname="antithesis"/>
+		<group id="131" type="multinuc" parent="132" relname="span"/>
+		<group id="132" type="span" parent="133" relname="span"/>
+		<group id="133" type="span" parent="12" relname="cause"/>
+		<group id="134" type="span" parent="233" relname="joint"/>
+		<group id="135" type="span" parent="140" relname="span"/>
+		<group id="136" type="span" parent="137" relname="span"/>
+		<group id="137" type="span" parent="232" relname="sequence"/>
+		<group id="140" type="span" parent="233" relname="joint"/>
+		<group id="141" type="span" relname="antithesis"/>
+		<group id="142" type="span" parent="146" relname="contrast"/>
+		<group id="143" type="multinuc" parent="29" relname="cause"/>
+		<group id="144" type="span" parent="145" relname="comparison"/>
+		<group id="145" type="multinuc" parent="146" relname="contrast"/>
+		<group id="146" type="multinuc" parent="24" relname="elaboration"/>
+		<group id="147" type="span" relname="antithesis"/>
+		<group id="148" type="span" parent="155" relname="span"/>
+		<group id="150" type="span" parent="153" relname="sequence"/>
+		<group id="151" type="span" parent="152" relname="contrast"/>
+		<group id="152" type="multinuc" parent="154" relname="contrast"/>
+		<group id="153" type="multinuc" parent="154" relname="contrast"/>
+		<group id="154" type="multinuc" parent="148" relname="elaboration"/>
+		<group id="155" type="span" relname="antithesis"/>
+		<group id="156" type="multinuc" parent="41" relname="elaboration"/>
+		<group id="157" type="span" parent="160" relname="span"/>
+		<group id="158" type="span" parent="159" relname="contrast"/>
+		<group id="159" type="multinuc" parent="157" relname="elaboration"/>
+		<group id="160" type="span" relname="antithesis"/>
+		<group id="161" type="multinuc" parent="163" relname="span"/>
+		<group id="162" type="span" parent="161" relname="sequence"/>
+		<group id="163" type="span" parent="164" relname="span"/>
+		<group id="164" type="span" parent="166" relname="joint"/>
+		<group id="165" type="multinuc" parent="166" relname="joint"/>
+		<group id="166" type="multinuc" relname="antithesis"/>
+		<group id="167" type="span" parent="171" relname="span"/>
+		<group id="168" type="span" parent="170" relname="joint"/>
+		<group id="169" type="span" parent="170" relname="joint"/>
+		<group id="170" type="multinuc" parent="167" relname="elaboration"/>
+		<group id="171" type="span" parent="173" relname="span"/>
+		<group id="172" type="multinuc" parent="171" relname="evaluation"/>
+		<group id="173" type="span" relname="antithesis"/>
+		<group id="174" type="multinuc" parent="65" relname="elaboration"/>
+		<group id="175" type="span" parent="64" relname="attribution"/>
+		<group id="176" type="span" parent="249" relname="elaboration"/>
+		<group id="178" type="span" parent="185" relname="sequence"/>
+		<group id="179" type="span" parent="235" relname="cause"/>
+		<group id="180" type="multinuc" parent="235" relname="span"/>
+		<group id="182" type="multinuc" parent="76" relname="elaboration"/>
+		<group id="183" type="span" parent="184" relname="contrast"/>
+		<group id="184" type="multinuc" parent="186" relname="evaluation"/>
+		<group id="185" type="multinuc" parent="186" relname="span"/>
+		<group id="186" type="span" parent="187" relname="span"/>
+		<group id="187" type="span" parent="191" relname="joint"/>
+		<group id="188" type="span" parent="189" relname="contrast"/>
+		<group id="189" type="multinuc" parent="80" relname="elaboration"/>
+		<group id="190" type="span" parent="191" relname="joint"/>
+		<group id="191" type="multinuc" parent="250" relname="elaboration"/>
+		<group id="193" type="span" parent="85" relname="concession"/>
+		<group id="194" type="span" parent="84" relname="elaboration"/>
+		<group id="195" type="span" parent="196" relname="joint"/>
+		<group id="196" type="multinuc" parent="237" relname="span"/>
+		<group id="198" type="multinuc" parent="199" relname="span"/>
+		<group id="199" type="span" parent="201" relname="span"/>
+		<group id="200" type="multinuc" parent="199" relname="purpose"/>
+		<group id="201" type="span" relname="antithesis"/>
+		<group id="202" type="span" parent="95" relname="cause"/>
+		<group id="203" type="span" parent="206" relname="span"/>
+		<group id="204" type="multinuc" parent="98" relname="elaboration"/>
+		<group id="205" type="span" parent="204" relname="joint"/>
+		<group id="206" type="span" parent="208" relname="joint"/>
+		<group id="207" type="span" parent="208" relname="joint"/>
+		<group id="208" type="multinuc" parent="217" relname="joint"/>
+		<group id="209" type="multinuc" parent="102" relname="cause"/>
+		<group id="210" type="span" parent="216" relname="span"/>
+		<group id="211" type="multinuc" parent="215" relname="joint"/>
+		<group id="212" type="multinuc" parent="110" relname="concession"/>
+		<group id="213" type="span" parent="214" relname="joint"/>
+		<group id="214" type="multinuc" parent="215" relname="joint"/>
+		<group id="215" type="multinuc" parent="210" relname="evaluation"/>
+		<group id="216" type="span" parent="217" relname="joint"/>
+		<group id="217" type="multinuc" parent="223" relname="solutionhood"/>
+		<group id="218" type="multinuc" parent="255" relname="span"/>
+		<group id="219" type="span" parent="256" relname="same-unit"/>
+		<group id="220" type="span" parent="223" relname="span"/>
+		<group id="221" type="multinuc" parent="222" relname="contrast"/>
+		<group id="222" type="multinuc" parent="220" relname="elaboration"/>
+		<group id="223" type="span" parent="239" relname="span"/>
+		<group id="225" type="multinuc" parent="121" relname="condition"/>
+		<group id="226" type="span" parent="231" relname="span"/>
+		<group id="227" type="span" parent="229" relname="cause"/>
+		<group id="228" type="span" parent="124" relname="elaboration"/>
+		<group id="229" type="span" parent="240" relname="span"/>
+		<group id="231" type="span" relname="antithesis"/>
+		<group id="232" type="multinuc" parent="135" relname="evidence"/>
+		<group id="233" type="multinuc" parent="141" relname="span"/>
+		<group id="234" type="span" parent="153" relname="sequence"/>
+		<group id="235" type="span" parent="236" relname="span"/>
+		<group id="236" type="span" parent="185" relname="sequence"/>
+		<group id="237" type="span" parent="238" relname="span"/>
+		<group id="238" type="span" relname="antithesis"/>
+		<group id="239" type="span" relname="antithesis"/>
+		<group id="240" type="span" parent="226" relname="evaluation"/>
+		<group id="241" type="span" parent="6" relname="cause"/>
+		<group id="242" type="multinuc" parent="243" relname="span"/>
+		<group id="243" type="span" parent="244" relname="span"/>
+		<group id="244" type="span" parent="18" relname="cause"/>
+		<group id="246" type="span" parent="232" relname="sequence"/>
+		<group id="247" type="span" parent="145" relname="comparison"/>
+		<group id="248" type="span" parent="158" relname="span"/>
+		<group id="249" type="span" parent="250" relname="span"/>
+		<group id="250" type="span" parent="251" relname="span"/>
+		<group id="251" type="span" parent="196" relname="joint"/>
+		<group id="252" type="span" parent="253" relname="span"/>
+		<group id="253" type="span" parent="198" relname="same-unit"/>
+		<group id="255" type="span" parent="219" relname="span"/>
+		<group id="256" type="multinuc" parent="220" relname="span"/>
+  </body>
+</rst>

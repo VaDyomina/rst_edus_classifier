@@ -1,0 +1,128 @@
+<rst>
+<header>
+	<relations>
+			<rel name="antithesis" type="rst"/>
+			<rel name="background" type="rst"/>
+			<rel name="cause" type="rst"/>
+			<rel name="circumstance" type="rst"/>
+			<rel name="concession" type="rst"/>
+			<rel name="condition" type="rst"/>
+			<rel name="contrast" type="multinuc"/>
+			<rel name="elaboration" type="rst"/>
+			<rel name="evaluation" type="rst"/>
+			<rel name="evidence" type="rst"/>
+			<rel name="joint" type="multinuc"/>
+			<rel name="justify" type="rst"/>
+			<rel name="motivation" type="rst"/>
+			<rel name="preparation" type="rst"/>
+			<rel name="purpose" type="rst"/>
+			<rel name="restatement" type="multinuc"/>
+			<rel name="restatement" type="rst"/>
+			<rel name="result" type="rst"/>
+			<rel name="sequence" type="multinuc"/>
+			<rel name="solutionhood" type="rst"/>
+		</relations>
+</header>
+<body>
+		<segment id="1" parent="115" relname="span">ну да ну в общем вот фильм такой вот 1</segment>
+		<segment id="2" parent="113" relname="joint">ну либо это Италия 2</segment>
+		<segment id="3" parent="113" relname="joint">либо это Испания 3</segment>
+		<segment id="4" parent="115" relname="background">в общем как это о сельской жизни вот значит местных там фермеров что ли 4</segment>
+		<segment id="5" parent="116" relname="evaluation">в общем конечно очень здорово 5</segment>
+		<segment id="6" parent="120" relname="antithesis">ну вот о том как вот ну вот мне показаллось 6</segment>
+		<segment id="7" parent="118" relname="joint">что вот значит такой мужчина 7</segment>
+		<segment id="8" parent="118" relname="joint">ну и вот как он собирал груши 8</segment>
+		<segment id="9" parent="119" relname="antithesis">там наверное они очень вкусные 9</segment>
+		<segment id="10" parent="122" relname="sequence">он собирал 10</segment>
+		<segment id="11" parent="122" relname="sequence">каждую протирал 11</segment>
+		<segment id="12" parent="122" relname="sequence">складывал их в эти самые большие корзины 12</segment>
+		<segment id="13" parent="123" relname="result">значит так очень аккуратно всё сложил вот 13</segment>
+		<segment id="14" parent="64" relname="span">и значит потом подъехал 14</segment>
+		<segment id="15" parent="14" relname="background">ну его наверно сын его младший на велосипеде приехал значит 15</segment>
+		<segment id="16" parent="64" relname="evaluation">ну он помогать должен родителям 16</segment>
+		<segment id="17" parent="127" relname="sequence">и вот он значит взял эту корзину 17</segment>
+		<segment id="18" parent="125" relname="span">поставил её на велосипед 18</segment>
+		<segment id="19" parent="18" relname="background">там такой на переднем колесе углубление 19</segment>
+		<segment id="20" parent="125" relname="restatement">там поставил 20</segment>
+		<segment id="21" parent="127" relname="sequence">и поехал 21</segment>
+		<segment id="22" parent="131" relname="antithesis">конечно надо было в общем-то везти вот так 22</segment>
+		<segment id="23" parent="130" relname="sequence">а он значит поехал 23</segment>
+		<segment id="24" parent="75" relname="span">и навстречу ехала девочка на велосипеде 24</segment>
+		<segment id="25" parent="24" relname="circumstance">он загляну= загляделся на неё 25</segment>
+		<segment id="26" parent="75" relname="cause">и велосипед перевернулся 26</segment>
+		<segment id="27" parent="128" relname="result">все груши рассыпались вот 27</segment>
+		<segment id="28" parent="78" relname="span">ну ну на него это так в общем не произвело большого впечатления 28</segment>
+		<segment id="29" parent="77" relname="span">просто вот разный немножко подход молодым у молодых и старых да 29</segment>
+		<segment id="30" parent="29" relname="elaboration">ну не старых а таких зрелых людей вот 30</segment>
+		<segment id="31" parent="80" relname="span">и значит ну гуляли тут мальчишки ещё его сверстники 31</segment>
+		<segment id="32" parent="31" relname="elaboration">просто гуляли там 32</segment>
+		<segment id="33" parent="81" relname="span">я не знаю 33</segment>
+		<segment id="34" parent="33" relname="evidence">может быть приехали просто отдыхать 34</segment>
+		<segment id="35" parent="82" relname="span">они ему помогли значит 35</segment>
+		<segment id="36" parent="35" relname="result">все эти груши собрали вот 36</segment>
+		<segment id="37" parent="38" relname="evaluation">он конечно такой грустный 37</segment>
+		<segment id="38" parent="135" relname="span">опять это самое погрузил всё 38</segment>
+		<segment id="39" parent="137" relname="antithesis">потому что ну наверно поду= подумал 39</segment>
+		<segment id="40" parent="136" relname="contrast">что вот они гуляют 40</segment>
+		<segment id="41" parent="136" relname="contrast">а мне приходится помогать родителям 41</segment>
+		<segment id="42" parent="143" relname="sequence">вот поехал дальше 42</segment>
+		<segment id="43" parent="91" relname="span">но это самое а шляпа-то у него улетела тоже 43</segment>
+		<segment id="44" parent="43" relname="circumstance">когда он падал 44</segment>
+		<segment id="45" parent="140" relname="sequence">вот и мальчишки значит эту шляпу подняли 45</segment>
+		<segment id="46" parent="140" relname="sequence">ему принесли 46</segment>
+		<segment id="47" parent="141" relname="result">он их за это угостил грушами вот 47</segment>
+		<segment id="48" parent="144" relname="span">это то есть мальчик такой ну благодарный 48</segment>
+		<segment id="49" parent="48" relname="antithesis">будем говорить да 49</segment>
+		<segment id="50" parent="147" relname="sequence">вот ну и в общем повёз это всё домой помощник 50</segment>
+		<segment id="51" parent="149" relname="antithesis">ну вот так вот у меня 51</segment>
+		<group id="64" type="span" parent="66" relname="span"/>
+		<group id="66" type="span" parent="148" relname="sequence"/>
+		<group id="75" type="span" parent="128" relname="span"/>
+		<group id="77" type="span" parent="28" relname="antithesis"/>
+		<group id="78" type="span" parent="132" relname="antithesis"/>
+		<group id="80" type="span" parent="83" relname="span"/>
+		<group id="81" type="span" parent="80" relname="circumstance"/>
+		<group id="82" type="span" parent="134" relname="sequence"/>
+		<group id="83" type="span" parent="134" relname="sequence"/>
+		<group id="91" type="span" parent="140" relname="sequence"/>
+		<group id="113" type="multinuc" parent="114" relname="span"/>
+		<group id="114" type="span" parent="1" relname="background"/>
+		<group id="115" type="span" parent="116" relname="span"/>
+		<group id="116" type="span" parent="117" relname="span"/>
+		<group id="117" type="span" parent="151" relname="preparation"/>
+		<group id="118" type="multinuc" parent="119" relname="span"/>
+		<group id="119" type="span" parent="120" relname="span"/>
+		<group id="120" type="span" parent="121" relname="span"/>
+		<group id="121" type="span" parent="150" relname="background"/>
+		<group id="122" type="multinuc" parent="123" relname="span"/>
+		<group id="123" type="span" parent="124" relname="span"/>
+		<group id="124" type="span" parent="148" relname="sequence"/>
+		<group id="125" type="span" parent="126" relname="span"/>
+		<group id="126" type="span" parent="127" relname="sequence"/>
+		<group id="127" type="multinuc" parent="148" relname="sequence"/>
+		<group id="128" type="span" parent="129" relname="span"/>
+		<group id="129" type="span" parent="130" relname="sequence"/>
+		<group id="130" type="multinuc" parent="131" relname="span"/>
+		<group id="131" type="span" parent="132" relname="span"/>
+		<group id="132" type="span" parent="133" relname="span"/>
+		<group id="133" type="span" parent="148" relname="sequence"/>
+		<group id="134" type="multinuc" parent="148" relname="sequence"/>
+		<group id="135" type="span" parent="139" relname="span"/>
+		<group id="136" type="multinuc" parent="137" relname="span"/>
+		<group id="137" type="span" parent="138" relname="span"/>
+		<group id="138" type="span" parent="135" relname="antithesis"/>
+		<group id="139" type="span" parent="148" relname="sequence"/>
+		<group id="140" type="multinuc" parent="141" relname="span"/>
+		<group id="141" type="span" parent="142" relname="span"/>
+		<group id="142" type="span" parent="143" relname="sequence"/>
+		<group id="143" type="multinuc" parent="145" relname="span"/>
+		<group id="144" type="span" parent="145" relname="antithesis"/>
+		<group id="145" type="span" parent="146" relname="span"/>
+		<group id="146" type="span" parent="147" relname="sequence"/>
+		<group id="147" type="multinuc" parent="148" relname="sequence"/>
+		<group id="148" type="multinuc" parent="149" relname="span"/>
+		<group id="149" type="span" parent="150" relname="span"/>
+		<group id="150" type="span" parent="151" relname="span"/>
+		<group id="151" type="span" />
+  </body>
+</rst>

@@ -1,0 +1,555 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="antithesis" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="background" type="rst" />
+			<rel name="cause" type="rst" />
+			<rel name="comparison" type="multinuc" />
+			<rel name="concession" type="rst" />
+			<rel name="conclusion" type="rst" />
+			<rel name="condition" type="rst" />
+			<rel name="contrast" type="multinuc" />
+			<rel name="effect" type="rst" />
+			<rel name="elaboration" type="rst" />
+			<rel name="evaluation" type="rst" />
+			<rel name="evidence" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="motivation" type="rst" />
+			<rel name="preparation" type="rst" />
+			<rel name="purpose" type="rst" />
+			<rel name="restatement" type="multinuc" />
+			<rel name="same-unit" type="multinuc" />
+			<rel name="sequence" type="multinuc" />
+			<rel name="solutionhood" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="1" relname="antithesis">https://ru-travel.livejournal.com/33784217.html</segment>
+		<segment id="2" relname="antithesis">Монголия! Юрты, юрты, небоскрёб, юрты!</segment>
+		<segment id="3" parent="264" relname="preparation">Итак, Монголия. Сначала и не думала заворачивать в эту страну.</segment>
+		<segment id="4" parent="263" relname="sequence">Решили ехать на Байкал, с иркутской стороны, соответственно.</segment>
+		<segment id="5" parent="261" relname="span">Потом к Байкалу плавно приплюсовали Бурятию</segment>
+		<segment id="6" parent="5" relname="elaboration">(и не пожалели ни разу!),</segment>
+		<segment id="7" parent="571" relname="span">а потом я рассмотрела, что с Улан-Удэ не так далеко и до Улан-Батора!</segment>
+		<segment id="8" parent="7" relname="elaboration">Не далеко — это 500 километров.</segment>
+		<segment id="9" parent="265" relname="elaboration">IMG</segment>
+		<segment id="10" parent="268" relname="span">Выбор подтвердился окончательно,</segment>
+		<segment id="11" parent="267" relname="joint">когда стала искать виды транспортировки из Улан-Удэ в Монголию,</segment>
+		<segment id="12" parent="267" relname="joint">и нашла рейс монгольских авиалиний.</segment>
+		<segment id="13" parent="268" relname="elaboration">Летает он несколько раз в неделю.</segment>
+		<segment id="14" parent="270" relname="joint">Еще есть поезд, также пару раз в неделю.</segment>
+		<segment id="15" parent="272" relname="span">Причем, цена на самолет и поезд практически одна и та же — 5000 руб., плюс/минус.</segment>
+		<segment id="16" parent="271" relname="comparison">Только вот самолетом доберетесь за 1,5 часа,</segment>
+		<segment id="17" parent="271" relname="comparison">а поезд плетётся 14,5 часов.</segment>
+		<segment id="18" parent="277" relname="span">Мы сделали так: в Улан-Батор полетели самолетом, а обратно — поездом.</segment>
+		<segment id="19" parent="275" relname="joint">Во-первых, так было удобнее по датам и времени,</segment>
+		<segment id="20" parent="276" relname="span">а во-вторых, ни капли не пожалели, выбрав поезд,</segment>
+		<segment id="21" parent="20" relname="cause">потому что виды за окном были потрясающие.</segment>
+		<segment id="22" parent="286" relname="span">Монголии я побаивалась, честно сказать.</segment>
+		<segment id="23" parent="280" relname="joint">Знала о ней несколько отдалённых фактов: степи, степи, большая территория, мало жителей, большинство из которых — кочевники, лошади,</segment>
+		<segment id="24" parent="279" relname="joint">Улан-Батор — самая холодная столица мира,</segment>
+		<segment id="25" parent="279" relname="joint">и то, что один мой знакомый ездил туда охотиться с монголами.</segment>
+		<segment id="26" parent="281" relname="evaluation">С таким набором я бы, наверно, ещё долго не выбрала Монголию как объект посещения.</segment>
+		<segment id="27" parent="283" relname="joint">Ещё казалось, что вот сейчас выйду из аэропорта,</segment>
+		<segment id="28" parent="283" relname="joint">а там — коровы какие-нибудь ходят, гужевые повозки с лошадьми, монголы в национальных одеждах, ни одного магазина, и вот она, я...</segment>
+		<segment id="29" parent="287" relname="span">Но, каково было удивление, что сначала встретила в аэропорту огромную толпу туристов из Южной Кореи</segment>
+		<segment id="30" parent="29" relname="elaboration">(уже, думаю, не одни тут будем :),</segment>
+		<segment id="31" parent="534" relname="span">а потом нас вёз очень даже симпатичный, модный, молодой монгол, и не на гужевой повозке, а на вполне хорошем авто.</segment>
+		<segment id="32" parent="31" relname="elaboration">Да и музыка в машине играла приятная.</segment>
+		<segment id="33" parent="536" relname="elaboration">IMG Аэропорт имени, конечно же, Чингисхана!</segment>
+		<segment id="34" parent="574" relname="preparation">В общем — выдохнула.</segment>
+		<segment id="35" parent="292" relname="span">Ещё больше расслабилась,</segment>
+		<segment id="36" parent="35" relname="condition">когда заселились в отель</segment>
+		<segment id="37" parent="292" relname="evaluation">— вот уж действительно, это вам не сибирский сервис — номер оказался просто огромный!</segment>
+		<segment id="38" parent="293" relname="joint">И воду питьевую не забыли, и все принадлежности на месте, и даже печеньки в качестве комплимента.</segment>
+		<segment id="39" parent="573" relname="evaluation">Вот, думаю, тебе и монголы!</segment>
+		<segment id="40" parent="294" relname="span">В Монголии у нас была местная гид — Болор,</segment>
+		<segment id="41" parent="40" relname="elaboration">вместе с которой мы и начали изучение страны.</segment>
+		<segment id="42" parent="295" relname="span">Болор хорошо знает русский язык,</segment>
+		<segment id="43" parent="42" relname="cause">так как училась в школе при российском посольстве.</segment>
+		<segment id="44" parent="295" relname="elaboration">Хотя это, скорее, исключение.</segment>
+		<segment id="45" parent="306" relname="span">Русский язык в Монголии не знают, общение с туристами — на английском либо «на пальцах».</segment>
+		<segment id="46" parent="298" relname="span">Туристов, кстати, не мало. Особенно много корейцев.</segment>
+		<segment id="47" parent="46" relname="evaluation">Так и не поняла с чем это связано.</segment>
+		<segment id="48" parent="304" relname="comparison">Очень много корейских ресторанов, кафе, и чуть ли не несколько рейсов в день прилетает из Сеула.</segment>
+		<segment id="49" parent="577" relname="restatement">Есть туристы из Китая, но больше, так называемых, внутренних монголов.</segment>
+		<segment id="50" parent="577" relname="restatement">Это те же самые монголы, которые живут обособленно на китайской территории, граничащей с Монголией.</segment>
+		<segment id="51" parent="299" relname="joint">Естественно, китайцам такое соседство сто лет не нужно,</segment>
+		<segment id="52" parent="299" relname="joint">и притесняют несчастных всеми способами.</segment>
+		<segment id="53" parent="303" relname="span">Русских туристов совсем не много.</segment>
+		<segment id="54" parent="302" relname="span">Видимо, это связано с очень дорогими рейсами из Москвы в Улан-Батор:</segment>
+		<segment id="55" parent="301" relname="joint">летает Аэрофлот,</segment>
+		<segment id="56" parent="301" relname="joint">билет в оба конца стоит примерно 50 000 руб., а также, возможно, с отсутствием туристических программ в данную страну.</segment>
+		<segment id="57" parent="580" relname="span">Так вот, начали мы непосредственное знакомство с Улан-Батором с ресторана с буддийского монастыря Гандан</segment>
+		<segment id="58" parent="57" relname="background">(основной религией в Монголии является тибетский буддизм)</segment>
+		<segment id="59" parent="581" relname="same-unit">— это крупнейший монастырь в Монголии.</segment>
+		<segment id="60" parent="582" relname="elaboration">IMG</segment>
+		<segment id="61" parent="540" relname="span">Монастырь Гандан IMG А вот и монголы. IMG</segment>
+		<segment id="62" parent="63" relname="cause">Идет молебен.</segment>
+		<segment id="63" parent="514" relname="span">Внутри снимать нельзя. IMG</segment>
+		<segment id="64" parent="65" relname="cause">Большая чаша с благовониями. Купила для себя маленькую в Бурятии,</segment>
+		<segment id="65" parent="516" relname="span">теперь жгу дома. IMG</segment>
+		<segment id="66" parent="314" relname="span">Далее отправились на вершину Зайсан-Толгой.</segment>
+		<segment id="67" parent="66" relname="elaboration">Сей мемориал символизирует память о поддержке Красной Армией монгольской революции и победе при Халкин-Голе. IMG</segment>
+		<segment id="68" parent="542" relname="span">Вместе с тем сюда стоит подняться, главным образом,</segment>
+		<segment id="69" parent="68" relname="purpose">ради панорамного вида на Улан-Батор. IMG</segment>
+		<segment id="70" parent="541" relname="span">Внизу хорошо видны юрты.</segment>
+		<segment id="71" parent="70" relname="elaboration">Они жилые. IMG IMG IMG IMG</segment>
+		<segment id="72" parent="320" relname="joint">Улан-Батор - самая холодная столица мира.</segment>
+		<segment id="73" parent="320" relname="joint">Среднегодовая температура –0,4 °C.</segment>
+		<segment id="74" parent="586" relname="span">Сад Будды был, к сожалению, закрыт</segment>
+		<segment id="75" parent="74" relname="purpose">на реконструкцию</segment>
+		<segment id="76" parent="586" relname="purpose">(большая золотая статуя Будды находится именно там),</segment>
+		<segment id="77" parent="322" relname="joint">и мы отправились во Дворец Богдо-Хана.</segment>
+		<segment id="78" parent="520" relname="span">Атмосферное место, где можно немного прикоснуться к истории и культуре Монголии.</segment>
+		<segment id="79" parent="78" relname="elaboration">IMG Золотой Будда. IMG Дворец Богдо-Хана. IMG</segment>
+		<segment id="80" parent="329" relname="span">Главная площадь Улан-Батора носит имя крупнейшего монгольского революционера и руководителя — Сухэ-Батора.</segment>
+		<segment id="81" parent="327" relname="span">Её вы не упустите из вида,</segment>
+		<segment id="82" parent="81" relname="cause">ведь площадь просто огромная.</segment>
+		<segment id="83" parent="327" relname="evaluation">Не удивительно, что она входит в десятку самых больших площадей мира.</segment>
+		<segment id="84" parent="587" relname="span">Есть очень милая традиция — каждые выходные на этой площади собираются одноклассники, окончившие школу,</segment>
+		<segment id="85" parent="84" relname="elaboration">для встречи.</segment>
+		<segment id="86" parent="330" relname="contrast">О дате встречи, конечно, договариваются заранее,</segment>
+		<segment id="87" parent="330" relname="contrast">а место всегда одно и то же — площадь Сухэ-Батора.</segment>
+		<segment id="88" parent="333" relname="span">Есть и еще одна традиция — это фото с Чингисханом.</segment>
+		<segment id="89" parent="88" relname="elaboration">Статуя сидящего Чингисхана тоже находится на этой площади.</segment>
+		<segment id="90" parent="335" relname="elaboration">IMG Площадь Сухэ-Батора. IMG IMG Одноклассники)</segment>
+		<segment id="91" parent="341" relname="span">Побывали мы и в Национальном историческом музее.</segment>
+		<segment id="92" parent="339" relname="span">Я не большой любитель подобных музеев,</segment>
+		<segment id="93" parent="92" relname="cause">всё больше люблю изучать страну, так сказать, живьем,</segment>
+		<segment id="94" parent="340" relname="contrast">но музей оказался интересный.</segment>
+		<segment id="95" parent="342" relname="span">Закончили первый день в Улан-Баторе концертом народного фольклора.</segment>
+		<segment id="96" parent="95" relname="evaluation">Вот это действо, считаю, пропускать нельзя.</segment>
+		<segment id="97" parent="343" relname="span">Одно выступление с горловым пением чего стоит!</segment>
+		<segment id="98" parent="97" relname="evaluation">Пожалуй, такого я не слышала, уж вживую — точно.</segment>
+		<segment id="99" parent="344" relname="span">Да, на концерт советую прийти заранее,</segment>
+		<segment id="100" parent="99" relname="purpose">чтобы занять хорошие места</segment>
+		<segment id="101" parent="549" relname="contrast">(билеты продаются без мест),</segment>
+		<segment id="102" parent="345" relname="joint">иначе потом вас атакуют со всех сторон корейцы</segment>
+		<segment id="103" parent="345" relname="joint">и придется ютиться где попало.</segment>
+		<segment id="104" parent="350" relname="elaboration">IMG</segment>
+		<segment id="105" parent="106" relname="preparation">В общем, первый день прошел на одном дыхании, класс!</segment>
+		<segment id="106" parent="550" relname="span">Идем в корейский ресторан!</segment>
+		<segment id="107" parent="353" relname="span">Ну, а где ещё в ближайшее время попадешь в хороший корейский ресторан?</segment>
+		<segment id="108" parent="353" relname="elaboration">Сходите обязательно.</segment>
+		<segment id="109" parent="354" relname="span">Многое есть было невозможно,</segment>
+		<segment id="110" parent="109" relname="cause">потом всё внутри, да и снаружи, горело,</segment>
+		<segment id="111" parent="355" relname="contrast">но мы сходили))</segment>
+		<segment id="112" parent="552" relname="joint">IMG Вечерняя площадь. IMG Тугрики.</segment>
+		<segment id="113" parent="361" relname="preparation">День второй.</segment>
+		<segment id="114" parent="361" relname="span">Улан-Батор, кстати, переводится с монгольского как Красный богатырь.</segment>
+		<segment id="115" parent="114" relname="evaluation">Красиво.</segment>
+		<segment id="116" parent="372" relname="span">Второй день мы провели за пределами Улан-Батора.</segment>
+		<segment id="117" parent="363" relname="span">Сначала отправились к самой большой статуе Чингисхана,</segment>
+		<segment id="118" parent="117" relname="evaluation">она же — крупнейшая конная статуя в мире.</segment>
+		<segment id="119" parent="364" relname="joint">Путь к ней — примерно 60 км.</segment>
+		<segment id="120" parent="364" relname="joint">Статую сделали на деньги местного бизнесмена.</segment>
+		<segment id="121" parent="364" relname="joint">Там же есть музей, магазинчики сувениров, кафешка.</segment>
+		<segment id="122" parent="368" relname="span">На голове лошади располагается смотровая площадка.</segment>
+		<segment id="123" parent="367" relname="contrast">Добраться туда можно на лифте,</segment>
+		<segment id="124" parent="366" relname="span">но советую пройтись по лестнице,</segment>
+		<segment id="125" parent="365" relname="joint">так как очень много людей</segment>
+		<segment id="126" parent="365" relname="joint">и лифт ждать долго.</segment>
+		<segment id="127" parent="369" relname="joint">Сама статуя 40 метров в высоту,</segment>
+		<segment id="128" parent="369" relname="joint">была открыта в 2008 году.</segment>
+		<segment id="129" parent="370" relname="span">Территория ещё достраивается.</segment>
+		<segment id="130" parent="129" relname="elaboration">Говорят, в ближайшем будущем там появится много всего интересного — юрты для туристов, гольф-клуб, тематический парк, открытий театр и другое.</segment>
+		<segment id="131" parent="374" relname="elaboration">IMG IMG Внутренние монголы. Путешествуют всегда организованными группами. IMG Вид сверху.</segment>
+		<segment id="132" parent="384" relname="preparation">Далее наш путь пролегал в Национальный парк Тэрэлж.</segment>
+		<segment id="133" parent="134" relname="cause">О данном парке я ранее не слышала,</segment>
+		<segment id="134" parent="378" relname="span">поэтому ехала без особого воодушевления.</segment>
+		<segment id="135" parent="378" relname="elaboration">И вновь Монголия меня удивила!</segment>
+		<segment id="136" parent="380" relname="joint">Какая красота открылась взору!</segment>
+		<segment id="137" parent="380" relname="joint">Природа Монголии — как она есть.</segment>
+		<segment id="138" parent="556" relname="contrast">Оказалось, что Монголия — это далеко не одни степи, степи.</segment>
+		<segment id="139" parent="382" relname="span">Это и горы различных причудливых форм, и красивый ландшафт местности, и речушки, и леса и ещё много чего,</segment>
+		<segment id="140" parent="139" relname="elaboration">что менее чем за 4 дня увидеть не удалось(</segment>
+		<segment id="141" parent="533" relname="joint">IMG Национальный парк Тэрэлж. IMG IMG Гора "Черепаха".</segment>
+		<segment id="142" parent="557" relname="span">На территории парка расположено очень много туристических баз.</segment>
+		<segment id="143" parent="142" relname="elaboration">Мне особо приглянулась вот эта. IMG</segment>
+		<segment id="144" parent="394" relname="elaboration">Юрты для туристов. IMG IMG IMG</segment>
+		<segment id="145" parent="394" relname="span">В этих юртах захотелось переночевать хоть бы одну ночку!</segment>
+		<segment id="146" parent="147" relname="condition">Так что, у кого будет возможность —</segment>
+		<segment id="147" parent="393" relname="span">не упустите шанс.</segment>
+		<segment id="148" parent="399" relname="span">В том же парке Тэрэлж есть Буддийский медитационный центр Арьяабал.</segment>
+		<segment id="149" parent="395" relname="contrast">Подъём туда занимает минут 20-30,</segment>
+		<segment id="150" parent="395" relname="contrast">но оно того стоит.</segment>
+		<segment id="151" parent="558" relname="span">Вид сверху просто улётный.</segment>
+		<segment id="152" parent="151" relname="evaluation">Медитировать да и только!</segment>
+		<segment id="153" parent="400" relname="span">И вообще, за эту поездку на буддийские территории нашей Бурятии и Монголии я как-то, неожиданно для себя, прониклась буддизмом.</segment>
+		<segment id="154" parent="153" relname="evaluation">Приятно это всё у них, по мне.</segment>
+		<segment id="155" parent="526" relname="elaboration">IMG IMG Путь к медитации. IMG IMG Жить надо высоко, душою звезд касаясь!</segment>
+		<segment id="156" parent="432" relname="span">Самым колоритным местом за всю поездку считаю заход в гости к настоящей семье кочевников, в настоящую юрту. Да, не в эту красивую и ухоженную, как в парке, для туристов.</segment>
+		<segment id="157" parent="408" relname="span">Причем, заход в гости был такой:</segment>
+		<segment id="158" parent="157" relname="elaboration">Болор сказала, что любая семья кочевников обязана принять путника, который постучался к ним.</segment>
+		<segment id="159" parent="409" relname="span">Собственно, мы и зарулили в ближайшую юрту вдоль дороги.</segment>
+		<segment id="160" parent="159" relname="elaboration">Семья оказалась казахская.</segment>
+		<segment id="161" parent="410" relname="restatement">Кочевники обычно обитают в одной и той же местности,</segment>
+		<segment id="162" parent="410" relname="restatement">то есть не уходят далеко от дома.</segment>
+		<segment id="163" parent="411" relname="contrast">Но поговаривают, что бывают случаи непреднамеренного перехода границы кочевниками из Казахстана и Китая в Монголию и наоборот.</segment>
+		<segment id="164" parent="412" relname="span">Современные кочевники пользуются многими благами цивилизации —</segment>
+		<segment id="165" parent="164" relname="elaboration">есть у них автомобили, сотовые телефоны и т.д.</segment>
+		<segment id="166" parent="167" relname="cause">Когда нужно переехать на другое место —</segment>
+		<segment id="167" parent="413" relname="span">юрту быстренько складывают в багажник,</segment>
+		<segment id="168" parent="414" relname="joint">а на новом месте быстренько раскладывают.</segment>
+		<segment id="169" parent="559" relname="span">Юрты в Монголии повсюду,</segment>
+		<segment id="170" parent="588" relname="span">это очень удобное жилье для кочевников</segment>
+		<segment id="171" parent="170" relname="condition">в условиях здешнего климата.</segment>
+		<segment id="172" parent="422" relname="span">В Улан-Баторе до сих пор есть целый район с юртами.</segment>
+		<segment id="173" parent="417" relname="contrast">И как правительство не пытается заманить жителей в квартиры —</segment>
+		<segment id="174" parent="417" relname="contrast">монголы держатся за свои юрты до последнего!</segment>
+		<segment id="175" parent="418" relname="span">В отличие от той же Бурятии,</segment>
+		<segment id="176" parent="175" relname="elaboration">где в юртах уже практически не живут, даже в деревнях,</segment>
+		<segment id="177" parent="419" relname="comparison">в Монголии и в деревнях живут, и в городах.</segment>
+		<segment id="178" parent="424" relname="span">Монголия — это островок доподлинной аутентичности.</segment>
+		<segment id="179" parent="423" relname="joint">Это приятно,</segment>
+		<segment id="180" parent="423" relname="joint">интересно.</segment>
+		<segment id="181" parent="455" relname="preparation">Вернемся к казахам-кочевникам.</segment>
+		<segment id="182" parent="434" relname="sequence">Зашли мы в юрту,</segment>
+		<segment id="183" parent="434" relname="sequence">сели на кровать,</segment>
+		<segment id="184" parent="434" relname="sequence">ждем угощения.</segment>
+		<segment id="185" parent="438" relname="span">В юрте живет, вроде как, трое взрослых и двое детей.</segment>
+		<segment id="186" parent="437" relname="span">Скажу сразу — по достижении школьного возраста кочевники отдают детей в школы.</segment>
+		<segment id="187" parent="436" relname="span">Детей монголы очень любят.</segment>
+		<segment id="188" parent="435" relname="joint">Стараются дать получше образование, возможность изучать языки,</segment>
+		<segment id="189" parent="435" relname="joint">балуют подарками.</segment>
+		<segment id="190" parent="441" relname="span">Обстановка в юрте такая:</segment>
+		<segment id="191" parent="589" relname="span">посередине стоит печка</segment>
+		<segment id="192" parent="191" relname="purpose">для варки еды,</segment>
+		<segment id="193" parent="439" relname="joint">труба выходит на улицу, 2 кровати, полочки, табуреточки, посуда,</segment>
+		<segment id="194" parent="440" relname="span">также стоит чан с кумысом</segment>
+		<segment id="195" parent="194" relname="elaboration">(кисломолочный напиток из кобыльего молока, настаивается несколько дней).</segment>
+		<segment id="196" parent="443" relname="span">За кумысом мы и зашли.</segment>
+		<segment id="197" parent="451" relname="background">Кочевники живут, кроме прочего, на доходы от продажи кумыса.</segment>
+		<segment id="198" parent="445" relname="span">Ну что, попробовали —</segment>
+		<segment id="199" parent="444" relname="joint">кумыс прикольный,</segment>
+		<segment id="200" parent="444" relname="joint">кисленький,</segment>
+		<segment id="201" parent="444" relname="joint">жидкий,</segment>
+		<segment id="202" parent="561" relname="comparison">похож отдаленно на кефир обезжиренный.</segment>
+		<segment id="203" parent="446" relname="contrast">Оставили за гостеприимство и кумыс денежку,</segment>
+		<segment id="204" parent="562" relname="span">но это не обязательно.</segment>
+		<segment id="205" parent="447" relname="joint">Каждый кочевник примет путника,</segment>
+		<segment id="206" parent="447" relname="joint">накормит</segment>
+		<segment id="207" parent="447" relname="joint">и обогреет совершенно бесплатно.</segment>
+		<segment id="208" parent="457" relname="cause">Монголия — край суровый, особенного зимой.</segment>
+		<segment id="209" parent="456" relname="elaboration">IMG Чан с кумысом. IMG Жилая юрта. IMG Кумыс. IMG Традиционное занятие монголов - скотоводство. IMG IMG Двугорбый верблюд мало где обитает на Земле. Монголия - одно из таких мест.</segment>
+		<segment id="210" parent="468" relname="span">К большому сожалению, не удалось увидеть пустыню Гоби.</segment>
+		<segment id="211" parent="466" relname="joint">Уж слишком далеко она от Улан-Батора,</segment>
+		<segment id="212" parent="466" relname="joint">и слишком мало времени было.</segment>
+		<segment id="213" parent="467" relname="contrast">Но ради неё, в том числе, я вернусь в Монголию ещё раз.</segment>
+		<segment id="214" parent="563" relname="contrast">Передвигались мы везде на заранее заказанном авто.</segment>
+		<segment id="215" parent="216" relname="attribution">Однако могу сказать,</segment>
+		<segment id="216" parent="469" relname="span">что такси относительно не дорогое,</segment>
+		<segment id="217" parent="470" relname="contrast">но опять же, многие таксисты говорят только на монгольском.</segment>
+		<segment id="218" parent="472" relname="elaboration">Есть междугородний транспорт, автовокзал.</segment>
+		<segment id="219" parent="565" relname="joint">Ехать в Монголию, всё же, лучше в теплое время года.</segment>
+		<segment id="220" parent="566" relname="joint">IMG Монгол Шуудан переводится как Монгольская почта.</segment>
+		<segment id="221" parent="474" relname="contrast">Монголы живут не богато,</segment>
+		<segment id="222" parent="474" relname="contrast">но как-то на жизнь не жалуются.</segment>
+		<segment id="223" parent="590" relname="evaluation">Может, потому что буддисты).</segment>
+		<segment id="224" parent="484" relname="preparation">Отдельно нужно сказать о кухне Монголии.</segment>
+		<segment id="225" parent="484" relname="span">Кухня — это сплошные блюда из мяса — буузы, хушуры, цуйван.</segment>
+		<segment id="226" parent="475" relname="span">В общем, для меня, как человека,</segment>
+		<segment id="227" parent="476" relname="joint">который уже 2 года не ест мясо</segment>
+		<segment id="228" parent="476" relname="joint">и не собирается —</segment>
+		<segment id="229" parent="477" relname="same-unit">нужно было потрудиться,</segment>
+		<segment id="230" parent="479" relname="purpose">чтобы выбрать что-то национальное и не мясное.</segment>
+		<segment id="231" parent="481" relname="span">Но меня не проведешь —</segment>
+		<segment id="232" parent="231" relname="cause">я и буузы нашла с овощами, и цуйван с морепродуктами.</segment>
+		<segment id="233" parent="481" relname="evaluation">Да — все ржали)) но всё же!</segment>
+		<segment id="234" parent="486" relname="span">Национальные блюда схожи с бурятскими.</segment>
+		<segment id="235" parent="234" relname="evaluation">Буряты и монголы вообще как единый народ.</segment>
+		<segment id="236" parent="486" relname="background">В 20 — 30-е годы 20 века было даже национальное движение за объединение Монголии и Бурятии.</segment>
+		<segment id="237" parent="493" relname="span">Из напитков меня покорил монгольских чай.</segment>
+		<segment id="238" parent="492" relname="span">Чаем это, конечно, уже сложно назвать.</segment>
+		<segment id="239" parent="491" relname="span">Мешанина жуткая.</segment>
+		<segment id="240" parent="490" relname="contrast">Это одновременно и суп, и второе блюдо, и десерт,</segment>
+		<segment id="241" parent="489" relname="joint">но вкусно,</segment>
+		<segment id="242" parent="489" relname="joint">согревает</segment>
+		<segment id="243" parent="489" relname="joint">и как-то успокаивает.</segment>
+		<segment id="244" parent="245" relname="cause">Мне настолько понравился,</segment>
+		<segment id="245" parent="567" relname="span">что хапнула потом в магазине огромный пакет этого чая.</segment>
+		<segment id="246" parent="497" relname="same-unit">Теперь,</segment>
+		<segment id="247" parent="495" relname="joint">когда навожу</segment>
+		<segment id="248" parent="495" relname="joint">и пью его —</segment>
+		<segment id="249" parent="496" relname="span">вспоминаю радушную Монголию.</segment>
+		<segment id="250" parent="503" relname="span">Состав примерно такой — настой трав (или китайский зеленый чай), крупа, соль, молоко, масло сливочное.</segment>
+		<segment id="251" parent="502" relname="span">Можно и буузы туда кинуть, не шутка)</segment>
+		<segment id="252" parent="501" relname="joint">Ну а что — быстро</segment>
+		<segment id="253" parent="501" relname="joint">и питательно.</segment>
+		<segment id="254" parent="531" relname="elaboration">IMG Овощные буузы. IMG Знаменитый чай!</segment>
+		<segment id="255" parent="569" relname="preparation">Путешествие заканчивается, пора домой, через Улан-Удэ.</segment>
+		<segment id="256" parent="509" relname="contrast">Болор отлично говорит по-русски,</segment>
+		<segment id="257" parent="509" relname="contrast">но ни разу не была в России.</segment>
+		<segment id="258" parent="510" relname="joint">Мечтает поехать в Москву, причем в Москву и только в Москву)</segment>
+		<segment id="259" parent="511" relname="joint">Болор, желаю тебе скорее осуществить эту мечту!)</segment>
+		<segment id="260" parent="512" relname="joint">А частичку моей души Монголия забрала навсегда, определённо..</segment>
+		<group id="261" type="span" parent="262" relname="joint"/>
+		<group id="262" type="multinuc" parent="263" relname="sequence"/>
+		<group id="263" type="multinuc" parent="264" relname="span"/>
+		<group id="264" type="span" parent="265" relname="span"/>
+		<group id="265" type="span" parent="266" relname="span"/>
+		<group id="266" type="span" relname="antithesis"/>
+		<group id="267" type="multinuc" parent="10" relname="condition"/>
+		<group id="268" type="span" parent="269" relname="span"/>
+		<group id="269" type="span" parent="270" relname="joint"/>
+		<group id="270" type="multinuc" parent="273" relname="span"/>
+		<group id="271" type="multinuc" parent="15" relname="elaboration"/>
+		<group id="272" type="span" parent="273" relname="cause"/>
+		<group id="273" type="span" parent="274" relname="span"/>
+		<group id="274" type="span" parent="278" relname="span"/>
+		<group id="275" type="multinuc" parent="18" relname="cause"/>
+		<group id="276" type="span" parent="275" relname="joint"/>
+		<group id="277" type="span" parent="274" relname="elaboration"/>
+		<group id="278" type="span" parent="291" relname="joint"/>
+		<group id="279" type="multinuc" parent="280" relname="joint"/>
+		<group id="280" type="multinuc" parent="281" relname="span"/>
+		<group id="281" type="span" parent="282" relname="span"/>
+		<group id="282" type="span" parent="284" relname="joint"/>
+		<group id="283" type="multinuc" parent="284" relname="joint"/>
+		<group id="284" type="multinuc" parent="285" relname="span"/>
+		<group id="285" type="span" parent="22" relname="elaboration"/>
+		<group id="286" type="span" parent="535" relname="contrast"/>
+		<group id="287" type="span" parent="288" relname="joint"/>
+		<group id="288" type="multinuc" parent="536" relname="span"/>
+		<group id="291" type="multinuc" relname="antithesis"/>
+		<group id="292" type="span" parent="572" relname="span"/>
+		<group id="293" type="multinuc" parent="573" relname="span"/>
+		<group id="294" type="span" parent="297" relname="span"/>
+		<group id="295" type="span" parent="576" relname="span"/>
+		<group id="296" type="span" parent="294" relname="elaboration"/>
+		<group id="297" type="span" relname="antithesis"/>
+		<group id="298" type="span" parent="305" relname="span"/>
+		<group id="299" type="multinuc" parent="578" relname="elaboration"/>
+		<group id="301" type="multinuc" parent="54" relname="cause"/>
+		<group id="302" type="span" parent="53" relname="evaluation"/>
+		<group id="303" type="span" parent="304" relname="comparison"/>
+		<group id="304" type="multinuc" parent="298" relname="evidence"/>
+		<group id="305" type="span" parent="45" relname="elaboration"/>
+		<group id="306" type="span" parent="576" relname="elaboration"/>
+		<group id="314" type="span" parent="518" relname="joint"/>
+		<group id="320" type="multinuc" parent="585" relname="elaboration"/>
+		<group id="321" type="span" parent="322" relname="joint"/>
+		<group id="322" type="multinuc" parent="544" relname="span"/>
+		<group id="327" type="span" parent="328" relname="span"/>
+		<group id="328" type="span" parent="546" relname="span"/>
+		<group id="329" type="span" parent="334" relname="joint"/>
+		<group id="330" type="multinuc" parent="587" relname="elaboration"/>
+		<group id="331" type="span" parent="547" relname="joint"/>
+		<group id="333" type="span" parent="547" relname="joint"/>
+		<group id="334" type="multinuc" parent="548" relname="span"/>
+		<group id="335" type="span" parent="336" relname="span"/>
+		<group id="336" type="span" parent="523" relname="span"/>
+		<group id="339" type="span" parent="340" relname="contrast"/>
+		<group id="340" type="multinuc" parent="91" relname="elaboration"/>
+		<group id="341" type="span" parent="352" relname="sequence"/>
+		<group id="342" type="span" parent="348" relname="span"/>
+		<group id="343" type="span" parent="342" relname="evaluation"/>
+		<group id="344" type="span" parent="346" relname="span"/>
+		<group id="345" type="multinuc" parent="549" relname="contrast"/>
+		<group id="346" type="span" parent="347" relname="span"/>
+		<group id="347" type="span" parent="349" relname="joint"/>
+		<group id="348" type="span" parent="349" relname="joint"/>
+		<group id="349" type="multinuc" parent="350" relname="span"/>
+		<group id="350" type="span" parent="351" relname="span"/>
+		<group id="351" type="span" parent="352" relname="sequence"/>
+		<group id="352" type="multinuc" relname="antithesis"/>
+		<group id="353" type="span" parent="356" relname="span"/>
+		<group id="354" type="span" parent="355" relname="contrast"/>
+		<group id="355" type="multinuc" parent="356" relname="elaboration"/>
+		<group id="356" type="span" parent="357" relname="span"/>
+		<group id="357" type="span" parent="551" relname="span"/>
+		<group id="361" type="span" parent="553" relname="span"/>
+		<group id="363" type="span" parent="374" relname="span"/>
+		<group id="364" type="multinuc" parent="363" relname="elaboration"/>
+		<group id="365" type="multinuc" parent="124" relname="cause"/>
+		<group id="366" type="span" parent="367" relname="contrast"/>
+		<group id="367" type="multinuc" parent="122" relname="elaboration"/>
+		<group id="368" type="span" parent="364" relname="joint"/>
+		<group id="369" type="multinuc" parent="364" relname="joint"/>
+		<group id="370" type="span" parent="364" relname="joint"/>
+		<group id="372" type="span" parent="554" relname="span"/>
+		<group id="374" type="span" parent="375" relname="span"/>
+		<group id="375" type="span" parent="116" relname="elaboration"/>
+		<group id="378" type="span" parent="379" relname="span"/>
+		<group id="379" type="span" parent="381" relname="span"/>
+		<group id="380" type="multinuc" parent="379" relname="evaluation"/>
+		<group id="381" type="span" parent="384" relname="span"/>
+		<group id="382" type="span" parent="556" relname="contrast"/>
+		<group id="383" type="span" parent="381" relname="elaboration"/>
+		<group id="384" type="span" parent="385" relname="span"/>
+		<group id="385" type="span" parent="524" relname="span"/>
+		<group id="393" type="span" parent="145" relname="elaboration"/>
+		<group id="394" type="span" parent="525" relname="span"/>
+		<group id="395" type="multinuc" parent="396" relname="span"/>
+		<group id="396" type="span" parent="397" relname="span"/>
+		<group id="397" type="span" parent="398" relname="joint"/>
+		<group id="398" type="multinuc" parent="148" relname="elaboration"/>
+		<group id="399" type="span" parent="401" relname="joint"/>
+		<group id="400" type="span" parent="401" relname="joint"/>
+		<group id="401" type="multinuc" parent="526" relname="span"/>
+		<group id="402" type="multinuc" relname="antithesis"/>
+		<group id="408" type="span" parent="431" relname="span"/>
+		<group id="409" type="span" parent="408" relname="evidence"/>
+		<group id="410" type="multinuc" parent="411" relname="contrast"/>
+		<group id="411" type="multinuc" parent="430" relname="joint"/>
+		<group id="412" type="span" parent="415" relname="span"/>
+		<group id="413" type="span" parent="414" relname="joint"/>
+		<group id="414" type="multinuc" parent="429" relname="span"/>
+		<group id="415" type="span" parent="430" relname="joint"/>
+		<group id="416" type="multinuc" parent="426" relname="span"/>
+		<group id="417" type="multinuc" parent="420" relname="span"/>
+		<group id="418" type="span" parent="419" relname="comparison"/>
+		<group id="419" type="multinuc" parent="420" relname="elaboration"/>
+		<group id="420" type="span" parent="421" relname="span"/>
+		<group id="421" type="span" parent="172" relname="elaboration"/>
+		<group id="422" type="span" parent="425" relname="span"/>
+		<group id="423" type="multinuc" parent="178" relname="evaluation"/>
+		<group id="424" type="span" parent="422" relname="evaluation"/>
+		<group id="425" type="span" parent="426" relname="elaboration"/>
+		<group id="426" type="span" parent="427" relname="span"/>
+		<group id="427" type="span" parent="429" relname="elaboration"/>
+		<group id="428" type="span" parent="412" relname="elaboration"/>
+		<group id="429" type="span" parent="428" relname="span"/>
+		<group id="430" type="multinuc" parent="433" relname="joint"/>
+		<group id="431" type="span" parent="156" relname="elaboration"/>
+		<group id="432" type="span" parent="433" relname="joint"/>
+		<group id="433" type="multinuc" relname="antithesis"/>
+		<group id="434" type="multinuc" parent="454" relname="span"/>
+		<group id="435" type="multinuc" parent="187" relname="evidence"/>
+		<group id="436" type="span" parent="186" relname="elaboration"/>
+		<group id="437" type="span" parent="185" relname="elaboration"/>
+		<group id="438" type="span" parent="453" relname="joint"/>
+		<group id="439" type="multinuc" parent="190" relname="elaboration"/>
+		<group id="440" type="span" parent="560" relname="span"/>
+		<group id="441" type="span" parent="442" relname="span"/>
+		<group id="442" type="span" parent="453" relname="joint"/>
+		<group id="443" type="span" parent="440" relname="purpose"/>
+		<group id="444" type="multinuc" parent="561" relname="comparison"/>
+		<group id="445" type="span" parent="450" relname="joint"/>
+		<group id="446" type="multinuc" parent="448" relname="span"/>
+		<group id="447" type="multinuc" parent="457" relname="span"/>
+		<group id="448" type="span" parent="449" relname="span"/>
+		<group id="449" type="span" parent="450" relname="joint"/>
+		<group id="450" type="multinuc" parent="451" relname="span"/>
+		<group id="451" type="span" parent="452" relname="span"/>
+		<group id="452" type="span" parent="196" relname="elaboration"/>
+		<group id="453" type="multinuc" parent="454" relname="elaboration"/>
+		<group id="454" type="span" parent="455" relname="span"/>
+		<group id="455" type="span" parent="456" relname="span"/>
+		<group id="456" type="span" parent="532" relname="span"/>
+		<group id="457" type="span" parent="458" relname="span"/>
+		<group id="458" type="span" parent="204" relname="evidence"/>
+		<group id="466" type="multinuc" parent="467" relname="contrast"/>
+		<group id="467" type="multinuc" parent="210" relname="cause"/>
+		<group id="468" type="span" relname="antithesis"/>
+		<group id="469" type="span" parent="470" relname="contrast"/>
+		<group id="470" type="multinuc" parent="563" relname="contrast"/>
+		<group id="472" type="span" parent="564" relname="span"/>
+		<group id="474" type="multinuc" parent="590" relname="span"/>
+		<group id="475" type="span" parent="477" relname="same-unit"/>
+		<group id="476" type="multinuc" parent="226" relname="cause"/>
+		<group id="477" type="multinuc" parent="479" relname="span"/>
+		<group id="479" type="span" parent="480" relname="span"/>
+		<group id="480" type="span" parent="483" relname="contrast"/>
+		<group id="481" type="span" parent="482" relname="span"/>
+		<group id="482" type="span" parent="483" relname="contrast"/>
+		<group id="483" type="multinuc" parent="225" relname="elaboration"/>
+		<group id="484" type="span" parent="485" relname="span"/>
+		<group id="485" type="span" parent="488" relname="comparison"/>
+		<group id="486" type="span" parent="487" relname="span"/>
+		<group id="487" type="span" parent="488" relname="comparison"/>
+		<group id="488" type="multinuc" parent="505" relname="joint"/>
+		<group id="489" type="multinuc" parent="490" relname="contrast"/>
+		<group id="490" type="multinuc" parent="239" relname="evidence"/>
+		<group id="491" type="span" parent="238" relname="cause"/>
+		<group id="492" type="span" parent="237" relname="evaluation"/>
+		<group id="493" type="span" parent="500" relname="span"/>
+		<group id="495" type="multinuc" parent="249" relname="cause"/>
+		<group id="496" type="span" parent="497" relname="same-unit"/>
+		<group id="497" type="multinuc" parent="567" relname="elaboration"/>
+		<group id="500" type="span" parent="504" relname="span"/>
+		<group id="501" type="multinuc" parent="251" relname="evaluation"/>
+		<group id="502" type="span" parent="250" relname="elaboration"/>
+		<group id="503" type="span" parent="500" relname="elaboration"/>
+		<group id="504" type="span" parent="529" relname="span"/>
+		<group id="505" type="multinuc" parent="531" relname="span"/>
+		<group id="506" type="multinuc" relname="antithesis"/>
+		<group id="509" type="multinuc" parent="510" relname="joint"/>
+		<group id="510" type="multinuc" parent="511" relname="joint"/>
+		<group id="511" type="multinuc" parent="512" relname="joint"/>
+		<group id="512" type="multinuc" parent="569" relname="span"/>
+		<group id="514" type="span" parent="61" relname="elaboration"/>
+		<group id="516" type="span" parent="517" relname="joint"/>
+		<group id="517" type="multinuc" parent="583" relname="elaboration"/>
+		<group id="518" type="multinuc" relname="antithesis"/>
+		<group id="520" type="span" parent="544" relname="evaluation"/>
+		<group id="523" type="span" relname="antithesis"/>
+		<group id="524" type="span" relname="antithesis"/>
+		<group id="525" type="span" parent="402" relname="joint"/>
+		<group id="526" type="span" parent="527" relname="span"/>
+		<group id="527" type="span" parent="402" relname="joint"/>
+		<group id="529" type="span" parent="505" relname="joint"/>
+		<group id="530" type="span" parent="506" relname="joint"/>
+		<group id="531" type="span" parent="530" relname="span"/>
+		<group id="532" type="span" relname="antithesis"/>
+		<group id="533" type="multinuc" parent="385" relname="elaboration"/>
+		<group id="534" type="span" parent="288" relname="joint"/>
+		<group id="535" type="multinuc" parent="291" relname="joint"/>
+		<group id="536" type="span" parent="537" relname="span"/>
+		<group id="537" type="span" parent="535" relname="contrast"/>
+		<group id="540" type="span" parent="517" relname="joint"/>
+		<group id="541" type="span" parent="542" relname="elaboration"/>
+		<group id="542" type="span" parent="585" relname="span"/>
+		<group id="543" type="span" parent="518" relname="joint"/>
+		<group id="544" type="span" parent="545" relname="span"/>
+		<group id="545" type="span" relname="antithesis"/>
+		<group id="546" type="span" parent="80" relname="elaboration"/>
+		<group id="547" type="multinuc" parent="548" relname="background"/>
+		<group id="548" type="span" parent="335" relname="span"/>
+		<group id="549" type="multinuc" parent="344" relname="cause"/>
+		<group id="550" type="span" parent="357" relname="preparation"/>
+		<group id="551" type="span" parent="552" relname="joint"/>
+		<group id="552" type="multinuc" relname="antithesis"/>
+		<group id="553" type="span" parent="372" relname="background"/>
+		<group id="554" type="span" relname="antithesis"/>
+		<group id="555" type="span" parent="383" relname="span"/>
+		<group id="556" type="multinuc" parent="555" relname="span"/>
+		<group id="557" type="span" parent="533" relname="joint"/>
+		<group id="558" type="span" parent="396" relname="cause"/>
+		<group id="559" type="span" parent="416" relname="joint"/>
+		<group id="560" type="span" parent="439" relname="joint"/>
+		<group id="561" type="multinuc" parent="198" relname="evaluation"/>
+		<group id="562" type="span" parent="446" relname="contrast"/>
+		<group id="563" type="multinuc" parent="472" relname="span"/>
+		<group id="564" type="span" parent="565" relname="joint"/>
+		<group id="565" type="multinuc" parent="566" relname="joint"/>
+		<group id="566" type="multinuc" relname="antithesis"/>
+		<group id="567" type="span" parent="568" relname="span"/>
+		<group id="568" type="span" parent="493" relname="evaluation"/>
+		<group id="569" type="span" parent="570" relname="span"/>
+		<group id="570" type="span" relname="antithesis"/>
+		<group id="571" type="span" parent="262" relname="joint"/>
+		<group id="572" type="span" parent="293" relname="joint"/>
+		<group id="573" type="span" parent="574" relname="span"/>
+		<group id="574" type="span" parent="575" relname="span"/>
+		<group id="575" type="span" relname="antithesis"/>
+		<group id="576" type="span" parent="296" relname="span"/>
+		<group id="577" type="multinuc" parent="578" relname="span"/>
+		<group id="578" type="span" parent="579" relname="span"/>
+		<group id="579" type="span" parent="304" relname="comparison"/>
+		<group id="580" type="span" parent="581" relname="same-unit"/>
+		<group id="581" type="multinuc" parent="582" relname="span"/>
+		<group id="582" type="span" parent="583" relname="span"/>
+		<group id="583" type="span" parent="584" relname="span"/>
+		<group id="584" type="span" relname="antithesis"/>
+		<group id="585" type="span" parent="543" relname="span"/>
+		<group id="586" type="span" parent="321" relname="span"/>
+		<group id="587" type="span" parent="331" relname="span"/>
+		<group id="588" type="span" parent="169" relname="evaluation"/>
+		<group id="589" type="span" parent="439" relname="joint"/>
+		<group id="590" type="span" parent="591" relname="span"/>
+		<group id="591" type="span" parent="506" relname="joint"/>
+  </body>
+</rst>

@@ -1,0 +1,552 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="antithesis" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="background" type="rst" />
+			<rel name="cause" type="rst" />
+			<rel name="comparison" type="multinuc" />
+			<rel name="concession" type="rst" />
+			<rel name="conclusion" type="rst" />
+			<rel name="condition" type="rst" />
+			<rel name="contrast" type="multinuc" />
+			<rel name="effect" type="rst" />
+			<rel name="elaboration" type="rst" />
+			<rel name="evaluation" type="rst" />
+			<rel name="evidence" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="motivation" type="rst" />
+			<rel name="preparation" type="rst" />
+			<rel name="purpose" type="rst" />
+			<rel name="restatement" type="multinuc" />
+			<rel name="same-unit" type="multinuc" />
+			<rel name="sequence" type="multinuc" />
+			<rel name="solutionhood" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="1" relname="antithesis">https://ru-travel.livejournal.com/33766823.html</segment>
+		<segment id="2" relname="antithesis">Маврикий</segment>
+		<segment id="3" parent="4" relname="cause">После поездки в 2017 на Бали я вспомнил, что отдыхать в далеких жарких странах - это хорошо и приятно,</segment>
+		<segment id="4" parent="275" relname="span">поэтому в 2018 полетели снова в теплые края, на Маврикий. В феврале</segment>
+		<segment id="5" parent="275" relname="evaluation">(только сейчас руки дошли написать!).</segment>
+		<segment id="6" parent="276" relname="evaluation">В общем, прекрасное место!</segment>
+		<segment id="7" parent="8" relname="cause">Остров не маленький,</segment>
+		<segment id="8" parent="277" relname="span">есть, что посмотреть.</segment>
+		<segment id="9" parent="10" relname="cause">Но и не большой,</segment>
+		<segment id="10" parent="278" relname="span">чтобы нужно было лететь из одного конца в другой.</segment>
+		<segment id="11" parent="280" relname="span">Мы пожили в трех разных частях острова.</segment>
+		<segment id="12" parent="11" relname="elaboration">На востоке, в районе Trou d'Eau Douce, на западе около Flic en Flac, и на самом юго-западе в Le Morne.</segment>
+		<segment id="13" parent="292" relname="span">IMG Первая фотография - это как раз Ле Морн.</segment>
+		<segment id="14" parent="286" relname="span">Самый лучший пляж,</segment>
+		<segment id="15" parent="285" relname="joint">километры песка,</segment>
+		<segment id="16" parent="285" relname="joint">очень мало людей.</segment>
+		<segment id="17" parent="291" relname="joint">В глубине острова, как видно, ничего нет.</segment>
+		<segment id="18" parent="287" relname="span">На берегу отель St.Regis,</segment>
+		<segment id="19" parent="18" relname="background">где мы и остановились.</segment>
+		<segment id="20" parent="290" relname="span">Дальше наверх (на север) после выступа начинается Lux Le Morne.</segment>
+		<segment id="21" parent="289" relname="span">Видно гору Le Morne Brabant.</segment>
+		<segment id="22" parent="288" relname="contrast">На нее можно забраться с гидом,</segment>
+		<segment id="23" parent="288" relname="contrast">но об этом позже.</segment>
+		<segment id="24" parent="299" relname="preparation">IMG Начнем с первого пляжа.</segment>
+		<segment id="25" parent="295" relname="contrast">Все пляжи Маврикия открыты для всех (прямо как в России, по закону!),</segment>
+		<segment id="26" parent="296" relname="span">но местные жители на пляжи перед отелями почему-то не особенно заходят.</segment>
+		<segment id="27" parent="26" relname="cause">Вездесущая охрана гоняет?</segment>
+		<segment id="28" parent="29" relname="cause">При этом отели чистят песок,</segment>
+		<segment id="29" parent="298" relname="span">и пляжи выглядят ухоженно.</segment>
+		<segment id="30" parent="304" relname="span">IMG Пляж отеля Shangri La.</segment>
+		<segment id="31" parent="301" relname="span">Вода мелкая,</segment>
+		<segment id="32" parent="31" relname="elaboration">до глубины не дойдешь.</segment>
+		<segment id="33" parent="305" relname="contrast">В 7-8 утра, конечно, никого не было.</segment>
+		<segment id="34" parent="303" relname="span">А мне кажется, это самое лучшее время,</segment>
+		<segment id="35" parent="302" relname="sequence">чтобы прийти</segment>
+		<segment id="36" parent="302" relname="sequence">и искупнуться,</segment>
+		<segment id="37" parent="302" relname="sequence">немного потупить</segment>
+		<segment id="38" parent="302" relname="sequence">и потом пойти на завтрак.</segment>
+		<segment id="39" parent="309" relname="preparation">IMG Фото из бара, ближе к полудню.</segment>
+		<segment id="40" parent="41" relname="cause">Солнце печет так сильно,</segment>
+		<segment id="41" parent="308" relname="span">что находиться на нем невозможно,</segment>
+		<segment id="42" parent="309" relname="span">поэтому никого нет.</segment>
+		<segment id="43" parent="314" relname="preparation">IMG Вид сверху.</segment>
+		<segment id="44" parent="311" relname="joint">Первые фотографии сделаны из маленького пляжика перед домиками на полуострове слева.</segment>
+		<segment id="45" parent="311" relname="joint">Основной пляж находится немного в глубине.</segment>
+		<segment id="46" parent="47" relname="cause">Вода всегда была спокойная,</segment>
+		<segment id="47" parent="312" relname="span">можно спокойно учиться осваивать падл борд.</segment>
+		<segment id="48" parent="317" relname="preparation">IMG Густые леса.</segment>
+		<segment id="49" parent="316" relname="sequence">Остров был открыт в начале 16 века португальцами</segment>
+		<segment id="50" parent="316" relname="sequence">и за свою историю успел побывать под Голландией, Францией, Великобританией,</segment>
+		<segment id="51" parent="316" relname="sequence">пока в 1968 не стал независимым государством.</segment>
+		<segment id="52" parent="319" relname="span">IMG А это обычный пляж,</segment>
+		<segment id="53" parent="52" relname="background">где тусуются местные.</segment>
+		<segment id="54" parent="320" relname="contrast">Куча водорослей, встречается мусор.</segment>
+		<segment id="55" parent="320" relname="contrast">Но в принципе, ничего</segment>
+		<segment id="56" parent="321" relname="elaboration">IMG Немного потрепанная статуя Ганеша.</segment>
+		<segment id="57" parent="326" relname="preparation">IMG Город Trou d'Eau Douce.</segment>
+		<segment id="58" parent="325" relname="solutionhood">Где тротуары?</segment>
+		<segment id="59" parent="60" relname="cause">Нигде,</segment>
+		<segment id="60" parent="325" relname="span">ходи по дороге.</segment>
+		<segment id="61" parent="327" relname="contrast">Делать там особо нечего,</segment>
+		<segment id="62" parent="327" relname="contrast">но есть кафе Gilda с террасой и неплохим видом.</segment>
+		<segment id="63" parent="334" relname="preparation">IMG Граждане отдыхают в тени дерева.</segment>
+		<segment id="64" parent="332" relname="span">Тусоваться вдоль дороги - любимое занятие жителей Маврикия.</segment>
+		<segment id="65" parent="331" relname="joint">Сидят,</segment>
+		<segment id="66" parent="331" relname="joint">провожают взглядами автомобили.</segment>
+		<segment id="67" parent="333" relname="joint">Вместе с людьми на дорогах часто сидят собаки.</segment>
+		<segment id="68" parent="339" relname="joint">IMG Местный супермаркет.</segment>
+		<segment id="69" parent="338" relname="span">IMG Храм в виде снеговика.</segment>
+		<segment id="70" parent="337" relname="joint">Почти половина жителей Маврикия - индуисты,</segment>
+		<segment id="71" parent="337" relname="joint">четверть - католики,</segment>
+		<segment id="72" parent="337" relname="joint">примерно 15 процентов - мусульмане.</segment>
+		<segment id="73" parent="340" relname="span">IMG По дороге на запад заехали в индуистский храм,</segment>
+		<segment id="74" parent="73" relname="elaboration">который называется "Siva Soopramaniar Kovil La Luicie Bel-Air Riviere Seche".</segment>
+		<segment id="75" parent="341" relname="contrast">Электронные часы и кафель немного выбиваются из оформления,</segment>
+		<segment id="76" parent="341" relname="contrast">но в целом очень приятное место.</segment>
+		<segment id="77" parent="346" relname="span">IMG Встретили служащего.</segment>
+		<segment id="78" parent="343" relname="joint">Он сказал обязательно отметить его на фотографии</segment>
+		<segment id="79" parent="343" relname="joint">и залайкать страницу на фейсбуке.</segment>
+		<segment id="80" parent="344" relname="span">Что ж, оставлю ссылку, на всякий случай,</segment>
+		<segment id="81" parent="80" relname="background">вроде там место на карте указано верно.</segment>
+		<segment id="82" parent="347" relname="sequence">IMG Вход в храм.</segment>
+		<segment id="83" parent="347" relname="sequence">IMG Церковь Святой Терезы в городе Curepipe, примерно в центре Маврикия.</segment>
+		<segment id="84" parent="347" relname="sequence">IMG Кратер спящего вулкана Trou aux Cerfs рядом с городом.</segment>
+		<segment id="85" parent="349" relname="span">IMG Западное побережье Маврикия, на юг от города Flic en Flac.</segment>
+		<segment id="86" parent="85" relname="background">Выделяется пик Montagne du Rempart высотой всего 600 метров.</segment>
+		<segment id="87" parent="348" relname="span">Маврикию повезло с ландшафтом, много холмов, рельеф интересный.</segment>
+		<segment id="88" parent="87" relname="evaluation">Очень красиво проезжать мимо на автомобиле.</segment>
+		<segment id="89" parent="350" relname="background">Видно большой бассейн отеля Sands Suites.</segment>
+		<segment id="90" parent="353" relname="span">IMG Маленький бассейн на вилле.</segment>
+		<segment id="91" parent="352" relname="joint">Очень уединенное место,</segment>
+		<segment id="92" parent="352" relname="joint">и до пляжа рукой подать.</segment>
+		<segment id="93" parent="355" relname="evaluation">Зачем в такой ситуации бассейн?</segment>
+		<segment id="94" parent="356" relname="span">IMG Вид сверху на пляж и домики отеля Maradiva.</segment>
+		<segment id="95" parent="94" relname="elaboration">Вода здесь тоже мелкая.</segment>
+		<segment id="96" parent="361" relname="preparation">IMG Столица острова, город Port Louis, названный так в честь короля Франции Луи 15.</segment>
+		<segment id="97" parent="358" relname="contrast">Здесь есть какая-то невероятно большая территория туристического шопиинг-центра,</segment>
+		<segment id="98" parent="358" relname="contrast">в остальном мало интересного.</segment>
+		<segment id="99" parent="359" relname="background">Всего в городе 150 тысяч жителей.</segment>
+		<segment id="100" parent="360" relname="elaboration">По дороге обратно в отель стояли в огромной пробке минут 40.</segment>
+		<segment id="101" parent="364" relname="span">IMG Конечно, надо было зайти на базар.</segment>
+		<segment id="102" parent="363" relname="contrast">Может быть, еще стоило посетить чайнатаун,</segment>
+		<segment id="103" parent="376" relname="span">но начался сильный дождь. IMG</segment>
+		<segment id="104" parent="377" relname="span">IMG С дождями одна и та же ситуация стабильно повторялась каждый день.</segment>
+		<segment id="105" parent="365" relname="sequence">Утром чистое небо,</segment>
+		<segment id="106" parent="365" relname="sequence">днем набегают облака,</segment>
+		<segment id="107" parent="369" relname="span">часов в 6 вечера сильный дождь примерно на час-полтора.</segment>
+		<segment id="108" parent="366" relname="contrast">Поехали посмотреть на водопад,</segment>
+		<segment id="109" parent="110" relname="cause">а тут реку размыло,</segment>
+		<segment id="110" parent="367" relname="span">по мосту не проехать.</segment>
+		<segment id="111" parent="368" relname="span">Пришлось в объезд.</segment>
+		<segment id="112" parent="375" relname="contrast">IMG Tamarind Falls, каскад из семи водопадов.</segment>
+		<segment id="113" parent="374" relname="span">Похоже, мы приехали на какую-то не ту точку.</segment>
+		<segment id="114" parent="373" relname="span">Вообще-то туда обычно хайкают на целый день,</segment>
+		<segment id="115" parent="114" relname="evaluation">должно быть круто.</segment>
+		<segment id="116" parent="379" relname="span">IMG Фигуры в индуистских богов возле священного озера Ganga Talao, на высоте примерно 530 метров над уровнем моря.</segment>
+		<segment id="117" parent="378" relname="joint">Справа точно Ганеш,</segment>
+		<segment id="118" parent="378" relname="joint">а слева, похоже, Сарасвати - богиня искусства, знаний, музыки.</segment>
+		<segment id="119" parent="380" relname="span">IMG Mangal Mahadev - 33-метровая статуя Шивы (самая высокая статуя на Маврикии), реплика статуи в Индии.</segment>
+		<segment id="120" parent="119" relname="background">Видно часть того же священного озера.</segment>
+		<segment id="121" parent="380" relname="evaluation">Можно заметить, что с парковкой проблем не было.</segment>
+		<segment id="122" parent="383" relname="span">IMG А это статуя Дурги, воинствующего воплощения Парвати, жены Шивы.</segment>
+		<segment id="123" parent="122" relname="elaboration">Сарасвати - тоже воплощение Парвати,</segment>
+		<segment id="124" parent="383" relname="evaluation">очень запутанная ситуация у индийских богов.</segment>
+		<segment id="125" parent="382" relname="sequence">IMG Широкая ровная дорога, по которой мы приехали к озеру.</segment>
+		<segment id="126" parent="386" relname="span">Весь комплекс очень интересный.</segment>
+		<segment id="127" parent="128" relname="condition">Если есть интерес к Индуизму или вообще к религиям,</segment>
+		<segment id="128" parent="385" relname="span">рекомендую.</segment>
+		<segment id="129" parent="390" relname="span">IMG Фонтан Chamarel высотой 83 метра в национальном парке Black River Gorges.</segment>
+		<segment id="130" parent="389" relname="contrast">Вроде бы к нему еще можно подойти снизу,</segment>
+		<segment id="131" parent="389" relname="contrast">я снимал с дрона.</segment>
+		<segment id="132" parent="391" relname="span">IMG Вид на западное побережье с точки в национальном парке.</segment>
+		<segment id="133" parent="132" relname="background">Видно вершину Tourelle du Tamarin высотой 563 метра.</segment>
+		<segment id="134" parent="407" relname="preparation">IMG Прибыли на финальное место проживания, пляж Le Morne, отель St. Regis.</segment>
+		<segment id="135" parent="394" relname="span">Лучшее место на Маврикии из тех, где мы побывали.</segment>
+		<segment id="136" parent="393" relname="joint">Хороший пляж несколько километров длиной,</segment>
+		<segment id="137" parent="393" relname="joint">очень мало людей.</segment>
+		<segment id="138" parent="395" relname="joint">Но здесь самые дорогие отели</segment>
+		<segment id="139" parent="398" relname="cause">и рядом почти нет цивилизации,</segment>
+		<segment id="140" parent="396" relname="span">то есть ходить ужинать "куда-нибудь в город",</segment>
+		<segment id="141" parent="140" relname="background">как мы иногда любим</segment>
+		<segment id="142" parent="397" relname="same-unit">- это не вариант.</segment>
+		<segment id="143" parent="401" relname="joint">Если на Flic en Flac развитая инфраструктура,</segment>
+		<segment id="144" parent="401" relname="joint">есть жизнь,</segment>
+		<segment id="145" parent="404" relname="span">то на всем огромном Le Morne - 5 отелей.</segment>
+		<segment id="146" parent="403" relname="contrast">Есть городок "Le Morne",</segment>
+		<segment id="147" parent="403" relname="contrast">но там какие-то бесконечные виллы.</segment>
+		<segment id="148" parent="405" relname="span">Можно съездить в супермаркет в La Gaulette, примерно 10 минут.</segment>
+		<segment id="149" parent="410" relname="span">IMG Сходили на экскурсию (хайк) на гору Le Morne Brabant высотой 556 метров.</segment>
+		<segment id="150" parent="409" relname="span">Один гид и наша группа из 4 человек (наши компаньоны - пара австралийцев).</segment>
+		<segment id="151" parent="150" relname="elaboration">Объясняет что-то про историю.</segment>
+		<segment id="152" parent="418" relname="span">IMG В пути.</segment>
+		<segment id="153" parent="152" relname="elaboration">Вид на север, остров Île aux Benitiers.</segment>
+		<segment id="154" parent="411" relname="contrast">Вышли из отеля рано, около 7 утра.</segment>
+		<segment id="155" parent="156" relname="cause">Но уже в 9 солнце светило нещадно,</segment>
+		<segment id="156" parent="412" relname="span">все взмокли,</segment>
+		<segment id="157" parent="413" relname="span">так что выходить надо было еще раньше.</segment>
+		<segment id="158" parent="159" relname="condition">Когда мы возвращались (ближе к 10 утра?),</segment>
+		<segment id="159" parent="414" relname="span">на этом же месте встретили группу, идущую наверх.</segment>
+		<segment id="160" parent="414" relname="evaluation">Вот им не повезло...</segment>
+		<segment id="161" parent="429" relname="preparation">IMG Вся наша группа у креста.</segment>
+		<segment id="162" parent="421" relname="span">Мы карабкались туда с гидом больше часа</segment>
+		<segment id="163" parent="162" relname="evaluation">и это было непросто.</segment>
+		<segment id="164" parent="422" relname="span">Местами хватались за камни руками,</segment>
+		<segment id="165" parent="164" relname="condition">наступая ногами туда, где указывал гид.</segment>
+		<segment id="166" parent="424" relname="span">Где-нибудь в Европе такую "тропу" давно бы закрыли</segment>
+		<segment id="167" parent="166" relname="purpose">для посещений.</segment>
+		<segment id="168" parent="426" relname="span">На вершине главная мысль в голове была "как спускаться".</segment>
+		<segment id="169" parent="168" relname="elaboration">Австралийцы тоже были не готовы к такому повороту событий.</segment>
+		<segment id="170" parent="427" relname="span">В общем, беременным и детям я бы не рекомендовал.</segment>
+		<segment id="171" parent="170" relname="concession">Хотя гид сказал, что происшествий еще не было.</segment>
+		<segment id="172" parent="173" relname="preparation">IMG Вид на юг.</segment>
+		<segment id="173" parent="442" relname="span">Нельзя не рассказать легенду про эту гору.</segment>
+		<segment id="174" parent="431" relname="span">Раньше на вершину забирались рабы,</segment>
+		<segment id="175" parent="174" relname="cause">скрываясь от господ.</segment>
+		<segment id="176" parent="177" relname="condition">А когда за ними посылали отряды,</segment>
+		<segment id="177" parent="432" relname="span">многие просто сбрасывались вниз,</segment>
+		<segment id="178" parent="433" relname="span">не желая снова попадать в неволю.</segment>
+		<segment id="179" parent="435" relname="background">В 1835 году рабство отменили,</segment>
+		<segment id="180" parent="435" relname="span">и власти послали полицию,</segment>
+		<segment id="181" parent="180" relname="purpose">якобы чтобы сообщить об этом рабам, скрывающимся на горе,</segment>
+		<segment id="182" parent="438" relname="cause">но те, естественно, подумали, что их едут забирать.</segment>
+		<segment id="183" parent="437" relname="joint">40 человек тогда прыгнули</segment>
+		<segment id="184" parent="437" relname="joint">и погибли.</segment>
+		<segment id="185" parent="445" relname="preparation">IMG Закат.</segment>
+		<segment id="186" parent="445" relname="span">Снимал с точки примерно в 200 метрах от берега.</segment>
+		<segment id="187" parent="447" relname="span">До волн еще метров триста.</segment>
+		<segment id="188" parent="189" relname="condition">И, насколько я помню,</segment>
+		<segment id="189" parent="446" relname="span">везде можно стоять на ногах.</segment>
+		<segment id="190" parent="448" relname="span">Рельеф очень неровный,</segment>
+		<segment id="191" parent="190" relname="elaboration">где-то вода по шею, где-то по пояс.</segment>
+		<segment id="192" parent="453" relname="preparation">IMG На закате.</segment>
+		<segment id="193" parent="452" relname="solutionhood">Где все люди, уже в ресторанах сидят?</segment>
+		<segment id="194" parent="452" relname="span">в 6 вечера самое время гулять,</segment>
+		<segment id="195" parent="451" relname="joint">уже совсем не жарит солнце</segment>
+		<segment id="196" parent="451" relname="joint">и очень красиво.</segment>
+		<segment id="197" parent="454" relname="span">Кстати, с ресторанами тоже не всегда везло.</segment>
+		<segment id="198" parent="197" relname="cause">Оказалось, их нужно бронировать, причем желательно заранее!</segment>
+		<segment id="199" parent="455" relname="joint">Однажды вечером мы позвонили в три ресторана,</segment>
+		<segment id="200" parent="455" relname="joint">и все оказались уже забиты,</segment>
+		<segment id="201" parent="456" relname="contrast">только четвертый согласился принять.</segment>
+		<segment id="202" parent="457" relname="span">И в ресторанах тоже очень дорого (для Маврикия, но не для Швейцарии, ха-ха!).</segment>
+		<segment id="203" parent="202" relname="elaboration">За ужин надо будет отдать 80-100 долларов с минимумом алкоголя.</segment>
+		<segment id="204" parent="459" relname="span">Но очень вкусно,</segment>
+		<segment id="205" parent="458" relname="span">особенно нам понравился японский в отеле Maradiva (фото с Instagram),</segment>
+		<segment id="206" parent="205" relname="elaboration">где повар при нас очень красиво жарил креветок, рыбу и прочий seafood.</segment>
+		<segment id="207" parent="465" relname="contrast">IMG Я иногда люблю зайти в кафе (или уличные лавки) в городе, где обедают местные,</segment>
+		<segment id="208" parent="465" relname="contrast">но это развлечение на любителя.</segment>
+		<segment id="209" parent="466" relname="comparison">На Маврикии это будет еда,</segment>
+		<segment id="210" parent="466" relname="comparison">похожая на индийскую.</segment>
+		<segment id="211" parent="468" relname="same-unit">Какая-нибудь пакора, самоса с овощами, жареный рис или лапша с овощами и специями,</segment>
+		<segment id="212" parent="467" relname="span">или с курицей</segment>
+		<segment id="213" parent="212" relname="evaluation">(это совсем шик).</segment>
+		<segment id="214" parent="469" relname="background">Один раз видел димсамы.</segment>
+		<segment id="215" parent="474" relname="contrast">Кафе будет выглядеть примерно так.</segment>
+		<segment id="216" parent="473" relname="span">Зато невероятно дешево,</segment>
+		<segment id="217" parent="216" relname="elaboration">можно на два доллара пообедать.</segment>
+		<segment id="218" parent="478" relname="span">IMG Вид на гору и пляж Le Morne с юга.</segment>
+		<segment id="219" parent="218" relname="elaboration">Наш отель находится слева, справа - отель Riu.</segment>
+		<segment id="220" parent="477" relname="span">Снято примерно на границе известного "подводного водопада",</segment>
+		<segment id="221" parent="220" relname="evaluation">что, конечно же, просто иллюзия.</segment>
+		<segment id="222" parent="481" relname="cause">IMG Вода очень чистая,</segment>
+		<segment id="223" parent="480" relname="joint">можно брать маску</segment>
+		<segment id="224" parent="480" relname="joint">и сноркать,</segment>
+		<segment id="225" parent="483" relname="contrast">но интересные места под водой надо искать.</segment>
+		<segment id="226" parent="490" relname="span">Очень понравился падл борд (также SUP, сапсерфинг).</segment>
+		<segment id="227" parent="484" relname="contrast">Научиться не падать можно за 15 минут,</segment>
+		<segment id="228" parent="485" relname="joint">зато потом очень удобно неторопливо грести</segment>
+		<segment id="229" parent="485" relname="joint">и рассматривать подводный мир.</segment>
+		<segment id="230" parent="487" relname="joint">Или просто лечь</segment>
+		<segment id="231" parent="487" relname="joint">и покачиваться на волнах. Только не под полуденным солнцем.</segment>
+		<segment id="232" parent="491" relname="background">IMG Вид на гору Le Morne с севера.</segment>
+		<segment id="233" parent="503" relname="preparation">IMG Зашел на экскурсию в Chamarel, фабрику рома.</segment>
+		<segment id="234" parent="493" relname="span">90% всех сельхозугодий Маврикия - сахарный тростник,</segment>
+		<segment id="235" parent="234" relname="evaluation">это основа экономики.</segment>
+		<segment id="236" parent="502" relname="span">Конечно же, есть несколько производителей рома.</segment>
+		<segment id="237" parent="494" relname="span">Я взял себе в итоге бутылочку XO,</segment>
+		<segment id="238" parent="237" relname="evaluation">в принципе, очень так ничего.</segment>
+		<segment id="239" parent="495" relname="contrast">Ром "single malt" выдерживался некоторое время в бочке из-под односолодового виски.</segment>
+		<segment id="240" parent="495" relname="contrast">Но стоил он значительно дороже.</segment>
+		<segment id="241" parent="242" relname="evaluation">Chamarel гордится,</segment>
+		<segment id="242" parent="496" relname="span">что у них ром двойного дистиллирования.</segment>
+		<segment id="243" parent="497" relname="joint">Было интересно,</segment>
+		<segment id="244" parent="497" relname="joint">и у них можно хорошо пообедать.</segment>
+		<segment id="245" parent="505" relname="joint">IMG Купание с дельфинами я не очень понял,</segment>
+		<segment id="246" parent="505" relname="joint">смотрел со стороны.</segment>
+		<segment id="247" parent="506" relname="span">Выглядит это примерно так.</segment>
+		<segment id="248" parent="507" relname="sequence">Несколько лодок тусят в месте, где дельфины были сегодня замечены.</segment>
+		<segment id="249" parent="528" relname="joint">Вдруг кто-то кричит</segment>
+		<segment id="250" parent="528" relname="joint">и показывает - "там!",</segment>
+		<segment id="251" parent="508" relname="span">и сразу лодка, которая поближе, несется к дельфинам,</segment>
+		<segment id="252" parent="251" relname="condition">пытаясь оказаться у них на пути.</segment>
+		<segment id="253" parent="509" relname="span">Один из гидов</segment>
+		<segment id="254" parent="253" relname="elaboration">(который очень хорошо плавает)</segment>
+		<segment id="255" parent="510" relname="same-unit">командует нырять,</segment>
+		<segment id="256" parent="511" relname="sequence">и кучка туристов с лодки прыгает в воду</segment>
+		<segment id="257" parent="511" relname="sequence">и пытается угнаться за гидом в точку предполагаемого прохода морских млекопитающих.</segment>
+		<segment id="258" parent="259" relname="condition">Иногда везёт</segment>
+		<segment id="259" parent="512" relname="span">и кто-то что-то видит в толще воды,</segment>
+		<segment id="260" parent="513" relname="sequence">потом радостно выскакивая на поверхность.</segment>
+		<segment id="261" parent="514" relname="span">И так несколько раз,</segment>
+		<segment id="262" parent="261" relname="condition">пока не надоест.</segment>
+		<segment id="263" parent="519" relname="span">IMG Тоже Ле Морн, кораллы.</segment>
+		<segment id="264" parent="265" relname="condition">Если отходить от самого берега,</segment>
+		<segment id="265" parent="517" relname="span">то только в тапочках.</segment>
+		<segment id="266" parent="517" relname="cause">Везде морские ежи и другие непонятные животные.</segment>
+		<segment id="267" parent="520" relname="span">IMG Запускать дрон с катамарана - не очень хорошая идея,</segment>
+		<segment id="268" parent="267" relname="cause">поймать его потом с дрейфующего объекта и на волнах, пусть даже очень небольших, не так просто.</segment>
+		<segment id="269" parent="525" relname="span">На этом все.</segment>
+		<segment id="270" parent="526" relname="joint">Надеюсь, скоро возьмусь</segment>
+		<segment id="271" parent="526" relname="joint">и смонтирую видео с дрона,</segment>
+		<segment id="272" parent="527" relname="evaluation">есть очень красивые фрагменты.</segment>
+		<segment id="273" relname="antithesis">До связи!</segment>
+		<group id="275" type="span" parent="276" relname="span"/>
+		<group id="276" type="span" parent="281" relname="span"/>
+		<group id="277" type="span" parent="279" relname="contrast"/>
+		<group id="278" type="span" parent="279" relname="contrast"/>
+		<group id="279" type="multinuc" parent="282" relname="span"/>
+		<group id="280" type="span" parent="282" relname="elaboration"/>
+		<group id="281" type="span" parent="283" relname="preparation"/>
+		<group id="282" type="span" parent="283" relname="span"/>
+		<group id="283" type="span" parent="284" relname="span"/>
+		<group id="284" type="span" relname="antithesis"/>
+		<group id="285" type="multinuc" parent="14" relname="elaboration"/>
+		<group id="286" type="span" parent="13" relname="evaluation"/>
+		<group id="287" type="span" parent="291" relname="joint"/>
+		<group id="288" type="multinuc" parent="21" relname="elaboration"/>
+		<group id="289" type="span" parent="20" relname="background"/>
+		<group id="290" type="span" parent="291" relname="joint"/>
+		<group id="291" type="multinuc" parent="293" relname="span"/>
+		<group id="292" type="span" parent="293" relname="preparation"/>
+		<group id="293" type="span" parent="294" relname="span"/>
+		<group id="294" type="span" relname="antithesis"/>
+		<group id="295" type="multinuc" parent="297" relname="joint"/>
+		<group id="296" type="span" parent="295" relname="contrast"/>
+		<group id="297" type="multinuc" parent="299" relname="span"/>
+		<group id="298" type="span" parent="297" relname="joint"/>
+		<group id="299" type="span" parent="300" relname="span"/>
+		<group id="300" type="span" relname="antithesis"/>
+		<group id="301" type="span" parent="30" relname="elaboration"/>
+		<group id="302" type="multinuc" parent="34" relname="purpose"/>
+		<group id="303" type="span" parent="305" relname="contrast"/>
+		<group id="304" type="span" parent="306" relname="preparation"/>
+		<group id="305" type="multinuc" parent="324" relname="comparison"/>
+		<group id="306" type="span" parent="307" relname="span"/>
+		<group id="307" type="span" relname="antithesis"/>
+		<group id="308" type="span" parent="42" relname="cause"/>
+		<group id="309" type="span" parent="310" relname="span"/>
+		<group id="310" type="span" parent="324" relname="comparison"/>
+		<group id="311" type="multinuc" parent="313" relname="span"/>
+		<group id="312" type="span" parent="313" relname="elaboration"/>
+		<group id="313" type="span" parent="314" relname="span"/>
+		<group id="314" type="span" parent="315" relname="span"/>
+		<group id="315" type="span" parent="322" relname="span"/>
+		<group id="316" type="multinuc" parent="317" relname="span"/>
+		<group id="317" type="span" parent="318" relname="span"/>
+		<group id="318" type="span" parent="315" relname="background"/>
+		<group id="319" type="span" parent="321" relname="span"/>
+		<group id="320" type="multinuc" parent="319" relname="elaboration"/>
+		<group id="321" type="span" parent="330" relname="span"/>
+		<group id="322" type="span" parent="323" relname="contrast"/>
+		<group id="323" type="multinuc" relname="antithesis"/>
+		<group id="324" type="multinuc" parent="306" relname="span"/>
+		<group id="325" type="span" parent="326" relname="span"/>
+		<group id="326" type="span" parent="328" relname="span"/>
+		<group id="327" type="multinuc" parent="328" relname="evaluation"/>
+		<group id="328" type="span" parent="329" relname="span"/>
+		<group id="329" type="span" relname="antithesis"/>
+		<group id="330" type="span" parent="323" relname="contrast"/>
+		<group id="331" type="multinuc" parent="64" relname="elaboration"/>
+		<group id="332" type="span" parent="333" relname="joint"/>
+		<group id="333" type="multinuc" parent="334" relname="span"/>
+		<group id="334" type="span" parent="335" relname="span"/>
+		<group id="335" type="span" parent="336" relname="span"/>
+		<group id="336" type="span" relname="antithesis"/>
+		<group id="337" type="multinuc" parent="69" relname="background"/>
+		<group id="338" type="span" parent="339" relname="joint"/>
+		<group id="339" type="multinuc" parent="335" relname="elaboration"/>
+		<group id="340" type="span" parent="342" relname="span"/>
+		<group id="341" type="multinuc" parent="340" relname="evaluation"/>
+		<group id="342" type="span" parent="347" relname="sequence"/>
+		<group id="343" type="multinuc" parent="344" relname="solutionhood"/>
+		<group id="344" type="span" parent="345" relname="span"/>
+		<group id="345" type="span" parent="77" relname="elaboration"/>
+		<group id="346" type="span" parent="347" relname="sequence"/>
+		<group id="347" type="multinuc" relname="antithesis"/>
+		<group id="348" type="span" parent="349" relname="evaluation"/>
+		<group id="349" type="span" parent="350" relname="span"/>
+		<group id="350" type="span" parent="351" relname="span"/>
+		<group id="351" type="span" relname="antithesis"/>
+		<group id="352" type="multinuc" parent="355" relname="span"/>
+		<group id="353" type="span" parent="357" relname="span"/>
+		<group id="354" type="span" parent="90" relname="evaluation"/>
+		<group id="355" type="span" parent="354" relname="span"/>
+		<group id="356" type="span" parent="353" relname="elaboration"/>
+		<group id="357" type="span" relname="antithesis"/>
+		<group id="358" type="multinuc" parent="359" relname="span"/>
+		<group id="359" type="span" parent="360" relname="span"/>
+		<group id="360" type="span" parent="361" relname="span"/>
+		<group id="361" type="span" parent="362" relname="span"/>
+		<group id="362" type="span" parent="372" relname="sequence"/>
+		<group id="363" type="multinuc" parent="101" relname="evaluation"/>
+		<group id="364" type="span" parent="372" relname="sequence"/>
+		<group id="365" type="multinuc" parent="104" relname="elaboration"/>
+		<group id="366" type="multinuc" parent="111" relname="solutionhood"/>
+		<group id="367" type="span" parent="366" relname="contrast"/>
+		<group id="368" type="span" parent="107" relname="elaboration"/>
+		<group id="369" type="span" parent="365" relname="sequence"/>
+		<group id="372" type="multinuc" relname="antithesis"/>
+		<group id="373" type="span" parent="113" relname="background"/>
+		<group id="374" type="span" parent="375" relname="contrast"/>
+		<group id="375" type="multinuc" parent="382" relname="sequence"/>
+		<group id="376" type="span" parent="363" relname="contrast"/>
+		<group id="377" type="span" parent="103" relname="background"/>
+		<group id="378" type="multinuc" parent="116" relname="elaboration"/>
+		<group id="379" type="span" parent="382" relname="sequence"/>
+		<group id="380" type="span" parent="381" relname="span"/>
+		<group id="381" type="span" parent="382" relname="sequence"/>
+		<group id="382" type="multinuc" parent="387" relname="span"/>
+		<group id="383" type="span" parent="384" relname="span"/>
+		<group id="384" type="span" parent="382" relname="sequence"/>
+		<group id="385" type="span" parent="126" relname="elaboration"/>
+		<group id="386" type="span" parent="387" relname="evaluation"/>
+		<group id="387" type="span" parent="388" relname="span"/>
+		<group id="388" type="span" relname="antithesis"/>
+		<group id="389" type="multinuc" parent="129" relname="elaboration"/>
+		<group id="390" type="span" parent="392" relname="joint"/>
+		<group id="391" type="span" parent="392" relname="joint"/>
+		<group id="392" type="multinuc" relname="antithesis"/>
+		<group id="393" type="multinuc" parent="135" relname="cause"/>
+		<group id="394" type="span" parent="400" relname="contrast"/>
+		<group id="395" type="multinuc" parent="400" relname="contrast"/>
+		<group id="396" type="span" parent="397" relname="same-unit"/>
+		<group id="397" type="multinuc" parent="398" relname="span"/>
+		<group id="398" type="span" parent="399" relname="span"/>
+		<group id="399" type="span" parent="395" relname="joint"/>
+		<group id="400" type="multinuc" parent="406" relname="span"/>
+		<group id="401" type="multinuc" parent="402" relname="contrast"/>
+		<group id="402" type="multinuc" parent="148" relname="solutionhood"/>
+		<group id="403" type="multinuc" parent="145" relname="concession"/>
+		<group id="404" type="span" parent="402" relname="contrast"/>
+		<group id="405" type="span" parent="406" relname="elaboration"/>
+		<group id="406" type="span" parent="407" relname="span"/>
+		<group id="407" type="span" parent="408" relname="span"/>
+		<group id="408" type="span" relname="antithesis"/>
+		<group id="409" type="span" parent="149" relname="elaboration"/>
+		<group id="410" type="span" parent="418" relname="preparation"/>
+		<group id="411" type="multinuc" parent="416" relname="span"/>
+		<group id="412" type="span" parent="157" relname="cause"/>
+		<group id="413" type="span" parent="411" relname="contrast"/>
+		<group id="414" type="span" parent="415" relname="span"/>
+		<group id="415" type="span" parent="416" relname="elaboration"/>
+		<group id="416" type="span" parent="417" relname="span"/>
+		<group id="417" type="span" parent="419" relname="span"/>
+		<group id="418" type="span" parent="420" relname="span"/>
+		<group id="419" type="span" relname="antithesis"/>
+		<group id="420" type="span" parent="417" relname="preparation"/>
+		<group id="421" type="span" parent="423" relname="span"/>
+		<group id="422" type="span" parent="421" relname="elaboration"/>
+		<group id="423" type="span" parent="425" relname="contrast"/>
+		<group id="424" type="span" parent="425" relname="contrast"/>
+		<group id="425" type="multinuc" parent="428" relname="sequence"/>
+		<group id="426" type="span" parent="428" relname="sequence"/>
+		<group id="427" type="span" parent="429" relname="span"/>
+		<group id="428" type="multinuc" parent="427" relname="solutionhood"/>
+		<group id="429" type="span" parent="430" relname="span"/>
+		<group id="430" type="span" relname="antithesis"/>
+		<group id="431" type="span" parent="434" relname="contrast"/>
+		<group id="432" type="span" parent="178" relname="cause"/>
+		<group id="433" type="span" parent="434" relname="contrast"/>
+		<group id="434" type="multinuc" parent="441" relname="sequence"/>
+		<group id="435" type="span" parent="436" relname="span"/>
+		<group id="436" type="span" parent="440" relname="contrast"/>
+		<group id="437" type="multinuc" parent="438" relname="span"/>
+		<group id="438" type="span" parent="439" relname="span"/>
+		<group id="439" type="span" parent="440" relname="contrast"/>
+		<group id="440" type="multinuc" parent="441" relname="sequence"/>
+		<group id="441" type="multinuc" parent="443" relname="span"/>
+		<group id="442" type="span" parent="443" relname="preparation"/>
+		<group id="443" type="span" parent="444" relname="span"/>
+		<group id="444" type="span" relname="antithesis"/>
+		<group id="445" type="span" parent="450" relname="span"/>
+		<group id="446" type="span" parent="449" relname="span"/>
+		<group id="447" type="span" parent="186" relname="elaboration"/>
+		<group id="448" type="span" parent="446" relname="evaluation"/>
+		<group id="449" type="span" parent="187" relname="evaluation"/>
+		<group id="450" type="span" relname="antithesis"/>
+		<group id="451" type="multinuc" parent="194" relname="cause"/>
+		<group id="452" type="span" parent="453" relname="span"/>
+		<group id="453" type="span" parent="463" relname="span"/>
+		<group id="454" type="span" parent="461" relname="span"/>
+		<group id="455" type="multinuc" parent="456" relname="contrast"/>
+		<group id="456" type="multinuc" parent="454" relname="background"/>
+		<group id="457" type="span" parent="460" relname="contrast"/>
+		<group id="458" type="span" parent="204" relname="elaboration"/>
+		<group id="459" type="span" parent="460" relname="contrast"/>
+		<group id="460" type="multinuc" parent="461" relname="evaluation"/>
+		<group id="461" type="span" parent="462" relname="span"/>
+		<group id="462" type="span" parent="464" relname="span"/>
+		<group id="463" type="span" parent="462" relname="preparation"/>
+		<group id="464" type="span" relname="antithesis"/>
+		<group id="465" type="multinuc" parent="475" relname="preparation"/>
+		<group id="466" type="multinuc" parent="471" relname="span"/>
+		<group id="467" type="span" parent="468" relname="same-unit"/>
+		<group id="468" type="multinuc" parent="469" relname="span"/>
+		<group id="469" type="span" parent="470" relname="span"/>
+		<group id="470" type="span" parent="471" relname="elaboration"/>
+		<group id="471" type="span" parent="472" relname="span"/>
+		<group id="472" type="span" parent="475" relname="span"/>
+		<group id="473" type="span" parent="474" relname="contrast"/>
+		<group id="474" type="multinuc" parent="472" relname="evaluation"/>
+		<group id="475" type="span" parent="476" relname="span"/>
+		<group id="476" type="span" relname="antithesis"/>
+		<group id="477" type="span" parent="478" relname="elaboration"/>
+		<group id="478" type="span" parent="479" relname="span"/>
+		<group id="479" type="span" relname="antithesis"/>
+		<group id="480" type="multinuc" parent="481" relname="span"/>
+		<group id="481" type="span" parent="482" relname="span"/>
+		<group id="482" type="span" parent="483" relname="contrast"/>
+		<group id="483" type="multinuc" parent="490" relname="preparation"/>
+		<group id="484" type="multinuc" parent="489" relname="joint"/>
+		<group id="485" type="multinuc" parent="484" relname="contrast"/>
+		<group id="487" type="multinuc" parent="489" relname="joint"/>
+		<group id="489" type="multinuc" parent="226" relname="elaboration"/>
+		<group id="490" type="span" parent="491" relname="span"/>
+		<group id="491" type="span" parent="492" relname="span"/>
+		<group id="492" type="span" relname="antithesis"/>
+		<group id="493" type="span" parent="501" relname="span"/>
+		<group id="494" type="span" parent="500" relname="span"/>
+		<group id="495" type="multinuc" parent="498" relname="span"/>
+		<group id="496" type="span" parent="498" relname="elaboration"/>
+		<group id="497" type="multinuc" parent="501" relname="evaluation"/>
+		<group id="498" type="span" parent="499" relname="span"/>
+		<group id="499" type="span" parent="494" relname="background"/>
+		<group id="500" type="span" parent="236" relname="elaboration"/>
+		<group id="501" type="span" parent="503" relname="span"/>
+		<group id="502" type="span" parent="493" relname="elaboration"/>
+		<group id="503" type="span" parent="504" relname="span"/>
+		<group id="504" type="span" relname="antithesis"/>
+		<group id="505" type="multinuc" parent="247" relname="preparation"/>
+		<group id="506" type="span" parent="515" relname="preparation"/>
+		<group id="507" type="multinuc" parent="515" relname="span"/>
+		<group id="508" type="span" parent="507" relname="sequence"/>
+		<group id="509" type="span" parent="510" relname="same-unit"/>
+		<group id="510" type="multinuc" parent="511" relname="sequence"/>
+		<group id="511" type="multinuc" parent="507" relname="sequence"/>
+		<group id="512" type="span" parent="513" relname="sequence"/>
+		<group id="513" type="multinuc" parent="507" relname="sequence"/>
+		<group id="514" type="span" parent="507" relname="sequence"/>
+		<group id="515" type="span" parent="516" relname="span"/>
+		<group id="516" type="span" relname="antithesis"/>
+		<group id="517" type="span" parent="518" relname="span"/>
+		<group id="518" type="span" parent="263" relname="elaboration"/>
+		<group id="519" type="span" parent="521" relname="joint"/>
+		<group id="520" type="span" parent="521" relname="joint"/>
+		<group id="521" type="multinuc" parent="522" relname="span"/>
+		<group id="522" type="span" parent="523" relname="span"/>
+		<group id="523" type="span" relname="antithesis"/>
+		<group id="524" type="span" parent="269" relname="elaboration"/>
+		<group id="525" type="span" parent="522" relname="elaboration"/>
+		<group id="526" type="multinuc" parent="527" relname="span"/>
+		<group id="527" type="span" parent="524" relname="span"/>
+		<group id="528" type="multinuc" parent="507" relname="sequence"/>
+  </body>
+</rst>

@@ -1,0 +1,479 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="antithesis" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="background" type="rst" />
+			<rel name="cause" type="rst" />
+			<rel name="comparison" type="multinuc" />
+			<rel name="concession" type="rst" />
+			<rel name="conclusion" type="rst" />
+			<rel name="condition" type="rst" />
+			<rel name="contrast" type="multinuc" />
+			<rel name="effect" type="rst" />
+			<rel name="elaboration" type="rst" />
+			<rel name="evaluation" type="rst" />
+			<rel name="evidence" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="motivation" type="rst" />
+			<rel name="preparation" type="rst" />
+			<rel name="purpose" type="rst" />
+			<rel name="restatement" type="multinuc" />
+			<rel name="same-unit" type="multinuc" />
+			<rel name="sequence" type="multinuc" />
+			<rel name="solutionhood" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="1" relname="antithesis">Георгий Красников https://www.facebook.com/permalink.php?story_fbid=999588420252352&id=100006036094815</segment>
+		<segment id="2" parent="3" relname="evaluation">Поучительная история сегодняшнего дня, описывающая моё раздолбайство и уровень сервиса в России...</segment>
+		<segment id="3" parent="237" relname="span">Как добраться до города в 220 км от столицы.</segment>
+		<segment id="4" parent="240" relname="span">Те, с кем я давно знаком, наверное, помнят, что была у меня когда-то машина Москвич-2141.</segment>
+		<segment id="5" parent="232" relname="sequence">И помнят эту весёлую историю как её угнали в Юхновском районе Калужской области,</segment>
+		<segment id="6" parent="232" relname="sequence">а потом сожгли в соседнем Мосальском районе.</segment>
+		<segment id="7" parent="233" relname="background">Было это в далёком 2011 году.</segment>
+		<segment id="8" parent="9" relname="evaluation">Но самое весёлое в истории то,</segment>
+		<segment id="9" parent="235" relname="span">что она до сих пор не закончилась.</segment>
+		<segment id="10" parent="245" relname="span">Ладно, не буду пересказывать как меня донимали страховые компании спустя ровно год после покупки.</segment>
+		<segment id="11" parent="241" relname="joint">Какая-то у них общая база,</segment>
+		<segment id="12" parent="241" relname="joint">и лезли одна за другой.</segment>
+		<segment id="13" parent="242" relname="span">Интереснее то, что мне до сих пор за него приходит транспортный налог.</segment>
+		<segment id="14" parent="13" relname="elaboration">Немного, но оно потихоньку копится-копится.</segment>
+		<segment id="15" parent="243" relname="span">Справок-выписок из уголовного дела об угоне</segment>
+		<segment id="16" parent="15" relname="cause">из-за переездов</segment>
+		<segment id="17" parent="244" relname="same-unit">не сохранилось.</segment>
+		<segment id="18" parent="19" relname="condition">Когда пришёл в ГАИ года 4 назад,</segment>
+		<segment id="19" parent="247" relname="span">выяснил, что почему-то она не стоит в угоне.</segment>
+		<segment id="20" parent="248" relname="span">Предлагали поставить</segment>
+		<segment id="21" parent="20" relname="purpose">чтобы налог больше не приходил,</segment>
+		<segment id="22" parent="251" relname="span">но я решил съездить получить справку</segment>
+		<segment id="23" parent="22" relname="purpose">чтобы отменить уже начисленные налоги..</segment>
+		<segment id="24" parent="251" relname="evaluation">Зря, конечно.</segment>
+		<segment id="25" parent="254" relname="span">Откладывал-откладывал,</segment>
+		<segment id="26" parent="25" relname="cause">ведь никогда не делай завтра то, что можно сделать послезавтра.</segment>
+		<segment id="27" parent="254" relname="elaboration">Так протикало аж 7 лет.</segment>
+		<segment id="28" parent="29" relname="cause">Тем не менее, сумма накопилась порядочная,</segment>
+		<segment id="29" parent="256" relname="span">надо бы разрулить вопрос.</segment>
+		<segment id="30" parent="264" relname="span">В итоге собрался ехать в Юхнов сегодня 20 декабря 2018 года.</segment>
+		<segment id="31" parent="263" relname="sequence">Да, я предварительно позвонил в Юхновское РОВД,</segment>
+		<segment id="32" parent="33" relname="condition">понимая сроки,</segment>
+		<segment id="33" parent="262" relname="span">обрисовал ситуацию,</segment>
+		<segment id="34" parent="263" relname="sequence">и уточнил - есть ли смысл ехать.</segment>
+		<segment id="35" parent="265" relname="joint">"Да, приезжайте,</segment>
+		<segment id="36" parent="265" relname="joint">всё должно быть", успокоил меня дежурный.</segment>
+		<segment id="37" parent="274" relname="preparation">День не задался с самого начала.</segment>
+		<segment id="38" parent="272" relname="contrast">Погоду вы сами знаете (-9-13 С),</segment>
+		<segment id="39" parent="271" relname="span">а я по дурости не очень тепло оделся,</segment>
+		<segment id="40" parent="270" relname="joint">наивно полагая что буду по минимуму находиться на улице,</segment>
+		<segment id="41" parent="270" relname="joint">только перемещаться между транспортами.</segment>
+		<segment id="42" parent="271" relname="elaboration">Майка, кофта, полуосенняя куртка, толстые джинсы без ничего больше, ну хоть ботинки хорошие.</segment>
+		<segment id="43" parent="283" relname="preparation">1. Киевский вокзал, 8.40 утра.</segment>
+		<segment id="44" parent="45" relname="purpose">Чтобы не идти в зал с доставучими охранниками,</segment>
+		<segment id="45" parent="276" relname="span">покупаю билет на электричку в автомате.</segment>
+		<segment id="46" parent="276" relname="background">Стоимость билета до Малоярославца 298 рублей.</segment>
+		<segment id="47" parent="278" relname="sequence">Сую тысячу.</segment>
+		<segment id="48" parent="278" relname="sequence">Автомат думает,</segment>
+		<segment id="49" parent="278" relname="sequence">возвращает мне 5 соток</segment>
+		<segment id="50" parent="285" relname="contrast">и зависает на несколько минут.</segment>
+		<segment id="51" parent="285" relname="contrast">А время идёт.</segment>
+		<segment id="52" parent="278" relname="sequence">Жму кнопку "возврат сдачи",</segment>
+		<segment id="53" parent="278" relname="sequence">он мне высыпает мелочью 64 рубля</segment>
+		<segment id="54" parent="280" relname="span">и печатает чек</segment>
+		<segment id="55" parent="54" relname="purpose">на получение оставшихся 138.</segment>
+		<segment id="56" parent="281" relname="span">Придётся идти в кассу,</segment>
+		<segment id="57" parent="281" relname="evaluation">избежать бессмысленного шмона-проверок не получилось.</segment>
+		<segment id="58" parent="288" relname="preparation">2. Электричка "Стандарт-плюс".</segment>
+		<segment id="59" parent="286" relname="joint">Цивильная и комфортная, с мягким ходом,</segment>
+		<segment id="60" parent="286" relname="joint">есть вай-фай.</segment>
+		<segment id="61" parent="289" relname="contrast">Два часа блаженства</segment>
+		<segment id="62" parent="289" relname="contrast">и резкий контраст с тем, что будет дальше.</segment>
+		<segment id="63" parent="311" relname="preparation">3. Малоярославец.</segment>
+		<segment id="64" parent="293" relname="joint">Дубак конкретный.</segment>
+		<segment id="65" parent="293" relname="joint">Задрипанная автостанция с кассой на улице.</segment>
+		<segment id="66" parent="292" relname="span">На расписании не нахожу рейсов в Юхнов.</segment>
+		<segment id="67" parent="291" relname="contrast">"А у нас нет,</segment>
+		<segment id="68" parent="291" relname="contrast">это только из Калуги".</segment>
+		<segment id="69" parent="70" relname="background">Несколько лет назад точно же были,</segment>
+		<segment id="70" parent="294" relname="span">это вот так всё деградировало?</segment>
+		<segment id="71" parent="295" relname="elaboration">Самое дальнее - только до Медыни.</segment>
+		<segment id="72" parent="464" relname="contrast">Яндекс-транспорт показывает проходящие рейсы из Москвы.</segment>
+		<segment id="73" parent="296" relname="joint">Но где они</segment>
+		<segment id="74" parent="296" relname="joint">и как проходят - не знает никто.</segment>
+		<segment id="75" parent="465" relname="span">Пошёл на трассу А101 в черте города (10 минут),</segment>
+		<segment id="76" parent="75" relname="elaboration">там никто не в курсе никаких автобусов</segment>
+		<segment id="77" parent="300" relname="contrast">- говорят, что всё на автостанцию приходит.</segment>
+		<segment id="78" parent="79" relname="condition">Пока ходил,</segment>
+		<segment id="79" parent="302" relname="span">какой-то большой автобус мимо проехал</segment>
+		<segment id="80" parent="302" relname="evaluation">- он или не он, непонятно.</segment>
+		<segment id="81" parent="315" relname="span">4. Делать нечего, еду в Медынь.</segment>
+		<segment id="82" parent="313" relname="joint">Во-первых, по пути,</segment>
+		<segment id="83" parent="84" relname="cause">во-вторых - ну там город поменьше,</segment>
+		<segment id="84" parent="314" relname="span">должно быть очевиднее где автобусы проходят.</segment>
+		<segment id="85" parent="331" relname="span">Старый побитый жизнью и продуваемый всеми ветрами пазик-3205 трясётся по кочкам трассы А-101.</segment>
+		<segment id="86" parent="320" relname="span">На малоярославецкой автостанции измученные транспортом, морозом и, в целом, необустроенностью жизни, тётки ругаются с сидящей в тепле за стеклом кассиршей</segment>
+		<segment id="87" parent="86" relname="cause">из-за качества купюр,</segment>
+		<segment id="88" parent="317" relname="span">и с водителем</segment>
+		<segment id="89" parent="318" relname="joint">- что он не прогревает пазик</segment>
+		<segment id="90" parent="318" relname="joint">и не закрывает дверь,</segment>
+		<segment id="91" parent="321" relname="span">из-за чего последние остатки тепла улетучиваются.</segment>
+		<segment id="92" parent="321" relname="concession">Впрочем, и во время пути в пазике толком не согреешься.</segment>
+		<segment id="93" parent="323" relname="span">Едучи, вспоминаю со смехом какие скандалы происходят в Москве</segment>
+		<segment id="94" parent="93" relname="condition">если вдруг какой-нибудь трамвай недостаточно натоплен.</segment>
+		<segment id="95" parent="323" relname="elaboration">Все знают куда стукануть если что..</segment>
+		<segment id="96" parent="327" relname="evaluation">Да, разные миры просто..</segment>
+		<segment id="97" parent="333" relname="preparation">5. Медынь, автостанция.</segment>
+		<segment id="98" parent="333" relname="span">Уровень задрипанности тождествен малоярославецкому.</segment>
+		<segment id="99" parent="332" relname="joint">Туалет на улице - дырка в полу.</segment>
+		<segment id="100" parent="332" relname="joint">Касса на обеде,</segment>
+		<segment id="101" parent="332" relname="joint">только тётка с пирожками огорошивает меня что тут также ничего нет на Юхнов.</segment>
+		<segment id="102" parent="334" relname="span">Надо идти "на угол" стоять на остановке,</segment>
+		<segment id="103" parent="102" relname="condition">морозя задницу,</segment>
+		<segment id="104" parent="336" relname="span">и "где-то с пол-второго до пятнадцати минут третьего должен быть,</segment>
+		<segment id="105" parent="104" relname="background">мой племянник ездил".</segment>
+		<segment id="106" parent="463" relname="joint">6. Это соседние районы ОДНОЙ области!</segment>
+		<segment id="107" parent="463" relname="joint">Это 60 км по оживлённой федеральной трассе.</segment>
+		<segment id="108" parent="341" relname="span">Но никакого официального транспорта нет в принципе!</segment>
+		<segment id="109" parent="110" relname="solutionhood">Это как так?</segment>
+		<segment id="110" parent="342" relname="span">Это какая-то полнейшая феодальная раздробленность.</segment>
+		<segment id="111" parent="346" relname="span">Да, пошёл на остановку,</segment>
+		<segment id="112" parent="111" relname="condition">вспомнив, что ЯТ показывал ещё один проходящий рейс из Москвы в Починок какого-то ИП Ложкин А.А.</segment>
+		<segment id="113" parent="345" relname="same-unit">Но</segment>
+		<segment id="114" parent="115" relname="cause">на то оно и ИП</segment>
+		<segment id="115" parent="344" relname="span">что может ездить как хочет.</segment>
+		<segment id="116" parent="348" relname="span">О том, что на остановке или где-то ещё была бы какая-то информация, я даже и не думаю заикаться</segment>
+		<segment id="117" parent="116" relname="evaluation">- вы ж понимаете, что это абсурд.</segment>
+		<segment id="118" parent="351" relname="span">Помёрзнув минут 40 на остановке с маленькими перерывами</segment>
+		<segment id="119" parent="118" relname="purpose">для обогрева</segment>
+		<segment id="120" parent="352" relname="same-unit">на расположенной рядом почте,</segment>
+		<segment id="121" parent="353" relname="span">я не выдержал.</segment>
+		<segment id="122" parent="354" relname="joint">От холода постоянно хотелось в туалет,</segment>
+		<segment id="123" parent="355" relname="span">и я вернулся на вокзал</segment>
+		<segment id="124" parent="356" relname="joint">с целью посетить "дырку в полу"</segment>
+		<segment id="125" parent="356" relname="joint">и уехать хоть куда-нибудь.</segment>
+		<segment id="126" parent="357" relname="span">Тётка меня подбодрила что "ну вот в районе двух точно должен быть,</segment>
+		<segment id="127" parent="126" relname="background">племянник ездил".</segment>
+		<segment id="128" parent="129" relname="condition">Присмотрев себе обратный рейс в Малоярославец на 14.25</segment>
+		<segment id="129" parent="359" relname="span">я отправился снова на остановку попытать счастья.</segment>
+		<segment id="130" parent="366" relname="preparation">7. На этот раз получилось.</segment>
+		<segment id="131" parent="466" relname="span">Через минут 10 прибыл автобус "Москва - Юхнов"</segment>
+		<segment id="132" parent="131" relname="elaboration">на котором я и уехал.</segment>
+		<segment id="133" parent="362" relname="span">Да, знал бы, конечно поехал бы на автобусе сразу из Москвы.</segment>
+		<segment id="134" parent="133" relname="evaluation">По уму именно так надо было делать.</segment>
+		<segment id="135" parent="364" relname="joint">Но мне в голову не могло прийти что в соседней Калужской области за последнее время всё стало так печально.</segment>
+		<segment id="136" parent="364" relname="joint">Что соседние райцентры не связаны друг с другом от слова НИКАК.</segment>
+		<segment id="137" parent="383" relname="preparation">8. Знакомый полицейский участок.</segment>
+		<segment id="138" parent="370" relname="evaluation">Конечно же всё было зря.</segment>
+		<segment id="139" parent="368" relname="joint">Конечно никакого уголовного дела не сохранилось,</segment>
+		<segment id="140" parent="141" relname="evaluation">и вообще я сам дурак,</segment>
+		<segment id="141" parent="369" relname="span">что не снял машину с налогового учёта.</segment>
+		<segment id="142" parent="372" relname="joint">Менты вспомнили этот случай,</segment>
+		<segment id="143" parent="372" relname="joint">даже вспомнили следовательницу, ведшую это дело,</segment>
+		<segment id="144" parent="373" relname="sequence">и позвонили ей.</segment>
+		<segment id="145" parent="375" relname="span">Но ничего не помогло</segment>
+		<segment id="146" parent="145" relname="cause">- срок давности - 3 года.</segment>
+		<segment id="147" parent="376" relname="contrast">Интересно, что как раз летом 2014 года мы мимо ехали на фестиваль,</segment>
+		<segment id="148" parent="467" relname="joint">но не получилось тогда заехать</segment>
+		<segment id="149" parent="467" relname="joint">(но и это уже было поздно).</segment>
+		<segment id="150" parent="377" relname="span">Интересный факт - машина была НЕ в угоне</segment>
+		<segment id="151" parent="150" relname="cause">потому что её нашли!</segment>
+		<segment id="152" parent="378" relname="contrast">Ну т.е. нашли обгоревший кузов,</segment>
+		<segment id="153" parent="378" relname="contrast">но не важно - я должен был действовать сам.</segment>
+		<segment id="154" parent="468" relname="span">9. Досада на зря ухайдаканный день</segment>
+		<segment id="155" parent="154" relname="evaluation">(что можно было предугадать)</segment>
+		<segment id="156" parent="470" relname="span">и большое желание свалить поскорее из этого невзрачного городишки,</segment>
+		<segment id="157" parent="156" relname="elaboration">с которым у меня одни обломы связаны.</segment>
+		<segment id="158" parent="386" relname="contrast">Поесть бы,</segment>
+		<segment id="159" parent="386" relname="contrast">но негде.</segment>
+		<segment id="160" parent="387" relname="joint">Два кафе - одно вообще какой-то непонятный фастфуд,</segment>
+		<segment id="161" parent="388" relname="span">а второе занято</segment>
+		<segment id="162" parent="161" relname="cause">(идут поминки).</segment>
+		<segment id="163" parent="396" relname="span">С транспортом также жопа:</segment>
+		<segment id="164" parent="392" relname="joint">- последний автобус на Москву ушёл 2 часа назад.</segment>
+		<segment id="165" parent="392" relname="joint">- последний автобус в Малоярославец ушёл несколько месяцев или лет назад.</segment>
+		<segment id="166" parent="394" relname="span">- последний автобус в Калугу</segment>
+		<segment id="167" parent="393" relname="contrast">(которая в стороне и совсем не по пути,</segment>
+		<segment id="168" parent="393" relname="contrast">но через неё хоть как-то можно доехать)</segment>
+		<segment id="169" parent="395" relname="same-unit">будет только в 6 вечера, через 2,5 часа.</segment>
+		<segment id="170" parent="397" relname="evaluation">Чего тут всё это время делать?</segment>
+		<segment id="171" parent="400" relname="contrast">10. Не хотел на таком морозе и в такой одежде ехать стопом, да и настроение не то.</segment>
+		<segment id="172" parent="401" relname="span">Но иных вариантов нет.</segment>
+		<segment id="173" parent="172" relname="cause">Хочется поскорее закончить с этой историей.</segment>
+		<segment id="174" parent="402" relname="joint">Ладно, вроде не так холодно стало,</segment>
+		<segment id="175" parent="402" relname="joint">и заправка рядом на карте есть.</segment>
+		<segment id="176" parent="405" relname="sequence">Пошёл на выезд</segment>
+		<segment id="177" parent="408" relname="span">и сразу поймал фургончик.</segment>
+		<segment id="178" parent="406" relname="joint">Кабардинец везёт хлеб</segment>
+		<segment id="179" parent="407" relname="contrast">- едет в Подольск,</segment>
+		<segment id="180" parent="407" relname="contrast">но по пути надо ещё заехать в Износки (райцентр в стороне от трассы между Юхновым и Медынью).</segment>
+		<segment id="181" parent="411" relname="span">11. Кабардинец свернул в свои Износки,</segment>
+		<segment id="182" parent="181" relname="condition">оставив меня в сумерках на повороте в деревне Курганы.</segment>
+		<segment id="183" parent="418" relname="span">Стопилось безуспешно</segment>
+		<segment id="184" parent="183" relname="cause">- все либо ехали мимо либо недалеко (только до Мятлево).</segment>
+		<segment id="185" parent="416" relname="background">Рядом был магазинчик</segment>
+		<segment id="186" parent="412" relname="joint">в который я пошёл греться</segment>
+		<segment id="187" parent="412" relname="joint">и пить кофе.</segment>
+		<segment id="188" parent="415" relname="sequence">Только выхожу</segment>
+		<segment id="189" parent="415" relname="sequence">- едет кабардинец.</segment>
+		<segment id="190" parent="414" relname="contrast">А мог бы и пропустить его.</segment>
+		<segment id="191" parent="422" relname="span">12. Ехалось нормально,</segment>
+		<segment id="192" parent="191" relname="concession">хоть и немного продувало.</segment>
+		<segment id="193" parent="194" relname="condition">При подъезде к Подольску</segment>
+		<segment id="194" parent="423" relname="span">кабардинец стал жаловаться на жизнь</segment>
+		<segment id="195" parent="424" relname="joint">и предложил помочь ему на 300 рублей.</segment>
+		<segment id="196" parent="471" relname="span">Ладно, не та ситуация</segment>
+		<segment id="197" parent="196" relname="purpose">чтобы ругаться</segment>
+		<segment id="198" parent="471" relname="cause">- я бы эти деньги на автобус потратил.</segment>
+		<segment id="199" parent="426" relname="sequence">Высаживает меня в подольской промзоне в 15 минутах ходьбы от станции.</segment>
+		<segment id="200" parent="201" relname="evaluation">13. Ну и вишенка на торте:</segment>
+		<segment id="201" parent="429" relname="span">снова автомат станции Подольск на морозе съел всю мою мелочь.</segment>
+		<segment id="202" parent="430" relname="sequence">Выбрал станцию,</segment>
+		<segment id="203" parent="430" relname="sequence">стал кидать выданные предыдущим автоматом монетки.</segment>
+		<segment id="204" parent="205" relname="condition">Высыпав целую горстку,</segment>
+		<segment id="205" parent="431" relname="span">обнаружил, что баланс на табло остаётся 0.</segment>
+		<segment id="206" parent="431" relname="evaluation">ААААА.</segment>
+		<segment id="207" parent="434" relname="contrast">В каком-то проёме за щёлкой эти монетки и остались.</segment>
+		<segment id="208" parent="434" relname="contrast">И даже никаких чеков автомат не выдаёт.</segment>
+		<segment id="209" parent="435" relname="joint">"Что мне делать, автомат зажевал монетки</segment>
+		<segment id="210" parent="435" relname="joint">и чека не дал" спрашиваю в кассе.</segment>
+		<segment id="211" parent="438" relname="span">"Ну приходите завтра в 6 утра,</segment>
+		<segment id="212" parent="211" relname="cause">его будут открывать".</segment>
+		<segment id="213" parent="440" relname="span">Понятно, что ради 20-30 рублей я не приду</segment>
+		<segment id="214" parent="441" relname="contrast">даже если бы рядом жил,</segment>
+		<segment id="215" parent="441" relname="contrast">а тем более в Подольск ехать.</segment>
+		<segment id="216" parent="442" relname="contrast">Ладно, куплю все равно только до первой зоны билет,</segment>
+		<segment id="217" parent="442" relname="contrast">не до Ржевской же брать за 130 рублей..</segment>
+		<segment id="218" parent="447" relname="span">Венец путешествия - снова тёплая комфортная электричка "Стандарт-плюс"</segment>
+		<segment id="219" parent="446" relname="joint">где можно погреться</segment>
+		<segment id="220" parent="446" relname="joint">и поинтернетиться.</segment>
+		<segment id="221" parent="448" relname="span">Вот да, такие вот реалии жизни России за МКАДом.</segment>
+		<segment id="222" parent="221" relname="evaluation">Чего удивляться что все поголовно мечтают машиной обзавестись.</segment>
+		<segment id="223" parent="450" relname="contrast">Что ни говори, общий относительно приличный уровень транспорта обеспечивает ТОЛЬКО железная дорога.</segment>
+		<segment id="224" parent="453" relname="span">Автобусный транспорт реально много где на уровне стран 3-го мира. Это и подвижной состав и автовокзалы, и организация движения - всё боль и тлен..</segment>
+		<segment id="225" parent="452" relname="span">Вспоминал также Туву,</segment>
+		<segment id="226" parent="225" relname="elaboration">где в принципе междугородний общественный транспорт отсутствует как таковой.</segment>
+		<segment id="227" parent="461" relname="contrast">А проблема с налогом осталась.</segment>
+		<segment id="228" relname="antithesis">Кто в теме, посоветуйте, как быть.</segment>
+		<segment id="229" relname="antithesis">Есть ли возможность списать этот налог,</segment>
+		<segment id="230" relname="antithesis">или раз нет доказательств,</segment>
+		<segment id="231" relname="antithesis">то придётся платить всё?</segment>
+		<group id="232" type="multinuc" parent="233" relname="span"/>
+		<group id="233" type="span" parent="234" relname="span"/>
+		<group id="234" type="span" parent="236" relname="contrast"/>
+		<group id="235" type="span" parent="236" relname="contrast"/>
+		<group id="236" type="multinuc" parent="238" relname="span"/>
+		<group id="237" type="span" parent="4" relname="preparation"/>
+		<group id="238" type="span" parent="239" relname="span"/>
+		<group id="239" type="span" relname="antithesis"/>
+		<group id="240" type="span" parent="238" relname="preparation"/>
+		<group id="241" type="multinuc" parent="10" relname="elaboration"/>
+		<group id="242" type="span" parent="246" relname="span"/>
+		<group id="243" type="span" parent="244" relname="same-unit"/>
+		<group id="244" type="multinuc" parent="259" relname="preparation"/>
+		<group id="245" type="span" parent="242" relname="concession"/>
+		<group id="246" type="span" relname="antithesis"/>
+		<group id="247" type="span" parent="248" relname="cause"/>
+		<group id="248" type="span" parent="252" relname="span"/>
+		<group id="250" type="multinuc" parent="259" relname="span"/>
+		<group id="251" type="span" parent="253" relname="span"/>
+		<group id="252" type="span" parent="250" relname="contrast"/>
+		<group id="253" type="span" parent="257" relname="span"/>
+		<group id="254" type="span" parent="255" relname="span"/>
+		<group id="255" type="span" parent="253" relname="background"/>
+		<group id="256" type="span" parent="257" relname="concession"/>
+		<group id="257" type="span" parent="258" relname="span"/>
+		<group id="258" type="span" parent="250" relname="contrast"/>
+		<group id="259" type="span" parent="260" relname="span"/>
+		<group id="260" type="span" parent="261" relname="span"/>
+		<group id="261" type="span" relname="antithesis"/>
+		<group id="262" type="span" parent="263" relname="sequence"/>
+		<group id="263" type="multinuc" parent="269" relname="span"/>
+		<group id="264" type="span" relname="antithesis"/>
+		<group id="265" type="multinuc" parent="269" relname="elaboration"/>
+		<group id="268" type="span" parent="30" relname="background"/>
+		<group id="269" type="span" parent="268" relname="span"/>
+		<group id="270" type="multinuc" parent="39" relname="cause"/>
+		<group id="271" type="span" parent="273" relname="span"/>
+		<group id="272" type="multinuc" parent="274" relname="span"/>
+		<group id="273" type="span" parent="272" relname="contrast"/>
+		<group id="274" type="span" parent="275" relname="span"/>
+		<group id="275" type="span" relname="antithesis"/>
+		<group id="276" type="span" parent="277" relname="span"/>
+		<group id="277" type="span" parent="283" relname="span"/>
+		<group id="278" type="multinuc" parent="277" relname="elaboration"/>
+		<group id="280" type="span" parent="56" relname="cause"/>
+		<group id="281" type="span" parent="282" relname="span"/>
+		<group id="282" type="span" parent="278" relname="sequence"/>
+		<group id="283" type="span" parent="284" relname="span"/>
+		<group id="284" type="span" relname="antithesis"/>
+		<group id="285" type="multinuc" parent="278" relname="sequence"/>
+		<group id="286" type="multinuc" parent="287" relname="span"/>
+		<group id="287" type="span" parent="288" relname="span"/>
+		<group id="288" type="span" parent="290" relname="span"/>
+		<group id="289" type="multinuc" parent="287" relname="evaluation"/>
+		<group id="290" type="span" relname="antithesis"/>
+		<group id="291" type="multinuc" parent="66" relname="elaboration"/>
+		<group id="292" type="span" parent="295" relname="span"/>
+		<group id="293" type="multinuc" parent="311" relname="span"/>
+		<group id="294" type="span" parent="292" relname="evaluation"/>
+		<group id="295" type="span" parent="307" relname="span"/>
+		<group id="296" type="multinuc" parent="464" relname="contrast"/>
+		<group id="300" type="multinuc" parent="304" relname="joint"/>
+		<group id="302" type="span" parent="303" relname="span"/>
+		<group id="303" type="span" parent="304" relname="joint"/>
+		<group id="304" type="multinuc" relname="antithesis"/>
+		<group id="306" type="multinuc" parent="308" relname="span"/>
+		<group id="307" type="span" parent="306" relname="contrast"/>
+		<group id="308" type="span" parent="309" relname="span"/>
+		<group id="309" type="span" parent="312" relname="sequence"/>
+		<group id="310" type="span" parent="308" relname="background"/>
+		<group id="311" type="span" parent="310" relname="span"/>
+		<group id="312" type="multinuc" relname="antithesis"/>
+		<group id="313" type="multinuc" parent="81" relname="cause"/>
+		<group id="314" type="span" parent="313" relname="joint"/>
+		<group id="315" type="span" parent="85" relname="preparation"/>
+		<group id="317" type="span" parent="319" relname="same-unit"/>
+		<group id="318" type="multinuc" parent="88" relname="cause"/>
+		<group id="319" type="multinuc" parent="330" relname="span"/>
+		<group id="320" type="span" parent="319" relname="same-unit"/>
+		<group id="321" type="span" parent="322" relname="span"/>
+		<group id="322" type="span" parent="326" relname="contrast"/>
+		<group id="323" type="span" parent="324" relname="span"/>
+		<group id="324" type="span" parent="325" relname="span"/>
+		<group id="325" type="span" parent="326" relname="contrast"/>
+		<group id="326" type="multinuc" parent="327" relname="span"/>
+		<group id="327" type="span" parent="328" relname="span"/>
+		<group id="328" type="span" relname="antithesis"/>
+		<group id="329" type="span" parent="91" relname="cause"/>
+		<group id="330" type="span" parent="329" relname="span"/>
+		<group id="331" type="span" parent="330" relname="background"/>
+		<group id="332" type="multinuc" parent="98" relname="elaboration"/>
+		<group id="333" type="span" parent="337" relname="span"/>
+		<group id="334" type="span" parent="335" relname="joint"/>
+		<group id="335" type="multinuc" parent="338" relname="span"/>
+		<group id="336" type="span" parent="335" relname="joint"/>
+		<group id="337" type="span" parent="338" relname="background"/>
+		<group id="338" type="span" parent="339" relname="span"/>
+		<group id="339" type="span" relname="antithesis"/>
+		<group id="340" type="multinuc" parent="360" relname="preparation"/>
+		<group id="341" type="span" parent="340" relname="contrast"/>
+		<group id="342" type="span" parent="108" relname="evaluation"/>
+		<group id="344" type="span" parent="345" relname="same-unit"/>
+		<group id="345" type="multinuc" parent="349" relname="span"/>
+		<group id="346" type="span" parent="347" relname="contrast"/>
+		<group id="347" type="multinuc" parent="360" relname="span"/>
+		<group id="348" type="span" parent="349" relname="elaboration"/>
+		<group id="349" type="span" parent="350" relname="span"/>
+		<group id="350" type="span" parent="347" relname="contrast"/>
+		<group id="351" type="span" parent="352" relname="same-unit"/>
+		<group id="352" type="multinuc" parent="121" relname="cause"/>
+		<group id="353" type="span" parent="358" relname="sequence"/>
+		<group id="354" type="multinuc" parent="358" relname="sequence"/>
+		<group id="355" type="span" parent="354" relname="joint"/>
+		<group id="356" type="multinuc" parent="123" relname="purpose"/>
+		<group id="357" type="span" parent="358" relname="sequence"/>
+		<group id="358" type="multinuc" relname="antithesis"/>
+		<group id="359" type="span" parent="358" relname="sequence"/>
+		<group id="360" type="span" parent="361" relname="span"/>
+		<group id="361" type="span" relname="antithesis"/>
+		<group id="362" type="span" parent="363" relname="contrast"/>
+		<group id="363" type="multinuc" parent="365" relname="span"/>
+		<group id="364" type="multinuc" parent="363" relname="contrast"/>
+		<group id="365" type="span" parent="366" relname="span"/>
+		<group id="366" type="span" parent="367" relname="span"/>
+		<group id="367" type="span" relname="antithesis"/>
+		<group id="368" type="multinuc" parent="370" relname="span"/>
+		<group id="369" type="span" parent="368" relname="joint"/>
+		<group id="370" type="span" parent="371" relname="span"/>
+		<group id="371" type="span" parent="382" relname="span"/>
+		<group id="372" type="multinuc" parent="373" relname="sequence"/>
+		<group id="373" type="multinuc" parent="374" relname="contrast"/>
+		<group id="374" type="multinuc" parent="371" relname="elaboration"/>
+		<group id="375" type="span" parent="374" relname="contrast"/>
+		<group id="376" type="multinuc" parent="380" relname="span"/>
+		<group id="377" type="span" parent="379" relname="restatement"/>
+		<group id="378" type="multinuc" parent="379" relname="restatement"/>
+		<group id="379" type="multinuc" parent="380" relname="elaboration"/>
+		<group id="380" type="span" parent="381" relname="span"/>
+		<group id="381" type="span" parent="382" relname="background"/>
+		<group id="382" type="span" parent="383" relname="span"/>
+		<group id="383" type="span" parent="384" relname="span"/>
+		<group id="384" type="span" relname="antithesis"/>
+		<group id="386" type="multinuc" parent="389" relname="span"/>
+		<group id="387" type="multinuc" parent="389" relname="elaboration"/>
+		<group id="388" type="span" parent="387" relname="joint"/>
+		<group id="389" type="span" parent="390" relname="span"/>
+		<group id="390" type="span" parent="391" relname="joint"/>
+		<group id="391" type="multinuc" parent="397" relname="span"/>
+		<group id="392" type="multinuc" parent="163" relname="elaboration"/>
+		<group id="393" type="multinuc" parent="166" relname="elaboration"/>
+		<group id="394" type="span" parent="395" relname="same-unit"/>
+		<group id="395" type="multinuc" parent="392" relname="joint"/>
+		<group id="396" type="span" parent="391" relname="joint"/>
+		<group id="397" type="span" parent="398" relname="span"/>
+		<group id="398" type="span" parent="399" relname="span"/>
+		<group id="399" type="span" relname="antithesis"/>
+		<group id="400" type="multinuc" parent="403" relname="span"/>
+		<group id="401" type="span" parent="400" relname="contrast"/>
+		<group id="402" type="multinuc" parent="403" relname="concession"/>
+		<group id="403" type="span" parent="404" relname="span"/>
+		<group id="404" type="span" parent="409" relname="preparation"/>
+		<group id="405" type="multinuc" parent="409" relname="span"/>
+		<group id="406" type="multinuc" parent="177" relname="elaboration"/>
+		<group id="407" type="multinuc" parent="406" relname="joint"/>
+		<group id="408" type="span" parent="405" relname="sequence"/>
+		<group id="409" type="span" parent="410" relname="span"/>
+		<group id="410" type="span" relname="antithesis"/>
+		<group id="411" type="span" parent="420" relname="preparation"/>
+		<group id="412" type="multinuc" parent="416" relname="span"/>
+		<group id="414" type="multinuc" parent="419" relname="sequence"/>
+		<group id="415" type="multinuc" parent="414" relname="contrast"/>
+		<group id="416" type="span" parent="417" relname="span"/>
+		<group id="417" type="span" parent="419" relname="sequence"/>
+		<group id="418" type="span" parent="419" relname="sequence"/>
+		<group id="419" type="multinuc" parent="420" relname="span"/>
+		<group id="420" type="span" parent="421" relname="span"/>
+		<group id="421" type="span" relname="antithesis"/>
+		<group id="422" type="span" parent="427" relname="preparation"/>
+		<group id="423" type="span" parent="424" relname="joint"/>
+		<group id="424" type="multinuc" parent="426" relname="sequence"/>
+		<group id="425" type="span" parent="424" relname="joint"/>
+		<group id="426" type="multinuc" parent="427" relname="span"/>
+		<group id="427" type="span" parent="428" relname="span"/>
+		<group id="428" type="span" relname="antithesis"/>
+		<group id="429" type="span" parent="444" relname="preparation"/>
+		<group id="430" type="multinuc" parent="444" relname="span"/>
+		<group id="431" type="span" parent="432" relname="span"/>
+		<group id="432" type="span" parent="433" relname="span"/>
+		<group id="433" type="span" parent="430" relname="sequence"/>
+		<group id="434" type="multinuc" parent="432" relname="elaboration"/>
+		<group id="435" type="multinuc" parent="439" relname="sequence"/>
+		<group id="438" type="span" parent="443" relname="span"/>
+		<group id="439" type="multinuc" parent="430" relname="sequence"/>
+		<group id="440" type="span" parent="438" relname="evaluation"/>
+		<group id="441" type="multinuc" parent="213" relname="condition"/>
+		<group id="442" type="multinuc" parent="430" relname="sequence"/>
+		<group id="443" type="span" parent="439" relname="sequence"/>
+		<group id="444" type="span" parent="445" relname="span"/>
+		<group id="445" type="span" relname="antithesis"/>
+		<group id="446" type="multinuc" parent="218" relname="elaboration"/>
+		<group id="447" type="span" parent="449" relname="contrast"/>
+		<group id="448" type="span" parent="449" relname="contrast"/>
+		<group id="449" type="multinuc" parent="451" relname="span"/>
+		<group id="450" type="multinuc" parent="454" relname="span"/>
+		<group id="451" type="span" parent="454" relname="solutionhood"/>
+		<group id="452" type="span" parent="224" relname="background"/>
+		<group id="453" type="span" parent="450" relname="contrast"/>
+		<group id="454" type="span" parent="455" relname="span"/>
+		<group id="455" type="span" parent="461" relname="contrast"/>
+		<group id="461" type="multinuc" relname="antithesis"/>
+		<group id="463" type="multinuc" parent="340" relname="contrast"/>
+		<group id="464" type="multinuc" parent="306" relname="contrast"/>
+		<group id="465" type="span" parent="300" relname="contrast"/>
+		<group id="466" type="span" parent="365" relname="background"/>
+		<group id="467" type="multinuc" parent="376" relname="contrast"/>
+		<group id="468" type="span" parent="469" relname="same-unit"/>
+		<group id="469" type="multinuc" parent="398" relname="preparation"/>
+		<group id="470" type="span" parent="469" relname="same-unit"/>
+		<group id="471" type="span" parent="425" relname="span"/>
+  </body>
+</rst>

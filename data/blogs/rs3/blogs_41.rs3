@@ -1,0 +1,258 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="antithesis" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="background" type="rst" />
+			<rel name="cause" type="rst" />
+			<rel name="comparison" type="multinuc" />
+			<rel name="concession" type="rst" />
+			<rel name="conclusion" type="rst" />
+			<rel name="condition" type="rst" />
+			<rel name="contrast" type="multinuc" />
+			<rel name="effect" type="rst" />
+			<rel name="elaboration" type="rst" />
+			<rel name="evaluation" type="rst" />
+			<rel name="evidence" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="motivation" type="rst" />
+			<rel name="preparation" type="rst" />
+			<rel name="purpose" type="rst" />
+			<rel name="restatement" type="multinuc" />
+			<rel name="same-unit" type="multinuc" />
+			<rel name="sequence" type="multinuc" />
+			<rel name="solutionhood" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="1" relname="antithesis">https://habr.com/ru/company/kaspersky/blog/460135/</segment>
+		<segment id="2" relname="antithesis">Security Week 29: уязвимость в сервисе Zoom, безопасность и драма</segment>
+		<segment id="3" parent="4" relname="attribution">На прошлой неделе исследователь Джонатан Лейтсач опубликовал весьма эмоциональный пост</segment>
+		<segment id="4" parent="239" relname="span">об уязвимостях в клиенте для веб-конференций Zoom для операционной системы macOS.</segment>
+		<segment id="5" parent="128" relname="joint">В данном случае не совсем понятно, была ли уязвимость непреднамеренным багом или заранее спланированной фичей.</segment>
+		<segment id="6" parent="126" relname="contrast">Попробуем разобраться,</segment>
+		<segment id="7" parent="242" relname="same-unit">но</segment>
+		<segment id="8" parent="9" relname="condition">если коротко,</segment>
+		<segment id="9" parent="241" relname="span">выходит так:</segment>
+		<segment id="10" parent="123" relname="condition">если у вас установлен клиент Zoom,</segment>
+		<segment id="11" parent="122" relname="joint">злоумышленник может подключить вас к своей телеконференции без спроса,</segment>
+		<segment id="12" parent="244" relname="span">более того — он может активировать веб-камеру,</segment>
+		<segment id="13" parent="12" relname="condition">не спрашивая дополнительных разрешений.</segment>
+		<segment id="14" parent="134" relname="contrast">Тот момент, когда вместо поиска пропатченной версии кто-то решит просто удалить клиент из системы.</segment>
+		<segment id="15" parent="132" relname="span">Но в данном случае это не поможет:</segment>
+		<segment id="16" parent="131" relname="joint">вместе с клиентом устанавливается веб-сервер, который работает даже после деинсталляции</segment>
+		<segment id="17" parent="131" relname="joint">— он даже способен «вернуть» клиентское ПО на место.</segment>
+		<segment id="18" parent="133" relname="contrast">В опасности, таким образом, оказались даже те, кто когда-то пользовался сервисами Zoom,</segment>
+		<segment id="19" parent="133" relname="contrast">но потом перестал.</segment>
+		<segment id="20" parent="135" relname="span">К ним на помощь пришла компания Apple,</segment>
+		<segment id="21" parent="20" relname="elaboration">без особых фанфар удалившая веб-сервер апдейтом для ОС.</segment>
+		<segment id="22" parent="247" relname="span">Эта история — настоящая infosec-драма,</segment>
+		<segment id="23" parent="246" relname="joint">в которой пользователям остается только наблюдать, как на их компьютерах появляется</segment>
+		<segment id="24" parent="246" relname="joint">и исчезает разнообразный софт.</segment>
+		<segment id="25" parent="225" relname="elaboration">IMG</segment>
+		<segment id="26" parent="144" relname="span">Исследование методов работы клиента Zoom началось с изучения локального веб-сервера:</segment>
+		<segment id="27" parent="228" relname="span">к нему пытается обратиться сайт сервиса</segment>
+		<segment id="28" parent="27" relname="condition">при открытии ссылки</segment>
+		<segment id="29" parent="228" relname="purpose">для подключения к телеконференции.</segment>
+		<segment id="30" parent="248" relname="span">Применен относительно элегантный способ запроса состояния локального сервера</segment>
+		<segment id="31" parent="30" relname="cause">— путем передачи изображения определенного формата.</segment>
+		<segment id="32" parent="248" relname="elaboration">IMG</segment>
+		<segment id="33" parent="147" relname="span">Так сделано</segment>
+		<segment id="34" parent="33" relname="purpose">для обхода ограничений браузера, следующего правилам Cross-Origin Resource Sharing.</segment>
+		<segment id="35" parent="149" relname="span">Веб-серверу Zoom также можно передать запрос на подключение к конференции.</segment>
+		<segment id="36" parent="148" relname="span">Выглядит этот запрос примерно так:</segment>
+		<segment id="37" parent="36" relname="elaboration">IMG</segment>
+		<segment id="38" parent="152" relname="sequence">Можно создать конференцию,</segment>
+		<segment id="39" parent="152" relname="sequence">поместить подобный запрос на веб-страницу,</segment>
+		<segment id="40" parent="152" relname="sequence">отправить ссылку жертве,</segment>
+		<segment id="41" parent="152" relname="sequence">и установленный на компьютере клиент автоматически подключит пользователя.</segment>
+		<segment id="42" parent="153" relname="span">Дальше стоит посмотреть на параметры самой веб-конференции:</segment>
+		<segment id="43" parent="42" relname="elaboration">IMG</segment>
+		<segment id="44" parent="158" relname="restatement">У вас есть возможность принудительного включения веб-камеры пользователя.</segment>
+		<segment id="45" parent="156" relname="sequence">То есть вы можете заманить ничего не подозревающего человека на конференц-звонок</segment>
+		<segment id="46" parent="157" relname="contrast">и сразу же получить изображение с камеры</segment>
+		<segment id="47" parent="157" relname="contrast">(но звук с микрофона жертве нужно будет включить вручную).</segment>
+		<segment id="48" parent="159" relname="contrast">В клиенте Zoom автоматическое включение камеры можно заблокировать,</segment>
+		<segment id="49" parent="159" relname="contrast">но с настройками по умолчанию камера включается сразу же.</segment>
+		<segment id="50" parent="162" relname="condition">Кстати, если отправлять запросы на подключение к конференции непрерывно,</segment>
+		<segment id="51" parent="162" relname="span">приложение Zoom будет постоянно переключать фокус на себя,</segment>
+		<segment id="52" parent="51" relname="condition">не давая пользователю возможности как-то отменить это действие.</segment>
+		<segment id="53" parent="163" relname="elaboration">Это классическая атака Denial Of Service.</segment>
+		<segment id="54" parent="229" relname="elaboration">IMG</segment>
+		<segment id="55" parent="56" relname="attribution">Наконец, исследователь подтвердил</segment>
+		<segment id="56" parent="251" relname="span">возможность принудительного апгрейда или установки заново клиента Zoom,</segment>
+		<segment id="57" parent="251" relname="condition">если на компьютере работает веб-сервер.</segment>
+		<segment id="58" parent="171" relname="span">Реакция вендора поначалу была далека от идеальной.</segment>
+		<segment id="59" parent="167" relname="span">Разработчики Zoom предложили несколько вариантов «заплаток» в логике веб-сервера,</segment>
+		<segment id="60" parent="59" relname="purpose">чтобы исключить возможность подключения пользователей без спроса.</segment>
+		<segment id="61" parent="168" relname="joint">Все они легко обходились</segment>
+		<segment id="62" parent="168" relname="joint">или немного усложняли жизнь потенциального злоумышленника.</segment>
+		<segment id="63" parent="233" relname="span">Финальное решение заключалось в добавлении еще одного параметра, передаваемого локальному серверу.</segment>
+		<segment id="64" parent="65" relname="attribution">Как выяснил исследователь,</segment>
+		<segment id="65" parent="254" relname="span">оно тоже не решало проблему.</segment>
+		<segment id="66" parent="231" relname="contrast">Единственное, что точно починили — это уязвимость, позволяющую проводить DoS-атаку.</segment>
+		<segment id="67" parent="68" relname="attribution">А на предложение Джонатана</segment>
+		<segment id="68" parent="173" relname="span">убрать включение веб-камеры по требованию организатора конференции и вовсе был дан ответ, что это фича,</segment>
+		<segment id="69" parent="173" relname="evaluation">«клиентам так удобнее».</segment>
+		<segment id="70" parent="180" relname="sequence">Первый раз исследователь пытался выйти на контакт с разработчиками Zoom 8 марта.</segment>
+		<segment id="71" parent="177" relname="span">8 июля истек общепринятый трехмесячный срок</segment>
+		<segment id="72" parent="71" relname="purpose">для исправления уязвимости,</segment>
+		<segment id="73" parent="74" relname="attribution">и Джонатан опубликовал свой пост о том,</segment>
+		<segment id="74" parent="178" relname="span">что он посчитал нерешенной проблемой.</segment>
+		<segment id="75" parent="181" relname="span">Только после публикации статьи Zoom пошел на более радикальные меры:</segment>
+		<segment id="76" parent="75" relname="elaboration">9 июля был выпущен патч, который полностью удаляет веб-сервер с компьютеров под управлением macOS.</segment>
+		<segment id="77" parent="235" relname="elaboration">Дорогая редакция регулярно общается по видеоконференц-связи</segment>
+		<segment id="78" parent="235" relname="span">и может на личном опыте заявить:</segment>
+		<segment id="79" parent="78" relname="evidence">все так делают.</segment>
+		<segment id="80" parent="185" relname="joint">Не в том смысле, что все устанавливают локальный веб-сервер вместе с клиентом</segment>
+		<segment id="81" parent="185" relname="joint">и потом забывают его удалить.</segment>
+		<segment id="82" parent="187" relname="comparison">Все или почти все сервисы для конференц-связи требуют больше привилегий в системе,</segment>
+		<segment id="83" parent="187" relname="comparison">чем им может предоставить страница в браузере.</segment>
+		<segment id="84" parent="188" relname="span">Поэтому в ход идут локальные приложения, расширения для браузеров и прочие инструменты,</segment>
+		<segment id="85" parent="189" relname="joint">чтобы в процессе общения работали микрофон и камера,</segment>
+		<segment id="86" parent="189" relname="joint">можно было делиться файлами и изображением своего рабочего стола.</segment>
+		<segment id="87" parent="193" relname="evaluation">Откровенно говоря, «уязвимость» (а точнее, намеренная ошибка в логике) Zoom — это не самое страшное, что с такими сервисами происходило.</segment>
+		<segment id="88" parent="89" relname="cause">В 2017 году проблема была обнаружена в браузерном расширении другого сервиса конференц-связи — Cisco Webex.</segment>
+		<segment id="89" parent="196" relname="span">В том случае уязвимость позволяла выполнять в системе произвольный код.</segment>
+		<segment id="90" parent="91" relname="cause">В 2016 году в менеджере паролей Trend Micro проблема также была найдена в локальном веб-сервере,</segment>
+		<segment id="91" parent="195" relname="span">что тоже открывало возможность выполнения произвольного кода.</segment>
+		<segment id="92" parent="198" relname="span">В конце прошлого года мы писали про дыру в утилите для клавиатур и мышей Logitech:</segment>
+		<segment id="93" parent="92" relname="elaboration">даже там использовался локальный веб-сервер, обращения к которому были возможны откуда угодно.</segment>
+		<segment id="94" parent="200" relname="preparation">Вывод:</segment>
+		<segment id="95" parent="200" relname="span">это довольно распространенная практика,</segment>
+		<segment id="96" parent="199" relname="span">хотя с точки зрения безопасности явно не самая лучшая</segment>
+		<segment id="97" parent="96" relname="cause">— уж слишком много потенциальных дыр несет с собой такой веб-сервер.</segment>
+		<segment id="98" parent="202" relname="span">Особенно если он по умолчанию создан</segment>
+		<segment id="99" parent="98" relname="purpose">для взаимодействия с внешними ресурсами (например, сайтом, инициирующим веб-конференцию).</segment>
+		<segment id="100" parent="215" relname="span">Тем более, если его нельзя удалить.</segment>
+		<segment id="101" parent="211" relname="contrast">Возможность быстрого восстановления клиента Zoom после удаления была явно сделана то ли для удобства пользователей, то ли для удобства разработчика.</segment>
+		<segment id="102" parent="249" relname="span">Тем не менее, после публикации исследования это принесло дополнительные проблемы.</segment>
+		<segment id="103" parent="104" relname="solutionhood">Окей, активные пользователи Zoom получили обновление,</segment>
+		<segment id="104" parent="206" relname="span">и проблема была решена.</segment>
+		<segment id="105" parent="207" relname="sequence">А что делать с теми, кто когда-то пользовался клиентом Zoom,</segment>
+		<segment id="106" parent="207" relname="sequence">потом перестал,</segment>
+		<segment id="107" parent="208" relname="contrast">но локальный веб-сервер у них до сих пор работает?</segment>
+		<segment id="108" parent="238" relname="span">Как оказалось, Apple по-тихому выпустила апдейт, удаляющий веб-сервер даже в таком случае.</segment>
+		<segment id="109" parent="217" relname="span">Надо отдать должное разработчику сервиса Zoom:</segment>
+		<segment id="110" parent="216" relname="sequence">после, так сказать, негативной реакции общественности они решили проблему</segment>
+		<segment id="111" parent="216" relname="sequence">и теперь регулярно делятся обновлениями с пользователями.</segment>
+		<segment id="112" parent="219" relname="span">Это явно не история успеха:</segment>
+		<segment id="113" parent="218" relname="joint">тут и разработчик пытался вежливо игнорировать реальные предложения исследователя,</segment>
+		<segment id="114" parent="115" relname="attribution">и исследователь назвал</segment>
+		<segment id="115" parent="250" relname="span">«зиродеем» то, что им не совсем является.</segment>
+		<segment id="116" parent="220" relname="contrast">Но в итоге все закончилось хорошо.</segment>
+		<segment id="117" parent="222" relname="joint">Disclaimer: Мнения, изложенные в этом дайджесте, могут не всегда совпадать с официальной позицией «Лаборатории Касперского».</segment>
+		<segment id="118" parent="222" relname="joint">Дорогая редакция вообще рекомендует относиться к любым мнениям со здоровым скептицизмом.</segment>
+		<group id="122" type="multinuc" parent="123" relname="span"/>
+		<group id="123" type="span" parent="124" relname="span"/>
+		<group id="124" type="span" parent="243" relname="elaboration"/>
+		<group id="125" type="span" parent="126" relname="contrast"/>
+		<group id="126" type="multinuc" parent="127" relname="span"/>
+		<group id="127" type="span" parent="130" relname="span"/>
+		<group id="128" type="multinuc" parent="239" relname="evaluation"/>
+		<group id="130" type="span" relname="antithesis"/>
+		<group id="131" type="multinuc" parent="15" relname="elaboration"/>
+		<group id="132" type="span" parent="134" relname="contrast"/>
+		<group id="133" type="multinuc" parent="223" relname="span"/>
+		<group id="134" type="multinuc" parent="223" relname="cause"/>
+		<group id="135" type="span" parent="224" relname="span"/>
+		<group id="137" type="span" parent="135" relname="solutionhood"/>
+		<group id="143" type="span" parent="26" relname="elaboration"/>
+		<group id="144" type="span" parent="145" relname="joint"/>
+		<group id="145" type="multinuc" parent="150" relname="span"/>
+		<group id="146" type="span" parent="145" relname="joint"/>
+		<group id="147" type="span" parent="150" relname="elaboration"/>
+		<group id="148" type="span" parent="35" relname="elaboration"/>
+		<group id="149" type="span" parent="155" relname="span"/>
+		<group id="150" type="span" parent="151" relname="span"/>
+		<group id="151" type="span" relname="antithesis"/>
+		<group id="152" type="multinuc" parent="154" relname="sequence"/>
+		<group id="153" type="span" parent="154" relname="sequence"/>
+		<group id="154" type="multinuc" parent="149" relname="elaboration"/>
+		<group id="155" type="span" relname="antithesis"/>
+		<group id="156" type="multinuc" parent="158" relname="restatement"/>
+		<group id="157" type="multinuc" parent="156" relname="sequence"/>
+		<group id="158" type="multinuc" parent="160" relname="span"/>
+		<group id="159" type="multinuc" parent="160" relname="elaboration"/>
+		<group id="160" type="span" parent="161" relname="span"/>
+		<group id="161" type="span" parent="229" relname="span"/>
+		<group id="162" type="span" parent="163" relname="span"/>
+		<group id="163" type="span" parent="164" relname="span"/>
+		<group id="164" type="span" parent="161" relname="background"/>
+		<group id="167" type="span" parent="169" relname="span"/>
+		<group id="168" type="multinuc" parent="167" relname="elaboration"/>
+		<group id="169" type="span" parent="170" relname="span"/>
+		<group id="170" type="span" parent="58" relname="elaboration"/>
+		<group id="171" type="span" parent="252" relname="evaluation"/>
+		<group id="173" type="span" parent="232" relname="span"/>
+		<group id="176" type="multinuc" relname="antithesis"/>
+		<group id="177" type="span" parent="179" relname="sequence"/>
+		<group id="178" type="span" parent="179" relname="sequence"/>
+		<group id="179" type="multinuc" parent="180" relname="sequence"/>
+		<group id="180" type="multinuc" relname="antithesis"/>
+		<group id="181" type="span" parent="180" relname="sequence"/>
+		<group id="185" type="multinuc" parent="186" relname="contrast"/>
+		<group id="186" type="multinuc" parent="192" relname="span"/>
+		<group id="187" type="multinuc" parent="190" relname="span"/>
+		<group id="188" type="span" parent="237" relname="span"/>
+		<group id="189" type="multinuc" parent="84" relname="purpose"/>
+		<group id="190" type="span" parent="188" relname="cause"/>
+		<group id="192" type="span" parent="193" relname="span"/>
+		<group id="193" type="span" parent="194" relname="span"/>
+		<group id="194" type="span" relname="antithesis"/>
+		<group id="195" type="span" parent="197" relname="joint"/>
+		<group id="196" type="span" parent="197" relname="joint"/>
+		<group id="197" type="multinuc" relname="antithesis"/>
+		<group id="198" type="span" parent="197" relname="joint"/>
+		<group id="199" type="span" parent="95" relname="concession"/>
+		<group id="200" type="span" parent="201" relname="span"/>
+		<group id="201" type="span" parent="204" relname="span"/>
+		<group id="202" type="span" parent="203" relname="joint"/>
+		<group id="203" type="multinuc" parent="201" relname="elaboration"/>
+		<group id="204" type="span" relname="antithesis"/>
+		<group id="206" type="span" parent="102" relname="elaboration"/>
+		<group id="207" type="multinuc" parent="208" relname="contrast"/>
+		<group id="208" type="multinuc" parent="212" relname="span"/>
+		<group id="211" type="multinuc" parent="214" relname="joint"/>
+		<group id="212" type="span" parent="108" relname="solutionhood"/>
+		<group id="214" type="multinuc" parent="100" relname="elaboration"/>
+		<group id="215" type="span" parent="203" relname="joint"/>
+		<group id="216" type="multinuc" parent="109" relname="elaboration"/>
+		<group id="217" type="span" parent="221" relname="span"/>
+		<group id="218" type="multinuc" parent="112" relname="elaboration"/>
+		<group id="219" type="span" parent="220" relname="contrast"/>
+		<group id="220" type="multinuc" parent="217" relname="evaluation"/>
+		<group id="221" type="span" relname="antithesis"/>
+		<group id="222" type="multinuc" relname="antithesis"/>
+		<group id="223" type="span" parent="137" relname="span"/>
+		<group id="224" type="span" parent="225" relname="span"/>
+		<group id="225" type="span" parent="226" relname="span"/>
+		<group id="226" type="span" parent="227" relname="span"/>
+		<group id="227" type="span" relname="antithesis"/>
+		<group id="228" type="span" parent="143" relname="span"/>
+		<group id="229" type="span" parent="230" relname="span"/>
+		<group id="230" type="span" relname="antithesis"/>
+		<group id="231" type="multinuc" parent="63" relname="evaluation"/>
+		<group id="232" type="span" parent="176" relname="contrast"/>
+		<group id="233" type="span" parent="169" relname="elaboration"/>
+		<group id="235" type="span" parent="236" relname="span"/>
+		<group id="236" type="span" parent="186" relname="contrast"/>
+		<group id="237" type="span" parent="192" relname="elaboration"/>
+		<group id="238" type="span" parent="214" relname="joint"/>
+		<group id="239" type="span" parent="240" relname="span"/>
+		<group id="240" type="span" parent="127" relname="background"/>
+		<group id="241" type="span" parent="242" relname="same-unit"/>
+		<group id="242" type="multinuc" parent="243" relname="span"/>
+		<group id="243" type="span" parent="125" relname="span"/>
+		<group id="244" type="span" parent="122" relname="joint"/>
+		<group id="246" type="multinuc" parent="22" relname="elaboration"/>
+		<group id="247" type="span" parent="224" relname="elaboration"/>
+		<group id="248" type="span" parent="146" relname="span"/>
+		<group id="249" type="span" parent="211" relname="contrast"/>
+		<group id="250" type="span" parent="218" relname="joint"/>
+		<group id="251" type="span" parent="252" relname="span"/>
+		<group id="252" type="span" parent="253" relname="span"/>
+		<group id="253" type="span" parent="176" relname="contrast"/>
+		<group id="254" type="span" parent="231" relname="contrast"/>
+  </body>
+</rst>

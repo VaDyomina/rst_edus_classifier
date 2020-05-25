@@ -1,0 +1,308 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="antithesis" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="background" type="rst" />
+			<rel name="cause" type="rst" />
+			<rel name="comparison" type="multinuc" />
+			<rel name="concession" type="rst" />
+			<rel name="conclusion" type="rst" />
+			<rel name="condition" type="rst" />
+			<rel name="contrast" type="multinuc" />
+			<rel name="effect" type="rst" />
+			<rel name="elaboration" type="rst" />
+			<rel name="evaluation" type="rst" />
+			<rel name="evidence" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="motivation" type="rst" />
+			<rel name="preparation" type="rst" />
+			<rel name="purpose" type="rst" />
+			<rel name="restatement" type="multinuc" />
+			<rel name="same-unit" type="multinuc" />
+			<rel name="sequence" type="multinuc" />
+			<rel name="solutionhood" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="1" relname="antithesis">https://habr.com/ru/company/ruvds/blog/460016/</segment>
+		<segment id="2" relname="antithesis">Признаки настоящих программистов-сеньоров и методы их выслеживания в дикой природе</segment>
+		<segment id="3" parent="147" relname="joint">Существует большой разброс в уровнях квалификации разработчиков.</segment>
+		<segment id="4" parent="147" relname="joint">И то, что называют «сеньорностью», часто ничего не говорит о реальных возможностях программиста.</segment>
+		<segment id="5" parent="148" relname="joint">Что делает некоторых разработчиков объективно лучше других?</segment>
+		<segment id="6" parent="148" relname="joint">Что выделяет их из серой толпы?</segment>
+		<segment id="7" parent="8" relname="condition">Если у программиста есть пять, десять или даже пятнадцать лет «практического опыта»</segment>
+		<segment id="8" parent="149" relname="span">— это не обязательно гарантирует то, что он является эффективным и продуктивным сеньором.</segment>
+		<segment id="9" parent="274" relname="contrast">На самом деле — это даже не значит, что он вообще может так называться.</segment>
+		<segment id="10" parent="154" relname="joint">Конечно, существуют и такие несчастные, из-за которых за успешными сеньорами, которые обычно немолоды, закрепилась плохая репутация.</segment>
+		<segment id="11" parent="154" relname="joint">Но и молодым сеньорам тоже не легче.</segment>
+		<segment id="12" parent="155" relname="contrast">Однако существуют определённые черты и знания, общие для разных программистов-сеньоров.</segment>
+		<segment id="13" parent="14" relname="preparation">IMG</segment>
+		<segment id="14" parent="156" relname="span">Нельзя сказать, что реальным сеньорам известны какие-то секреты профессионального мастерства.</segment>
+		<segment id="15" parent="279" relname="span">Они, скорее, отличаются особой структурой знаний, особым мышлением.</segment>
+		<segment id="16" parent="15" relname="elaboration">И то и другое поддаётся развитию.</segment>
+		<segment id="17" parent="159" relname="joint">Автор материала, перевод которого мы сегодня публикуем, говорит, что хочет рассказать о некоторых признаках, которые помогают отличить настоящего программиста-сеньора от программиста с «сеньорностью».</segment>
+		<segment id="18" parent="293" relname="preparation">Парадигмы программирования</segment>
+		<segment id="19" parent="293" relname="span">Принципы SOLID, объектно-ориентированное и функциональное программирование — это три парадигмы программирования, три методологии написания чистого кода,</segment>
+		<segment id="20" parent="294" relname="span">которые составляют значительную часть концептуальных подходов,</segment>
+		<segment id="21" parent="20" relname="elaboration">стоящих за созданием программ.</segment>
+		<segment id="22" parent="167" relname="restatement">Многие программисты-джуниоры в ходе работы упускают одну важную вещь, которая заключается в том, что программирование — это язык.</segment>
+		<segment id="23" parent="164" relname="joint">Это означает, что программирование — это нечто большее, чем набор неких грамматических правил.</segment>
+		<segment id="24" parent="165" relname="span">Это — средство общения,</segment>
+		<segment id="25" parent="24" relname="elaboration">явление, которое может быть структурировано множеством способов.</segment>
+		<segment id="26" parent="296" relname="span">Парадигмы программирования помогают</segment>
+		<segment id="27" parent="297" relname="joint">сформировать определённую позицию относительно того, как код воспринимается,</segment>
+		<segment id="28" parent="297" relname="joint">и того, как он передаёт информацию.</segment>
+		<segment id="29" parent="171" relname="comparison">Писать код может кто угодно</segment>
+		<segment id="30" parent="171" relname="comparison">— точно так же, как кто угодно может написать сообщение в мессенджере или короткий обзор книги на Amazon.</segment>
+		<segment id="31" parent="172" relname="contrast">Но подобные тексты нельзя поставить на один уровень с романами Стивена Кинга.</segment>
+		<segment id="32" parent="174" relname="span">Парадигмы программирования действуют как направляющая сила, стоящая за кодом, который пишут сеньоры.</segment>
+		<segment id="33" parent="173" relname="joint">Это делает парадигмы похожими на сюжетные структуры, которым следуют авторы художественных произведений.</segment>
+		<segment id="34" parent="173" relname="joint">Все языки пронизаны формулами.</segment>
+		<segment id="35" parent="298" relname="comparison">Разработчики-сеньоры понимают их на глубоком уровне,</segment>
+		<segment id="36" parent="298" relname="comparison">до которого джунам и мидлам ещё только предстоит дойти.</segment>
+		<segment id="37" parent="181" relname="preparation">Способность создавать</segment>
+		<segment id="38" parent="180" relname="condition">Когда мы впервые приходим в мир циклов for и конструкций if else,</segment>
+		<segment id="39" parent="177" relname="joint">мы задаём вопросы</segment>
+		<segment id="40" parent="179" relname="span">и пытаемся найти ответы на них в виде кода,</segment>
+		<segment id="41" parent="178" relname="joint">который можно откуда-то скопировать</segment>
+		<segment id="42" parent="178" relname="joint">и вставить в свой проект.</segment>
+		<segment id="43" parent="182" relname="elaboration">Уровень понимания этого кода — это то, чем характеризуется квалификация джуниоров, которые только приступили к работе, и начинающих мидлов.</segment>
+		<segment id="44" parent="188" relname="span">Сеньоры, однако, идут дальше копирования.</segment>
+		<segment id="45" parent="187" relname="joint">Они могут создавать что-то новое и без особенной помощи всемогущего Google.</segment>
+		<segment id="46" parent="184" relname="joint">Они знают о том, что делают,</segment>
+		<segment id="47" parent="184" relname="joint">они понимают то, как их решения воздействуют на результаты их работы.</segment>
+		<segment id="48" parent="185" relname="joint">Они могут видеть,</segment>
+		<segment id="49" parent="185" relname="joint">или, по крайней мере, предвидеть нештатные ситуации.</segment>
+		<segment id="50" parent="186" relname="joint">Они понимают проблемы своего кода</segment>
+		<segment id="51" parent="186" relname="joint">и знают о том, как с ними бороться.</segment>
+		<segment id="52" parent="190" relname="condition">Если им что-то неизвестно</segment>
+		<segment id="53" parent="190" relname="span">— они восполняют пробелы в знаниях,</segment>
+		<segment id="54" parent="189" relname="contrast">серьёзно разбираясь в неясных вопросах,</segment>
+		<segment id="55" parent="189" relname="contrast">не ограничиваясь лишь их поверхностным изучением.</segment>
+		<segment id="56" parent="281" relname="evaluation">Они глубоко понимают все те инструменты, которыми пользуются.</segment>
+		<segment id="57" parent="191" relname="evaluation">Мир кода выглядит в глазах сеньоров не так, как в глазах джунов или мидлов.</segment>
+		<segment id="58" parent="59" relname="preparation">Объективная критика</segment>
+		<segment id="59" parent="195" relname="span">Все отдают предпочтение тому, что они знают.</segment>
+		<segment id="60" parent="196" relname="span">Джуниоры и мидлы демонстрируют сильную тенденцию к тому, чтобы делать акцент на их собственном опыте, а не на том, что относится к анализируемому ими коду.</segment>
+		<segment id="61" parent="197" relname="joint">Если они высказывают некое предложение,</segment>
+		<segment id="62" parent="197" relname="joint">или если они оценивают что-либо</segment>
+		<segment id="63" parent="198" relname="span">— основой всего этого являются их личные предпочтения.</segment>
+		<segment id="64" parent="198" relname="elaboration">Это — стиль написания кода, способы именования сущностей, методы мышления.</segment>
+		<segment id="65" parent="203" relname="span">В этом нет ничего плохого.</segment>
+		<segment id="66" parent="65" relname="evidence">Всё это — часть процесса профессионального роста.</segment>
+		<segment id="67" parent="206" relname="purpose">Для того чтобы достичь настоящей объективности суждений,</segment>
+		<segment id="68" parent="204" relname="joint">программисту нужно побывать во множестве ситуаций</segment>
+		<segment id="69" parent="204" relname="joint">и самому увидеть, как нечто, неприемлемое в одном случае, в другом может оказаться наилучшим решением некоей проблемы.</segment>
+		<segment id="70" parent="212" relname="span">Это развивает у разработчика нейтральный взгляд на вещи.</segment>
+		<segment id="71" parent="284" relname="contrast">Нет единственно правильного способа писать код.</segment>
+		<segment id="72" parent="284" relname="contrast">Есть лишь способы, которые эффективны в определённой ситуации и при определённом сценарии развития событий.</segment>
+		<segment id="73" parent="210" relname="span">Программисты-сеньоры это понимают.</segment>
+		<segment id="74" parent="209" relname="joint">Они готовы принять то, что их код может и не быть неким «самым лучшим» кодом,</segment>
+		<segment id="75" parent="209" relname="joint">и то, что он может быть подвергнуть улучшению.</segment>
+		<segment id="76" parent="216" relname="span">Сеньоры часто становятся продуктивными контролёрами качества кода,</segment>
+		<segment id="77" parent="215" relname="joint">указывая на беспорядок, который устраивают в программах их коллеги</segment>
+		<segment id="78" parent="215" relname="joint">и отмечая слабые места архитектуры приложений.</segment>
+		<segment id="79" parent="217" relname="joint">Они способны увидеть общую картину проекта,</segment>
+		<segment id="80" parent="217" relname="joint">оценить возможность возникновения совершенно неожиданных проблем.</segment>
+		<segment id="81" parent="218" relname="contrast">При этом они не привязаны к какому-то стилю написания кода или к какой-то парадигме программирования.</segment>
+		<segment id="82" parent="218" relname="contrast">В центре их внимания находятся не инструменты, а результат.</segment>
+		<segment id="83" parent="299" relname="preparation">Разница между хорошей программой и работающей программой</segment>
+		<segment id="84" parent="299" relname="span">Разработчики создают код,</segment>
+		<segment id="85" parent="84" relname="purpose">главная задача которого — запуститься.</segment>
+		<segment id="86" parent="222" relname="joint">Некоторые из них останавливаются на этом,</segment>
+		<segment id="87" parent="222" relname="joint">и считают, что работающий код — это всё, что им нужно.</segment>
+		<segment id="88" parent="224" relname="joint">Другие идут немного дальше</segment>
+		<segment id="89" parent="223" relname="span">и стремятся к тому,</segment>
+		<segment id="90" parent="89" relname="purpose">чтобы код был бы не только работающим, но и качественно написанным.</segment>
+		<segment id="91" parent="228" relname="span">Лучшие разработчики — это те профессионалы,</segment>
+		<segment id="92" parent="227" relname="joint">которые в процессе работы редактируют</segment>
+		<segment id="93" parent="227" relname="joint">и переписывают наш код.</segment>
+		<segment id="94" parent="230" relname="contrast">Они могут и согласиться с применением какой-нибудь неудачной конструкции,</segment>
+		<segment id="95" parent="96" relname="condition">но как только у них возникнет возможность её исправить</segment>
+		<segment id="96" parent="229" relname="span">— они это сделают.</segment>
+		<segment id="97" parent="231" relname="evaluation">Такие разработчики понимают разницу между хорошей и работающей программой.</segment>
+		<segment id="98" parent="239" relname="contrast">Большинство руководителей интересует только работоспособность программы.</segment>
+		<segment id="99" parent="238" relname="span">Но хорошие разработчики-сеньоры видят ситуацию глубже.</segment>
+		<segment id="100" parent="234" relname="joint">Они понимают скрытую стоимость технического долга</segment>
+		<segment id="101" parent="234" relname="joint">и способны распознать код, который указывает на наличие в системе глубинных проблем.</segment>
+		<segment id="102" parent="236" relname="joint">Они знают о том, как совместить потребность бизнеса в работающих программах с качеством кода.</segment>
+		<segment id="103" parent="235" relname="span">Это позволяет им находить баланс между сдачей проектов в срок и включением в них дополнительных возможностей,</segment>
+		<segment id="104" parent="103" relname="elaboration">о которых заказчики проектов вспоминают далеко не в самом начале работы.</segment>
+		<segment id="105" parent="106" relname="cause">Широта их знаний, понимание фреймворков и языков программирования, делают их экспертами в вопросе нахождения разницы между программами работающими и программами качественными.</segment>
+		<segment id="106" parent="240" relname="span">Они умеют создавать и то и другое.</segment>
+		<segment id="107" parent="241" relname="span">Это даёт настоящим сеньорам возможность находить креативные решения проблем в самых разных ситуациях.</segment>
+		<segment id="108" parent="245" relname="joint">Способность учить</segment>
+		<segment id="109" parent="242" relname="comparison">Посредственный учитель излагает.</segment>
+		<segment id="110" parent="242" relname="comparison">Хороший учитель объясняет.</segment>
+		<segment id="111" parent="242" relname="comparison">Выдающийся учитель показывает.</segment>
+		<segment id="112" parent="242" relname="comparison">Великий учитель вдохновляет.</segment>
+		<segment id="113" parent="243" relname="attribution">Уильям Артур Уорд</segment>
+		<segment id="114" parent="247" relname="span">У настоящих разработчиков-сеньоров есть страсть к технологиям,</segment>
+		<segment id="115" parent="116" relname="cause">которая вдохновляет их менее опытных товарищей,</segment>
+		<segment id="116" parent="289" relname="span">помогая начинающим становиться профессионалами высочайшего класса.</segment>
+		<segment id="117" parent="250" relname="span">Программирование, само по себе, это набор неких идей.</segment>
+		<segment id="118" parent="249" relname="span">У сеньоров есть способность сжато и понятно излагать эти идеи.</segment>
+		<segment id="119" parent="118" relname="evaluation">Способность сеньоров переносить код между разными интерфейсами и средами демонстрирует истинное понимание выбранного ими языка программирования.</segment>
+		<segment id="120" parent="121" relname="purpose">Для того чтобы кого-либо чему-либо учить,</segment>
+		<segment id="121" parent="251" relname="span">необходим определённый уровень владения предметом.</segment>
+		<segment id="122" parent="253" relname="contrast">То, что называют «опытом работы», может выглядеть в резюме программиста как перечень выполненных им проектов, или как время, которое он трудился в разных компаниях.</segment>
+		<segment id="123" parent="253" relname="contrast">Но возможность учить других — это навык, который доступен лишь тому, кто по-настоящему владеет своим ремеслом.</segment>
+		<segment id="124" parent="257" relname="preparation">Итоги</segment>
+		<segment id="125" parent="257" relname="span">Настоящий разработчик-сеньор — это многогранное существо,</segment>
+		<segment id="126" parent="256" relname="same-unit">которое иногда,</segment>
+		<segment id="127" parent="128" relname="condition">если речь идёт об областях, находящихся вне сферы его основной деятельности,</segment>
+		<segment id="128" parent="255" relname="span">может выглядеть как джун или мидл.</segment>
+		<segment id="129" parent="259" relname="contrast">Но сеньор обладает мощной базой в области философии программирования.</segment>
+		<segment id="130" parent="131" relname="purpose">Однако вышеприведённые особенности сеньоров — это то, что присутствует в их личностях и в их профессиональных знаниях.</segment>
+		<segment id="131" parent="260" relname="span">Это позволяет им осваивать новые технологии быстрее, чем некоему «усреднённому» программисту.</segment>
+		<segment id="132" parent="261" relname="joint">Часто сеньоры — это люди, которые способны охватить одним взглядом общую картину происходящего.</segment>
+		<segment id="133" parent="261" relname="joint">Они способны смотреть на код без предрассудков и суеверий.</segment>
+		<segment id="134" parent="292" relname="joint">Настоящий сеньор будет вести своих товарищей по работе к привычкам создания чистого кода.</segment>
+		<segment id="135" parent="266" relname="contrast">При этом он не будет представлять собой разрушительную силу, которая пытается втиснуть всё, с чем сталкивается, в прокрустово ложе собственного опыта.</segment>
+		<segment id="136" parent="265" relname="span">Этот человек спокойно воспринимает ошибки сослуживцев, да и свои тоже.</segment>
+		<segment id="137" parent="263" relname="joint">Он стремится учиться</segment>
+		<segment id="138" parent="263" relname="joint">и учить на ошибках,</segment>
+		<segment id="139" parent="264" relname="contrast">а не унижать менее опытных коллег.</segment>
+		<segment id="140" parent="268" relname="joint">Разработчик-сеньор может быть человеком любого возраста,</segment>
+		<segment id="141" parent="268" relname="joint">он может прийти из любой отрасли информационных технологий,</segment>
+		<segment id="142" parent="268" relname="joint">его «практический опыт» может исчисляться любым количеством лет.</segment>
+		<segment id="143" parent="269" relname="joint">Главная особенность таких людей заключается в том, что они по-настоящему умеют решать проблемы,</segment>
+		<segment id="144" parent="269" relname="joint">и в том, что они способны мыслить в долгосрочной перспективе.</segment>
+		<segment id="145" relname="antithesis">Уважаемые читатели! Если вы занимаетесь подбором кадров в сфере информационных технологий</segment>
+		<segment id="146" relname="antithesis">— просим рассказать нам о том, как вы «выслеживаете» сеньоров.</segment>
+		<group id="147" type="multinuc" parent="275" relname="preparation"/>
+		<group id="148" type="multinuc" parent="151" relname="span"/>
+		<group id="149" type="span" parent="274" relname="contrast"/>
+		<group id="150" type="span" parent="275" relname="span"/>
+		<group id="151" type="span" parent="150" relname="solutionhood"/>
+		<group id="154" type="multinuc" parent="155" relname="contrast"/>
+		<group id="155" type="multinuc" parent="277" relname="background"/>
+		<group id="156" type="span" parent="157" relname="contrast"/>
+		<group id="157" type="multinuc" parent="159" relname="joint"/>
+		<group id="159" type="multinuc" relname="antithesis"/>
+		<group id="164" type="multinuc" parent="166" relname="contrast"/>
+		<group id="165" type="span" parent="166" relname="contrast"/>
+		<group id="166" type="multinuc" parent="167" relname="restatement"/>
+		<group id="167" type="multinuc" parent="169" relname="joint"/>
+		<group id="169" type="multinuc" parent="170" relname="joint"/>
+		<group id="170" type="multinuc" relname="antithesis"/>
+		<group id="171" type="multinuc" parent="172" relname="contrast"/>
+		<group id="172" type="multinuc" parent="175" relname="span"/>
+		<group id="173" type="multinuc" parent="32" relname="elaboration"/>
+		<group id="174" type="span" parent="280" relname="comparison"/>
+		<group id="175" type="span" parent="280" relname="comparison"/>
+		<group id="176" type="span" relname="antithesis"/>
+		<group id="177" type="multinuc" parent="180" relname="span"/>
+		<group id="178" type="multinuc" parent="40" relname="elaboration"/>
+		<group id="179" type="span" parent="177" relname="joint"/>
+		<group id="180" type="span" parent="181" relname="span"/>
+		<group id="181" type="span" parent="182" relname="span"/>
+		<group id="182" type="span" parent="183" relname="span"/>
+		<group id="183" type="span" relname="antithesis"/>
+		<group id="184" type="multinuc" parent="187" relname="joint"/>
+		<group id="185" type="multinuc" parent="187" relname="joint"/>
+		<group id="186" type="multinuc" parent="187" relname="joint"/>
+		<group id="187" type="multinuc" parent="44" relname="elaboration"/>
+		<group id="188" type="span" relname="antithesis"/>
+		<group id="189" type="multinuc" parent="281" relname="span"/>
+		<group id="190" type="span" parent="191" relname="span"/>
+		<group id="191" type="span" parent="283" relname="span"/>
+		<group id="195" type="span" parent="202" relname="span"/>
+		<group id="196" type="span" parent="195" relname="elaboration"/>
+		<group id="197" type="multinuc" parent="63" relname="condition"/>
+		<group id="198" type="span" parent="200" relname="span"/>
+		<group id="200" type="span" parent="60" relname="evidence"/>
+		<group id="202" type="span" relname="antithesis"/>
+		<group id="203" type="span" parent="214" relname="span"/>
+		<group id="204" type="multinuc" parent="206" relname="span"/>
+		<group id="206" type="span" parent="207" relname="span"/>
+		<group id="207" type="span" parent="212" relname="cause"/>
+		<group id="208" type="span" parent="211" relname="span"/>
+		<group id="209" type="multinuc" parent="73" relname="elaboration"/>
+		<group id="210" type="span" parent="208" relname="evaluation"/>
+		<group id="211" type="span" parent="70" relname="elaboration"/>
+		<group id="212" type="span" parent="213" relname="span"/>
+		<group id="213" type="span" parent="203" relname="elaboration"/>
+		<group id="214" type="span" relname="antithesis"/>
+		<group id="215" type="multinuc" parent="76" relname="cause"/>
+		<group id="216" type="span" parent="220" relname="span"/>
+		<group id="217" type="multinuc" parent="219" relname="joint"/>
+		<group id="218" type="multinuc" parent="219" relname="joint"/>
+		<group id="219" type="multinuc" parent="216" relname="elaboration"/>
+		<group id="220" type="span" relname="antithesis"/>
+		<group id="221" type="span" parent="226" relname="span"/>
+		<group id="222" type="multinuc" parent="225" relname="comparison"/>
+		<group id="223" type="span" parent="224" relname="joint"/>
+		<group id="224" type="multinuc" parent="225" relname="comparison"/>
+		<group id="225" type="multinuc" parent="221" relname="elaboration"/>
+		<group id="226" type="span" parent="233" relname="joint"/>
+		<group id="227" type="multinuc" parent="91" relname="elaboration"/>
+		<group id="228" type="span" parent="231" relname="span"/>
+		<group id="229" type="span" parent="230" relname="contrast"/>
+		<group id="230" type="multinuc" parent="228" relname="elaboration"/>
+		<group id="231" type="span" parent="232" relname="span"/>
+		<group id="232" type="span" parent="233" relname="joint"/>
+		<group id="233" type="multinuc" relname="antithesis"/>
+		<group id="234" type="multinuc" parent="236" relname="joint"/>
+		<group id="235" type="span" parent="288" relname="span"/>
+		<group id="236" type="multinuc" parent="285" relname="span"/>
+		<group id="238" type="span" parent="239" relname="contrast"/>
+		<group id="239" type="multinuc" relname="antithesis"/>
+		<group id="240" type="span" parent="107" relname="cause"/>
+		<group id="241" type="span" parent="235" relname="elaboration"/>
+		<group id="242" type="multinuc" parent="243" relname="span"/>
+		<group id="243" type="span" parent="244" relname="span"/>
+		<group id="244" type="span" parent="245" relname="joint"/>
+		<group id="245" type="multinuc" parent="247" relname="preparation"/>
+		<group id="247" type="span" parent="248" relname="span"/>
+		<group id="248" type="span" relname="antithesis"/>
+		<group id="249" type="span" parent="290" relname="span"/>
+		<group id="250" type="span" relname="antithesis"/>
+		<group id="251" type="span" parent="254" relname="span"/>
+		<group id="253" type="multinuc" parent="251" relname="elaboration"/>
+		<group id="254" type="span" parent="249" relname="elaboration"/>
+		<group id="255" type="span" parent="256" relname="same-unit"/>
+		<group id="256" type="multinuc" parent="125" relname="elaboration"/>
+		<group id="257" type="span" parent="258" relname="span"/>
+		<group id="258" type="span" parent="259" relname="contrast"/>
+		<group id="259" type="multinuc" parent="291" relname="contrast"/>
+		<group id="260" type="span" parent="262" relname="span"/>
+		<group id="261" type="multinuc" parent="260" relname="background"/>
+		<group id="262" type="span" parent="291" relname="contrast"/>
+		<group id="263" type="multinuc" parent="264" relname="contrast"/>
+		<group id="264" type="multinuc" parent="136" relname="elaboration"/>
+		<group id="265" type="span" parent="266" relname="contrast"/>
+		<group id="266" type="multinuc" parent="292" relname="joint"/>
+		<group id="268" type="multinuc" parent="270" relname="span"/>
+		<group id="269" type="multinuc" parent="270" relname="elaboration"/>
+		<group id="270" type="span" parent="271" relname="span"/>
+		<group id="271" type="span" parent="273" relname="joint"/>
+		<group id="273" type="multinuc" relname="antithesis"/>
+		<group id="274" type="multinuc" parent="277" relname="span"/>
+		<group id="275" type="span" parent="276" relname="span"/>
+		<group id="276" type="span" relname="antithesis"/>
+		<group id="277" type="span" parent="150" relname="span"/>
+		<group id="279" type="span" parent="157" relname="contrast"/>
+		<group id="280" type="multinuc" parent="176" relname="span"/>
+		<group id="281" type="span" parent="282" relname="span"/>
+		<group id="282" type="span" parent="53" relname="condition"/>
+		<group id="283" type="span" relname="antithesis"/>
+		<group id="284" type="multinuc" parent="208" relname="span"/>
+		<group id="285" type="span" parent="286" relname="span"/>
+		<group id="286" type="span" parent="287" relname="span"/>
+		<group id="287" type="span" parent="99" relname="elaboration"/>
+		<group id="288" type="span" parent="286" relname="purpose"/>
+		<group id="289" type="span" parent="114" relname="elaboration"/>
+		<group id="290" type="span" parent="117" relname="elaboration"/>
+		<group id="291" type="multinuc" relname="antithesis"/>
+		<group id="292" type="multinuc" parent="273" relname="joint"/>
+		<group id="293" type="span" parent="295" relname="span"/>
+		<group id="294" type="span" parent="19" relname="elaboration"/>
+		<group id="295" type="span" parent="170" relname="joint"/>
+		<group id="296" type="span" parent="169" relname="joint"/>
+		<group id="297" type="multinuc" parent="26" relname="purpose"/>
+		<group id="298" type="multinuc" parent="173" relname="joint"/>
+		<group id="299" type="span" parent="221" relname="span"/>
+  </body>
+</rst>

@@ -1,0 +1,785 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="antithesis" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="background" type="rst" />
+			<rel name="cause" type="rst" />
+			<rel name="comparison" type="multinuc" />
+			<rel name="concession" type="rst" />
+			<rel name="conclusion" type="rst" />
+			<rel name="condition" type="rst" />
+			<rel name="contrast" type="multinuc" />
+			<rel name="effect" type="rst" />
+			<rel name="elaboration" type="rst" />
+			<rel name="evaluation" type="rst" />
+			<rel name="evidence" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="motivation" type="rst" />
+			<rel name="preparation" type="rst" />
+			<rel name="purpose" type="rst" />
+			<rel name="restatement" type="multinuc" />
+			<rel name="same-unit" type="multinuc" />
+			<rel name="sequence" type="multinuc" />
+			<rel name="solutionhood" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="1" relname="antithesis">https://evo-lutio.livejournal.com/930925.html</segment>
+		<segment id="2" relname="antithesis">Формула красного поля</segment>
+		<segment id="3" parent="389" relname="span">Пришло время формулу личной территории в близких отношениях написать.</segment>
+		<segment id="4" parent="388" relname="span">Те самые права (П),</segment>
+		<segment id="5" parent="385" relname="joint">за которые кто-то борется скалками,</segment>
+		<segment id="6" parent="387" relname="span">а кто-то собирает мнения по знакомым:</segment>
+		<segment id="7" parent="386" relname="contrast">имею я право в баре после работы посидеть</segment>
+		<segment id="8" parent="386" relname="contrast">или тварь я дрожащая перед женой?</segment>
+		<segment id="9" parent="390" relname="span">Формула П описывает красное поле,</segment>
+		<segment id="10" parent="9" relname="concession">хотя красное поле описывается не одной этой формулой.</segment>
+		<segment id="11" parent="391" relname="span">Вот эта формула.</segment>
+		<segment id="12" parent="11" relname="evaluation">На вид она простая.</segment>
+		<segment id="13" parent="391" relname="elaboration">П = СЗ(1) - СЗ(2)</segment>
+		<segment id="14" parent="394" relname="span">П - это размер вашей личной территории в отношениях, ваших прав или ваших рычагов, который определяется разницей СЗ, вашей и партнера.</segment>
+		<segment id="15" parent="16" relname="condition">При балансе</segment>
+		<segment id="16" parent="393" relname="span">размер вашей личной территории равен нулю.</segment>
+		<segment id="17" parent="396" relname="contrast">Звучит устрашающе,</segment>
+		<segment id="18" parent="399" relname="same-unit">но значит лишь то, что</segment>
+		<segment id="19" parent="20" relname="condition">при равной значимости</segment>
+		<segment id="20" parent="397" relname="span">вы ничего не должны делать из того, что не нравится партнеру,</segment>
+		<segment id="21" parent="397" relname="condition">если хотите оставаться в границах.</segment>
+		<segment id="22" parent="401" relname="comparison">Но партнеру будет нравиться почти все,</segment>
+		<segment id="23" parent="401" relname="comparison">что нравится вам.</segment>
+		<segment id="24" parent="406" relname="span">В этом заключается секрет баланса.</segment>
+		<segment id="25" parent="405" relname="span">Вся ваша территория общая, в самом хорошем смысле.</segment>
+		<segment id="26" parent="25" relname="evaluation">Коммунизм, мир, дружба и жвачка.</segment>
+		<segment id="27" parent="28" relname="condition">Если ваша СЗ(1) значительно больше СЗ(2) - значимости вашего партнера,</segment>
+		<segment id="28" parent="410" relname="span">то личных прав у вас в отношениях много.</segment>
+		<segment id="29" parent="413" relname="contrast">Это значит практически "что хочу, то и ворочу".</segment>
+		<segment id="30" parent="412" relname="span">Второй будет подстраиваться.</segment>
+		<segment id="31" parent="32" relname="condition">Если он чего-то и не хочет,</segment>
+		<segment id="32" parent="411" relname="span">волшебным образом захочет.</segment>
+		<segment id="33" parent="34" relname="condition">Если ваша СЗ(1) значительно меньше СЗ(2) - значимости вашего партнера,</segment>
+		<segment id="34" parent="415" relname="span">то личных прав у вас в отношениях очень мало.</segment>
+		<segment id="35" parent="416" relname="span">Вы должны делать только то,</segment>
+		<segment id="36" parent="35" relname="elaboration">что нравится партнеру.</segment>
+		<segment id="37" parent="417" relname="span">Не пытайтесь устраивать бунт,</segment>
+		<segment id="38" parent="37" relname="cause">пожалеете.</segment>
+		<segment id="39" parent="422" relname="evaluation">Вот и вся наука о правах на общей территории.</segment>
+		<segment id="40" parent="423" relname="span">Давайте поглядим, что получается,</segment>
+		<segment id="41" parent="40" relname="condition">когда люди не учитывают этот закон.</segment>
+		<segment id="42" parent="425" relname="condition">Допустим, разница СЗ не в вашу пользу,</segment>
+		<segment id="43" parent="425" relname="span">а вы решаете отвоевать права. Пикой, как вам кажется, а на самом деле скалкой.</segment>
+		<segment id="44" parent="426" relname="joint">Вы - в черном поле,</segment>
+		<segment id="45" parent="426" relname="joint">вы лишитесь других прав на общей территории,</segment>
+		<segment id="46" parent="426" relname="joint">ваша П станет меньше,</segment>
+		<segment id="47" parent="427" relname="span">и вы будете должны выплатить компенсацию срочно,</segment>
+		<segment id="48" parent="47" relname="purpose">чтобы остаться в отношениях,</segment>
+		<segment id="49" parent="50" relname="cause">либо покинуть территорию отношений</segment>
+		<segment id="50" parent="428" relname="span">и выплатить компенсацию постепенно.</segment>
+		<segment id="51" parent="431" relname="evaluation">Такие законы поля.</segment>
+		<segment id="52" parent="433" relname="span">То же самое происходит и</segment>
+		<segment id="53" parent="52" relname="condition">при попытке</segment>
+		<segment id="54" parent="435" relname="span">захватить намного больше прав</segment>
+		<segment id="55" parent="54" relname="condition">при балансе,</segment>
+		<segment id="56" parent="436" relname="comparison">чем позволяет лимит доверия.</segment>
+		<segment id="57" parent="438" relname="span">Отличается только размер компенсации.</segment>
+		<segment id="58" parent="437" relname="span">Компенсация - это трата энергии на восстановление баланса в поле.</segment>
+		<segment id="59" parent="58" relname="elaboration">Энергия по-разному может выражаться, в материальном эквиваленте тоже.</segment>
+		<segment id="60" parent="440" relname="span">Реальное увеличение П возможно только</segment>
+		<segment id="61" parent="60" relname="condition">при изменении разницы СЗ,</segment>
+		<segment id="62" parent="441" relname="contrast">больше никак.</segment>
+		<segment id="63" parent="443" relname="condition">Те, кто борется за П скалками</segment>
+		<segment id="64" parent="442" relname="joint">снижают свою СЗ</segment>
+		<segment id="65" parent="442" relname="joint">и снижают размер П.</segment>
+		<segment id="66" parent="447" relname="condition">Те, кто собирают по знакомым мнения,</segment>
+		<segment id="67" parent="445" relname="joint">обычно снижают свою СЗ</segment>
+		<segment id="68" parent="446" relname="restatement">и растят СЗ другого,</segment>
+		<segment id="69" parent="446" relname="restatement">то есть тоже снижают размер П.</segment>
+		<segment id="70" parent="453" relname="span">Реально увеличить П можно</segment>
+		<segment id="71" parent="449" relname="joint">только увеличив свою СЗ</segment>
+		<segment id="72" parent="449" relname="joint">или снизив СЗ партнера,</segment>
+		<segment id="73" parent="450" relname="joint">при условии, что ваша СЗ не снизится</segment>
+		<segment id="74" parent="450" relname="joint">или вырастет.</segment>
+		<segment id="75" parent="458" relname="contrast">Покинуть отношения вы можете,</segment>
+		<segment id="76" parent="457" relname="span">но компенсацию все равно придется выплатить,</segment>
+		<segment id="77" parent="454" relname="span">хотя размер этой компенсации</segment>
+		<segment id="78" parent="77" relname="condition">при экологичном уходе из минуса</segment>
+		<segment id="79" parent="455" relname="same-unit">может быть небольшим,</segment>
+		<segment id="80" parent="456" relname="span">для того и нужен экологичный уход (реально экологичный, а не АААА в ночнушке в ночь).</segment>
+		<segment id="81" parent="771" relname="span">Экологичный уход постфактум дает еще и рост вашей СЗ и снижение СЗ партнера,</segment>
+		<segment id="82" parent="81" relname="evaluation">в этом в основном и кроется секрет уменьшения компенсации.</segment>
+		<segment id="83" parent="476" relname="contrast">Я написала, что время для формулы П пришло,</segment>
+		<segment id="84" parent="476" relname="contrast">но я очень сомневаюсь, что это так.</segment>
+		<segment id="85" parent="477" relname="span">Поэтому попробую начать с примеров.</segment>
+		<segment id="86" parent="478" relname="span">В обычных отношениях число П никогда почти не бывает слишком большим,</segment>
+		<segment id="87" parent="86" relname="elaboration">оно близко к нулю.</segment>
+		<segment id="88" parent="482" relname="span">Даже когда в отношениях дефолт,</segment>
+		<segment id="89" parent="480" relname="joint">П близка к нулю,</segment>
+		<segment id="90" parent="479" relname="contrast">СЗ небольшие,</segment>
+		<segment id="91" parent="479" relname="contrast">но примерно равные</segment>
+		<segment id="92" parent="481" relname="span">и люди в трезвом и спокойном состоянии не рискуют делать то, что не понравится второму,</segment>
+		<segment id="93" parent="92" relname="cause">скандалов не оберешься.</segment>
+		<segment id="94" parent="496" relname="contrast">В гневе - другое дело.</segment>
+		<segment id="95" parent="484" relname="span">Увидеть отношения с очень большой П можно только</segment>
+		<segment id="96" parent="95" relname="condition">если речь идет о значительном дисбалансе.</segment>
+		<segment id="97" parent="494" relname="span">Огромный дисбаланс - это обычно отношения фантазера с воображаемой фигурой.</segment>
+		<segment id="98" parent="486" relname="span">Объект любви может позволить себе все,</segment>
+		<segment id="99" parent="98" relname="condition">без учета желаний фантазера,</segment>
+		<segment id="100" parent="487" relname="contrast">он его вообще не знает,</segment>
+		<segment id="101" parent="488" relname="joint">а фантазер легко подстроится</segment>
+		<segment id="102" parent="488" relname="joint">и продолжит любить.</segment>
+		<segment id="103" parent="490" relname="joint">Жители френдзоны легко подстраиваются подо все, что хочет их богиня,</segment>
+		<segment id="104" parent="490" relname="joint">и рационализируют это под короной,</segment>
+		<segment id="105" parent="490" relname="joint">умудряются даже в шкатулку запихнуть.</segment>
+		<segment id="106" parent="491" relname="span">Но все это такие шизофренические истории,</segment>
+		<segment id="107" parent="106" relname="evaluation">что рассматривать их всерьез сложно.</segment>
+		<segment id="108" parent="109" relname="preparation">А вот истории хищников - очень показательны, в плане отношений с очень большим дисбалансом, и большой П хищника.</segment>
+		<segment id="109" parent="525" relname="span">Вот, например, одна женщина, про которую я не рассказывала.</segment>
+		<segment id="110" parent="504" relname="condition">Когда она пыталась порвать отношения со своим МЧ,</segment>
+		<segment id="111" parent="500" relname="joint">она сразу же заболевала.</segment>
+		<segment id="112" parent="500" relname="joint">У нее начиналось паническое расстройство,</segment>
+		<segment id="113" parent="501" relname="span">а потом начинал болеть желудок</segment>
+		<segment id="114" parent="113" relname="elaboration">(открывалась даже прободная язва)</segment>
+		<segment id="115" parent="502" relname="same-unit">и другие органы.</segment>
+		<segment id="116" parent="500" relname="joint">Она несколько раз лежала в больницах</segment>
+		<segment id="117" parent="118" relname="condition">и только помирившись со своим МЧ</segment>
+		<segment id="118" parent="503" relname="span">ей удавалось выздороветь.</segment>
+		<segment id="119" parent="509" relname="span">Она уже консультировать с психологами и психиатрами,</segment>
+		<segment id="120" parent="510" relname="span">и те считали, что это форма невроза.</segment>
+		<segment id="121" parent="507" relname="span">Она внушила себе, что заболеет,</segment>
+		<segment id="122" parent="121" relname="condition">если расстанется с парнем,</segment>
+		<segment id="123" parent="508" relname="span">и ее впечатлительность это воплощает.</segment>
+		<segment id="124" parent="512" relname="span">Только один психотерапевт предположил гипноз со стороны парня,</segment>
+		<segment id="125" parent="511" relname="contrast">проводил с ней сеансы "раскодировки",</segment>
+		<segment id="126" parent="511" relname="contrast">но эффект был временный.</segment>
+		<segment id="127" parent="515" relname="span">Проблема этой женщины была в том, что она совершенно не слышала свое тело, своих чувства и эмоции,</segment>
+		<segment id="128" parent="127" relname="evaluation">"жила головой".</segment>
+		<segment id="129" parent="516" relname="contrast">Она была в очень сильной аддикции к парню,</segment>
+		<segment id="130" parent="517" relname="span">но не чувствовала этого,</segment>
+		<segment id="131" parent="130" relname="cause">из-за гордости и амбиций (типичный случай ЗВ),</segment>
+		<segment id="132" parent="518" relname="joint">считала, что сможет без него,</segment>
+		<segment id="133" parent="518" relname="joint">не рефлексировала свой огромный минус.</segment>
+		<segment id="134" parent="519" relname="span">Она уходила от парня</segment>
+		<segment id="135" parent="134" relname="cause">(за его плохое поведение)</segment>
+		<segment id="136" parent="762" relname="span">и заболевала,</segment>
+		<segment id="137" parent="138" relname="cause">приползала к нему обратно</segment>
+		<segment id="138" parent="763" relname="span">и сразу выздоравливала.</segment>
+		<segment id="139" parent="531" relname="span">Большинство жертв хищников просто не могут уйти.</segment>
+		<segment id="140" parent="530" relname="joint">Они рефлексируют свой минус (зависимость, тягу, любовь)</segment>
+		<segment id="141" parent="530" relname="joint">и боятся отрываться.</segment>
+		<segment id="142" parent="531" relname="elaboration">На примере этой женщины я ясно увидела, как работает очень большой и совсем неотрефлексированный минус.</segment>
+		<segment id="143" parent="533" relname="span">Если вы не осознаете свою зависимость</segment>
+		<segment id="144" parent="143" relname="cause">из-за разрыва между рациональной частью себя и чувственной,</segment>
+		<segment id="145" parent="534" relname="span">то вы можете испытывать телесные проблемы.</segment>
+		<segment id="146" parent="535" relname="span">Поэтому психотерапевты так много внимания уделяют осознанию действительных желаний, контакту разума и чувств.</segment>
+		<segment id="147" parent="536" relname="span">Вскрыть желания нужно не для того,</segment>
+		<segment id="148" parent="537" relname="contrast">чтобы им подчиниться,</segment>
+		<segment id="149" parent="537" relname="contrast">но с ними хотя бы можно будет работать, к ним будет доступ.</segment>
+		<segment id="150" parent="541" relname="span">Для этого нужна честная рефлексия!</segment>
+		<segment id="151" parent="538" relname="span">Честной рефлексии я добиваюсь</segment>
+		<segment id="152" parent="151" relname="condition">при разборах писем.</segment>
+		<segment id="153" parent="540" relname="span">Короны, БП и ЗВ именно поэтому так страшны.</segment>
+		<segment id="154" parent="539" relname="joint">Они очень мешают рефлексии,</segment>
+		<segment id="155" parent="539" relname="joint">они не дают даже подступиться к работе.</segment>
+		<segment id="156" parent="547" relname="joint">В случае с той женщиной я помогла ей снизить СЗ парня</segment>
+		<segment id="157" parent="548" relname="span">и выйти из отношений с ним</segment>
+		<segment id="158" parent="157" relname="condition">без болезней.</segment>
+		<segment id="159" parent="552" relname="span">Снизить СЗ того,</segment>
+		<segment id="160" parent="159" relname="condition">для кого ваша СЗ очень мала,</segment>
+		<segment id="161" parent="553" relname="same-unit">не сложно.</segment>
+		<segment id="162" parent="554" relname="contrast">Это не магия,</segment>
+		<segment id="163" parent="554" relname="contrast">это реально не сложно.</segment>
+		<segment id="164" parent="165" relname="condition">При правильной работе</segment>
+		<segment id="165" parent="555" relname="span">даже легко.</segment>
+		<segment id="166" parent="563" relname="contrast">Но для этого большую СЗ человека нужно отрефлексировать, как и свою очень маленькую.</segment>
+		<segment id="167" parent="561" relname="span">А "гордые" рапунцели,</segment>
+		<segment id="168" parent="560" relname="joint">не желающие снять корону</segment>
+		<segment id="169" parent="560" relname="joint">и признать, что они не нужны тем, кто нужен им,</segment>
+		<segment id="170" parent="562" relname="same-unit">не соглашаются на такую работу.</segment>
+		<segment id="171" parent="172" relname="cause">Эта женщина была слишком замучена болезнями и страхом умереть,</segment>
+		<segment id="172" parent="564" relname="span">поэтому она была готова на все.</segment>
+		<segment id="173" parent="565" relname="span">И очень быстро справилась с проблемой.</segment>
+		<segment id="174" parent="585" relname="preparation">В обычных случаях с хищниками люди просто не хотят от них отрываться.</segment>
+		<segment id="175" parent="569" relname="span">Страх остаться</segment>
+		<segment id="176" parent="175" relname="condition">без источника энергии</segment>
+		<segment id="177" parent="569" relname="elaboration">(а при сильном минусе в дисбалансе центром вашей жизни становится ваш кумир)</segment>
+		<segment id="178" parent="571" relname="same-unit">так велик,</segment>
+		<segment id="179" parent="572" relname="span">что в огне этого страха плавится все остальное, все принципы, взгляды и привычки.</segment>
+		<segment id="180" parent="573" relname="span">Владислав в истории с Олей говорил, что не мог работать</segment>
+		<segment id="181" parent="180" relname="condition">в ситуации конфликта с ней,</segment>
+		<segment id="182" parent="574" relname="joint">не мог есть</segment>
+		<segment id="183" parent="574" relname="joint">и спать,</segment>
+		<segment id="184" parent="575" relname="span">поэтому ему было настолько невыгодно конфликтовать,</segment>
+		<segment id="185" parent="576" relname="span">что он заведомо избегал этих конфликтов.</segment>
+		<segment id="186" parent="583" relname="evaluation">Понимаете, как заведомо избегаются конфликты?</segment>
+		<segment id="187" parent="578" relname="condition">Как только есть угроза конфликта,</segment>
+		<segment id="188" parent="577" relname="joint">пропадает всякое желание делать это,</segment>
+		<segment id="189" parent="577" relname="joint">пропадает тяга к этому.</segment>
+		<segment id="190" parent="580" relname="span">Вот что происходит,</segment>
+		<segment id="191" parent="190" relname="condition">если конфликт по-настоящему пугает,</segment>
+		<segment id="192" parent="772" relname="span">как это бывает</segment>
+		<segment id="193" parent="192" relname="condition">при отрефлексированном большом минусе.</segment>
+		<segment id="194" parent="588" relname="span">Вот сегодня история в ленте, как муж угрожал жене развестись,</segment>
+		<segment id="195" parent="194" relname="condition">если она обрежет волосы.</segment>
+		<segment id="196" parent="588" relname="evaluation">И все обсуждают, имеет ли он такое право?</segment>
+		<segment id="197" parent="591" relname="span">Он имеет юридическое право развестись просто так,</segment>
+		<segment id="198" parent="590" relname="contrast">не только из-за волос,</segment>
+		<segment id="199" parent="590" relname="contrast">а безо всякого повода.</segment>
+		<segment id="200" parent="592" relname="condition">Но если мы говорим не о гражданском праве, а о П,</segment>
+		<segment id="201" parent="592" relname="span">то есть о праве поступить</segment>
+		<segment id="202" parent="201" relname="condition">без компенсации в поле</segment>
+		<segment id="203" parent="593" relname="restatement">(то есть без сожалений, мучений, страданий, беготни и откатов),</segment>
+		<segment id="204" parent="595" relname="span">у него должна быть большая П.</segment>
+		<segment id="205" parent="597" relname="contrast">Если представить ситуацию, в которой муж угрожает разводом (не в шутку, а всерьез),</segment>
+		<segment id="206" parent="597" relname="contrast">а жена ноет подружкам,</segment>
+		<segment id="207" parent="606" relname="span">скорее всего речь о чьей-то очень плохой рефлексии СЗ.</segment>
+		<segment id="208" parent="598" relname="contrast">Если П = нулю,</segment>
+		<segment id="209" parent="598" relname="contrast">а муж выдвигает такие условия,</segment>
+		<segment id="210" parent="599" relname="span">жене выгодно обидеться.</segment>
+		<segment id="211" parent="600" relname="span">Не важно отрежет она волосы,</segment>
+		<segment id="212" parent="211" relname="condition">сказав, что ее обижает, что волосы ему дороже нее,</segment>
+		<segment id="213" parent="602" relname="span">или оставит волосы,</segment>
+		<segment id="214" parent="213" relname="condition">сказав, что ее обижает, что волосы дороже нее,</segment>
+		<segment id="215" parent="603" relname="span">муж в любом случае будет платить компенсацию.</segment>
+		<segment id="216" parent="603" relname="evaluation">Это значит, что ее СЗ будет расти и ее красное поле тоже.</segment>
+		<segment id="217" parent="218" relname="solutionhood">Действия в границах - это действия в красном поле, помните?</segment>
+		<segment id="218" parent="611" relname="span">Это связано с П и с разницей СЗ.</segment>
+		<segment id="219" parent="220" relname="condition">Если П мужа большая положительная,</segment>
+		<segment id="220" parent="612" relname="span">жена не должна была даже думать о том, чтобы обрезать волосы.</segment>
+		<segment id="221" parent="613" relname="joint">Она очень пожалеет о своем желании</segment>
+		<segment id="222" parent="613" relname="joint">и о том, что жалуется на мужа подружкам.</segment>
+		<segment id="223" parent="623" relname="span">Его СЗ будет расти.</segment>
+		<segment id="224" parent="225" relname="evaluation">Он сможет обидеться,</segment>
+		<segment id="225" parent="615" relname="span">что она хочет обрезать волосы,</segment>
+		<segment id="226" parent="617" relname="span">сказав ей, что такое желание означает пренебрежение к нему и презрение,</segment>
+		<segment id="227" parent="616" relname="joint">ведь он так любит ее волосы</segment>
+		<segment id="228" parent="616" relname="joint">и она это знает.</segment>
+		<segment id="229" parent="620" relname="condition">Если П жены большая и положительная,</segment>
+		<segment id="230" parent="620" relname="span">муж будет растить СЗ жены еще быстрей, чем в балансе,</segment>
+		<segment id="231" parent="230" relname="cause">потому что совсем не видит границ.</segment>
+		<segment id="232" parent="622" relname="contrast">То есть рассматривать ситуацию в вакууме невозможно.</segment>
+		<segment id="233" parent="625" relname="span">Надо видеть контекст.</segment>
+		<segment id="234" parent="626" relname="span">Контекст - это разница СЗ, в основном.</segment>
+		<segment id="235" parent="234" relname="evaluation">Это главное для контекста.</segment>
+		<segment id="236" parent="629" relname="condition">Если вы хотите иметь П не меньше нуля,</segment>
+		<segment id="237" parent="628" relname="contrast">вы должны думать не о защите скалками своей территории,</segment>
+		<segment id="238" parent="628" relname="contrast">а о том, чтобы не иметь дисбаланса СЗ.</segment>
+		<segment id="239" parent="632" relname="contrast">От скалок ваша П станет только меньше.</segment>
+		<segment id="240" parent="631" relname="span">Снизить дисбаланс - самый легкий и по-настоящему эффективный путь.</segment>
+		<segment id="241" parent="240" relname="elaboration">Только таким путем можно работать с полем, с фигурами, с аддикциями и лярвами.</segment>
+		<segment id="242" parent="633" relname="joint">Напрямую ломиться</segment>
+		<segment id="243" parent="633" relname="joint">и переделывать территории нельзя!</segment>
+		<segment id="244" parent="635" relname="span">Снять корону нужно,</segment>
+		<segment id="245" parent="244" relname="purpose">чтобы увидеть дисбаланс.</segment>
+		<segment id="246" parent="636" relname="span">Разделить границы - для того же и еще для того,</segment>
+		<segment id="247" parent="246" relname="purpose">чтобы увидеть отдельного субъекта.</segment>
+		<segment id="248" parent="249" relname="condition">И после этого СЗ того, кто вас не любит,</segment>
+		<segment id="249" parent="637" relname="span">снижается легко.</segment>
+		<segment id="250" parent="639" relname="span">Мне иногда требовался для этого один день,</segment>
+		<segment id="251" parent="638" relname="span">чтобы человек снизил высокую невзаимную СЗ,</segment>
+		<segment id="252" parent="251" relname="condition">сняв корону.</segment>
+		<segment id="253" parent="640" relname="contrast">Если же этого не сделать,</segment>
+		<segment id="254" parent="640" relname="contrast">а просто закрыть рефлексию значимости короной и виноградом,</segment>
+		<segment id="255" parent="641" relname="span">начинают происходить страшные вещи.</segment>
+		<segment id="256" parent="651" relname="joint">Вот вы читаете в письмах, как авторы мучаются,</segment>
+		<segment id="257" parent="651" relname="joint">бьются,</segment>
+		<segment id="258" parent="651" relname="joint">страдают,</segment>
+		<segment id="259" parent="651" relname="joint">ходят по кругу,</segment>
+		<segment id="260" parent="651" relname="joint">впутываются в новые дурные истории.</segment>
+		<segment id="261" parent="652" relname="joint">Но это все только от того, что они не снимают корону</segment>
+		<segment id="262" parent="652" relname="joint">и не смотрят на дисбаланс честно</segment>
+		<segment id="263" parent="652" relname="joint">и не пытаются разделить границы.</segment>
+		<segment id="264" parent="660" relname="span">Помните историю Виталика?</segment>
+		<segment id="265" parent="266" relname="evaluation">Многие до сих пор восхищаются,</segment>
+		<segment id="266" parent="654" relname="span">как так ему удалось так быстро стать рыбаком из рапана.</segment>
+		<segment id="267" parent="657" relname="span">У него был хороший потенциал саморефлексии.</segment>
+		<segment id="268" parent="655" relname="joint">Он очень артистичный парень</segment>
+		<segment id="269" parent="655" relname="joint">и очень остроумный,</segment>
+		<segment id="270" parent="656" relname="span">такие люди умеют вставать над полем.</segment>
+		<segment id="271" parent="661" relname="joint">Просто в любви он как онегин считал, что нужно быть трагически серьезным</segment>
+		<segment id="272" parent="661" relname="joint">и жалостливо относился к женщинам.</segment>
+		<segment id="273" parent="662" relname="joint">Как только сообразил, что его едва не сожрали</segment>
+		<segment id="274" parent="662" relname="joint">и обязательно сожрут,</segment>
+		<segment id="275" parent="663" relname="condition">если он не снимет корону,</segment>
+		<segment id="276" parent="665" relname="joint">он почти сразу смог посмотреть на женщин с уважением (для начала - с опаской),</segment>
+		<segment id="277" parent="665" relname="joint">перестал сливать с ними границы,</segment>
+		<segment id="278" parent="665" relname="joint">а еще с друзьями, которых он тоже считал братьями своими меньшими.</segment>
+		<segment id="279" parent="673" relname="joint">В общем, снял он корону Спасателя</segment>
+		<segment id="280" parent="671" relname="evaluation">и со свойственным ему юмором смог увидеть, как это комично:</segment>
+		<segment id="281" parent="668" relname="joint">он такой маленький,</segment>
+		<segment id="282" parent="668" relname="joint">оплеванный ситуацией и жалкий,</segment>
+		<segment id="283" parent="670" relname="joint">хочет спасать крепкую наглую стерву</segment>
+		<segment id="284" parent="670" relname="joint">и стремится помочь своему мускулистому другу, выше его на полголовы.</segment>
+		<segment id="285" parent="674" relname="evaluation">Он реалистично увидел себя со стороны и посмеялся.</segment>
+		<segment id="286" parent="680" relname="span">После этого он быстро снизил СЗ девушки для себя.</segment>
+		<segment id="287" parent="686" relname="preparation">СЗ человека - это ваше восприятие его как части вашей жизни.</segment>
+		<segment id="288" parent="676" relname="joint">Если вы хорошо, очень хорошо, понимаете, что вы этому человеку не нужны,</segment>
+		<segment id="289" parent="676" relname="joint">он холоден к вам,</segment>
+		<segment id="290" parent="676" relname="joint">от него не исходит тепла,</segment>
+		<segment id="291" parent="676" relname="joint">фигура его не дает вам энергии,</segment>
+		<segment id="292" parent="676" relname="joint">от него ничего не возьмешь,</segment>
+		<segment id="293" parent="676" relname="joint">ни щипцами не вытянешь,</segment>
+		<segment id="294" parent="676" relname="joint">ни скалкой не выбьешь,</segment>
+		<segment id="295" parent="676" relname="joint">ни за деньги не купишь,</segment>
+		<segment id="296" parent="676" relname="joint">ни обманом не отнимешь,</segment>
+		<segment id="297" parent="676" relname="joint">никак не поимеешь</segment>
+		<segment id="298" parent="773" relname="span">и не надо,</segment>
+		<segment id="299" parent="773" relname="cause">его фигура - холодный к вам истукан.</segment>
+		<segment id="300" parent="685" relname="span">Вы перестаете заливать этого истукана своим вниманием, своим обожанием, своими надеждами и ожиданиями.</segment>
+		<segment id="301" parent="684" relname="joint">Надо увидеть отсутствие обратной связи</segment>
+		<segment id="302" parent="684" relname="joint">и СЗ снизится.</segment>
+		<segment id="303" parent="688" relname="span">Есть ситуации,</segment>
+		<segment id="304" parent="303" relname="condition">когда своей фигуры уже нет, в случае тяжелой аддикции,</segment>
+		<segment id="305" parent="689" relname="contrast">но я пока эти случаи не буду рассматривать.</segment>
+		<segment id="306" parent="690" relname="span">В 99% фигура своя еще есть и,</segment>
+		<segment id="307" parent="306" relname="condition">отделившись от кумира,</segment>
+		<segment id="308" parent="691" relname="same-unit">начинает расти,</segment>
+		<segment id="309" parent="765" relname="joint">а когда вы перестаете кормить чужую фигуру</segment>
+		<segment id="310" parent="693" relname="span">и начинаете кормить свою</segment>
+		<segment id="311" parent="692" relname="contrast">(прокачивая свои ресурсы,</segment>
+		<segment id="312" parent="692" relname="contrast">иначе своя фигура не кормится),</segment>
+		<segment id="313" parent="766" relname="span">вы очень быстро растете в поле.</segment>
+		<segment id="314" parent="696" relname="span">В социуме намного дольше,</segment>
+		<segment id="315" parent="695" relname="span">нужно можно работы,</segment>
+		<segment id="316" parent="315" relname="purpose">чтобы подрасти в социуме.</segment>
+		<segment id="317" parent="698" relname="span">А в поле свою фигуру можно вырастить быстро,</segment>
+		<segment id="318" parent="699" relname="span">она растет от времени, уделенного прокачке ресурсов.</segment>
+		<segment id="319" parent="700" relname="comparison">Обратите внимание, не от самих ресурсов растет, а от времени и внимания уделенного прокачке.</segment>
+		<segment id="320" parent="700" relname="comparison">Это куда быстрей, чем физический результат.</segment>
+		<segment id="321" parent="704" relname="span">Виталик много раз пытался расстаться с девушкой (этой и прошлыми),</segment>
+		<segment id="322" parent="321" relname="condition">не снижая их СЗ.</segment>
+		<segment id="323" parent="705" relname="joint">Вот так же решал: "Она не имеет права со мной обращаться так!"</segment>
+		<segment id="324" parent="705" relname="joint">и пытался расстаться.</segment>
+		<segment id="325" parent="707" relname="contrast">Уже через пять минут ему начинало казаться, что право она имеет на все,</segment>
+		<segment id="326" parent="708" relname="joint">а он жадина и дурак,</segment>
+		<segment id="327" parent="328" relname="cause">или она не понимает, что не имеет права,</segment>
+		<segment id="328" parent="709" relname="span">надо ей объяснить.</segment>
+		<segment id="329" parent="711" relname="joint">А через день он укреплялся в этом</segment>
+		<segment id="330" parent="711" relname="joint">и был готов компенсировать свой бунт.</segment>
+		<segment id="331" parent="332" relname="condition">Большая СЗ работает так, что, пытаясь захватить права из черного поля,</segment>
+		<segment id="332" parent="712" relname="span">вы обязательно чувствуете себя неправым,</segment>
+		<segment id="333" parent="334" relname="condition">а если вдруг правым,</segment>
+		<segment id="334" parent="774" relname="span">то не понятым второй стороной</segment>
+		<segment id="335" parent="714" relname="joint">и хотите доказать,</segment>
+		<segment id="336" parent="714" relname="joint">донести,</segment>
+		<segment id="337" parent="714" relname="joint">объяснить,</segment>
+		<segment id="338" parent="714" relname="joint">уговорить.</segment>
+		<segment id="339" parent="718" relname="contrast">Я знакомых вам персонажей привожу в пример, чьи истории вы знаете,</segment>
+		<segment id="340" parent="718" relname="contrast">но у меня есть примеры, о которых я еще не рассказывала.</segment>
+		<segment id="341" parent="720" relname="sequence">Один мужчина, у которого была жена-хищница, застал ее с любовником у себя в доме,</segment>
+		<segment id="342" parent="720" relname="sequence">начал с ним драться,</segment>
+		<segment id="343" parent="720" relname="sequence">тот сломал ему нос.</segment>
+		<segment id="344" parent="721" relname="contrast">Жена сбежала с любовником,</segment>
+		<segment id="345" parent="722" relname="joint">а мужчина стал тут же названивать ей</segment>
+		<segment id="346" parent="722" relname="joint">и умолял вернуться,</segment>
+		<segment id="347" parent="723" relname="contrast">при этом истекал кровью,</segment>
+		<segment id="348" parent="723" relname="contrast">но искренне считал себя неправым.</segment>
+		<segment id="349" parent="724" relname="joint">Этот мужчина был состоятельным,</segment>
+		<segment id="350" parent="724" relname="joint">рулил большим бизнесом,</segment>
+		<segment id="351" parent="731" relname="span">но в ситуации любовного дисбаланса совсем не мог держать себя в границах.</segment>
+		<segment id="352" parent="730" relname="span">Он и спустя время считал себя неправым,</segment>
+		<segment id="353" parent="726" relname="joint">объяснял это так: она влюбилась в другого,</segment>
+		<segment id="354" parent="726" relname="joint">драку развязал я,</segment>
+		<segment id="355" parent="726" relname="joint">я посягал на ее волю,</segment>
+		<segment id="356" parent="727" relname="joint">хотя должен был уважать ее желание быть с другим</segment>
+		<segment id="357" parent="727" relname="joint">и договариваться обо всем мирно.</segment>
+		<segment id="358" parent="359" relname="cause">Он настолько рационально и красиво это описывал,</segment>
+		<segment id="359" parent="732" relname="span">что еще один человек, который слушал это, умный и достойный мужчина, согласился с ним.</segment>
+		<segment id="360" parent="733" relname="span">Они оба говорили мне, что женщины свободны выбирать, с кем спать,</segment>
+		<segment id="361" parent="360" relname="cause">ведь мы живем не при патриархате.</segment>
+		<segment id="362" parent="734" relname="joint">Я думаю, второй мужчина был тоже очарован той хищницей</segment>
+		<segment id="363" parent="734" relname="joint">и легко мог представить себя и на месте мужа и на месте любовника.</segment>
+		<segment id="364" parent="735" relname="span">Только поэтому был настолько лоялен.</segment>
+		<segment id="365" parent="735" relname="elaboration">Его П тоже была в минусе по отношению к ней.</segment>
+		<segment id="366" parent="744" relname="span">Два крутых мужика,</segment>
+		<segment id="367" parent="366" relname="background">заработавших состояния,</segment>
+		<segment id="368" parent="746" relname="span">оправдывали нахальную шалаву,</segment>
+		<segment id="369" parent="368" relname="elaboration">которая спала в кровати мужа с любовником.</segment>
+		<segment id="370" parent="748" relname="elaboration">Они были не казановы и даже не особо КСЖ, нормальные моногамные онегины.</segment>
+		<segment id="371" parent="750" relname="comparison">И в другой ситуации им даже в голову не пришло бы оправдывать такое.</segment>
+		<segment id="372" parent="770" relname="span">Но из сильного минуса оправдать можно все.</segment>
+		<segment id="373" parent="754" relname="span">Психика - машина создания параллельных миров.</segment>
+		<segment id="374" parent="752" relname="contrast">Импульсивно муж почувствовал праведный гнев,</segment>
+		<segment id="375" parent="753" relname="span">но тут же раскаялся в этом,</segment>
+		<segment id="376" parent="375" relname="cause">поскольку П его была отрицательной.</segment>
+		<segment id="377" parent="758" relname="span">И таких историй по полевые искажения и метаморфозы у меня очень много.</segment>
+		<segment id="378" parent="755" relname="joint">Я надеюсь когда-нибудь рассказать большую часть</segment>
+		<segment id="379" parent="775" relname="joint">и описать, что именно происходило в поле</segment>
+		<segment id="380" parent="775" relname="joint">и как это выправлялось.</segment>
+		<segment id="381" parent="757" relname="sequence">Пока это слишком сложно наверное.</segment>
+		<segment id="382" parent="756" relname="solutionhood">Или у кого-то уже возникли проблески понимания?</segment>
+		<segment id="383" parent="756" relname="span">Все-таки сейчас некоторые из моих комментаторов уже начали разбираться,</segment>
+		<segment id="384" parent="383" relname="evaluation">как мне кажется.</segment>
+		<group id="385" type="multinuc" parent="4" relname="elaboration"/>
+		<group id="386" type="multinuc" parent="6" relname="elaboration"/>
+		<group id="387" type="span" parent="385" relname="joint"/>
+		<group id="388" type="span" parent="3" relname="elaboration"/>
+		<group id="389" type="span" parent="390" relname="preparation"/>
+		<group id="390" type="span" parent="409" relname="span"/>
+		<group id="391" type="span" parent="392" relname="span"/>
+		<group id="392" type="span" parent="407" relname="span"/>
+		<group id="393" type="span" parent="14" relname="elaboration"/>
+		<group id="394" type="span" parent="400" relname="span"/>
+		<group id="396" type="multinuc" parent="420" relname="joint"/>
+		<group id="397" type="span" parent="398" relname="span"/>
+		<group id="398" type="span" parent="399" relname="same-unit"/>
+		<group id="399" type="multinuc" parent="404" relname="contrast"/>
+		<group id="400" type="span" parent="392" relname="elaboration"/>
+		<group id="401" type="multinuc" parent="402" relname="span"/>
+		<group id="402" type="span" parent="403" relname="span"/>
+		<group id="403" type="span" parent="404" relname="contrast"/>
+		<group id="404" type="multinuc" parent="396" relname="contrast"/>
+		<group id="405" type="span" parent="24" relname="elaboration"/>
+		<group id="406" type="span" parent="402" relname="evaluation"/>
+		<group id="407" type="span" parent="408" relname="span"/>
+		<group id="408" type="span" relname="antithesis"/>
+		<group id="409" type="span" parent="407" relname="preparation"/>
+		<group id="410" type="span" parent="414" relname="span"/>
+		<group id="411" type="span" parent="30" relname="elaboration"/>
+		<group id="412" type="span" parent="413" relname="contrast"/>
+		<group id="413" type="multinuc" parent="410" relname="elaboration"/>
+		<group id="414" type="span" parent="420" relname="joint"/>
+		<group id="415" type="span" parent="419" relname="span"/>
+		<group id="416" type="span" parent="418" relname="span"/>
+		<group id="417" type="span" parent="416" relname="elaboration"/>
+		<group id="418" type="span" parent="415" relname="elaboration"/>
+		<group id="419" type="span" parent="420" relname="joint"/>
+		<group id="420" type="multinuc" parent="422" relname="span"/>
+		<group id="421" type="span" parent="394" relname="elaboration"/>
+		<group id="422" type="span" parent="421" relname="span"/>
+		<group id="423" type="span" parent="432" relname="preparation"/>
+		<group id="425" type="span" parent="432" relname="span"/>
+		<group id="426" type="multinuc" parent="430" relname="cause"/>
+		<group id="427" type="span" parent="429" relname="joint"/>
+		<group id="428" type="span" parent="429" relname="joint"/>
+		<group id="429" type="multinuc" parent="430" relname="span"/>
+		<group id="430" type="span" parent="431" relname="span"/>
+		<group id="431" type="span" parent="462" relname="span"/>
+		<group id="432" type="span" parent="463" relname="span"/>
+		<group id="433" type="span" parent="434" relname="same-unit"/>
+		<group id="434" type="multinuc" parent="436" relname="comparison"/>
+		<group id="435" type="span" parent="434" relname="same-unit"/>
+		<group id="436" type="multinuc" parent="465" relname="span"/>
+		<group id="437" type="span" parent="57" relname="elaboration"/>
+		<group id="438" type="span" parent="465" relname="elaboration"/>
+		<group id="440" type="span" parent="441" relname="contrast"/>
+		<group id="441" type="multinuc" parent="472" relname="preparation"/>
+		<group id="442" type="multinuc" parent="443" relname="span"/>
+		<group id="443" type="span" parent="444" relname="span"/>
+		<group id="444" type="span" parent="468" relname="joint"/>
+		<group id="445" type="multinuc" parent="447" relname="span"/>
+		<group id="446" type="multinuc" parent="445" relname="joint"/>
+		<group id="447" type="span" parent="448" relname="span"/>
+		<group id="448" type="span" parent="468" relname="joint"/>
+		<group id="449" type="multinuc" parent="451" relname="span"/>
+		<group id="450" type="multinuc" parent="451" relname="condition"/>
+		<group id="451" type="span" parent="452" relname="span"/>
+		<group id="452" type="span" parent="70" relname="condition"/>
+		<group id="453" type="span" parent="471" relname="joint"/>
+		<group id="454" type="span" parent="455" relname="same-unit"/>
+		<group id="455" type="multinuc" parent="80" relname="purpose"/>
+		<group id="456" type="span" parent="470" relname="span"/>
+		<group id="457" type="span" parent="458" relname="contrast"/>
+		<group id="458" type="multinuc" parent="471" relname="joint"/>
+		<group id="462" type="span" parent="464" relname="joint"/>
+		<group id="463" type="span" parent="474" relname="preparation"/>
+		<group id="464" type="multinuc" parent="474" relname="span"/>
+		<group id="465" type="span" parent="466" relname="span"/>
+		<group id="466" type="span" parent="464" relname="joint"/>
+		<group id="468" type="multinuc" parent="469" relname="contrast"/>
+		<group id="469" type="multinuc" parent="472" relname="span"/>
+		<group id="470" type="span" parent="76" relname="concession"/>
+		<group id="471" type="multinuc" parent="469" relname="contrast"/>
+		<group id="472" type="span" parent="473" relname="span"/>
+		<group id="473" type="span" relname="antithesis"/>
+		<group id="474" type="span" parent="475" relname="span"/>
+		<group id="475" type="span" relname="antithesis"/>
+		<group id="476" type="multinuc" parent="85" relname="cause"/>
+		<group id="477" type="span" parent="498" relname="preparation"/>
+		<group id="478" type="span" parent="485" relname="span"/>
+		<group id="479" type="multinuc" parent="480" relname="joint"/>
+		<group id="480" type="multinuc" parent="88" relname="elaboration"/>
+		<group id="481" type="span" parent="496" relname="contrast"/>
+		<group id="482" type="span" parent="483" relname="span"/>
+		<group id="483" type="span" parent="478" relname="elaboration"/>
+		<group id="484" type="span" parent="495" relname="span"/>
+		<group id="485" type="span" parent="497" relname="comparison"/>
+		<group id="486" type="span" parent="489" relname="span"/>
+		<group id="487" type="multinuc" parent="486" relname="elaboration"/>
+		<group id="488" type="multinuc" parent="487" relname="contrast"/>
+		<group id="489" type="span" parent="493" relname="span"/>
+		<group id="490" type="multinuc" parent="492" relname="contrast"/>
+		<group id="491" type="span" parent="492" relname="contrast"/>
+		<group id="492" type="multinuc" parent="489" relname="elaboration"/>
+		<group id="493" type="span" parent="97" relname="elaboration"/>
+		<group id="494" type="span" parent="484" relname="elaboration"/>
+		<group id="495" type="span" parent="497" relname="comparison"/>
+		<group id="496" type="multinuc" parent="482" relname="elaboration"/>
+		<group id="497" type="multinuc" parent="498" relname="span"/>
+		<group id="498" type="span" parent="499" relname="span"/>
+		<group id="499" type="span" relname="antithesis"/>
+		<group id="500" type="multinuc" parent="504" relname="span"/>
+		<group id="501" type="span" parent="502" relname="same-unit"/>
+		<group id="502" type="multinuc" parent="500" relname="joint"/>
+		<group id="503" type="span" parent="514" relname="contrast"/>
+		<group id="504" type="span" parent="505" relname="span"/>
+		<group id="505" type="span" parent="514" relname="contrast"/>
+		<group id="507" type="span" parent="123" relname="cause"/>
+		<group id="508" type="span" parent="120" relname="elaboration"/>
+		<group id="509" type="span" parent="513" relname="contrast"/>
+		<group id="510" type="span" parent="119" relname="elaboration"/>
+		<group id="511" type="multinuc" parent="124" relname="elaboration"/>
+		<group id="512" type="span" parent="513" relname="contrast"/>
+		<group id="513" type="multinuc" parent="524" relname="joint"/>
+		<group id="514" type="multinuc" parent="526" relname="span"/>
+		<group id="515" type="span" parent="523" relname="span"/>
+		<group id="516" type="multinuc" parent="518" relname="joint"/>
+		<group id="517" type="span" parent="516" relname="contrast"/>
+		<group id="518" type="multinuc" parent="521" relname="span"/>
+		<group id="519" type="span" parent="136" relname="cause"/>
+		<group id="520" type="multinuc" parent="521" relname="elaboration"/>
+		<group id="521" type="span" parent="522" relname="span"/>
+		<group id="522" type="span" parent="515" relname="elaboration"/>
+		<group id="523" type="span" parent="524" relname="joint"/>
+		<group id="524" type="multinuc" parent="528" relname="span"/>
+		<group id="525" type="span" parent="526" relname="preparation"/>
+		<group id="526" type="span" parent="527" relname="span"/>
+		<group id="527" type="span" parent="528" relname="solutionhood"/>
+		<group id="528" type="span" parent="529" relname="span"/>
+		<group id="529" type="span" relname="antithesis"/>
+		<group id="530" type="multinuc" parent="139" relname="cause"/>
+		<group id="531" type="span" parent="545" relname="span"/>
+		<group id="533" type="span" parent="145" relname="condition"/>
+		<group id="534" type="span" parent="146" relname="cause"/>
+		<group id="535" type="span" parent="544" relname="span"/>
+		<group id="536" type="span" parent="543" relname="span"/>
+		<group id="537" type="multinuc" parent="147" relname="purpose"/>
+		<group id="538" type="span" parent="150" relname="elaboration"/>
+		<group id="539" type="multinuc" parent="153" relname="cause"/>
+		<group id="540" type="span" parent="542" relname="contrast"/>
+		<group id="541" type="span" parent="542" relname="contrast"/>
+		<group id="542" type="multinuc" parent="536" relname="elaboration"/>
+		<group id="543" type="span" parent="535" relname="elaboration"/>
+		<group id="544" type="span" parent="551" relname="span"/>
+		<group id="545" type="span" parent="544" relname="preparation"/>
+		<group id="547" type="multinuc" parent="549" relname="span"/>
+		<group id="548" type="span" parent="547" relname="joint"/>
+		<group id="549" type="span" parent="550" relname="span"/>
+		<group id="550" type="span" relname="antithesis"/>
+		<group id="551" type="span" parent="549" relname="solutionhood"/>
+		<group id="552" type="span" parent="553" relname="same-unit"/>
+		<group id="553" type="multinuc" parent="556" relname="span"/>
+		<group id="554" type="multinuc" parent="556" relname="evaluation"/>
+		<group id="555" type="span" parent="557" relname="evaluation"/>
+		<group id="556" type="span" parent="557" relname="span"/>
+		<group id="557" type="span" parent="558" relname="span"/>
+		<group id="558" type="span" parent="567" relname="solutionhood"/>
+		<group id="560" type="multinuc" parent="167" relname="cause"/>
+		<group id="561" type="span" parent="562" relname="same-unit"/>
+		<group id="562" type="multinuc" parent="566" relname="contrast"/>
+		<group id="563" type="multinuc" parent="567" relname="span"/>
+		<group id="564" type="span" parent="173" relname="cause"/>
+		<group id="565" type="span" parent="566" relname="contrast"/>
+		<group id="566" type="multinuc" parent="563" relname="contrast"/>
+		<group id="567" type="span" parent="568" relname="span"/>
+		<group id="568" type="span" relname="antithesis"/>
+		<group id="569" type="span" parent="570" relname="span"/>
+		<group id="570" type="span" parent="571" relname="same-unit"/>
+		<group id="571" type="multinuc" parent="179" relname="cause"/>
+		<group id="572" type="span" parent="583" relname="span"/>
+		<group id="573" type="span" parent="574" relname="joint"/>
+		<group id="574" type="multinuc" parent="184" relname="cause"/>
+		<group id="575" type="span" parent="185" relname="cause"/>
+		<group id="576" type="span" parent="572" relname="elaboration"/>
+		<group id="577" type="multinuc" parent="578" relname="span"/>
+		<group id="578" type="span" parent="579" relname="span"/>
+		<group id="579" type="span" parent="582" relname="span"/>
+		<group id="580" type="span" parent="581" relname="span"/>
+		<group id="581" type="span" parent="579" relname="elaboration"/>
+		<group id="582" type="span" parent="584" relname="span"/>
+		<group id="583" type="span" parent="585" relname="span"/>
+		<group id="584" type="span" parent="586" relname="span"/>
+		<group id="585" type="span" parent="587" relname="span"/>
+		<group id="586" type="span" relname="antithesis"/>
+		<group id="587" type="span" parent="584" relname="solutionhood"/>
+		<group id="588" type="span" parent="589" relname="span"/>
+		<group id="589" type="span" parent="609" relname="solutionhood"/>
+		<group id="590" type="multinuc" parent="197" relname="cause"/>
+		<group id="591" type="span" parent="596" relname="contrast"/>
+		<group id="592" type="span" parent="594" relname="span"/>
+		<group id="593" type="multinuc" parent="204" relname="condition"/>
+		<group id="594" type="span" parent="593" relname="restatement"/>
+		<group id="595" type="span" parent="596" relname="contrast"/>
+		<group id="596" type="multinuc" parent="607" relname="span"/>
+		<group id="597" type="multinuc" parent="207" relname="condition"/>
+		<group id="598" type="multinuc" parent="210" relname="condition"/>
+		<group id="599" type="span" parent="604" relname="span"/>
+		<group id="600" type="span" parent="601" relname="joint"/>
+		<group id="601" type="multinuc" parent="599" relname="concession"/>
+		<group id="602" type="span" parent="601" relname="joint"/>
+		<group id="603" type="span" parent="605" relname="span"/>
+		<group id="604" type="span" parent="215" relname="solutionhood"/>
+		<group id="605" type="span" parent="608" relname="elaboration"/>
+		<group id="606" type="span" parent="607" relname="evaluation"/>
+		<group id="607" type="span" parent="608" relname="span"/>
+		<group id="608" type="span" parent="609" relname="span"/>
+		<group id="609" type="span" parent="610" relname="span"/>
+		<group id="610" type="span" relname="antithesis"/>
+		<group id="611" type="span" parent="648" relname="preparation"/>
+		<group id="612" type="span" parent="614" relname="span"/>
+		<group id="613" type="multinuc" parent="612" relname="evaluation"/>
+		<group id="614" type="span" parent="619" relname="joint"/>
+		<group id="615" type="span" parent="618" relname="span"/>
+		<group id="616" type="multinuc" parent="226" relname="cause"/>
+		<group id="617" type="span" parent="615" relname="elaboration"/>
+		<group id="618" type="span" parent="223" relname="elaboration"/>
+		<group id="619" type="multinuc" parent="624" relname="comparison"/>
+		<group id="620" type="span" parent="621" relname="span"/>
+		<group id="621" type="span" parent="627" relname="span"/>
+		<group id="622" type="multinuc" parent="621" relname="elaboration"/>
+		<group id="623" type="span" parent="619" relname="joint"/>
+		<group id="624" type="multinuc" parent="648" relname="span"/>
+		<group id="625" type="span" parent="622" relname="contrast"/>
+		<group id="626" type="span" parent="233" relname="elaboration"/>
+		<group id="627" type="span" parent="624" relname="comparison"/>
+		<group id="628" type="multinuc" parent="629" relname="span"/>
+		<group id="629" type="span" parent="630" relname="span"/>
+		<group id="630" type="span" parent="632" relname="contrast"/>
+		<group id="631" type="span" parent="634" relname="contrast"/>
+		<group id="632" type="multinuc" parent="643" relname="span"/>
+		<group id="633" type="multinuc" parent="634" relname="contrast"/>
+		<group id="634" type="multinuc" parent="643" relname="elaboration"/>
+		<group id="635" type="span" parent="642" relname="sequence"/>
+		<group id="636" type="span" parent="642" relname="sequence"/>
+		<group id="637" type="span" parent="645" relname="span"/>
+		<group id="638" type="span" parent="250" relname="purpose"/>
+		<group id="639" type="span" parent="637" relname="elaboration"/>
+		<group id="640" type="multinuc" parent="255" relname="condition"/>
+		<group id="641" type="span" parent="646" relname="contrast"/>
+		<group id="642" type="multinuc" parent="646" relname="contrast"/>
+		<group id="643" type="span" parent="644" relname="span"/>
+		<group id="644" type="span" parent="647" relname="span"/>
+		<group id="645" type="span" parent="642" relname="sequence"/>
+		<group id="646" type="multinuc" parent="644" relname="elaboration"/>
+		<group id="647" type="span" parent="650" relname="span"/>
+		<group id="648" type="span" parent="649" relname="span"/>
+		<group id="649" type="span" parent="647" relname="solutionhood"/>
+		<group id="650" type="span" relname="antithesis"/>
+		<group id="651" type="multinuc" parent="653" relname="contrast"/>
+		<group id="652" type="multinuc" parent="653" relname="contrast"/>
+		<group id="653" type="multinuc" parent="264" relname="solutionhood"/>
+		<group id="654" type="span" parent="657" relname="cause"/>
+		<group id="655" type="multinuc" parent="270" relname="cause"/>
+		<group id="656" type="span" parent="267" relname="elaboration"/>
+		<group id="657" type="span" parent="659" relname="span"/>
+		<group id="659" type="span" parent="764" relname="span"/>
+		<group id="660" type="span" parent="659" relname="preparation"/>
+		<group id="661" type="multinuc" parent="667" relname="background"/>
+		<group id="662" type="multinuc" parent="663" relname="span"/>
+		<group id="663" type="span" parent="664" relname="span"/>
+		<group id="664" type="span" parent="666" relname="condition"/>
+		<group id="665" type="multinuc" parent="666" relname="span"/>
+		<group id="666" type="span" parent="667" relname="span"/>
+		<group id="667" type="span" parent="679" relname="span"/>
+		<group id="668" type="multinuc" parent="669" relname="contrast"/>
+		<group id="669" type="multinuc" parent="671" relname="span"/>
+		<group id="670" type="multinuc" parent="669" relname="contrast"/>
+		<group id="671" type="span" parent="672" relname="span"/>
+		<group id="672" type="span" parent="673" relname="joint"/>
+		<group id="673" type="multinuc" parent="674" relname="span"/>
+		<group id="674" type="span" parent="675" relname="span"/>
+		<group id="675" type="span" parent="678" relname="joint"/>
+		<group id="676" type="multinuc" parent="298" relname="condition"/>
+		<group id="677" type="span" parent="685" relname="solutionhood"/>
+		<group id="678" type="multinuc" parent="682" relname="span"/>
+		<group id="679" type="span" parent="678" relname="joint"/>
+		<group id="680" type="span" relname="antithesis"/>
+		<group id="681" type="span" parent="286" relname="solutionhood"/>
+		<group id="682" type="span" parent="681" relname="span"/>
+		<group id="684" type="multinuc" parent="300" relname="elaboration"/>
+		<group id="685" type="span" parent="686" relname="span"/>
+		<group id="686" type="span" parent="687" relname="span"/>
+		<group id="687" type="span" relname="antithesis"/>
+		<group id="688" type="span" parent="689" relname="contrast"/>
+		<group id="689" type="multinuc" parent="702" relname="preparation"/>
+		<group id="690" type="span" parent="691" relname="same-unit"/>
+		<group id="691" type="multinuc" parent="694" relname="joint"/>
+		<group id="692" type="multinuc" parent="310" relname="elaboration"/>
+		<group id="693" type="span" parent="765" relname="joint"/>
+		<group id="694" type="multinuc" parent="701" relname="span"/>
+		<group id="695" type="span" parent="314" relname="elaboration"/>
+		<group id="696" type="span" parent="697" relname="contrast"/>
+		<group id="697" type="multinuc" parent="701" relname="elaboration"/>
+		<group id="698" type="span" parent="697" relname="contrast"/>
+		<group id="699" type="span" parent="317" relname="elaboration"/>
+		<group id="700" type="multinuc" parent="318" relname="elaboration"/>
+		<group id="701" type="span" parent="702" relname="span"/>
+		<group id="702" type="span" parent="703" relname="span"/>
+		<group id="703" type="span" relname="antithesis"/>
+		<group id="704" type="span" parent="706" relname="span"/>
+		<group id="705" type="multinuc" parent="704" relname="elaboration"/>
+		<group id="706" type="span" parent="710" relname="sequence"/>
+		<group id="707" type="multinuc" parent="710" relname="sequence"/>
+		<group id="708" type="multinuc" parent="707" relname="contrast"/>
+		<group id="709" type="span" parent="708" relname="joint"/>
+		<group id="710" type="multinuc" parent="716" relname="span"/>
+		<group id="711" type="multinuc" parent="710" relname="sequence"/>
+		<group id="712" type="span" parent="713" relname="contrast"/>
+		<group id="713" type="multinuc" parent="716" relname="evaluation"/>
+		<group id="714" type="multinuc" parent="767" relname="span"/>
+		<group id="716" type="span" parent="717" relname="span"/>
+		<group id="717" type="span" relname="antithesis"/>
+		<group id="718" type="multinuc" parent="743" relname="preparation"/>
+		<group id="720" type="multinuc" parent="769" relname="span"/>
+		<group id="721" type="multinuc" parent="720" relname="sequence"/>
+		<group id="722" type="multinuc" parent="721" relname="contrast"/>
+		<group id="723" type="multinuc" parent="722" relname="joint"/>
+		<group id="724" type="multinuc" parent="725" relname="contrast"/>
+		<group id="725" type="multinuc" parent="769" relname="elaboration"/>
+		<group id="726" type="multinuc" parent="728" relname="span"/>
+		<group id="727" type="multinuc" parent="728" relname="concession"/>
+		<group id="728" type="span" parent="729" relname="span"/>
+		<group id="729" type="span" parent="352" relname="elaboration"/>
+		<group id="730" type="span" parent="739" relname="span"/>
+		<group id="731" type="span" parent="725" relname="contrast"/>
+		<group id="732" type="span" parent="738" relname="span"/>
+		<group id="733" type="span" parent="736" relname="span"/>
+		<group id="734" type="multinuc" parent="364" relname="cause"/>
+		<group id="735" type="span" parent="737" relname="span"/>
+		<group id="736" type="span" parent="732" relname="elaboration"/>
+		<group id="737" type="span" parent="733" relname="elaboration"/>
+		<group id="738" type="span" parent="730" relname="evaluation"/>
+		<group id="739" type="span" parent="351" relname="elaboration"/>
+		<group id="742" type="span" relname="antithesis"/>
+		<group id="743" type="span" parent="742" relname="span"/>
+		<group id="744" type="span" parent="745" relname="same-unit"/>
+		<group id="745" type="multinuc" parent="748" relname="span"/>
+		<group id="746" type="span" parent="745" relname="same-unit"/>
+		<group id="748" type="span" parent="749" relname="span"/>
+		<group id="749" type="span" parent="750" relname="comparison"/>
+		<group id="750" type="multinuc" parent="751" relname="contrast"/>
+		<group id="751" type="multinuc" relname="antithesis"/>
+		<group id="752" type="multinuc" parent="373" relname="elaboration"/>
+		<group id="753" type="span" parent="752" relname="contrast"/>
+		<group id="754" type="span" parent="372" relname="elaboration"/>
+		<group id="755" type="multinuc" parent="757" relname="sequence"/>
+		<group id="756" type="span" parent="759" relname="span"/>
+		<group id="757" type="multinuc" parent="377" relname="elaboration"/>
+		<group id="758" type="span" parent="760" relname="contrast"/>
+		<group id="759" type="span" relname="antithesis"/>
+		<group id="760" type="multinuc" relname="antithesis"/>
+		<group id="762" type="span" parent="520" relname="sequence"/>
+		<group id="763" type="span" parent="520" relname="sequence"/>
+		<group id="764" type="span" parent="682" relname="preparation"/>
+		<group id="765" type="multinuc" parent="313" relname="condition"/>
+		<group id="766" type="span" parent="694" relname="joint"/>
+		<group id="767" type="span" parent="768" relname="span"/>
+		<group id="768" type="span" parent="713" relname="contrast"/>
+		<group id="769" type="span" parent="743" relname="span"/>
+		<group id="770" type="span" parent="751" relname="contrast"/>
+		<group id="771" type="span" parent="456" relname="elaboration"/>
+		<group id="772" type="span" parent="580" relname="elaboration"/>
+		<group id="773" type="span" parent="677" relname="span"/>
+		<group id="774" type="span" parent="767" relname="cause"/>
+		<group id="775" type="multinuc" parent="755" relname="joint"/>
+  </body>
+</rst>

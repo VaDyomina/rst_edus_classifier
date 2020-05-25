@@ -1,0 +1,502 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="antithesis" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="background" type="rst" />
+			<rel name="cause" type="rst" />
+			<rel name="comparison" type="multinuc" />
+			<rel name="concession" type="rst" />
+			<rel name="conclusion" type="rst" />
+			<rel name="condition" type="rst" />
+			<rel name="contrast" type="multinuc" />
+			<rel name="effect" type="rst" />
+			<rel name="elaboration" type="rst" />
+			<rel name="evaluation" type="rst" />
+			<rel name="evidence" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="motivation" type="rst" />
+			<rel name="preparation" type="rst" />
+			<rel name="purpose" type="rst" />
+			<rel name="restatement" type="multinuc" />
+			<rel name="same-unit" type="multinuc" />
+			<rel name="sequence" type="multinuc" />
+			<rel name="solutionhood" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="1" relname="antithesis">https://ru-travel.livejournal.com/33781977.html</segment>
+		<segment id="2" relname="antithesis">Грузия: Кватахеви и Магалаанткари.</segment>
+		<segment id="3" parent="238" relname="span">Триалетский хребет, его северный склон, уникальное место.</segment>
+		<segment id="4" parent="3" relname="elaboration">Чуть ли не каждая река, несущая свои воды с вершин Триалети в Куру, обзавелась своим монастырём, зачастую и не одним.</segment>
+		<segment id="5" parent="239" relname="span">В Дзамском ущелье,</segment>
+		<segment id="6" parent="5" relname="elaboration">называемом порой "краем монастырей",</segment>
+		<segment id="7" parent="241" relname="joint">притаился комплекс Кинцвиси, в ущелье реки Тана - всем известный Атенский сион,</segment>
+		<segment id="8" parent="241" relname="joint">к Тедзамскому относятся храм в Эртацминда и Рконский монастырь,</segment>
+		<segment id="9" parent="241" relname="joint">и, наконец, в Кавтурском ущелье расположен Кватахеви - обитель, впечатлившая меня, возможно, сильнее всех остальных мест, затерянных в многочисленных закоулках хребта.</segment>
+		<segment id="10" parent="243" relname="elaboration">Грузия, Кавчурское ущелье, Магаалант Эклесия</segment>
+		<segment id="11" parent="246" relname="span">Поездка началась с Армазской дороги (Гори-Кавтисхеви-Мцхета),</segment>
+		<segment id="12" parent="245" relname="joint">тянущейся вдоль Куры</segment>
+		<segment id="13" parent="245" relname="joint">и дублирующей автобан.</segment>
+		<segment id="14" parent="248" relname="span">Дорога в хорошем состоянии,</segment>
+		<segment id="15" parent="247" relname="span">её вполне можно рассматривать как альтернативу основной трассе,</segment>
+		<segment id="16" parent="15" relname="condition">если захочется разнообразия.</segment>
+		<segment id="17" parent="491" relname="span">Только смотреть на ней особо нечего,</segment>
+		<segment id="18" parent="17" relname="concession">за исключением, пожалуй, находящегося немного в стороне Метехского храма.</segment>
+		<segment id="19" parent="249" relname="joint">Остальные достопримечательности требуют углубления и съезда в сторону</segment>
+		<segment id="20" parent="249" relname="joint">или имеют второстепенное значение.</segment>
+		<segment id="21" parent="255" relname="condition">Проехав село Кавтисхеви,</segment>
+		<segment id="22" parent="254" relname="sequence">сворачиваем с основной дороги</segment>
+		<segment id="23" parent="254" relname="sequence">и держим направление в сторону Цинарехи.</segment>
+		<segment id="24" parent="262" relname="span">Дорога между двумя селами огибает складку земной поверхности, образовавшую небольшую гору, на которой ведется (или велась) добыча известняка и его обжиг.</segment>
+		<segment id="25" parent="258" relname="span">Печи</segment>
+		<segment id="26" parent="25" relname="purpose">для отжига,</segment>
+		<segment id="27" parent="259" relname="same-unit">вполне может быть, построены еще в XIX веке,</segment>
+		<segment id="28" parent="472" relname="span">так что сами по себе являются памятником грузинской мелкой промышленности времен Российской империи.</segment>
+		<segment id="29" parent="262" relname="elaboration">IMG Наперегонки с поездом. Железная дорога от Тбилиси до самого Хашури тянется вдоль Куры, периодически меняя берега. Уплисцихе, между прочим, где-то на той стороне. Грузия, Кавчурское ущелье IMG Печи для получения извести. Грузия, Кавчурское ущелье</segment>
+		<segment id="30" parent="266" relname="span">За селом Цинарехи,</segment>
+		<segment id="31" parent="30" relname="background">лежащим у подножия лесистого склона хребта,</segment>
+		<segment id="32" parent="267" relname="same-unit">дорога уже неразлучно петляет вдоль левого берега реки Кавтура.</segment>
+		<segment id="33" parent="268" relname="evaluation">И становится очевидно, что мы поднимаемся в гору.</segment>
+		<segment id="34" parent="270" relname="contrast">Примерно в двух километрах от центра Цинарехи находится церковный комплекс князей Магаладзе,</segment>
+		<segment id="35" parent="270" relname="contrast">но заедем мы туда на обратном пути.</segment>
+		<segment id="36" parent="271" relname="elaboration">IMG Грузия, Кавчурское ущелье</segment>
+		<segment id="37" parent="283" relname="background">От комплекса до монастыря Кватахеви 4 км.</segment>
+		<segment id="38" parent="276" relname="span">В середине этого отрезка сооружен мост,</segment>
+		<segment id="39" parent="274" relname="cause">свернув на который,</segment>
+		<segment id="40" parent="273" relname="joint">мы ненадолго прощаемся с рекой Кавтура</segment>
+		<segment id="41" parent="273" relname="joint">и продолжаем движение сквозь живописный лес соседнего ущелья.</segment>
+		<segment id="42" parent="277" relname="span">Основная же дорога уходит куда-то на юг к селу Ботиси,</segment>
+		<segment id="43" parent="42" relname="elaboration">на ней можно увидеть развалины давно заброшенных домов, судя по всему, построенных в древности.</segment>
+		<segment id="44" parent="278" relname="span">Есть ли жизнь в Ботиси</segment>
+		<segment id="45" parent="44" relname="evaluation">- непонятно,</segment>
+		<segment id="46" parent="279" relname="contrast">но видно, что дорогой иногда пользуются.</segment>
+		<segment id="47" parent="280" relname="evaluation">Сюда мы еще вернемся.</segment>
+		<segment id="48" parent="284" relname="elaboration">IMG Дорога к Кватахеви (снято на обратном пути). Грузия, Кавчурское ущелье, Кватахеви</segment>
+		<segment id="49" parent="286" relname="span">Кватахеви появляется довольно эффектно</segment>
+		<segment id="50" parent="49" relname="elaboration">- среди деревьев начинает проглядывать внушительный купол собора.</segment>
+		<segment id="51" parent="295" relname="joint">Территория монастыря огорожена стеной, на вид имеющей возраст в несколько столетий.</segment>
+		<segment id="52" parent="294" relname="span">В стену врезан современный проход, до которого через ущелье переброшен пешеходный мост.</segment>
+		<segment id="53" parent="293" relname="span">Изначально в монастырь входили через ворота, расположенные ровно на противоположной стороне стены со стороны горного склона.</segment>
+		<segment id="54" parent="290" relname="span">Там и сейчас автомобильный въезд и сторожевая башня, в которой теперь голубятня.</segment>
+		<segment id="55" parent="288" relname="joint">Могу предположить, что в зимнее время со стороны горы наносит прилично снега,</segment>
+		<segment id="56" parent="288" relname="joint">и ворота бывают завалены,</segment>
+		<segment id="57" parent="289" relname="span">поэтому для удобства соорудили современный проход.</segment>
+		<segment id="58" parent="290" relname="evaluation">Впрочем, внешний вид эта перестройка не испортила, а даже наоборот.</segment>
+		<segment id="59" parent="297" relname="elaboration">IMG Приехала туристическая группа. Грузия, Кавчурское ущелье, Кватахеви IMG Мостик, ведущий ко входу в монастырь. Грузия, Кавчурское ущелье, Кватахеви</segment>
+		<segment id="60" parent="299" relname="span">Монастырь в честь Успения Пресвятой Богородицы был основан на рубеже XII—XIII веков,</segment>
+		<segment id="61" parent="60" relname="elaboration">во всяком случае в этот период о нем появляются первые упоминания в летописях.</segment>
+		<segment id="62" parent="300" relname="joint">И даже какое-то время имел славу главного культового сооружения в Картли.</segment>
+		<segment id="63" parent="301" relname="restatement">"Ква" по-грузински означает "камень", "хеви" - "ущелье",</segment>
+		<segment id="64" parent="301" relname="restatement">то есть "Кватахеви" можно перевести как "каменистое ущелье".</segment>
+		<segment id="65" parent="302" relname="joint">Вообще, река Кавтура известна узкими ущельями, прорезанными в скале,</segment>
+		<segment id="66" parent="302" relname="joint">и даже имеет небольшие водопады, находящиеся в основном вверх по течению - в местах совсем глухих и заповедных...</segment>
+		<segment id="67" parent="309" relname="preparation">Здание основного храма имеет два портала, один на юге, второй на западе (основной).</segment>
+		<segment id="68" parent="306" relname="joint">Украшение изобилует лепниной, особенно вокруг окон и купола,</segment>
+		<segment id="69" parent="306" relname="joint">восточный фасад украшен большим витиеватым крестом.</segment>
+		<segment id="70" parent="307" relname="span">Эта, со слов настоятеля, "рубашка храма" покрыта более поздними орнаментами, предположительно XVII века,</segment>
+		<segment id="71" parent="70" relname="evidence">она заметно отличается по цвету.</segment>
+		<segment id="72" parent="312" relname="sequence">К XVII веку относятся и более поздние постройки комплекса, такие как колокольня.</segment>
+		<segment id="73" parent="313" relname="span">Монастырь подвергся сильному разрушению во время одного из набегов Тамерлана (около 1400 года).</segment>
+		<segment id="74" parent="73" relname="elaboration">Тогда в главном здании были заживо сожжены 300 человек, среди которых монахи и миряне.</segment>
+		<segment id="75" parent="321" relname="span">Про то, что на каменном полу, под коврами, находятся вгоревшие от топившегося жира следы человеческих костей, в которых легко различаются позвонки и тазобедренные суставы, не упоминается ни в одном отчете о монастыре.</segment>
+		<segment id="76" parent="314" relname="joint">Предположу, что это место показывают далеко не всем,</segment>
+		<segment id="77" parent="314" relname="joint">либо не считают его чем-то из ряда вон выходящим.</segment>
+		<segment id="78" parent="79" relname="cause">Но лично для меня эти отпечатки остались главным впечатлением от всей поездки,</segment>
+		<segment id="79" parent="315" relname="span">поэтому по возможности, находясь в Кватахеви, попросите заглянуть под ковры.</segment>
+		<segment id="80" parent="318" relname="span">Фотографировать, к сожалению, не позволили,</segment>
+		<segment id="81" parent="80" relname="evaluation">что, наверное, правильно...</segment>
+		<segment id="82" parent="324" relname="joint">Есть легенда, что пол покрывали новыми плитами,</segment>
+		<segment id="83" parent="323" relname="contrast">следы специально замазывали,</segment>
+		<segment id="84" parent="323" relname="contrast">но они все равно проступали.</segment>
+		<segment id="85" parent="325" relname="span">Значительно позже все сгоревшие были причислены к лику святых как Кватахевские мученики.</segment>
+		<segment id="86" parent="85" relname="elaboration">В том же пожаре, кстати, погибли фрески.</segment>
+		<segment id="87" parent="330" relname="sequence">Храм был восстановлен стараниями царя Александра I Великого (1390-1445).</segment>
+		<segment id="88" parent="326" relname="joint">В 30-х годах XVIII века, после частых набегов лезгин, монастырь на годы закрывался,</segment>
+		<segment id="89" parent="326" relname="joint">а его сокровища прятали в близлежащих пещерах.</segment>
+		<segment id="90" parent="328" relname="span">В 1799 году лезгины в последний раз опустошили Кватахеви,</segment>
+		<segment id="91" parent="92" relname="cause">причем нанесенный ими ущерб был настолько значителен,</segment>
+		<segment id="92" parent="327" relname="span">что монастырская жизнь прекратилась на десятилетия.</segment>
+		<segment id="93" parent="329" relname="span">Храм был восстановлен лишь в 1854 году</segment>
+		<segment id="94" parent="93" relname="condition">при поддержке князя Ивана Тархан-Моуравова.</segment>
+		<segment id="95" parent="331" relname="evaluation">Для историков место будет интересно также и тем, что в нем покоятся останки некоей царицы. А для паломников - мощами Ионна Крестителя и чудодейственной иконой, к которой обращаются те, кто не может забеременеть.</segment>
+		<segment id="96" parent="340" relname="span">IMG Северный фасад. Грузия, Кавчурское ущелье, Кватахеви IMG Южный фасад. Грузия, Кавчурское ущелье, Кватахеви IMG Восточный фасад. Грузия, Кавчурское ущелье, Кватахеви IMG Декор. Грузия, Кавчурское ущелье, Кватахеви IMG Грузия, Кавчурское ущелье, Кватахеви IMG Купол. Грузия, Кавчурское ущелье, Кватахеви IMG Западный вход. Грузия, Кавчурское ущелье, Кватахеви IMG</segment>
+		<segment id="97" parent="336" relname="joint">Нарушил запрет</segment>
+		<segment id="98" parent="336" relname="joint">и привез один кадр.</segment>
+		<segment id="99" parent="474" relname="contrast">Как видите, ничего особенного здесь нет.</segment>
+		<segment id="100" parent="474" relname="contrast">Самое впечатляющее покрыто коврами.</segment>
+		<segment id="101" parent="345" relname="same-unit">Монастырь,</segment>
+		<segment id="102" parent="103" relname="background">как было принято в то время,</segment>
+		<segment id="103" parent="344" relname="span">выполнял и просветительские функции.</segment>
+		<segment id="104" parent="346" relname="joint">В нем хранилось</segment>
+		<segment id="105" parent="346" relname="joint">и было переписано множество рукописей.</segment>
+		<segment id="106" parent="350" relname="span">Где-то в сокровищницах Кватахеви еще со времен средневековья были спрятаны ювелирные изделия,</segment>
+		<segment id="107" parent="475" relname="sequence">часть которых, якобы, была приобретена Государственным Историческим музеем в Москве,</segment>
+		<segment id="108" parent="475" relname="sequence">где и выставляется по сей день.</segment>
+		<segment id="109" parent="352" relname="elaboration">IMG Колокольня и трапезная с кельями. Грузия, Кавчурское ущелье, Кватахеви IMG Лестница на второй этаж. Грузия, Кавчурское ущелье, Кватахеви IMG</segment>
+		<segment id="110" parent="354" relname="joint">Главный вход с монастырским джипом.</segment>
+		<segment id="111" parent="354" relname="joint">Над входом также сооружена келья.</segment>
+		<segment id="112" parent="355" relname="span">Слева здание, бывшее, похоже, в далеком прошлом колокольней или выполнявшее роль сторожевой.</segment>
+		<segment id="113" parent="112" relname="elaboration">Сейчас здесь голубятня.</segment>
+		<segment id="114" parent="356" relname="elaboration">Грузия, Кавчурское ущелье, Кватахеви IMG Голубятня. Грузия, Кавчурское ущелье, Кватахеви IMG И сами голуби. Грузия, Кавчурское ущелье, Кватахеви IMG Жертвенный барашек. Грузия, Кавчурское ущелье, Кватахеви IMG Очень старая верба. Грузия, Кавчурское ущелье, Кватахеви IMG</segment>
+		<segment id="115" parent="358" relname="span">Можно взглянуть на монастырь и снаружи, со стороны не парадного входа,</segment>
+		<segment id="116" parent="115" relname="elaboration">где и заканчивается дорога к Кватахеви.</segment>
+		<segment id="117" parent="358" relname="elaboration">Там хозяйственная часть: дрова, стройматериалы и т.д.</segment>
+		<segment id="118" parent="359" relname="elaboration">Грузия, Кавчурское ущелье, Кватахеви Нашел отличное видео. Снято с квадрокоптера. Автору спасибо.</segment>
+		<segment id="119" parent="362" relname="span">Осмотрев монастырь</segment>
+		<segment id="120" parent="361" relname="span">(много времени это не заняло,</segment>
+		<segment id="121" parent="120" relname="cause">потому что дул неприятный ветер),</segment>
+		<segment id="122" parent="363" relname="span">мы вернулись к мосту через реку,</segment>
+		<segment id="123" parent="364" relname="sequence">съехали на основную дорогу,</segment>
+		<segment id="124" parent="364" relname="sequence">и направились на юг на поиски неких загадочных развалин.</segment>
+		<segment id="125" parent="365" relname="span">На разных картах это малоизученное место, практически забытое и никому не известное, представлено то в виде монастыря, то в виде церковного комплекса, то в виде крепости.</segment>
+		<segment id="126" parent="125" relname="elaboration">Название также меняется от источника к источнику: Тавкавти, Тавкавта, а порой и просто Кавта.</segment>
+		<segment id="127" parent="369" relname="same-unit">Монахи из Кватахеви,</segment>
+		<segment id="128" parent="129" relname="condition">посовещавшись,</segment>
+		<segment id="129" parent="368" relname="span">сказали нам, что до развалин мы не дойдем:</segment>
+		<segment id="130" parent="370" relname="joint">во-первых, вечереет,</segment>
+		<segment id="131" parent="370" relname="joint">а, во-вторых, до них топать 8 км в гору.</segment>
+		<segment id="132" parent="373" relname="span">Я ответил, что по моим источникам</segment>
+		<segment id="133" parent="132" relname="elaboration">(нацарапал крошки в интернете),</segment>
+		<segment id="134" parent="374" relname="same-unit">Тавкавти находится недалеко от дороги, ведущей в село Ботиси.</segment>
+		<segment id="135" parent="375" relname="contrast">(Так, например, это место обозначено на Викимапии,</segment>
+		<segment id="136" parent="375" relname="contrast">но там часто бывают серьезные ошибки.</segment>
+		<segment id="137" parent="377" relname="attribution">Однако, указанные координаты подтверждаются информацией с сайта mygeorgia.ge.</segment>
+		<segment id="138" parent="139" relname="condition">Если ей верить,</segment>
+		<segment id="139" parent="377" relname="span">то по прямой от Кватахеви до Тавкавти всего 2 км.)</segment>
+		<segment id="140" parent="384" relname="contrast">Братья это предположение отвергли.</segment>
+		<segment id="141" parent="381" relname="contrast">А мы все же решили попробовать,</segment>
+		<segment id="142" parent="382" relname="span">но проехать удалось не больше пятисот метров,</segment>
+		<segment id="143" parent="478" relname="joint">дальше дорога оказалась не проходимой,</segment>
+		<segment id="144" parent="478" relname="joint">к тому же уже лишившиеся листвы кусты, разросшиеся на обочинах, и так достаточно поцарапали машину.</segment>
+		<segment id="145" parent="388" relname="joint">Вывод такой: до Тавкавти можно добраться только пешком,</segment>
+		<segment id="146" parent="389" relname="span">и на всякий случай стоит иметь немного свободного времени в запасе,</segment>
+		<segment id="147" parent="386" relname="span">вдруг монахи</segment>
+		<segment id="148" parent="147" relname="elaboration">- а они действительно были в том месте -</segment>
+		<segment id="149" parent="387" relname="same-unit">окажутся правы.</segment>
+		<segment id="150" parent="390" relname="elaboration">Пришлось дать себе слово вернуться сюда в более подходящее время.</segment>
+		<segment id="151" parent="391" relname="elaboration">IMG По дороге к Тавкавти в ущелье реки Кавтура. Грузия, Кавчурское ущелье, IMG</segment>
+		<segment id="152" parent="398" relname="span">Каменные развалины да небольшая свежая церквушка на кладбище - вот и все, что осталось от села Паратиси.</segment>
+		<segment id="153" parent="152" relname="evaluation">Ехать дальше было рискованно. Грузия, Кавчурское ущелье,</segment>
+		<segment id="154" parent="410" relname="span">Самое внятное описание этого места, найденное в интернете:</segment>
+		<segment id="155" parent="399" relname="span">"...есть дорога дальше, сквозь лес. Глубоко в ущелье.</segment>
+		<segment id="156" parent="155" relname="elaboration">Там два села с небольшим количеством домов, в основном заброшенных.</segment>
+		<segment id="157" parent="404" relname="span">Дальше дорога опять делится:</segment>
+		<segment id="158" parent="401" relname="span">та, что направо — через заповедник переходит в ущелье к комплексу Ркони</segment>
+		<segment id="159" parent="158" relname="elaboration">[моё примечание: ни на одной карте эта дорога не обозначена],</segment>
+		<segment id="160" parent="403" relname="span">а та, что прямо по ущелью — ведет к Тавкавта и сторожевому комплексу Сакуртхиси</segment>
+		<segment id="161" parent="160" relname="elaboration">[моё примечание: это одинокая башня, отсутствующая на картах - 41°46'5"N 44°27'35"E].</segment>
+		<segment id="162" parent="405" relname="joint">А дальше через хребет дорога переходит</segment>
+		<segment id="163" parent="405" relname="joint">и спускается к Манглиси.</segment>
+		<segment id="164" parent="407" relname="joint">В общем, это древняя дорога из одной части Грузии в другую. По ущелью.</segment>
+		<segment id="165" parent="407" relname="joint">И, разумеется, вдоль было множество сторожевых башень..."</segment>
+		<segment id="166" parent="410" relname="elaboration">Заброшенная церковь в Тавкавта, куда мы не попали. Фото из Викимапии, автор augrabis. Башня в Сакуртхиси. Фото из Викимапии, автор augrabis. IMG</segment>
+		<segment id="167" parent="168" relname="condition">Двигаясь назад,</segment>
+		<segment id="168" parent="412" relname="span">нашли небольшую полянку у самой реки,</segment>
+		<segment id="169" parent="413" relname="joint">устроили пикник.</segment>
+		<segment id="170" parent="171" relname="evidence">Монастырь оправдывает свое название</segment>
+		<segment id="171" parent="480" relname="span">- ущелье Кавтуры действительно каменистое. Грузия, Кавчурское ущелье</segment>
+		<segment id="172" parent="418" relname="span">Нас ждал комплекс Магаладзе - фамильная церковь с усыпальницей</segment>
+		<segment id="173" parent="417" relname="joint">- место неплохо сохранившееся,</segment>
+		<segment id="174" parent="417" relname="joint">имеющее свою историю</segment>
+		<segment id="175" parent="417" relname="joint">и удачно вписывающееся в окружающий пейзаж.</segment>
+		<segment id="176" parent="419" relname="span">Вероятно, первая постройка здесь - сторожевая башня,</segment>
+		<segment id="177" parent="176" relname="evidence">она выглядит древнее остальных построек, и находится немного в стороне, на пригорке.</segment>
+		<segment id="178" parent="419" relname="evidence">Информация о дате постройки и каких-то известных, связанных с ней, исторических событиях отсутствует.</segment>
+		<segment id="179" parent="425" relname="elaboration">Башня на удивление оказалась богата надписями и барельефами.</segment>
+		<segment id="180" parent="181" relname="attribution">[Согласно сайту dzeglebi.ge</segment>
+		<segment id="181" parent="492" relname="span">башня была построена в 1679 г. Папуной Магаладзе.</segment>
+		<segment id="182" parent="493" relname="joint">Позволю себе усомниться в этой датировке</segment>
+		<segment id="183" parent="493" relname="joint">и не менять ничего в основном тексте,</segment>
+		<segment id="184" parent="423" relname="contrast">но для полноты картины вынесу сюда и эту информацию.]</segment>
+		<segment id="185" parent="421" relname="elaboration">IMG Грузия, Кавчурское ущелье, Магаалант Эклесия IMG Бойницы на крыше. Грузия, Кавчурское ущелье, Магаалант Эклесия IMG Вход Грузия, Кавчурское ущелье, Магаалант Эклесия IMG Очаг. Грузия, Кавчурское ущелье, Магаалант Эклесия IMG Внутри. Обратите внимание на кирпичный потолок и ниши от перекрытий. Грузия, Кавчурское ущелье, Магаалант Эклесия IMG Украшающие башню резные камни. Св. Георгий Победоносец. Грузия, Кавчурское ущелье, Магаалант Эклесия IMG Грузия, Кавчурское ущелье, Магаалант Эклесия IMG Похоже на герб. Грузия, Кавчурское ущелье, Магаалант Эклесия IMG Судя по всему эта надпись и раскрывает дату постройки. Грузия, Кавчурское ущелье, Магаалант Эклесия IMG Вид от башни на церковный комплекс и село Цинарехи. Грузия, Кавчурское ущелье, Магаалант Эклесия</segment>
+		<segment id="186" parent="483" relname="contrast">Башня, через которую осуществляется вход на территорию комплекса, выглядит древнее остальных построек.</segment>
+		<segment id="187" parent="484" relname="span">Тем не менее, её возвели лишь в 1716 году при Соломоне Магаладзе,</segment>
+		<segment id="188" parent="187" relname="elaboration">служившем секретарём при католикосе.</segment>
+		<segment id="189" parent="429" relname="joint">Это последняя из капитальных построек комплекса,</segment>
+		<segment id="190" parent="429" relname="joint">но при этом наименее сохранившаяся:</segment>
+		<segment id="191" parent="430" relname="elaboration">венчавшая башню колокольня не пережила последующие бурные столетия.</segment>
+		<segment id="192" parent="432" relname="elaboration">IMG Грузия, Кавчурское ущелье, Магаалант Эклесия IMG Грузия, Кавчурское ущелье, Магаалант Эклесия IMG Вид со стороны двора. За деревом видна сторожевая башня. Грузия, Кавчурское ущелье, Магаалант Эклесия</segment>
+		<segment id="193" parent="436" relname="preparation">Основная церковь была построена в конце XII - начале XIII века, в одно время с собором Кватахеви.</segment>
+		<segment id="194" parent="436" relname="span">В этот период, по праву считающийся кульминацией Золотого Века, престол занимала царица Тамара.</segment>
+		<segment id="195" parent="434" relname="span">Грузия не знала более счастливого времени,</segment>
+		<segment id="196" parent="195" relname="cause">поэтому можно представить, на каком подъёме возводились храмы как здесь, так и по всей стране.</segment>
+		<segment id="197" parent="198" relname="background">Прошло каких-то 20 лет</segment>
+		<segment id="198" parent="435" relname="span">и посыпались несчастья: монголы, персы, Тамерлан.</segment>
+		<segment id="199" parent="439" relname="span">В XV веке окрестности Цинарехи были пожалованы царём Александром князьям Магаладзе,</segment>
+		<segment id="200" parent="199" relname="background">к тому времени перебравшимся в Картли из Имеретии.</segment>
+		<segment id="201" parent="440" relname="joint">Впоследствии представители рода имели определенный вес в политической и церковной жизни Грузии,</segment>
+		<segment id="202" parent="440" relname="joint">не раз появляясь в хрониках.</segment>
+		<segment id="203" parent="444" relname="span">При Николае Магаладзе,</segment>
+		<segment id="204" parent="443" relname="span">служившем глашатаем в Светицховели</segment>
+		<segment id="205" parent="442" relname="joint">(глашатай объявлял официальные вести;</segment>
+		<segment id="206" parent="442" relname="joint">род в то время достиг вершины своего влияния),</segment>
+		<segment id="207" parent="445" relname="same-unit">церковь была восстановлена,</segment>
+		<segment id="208" parent="446" relname="joint">фрески обновлены (1677 г.).</segment>
+		<segment id="209" parent="447" relname="elaboration">IMG Церковь мне напомнила Чачубети, правда, там более ранняя постройка. Грузия, Кавчурское ущелье, Магаалант Эклесия IMG Орнаменты. Грузия, Кавчурское ущелье, Магаалант Эклесия IMG Грузия, Кавчурское ущелье, Магаалант Эклесия IMG Грузия, Кавчурское ущелье, Магаалант Эклесия IMG</segment>
+		<segment id="210" parent="211" relname="condition">Если кто-то думает, что древние мастера поленились вырезать блоки одинакового размера,</segment>
+		<segment id="211" parent="449" relname="span">то будет очень не прав.</segment>
+		<segment id="212" parent="450" relname="joint">Здесь каждый блок вымерен</segment>
+		<segment id="213" parent="450" relname="joint">и находится на своем месте.</segment>
+		<segment id="214" parent="215" relname="purpose">Такая кладка</segment>
+		<segment id="215" parent="495" relname="span">позволяла сцеплять камни в замок,</segment>
+		<segment id="216" parent="452" relname="span">что многократно увеличивало прочность стен.</segment>
+		<segment id="217" parent="489" relname="span">Поэтому сильно выгнутая задняя стена до сих пор не обрушилась.</segment>
+		<segment id="218" parent="487" relname="elaboration">Грузия, Кавчурское ущелье, Магаалант Эклесия IMG Портал. Грузия, Кавчурское ущелье, Магаалант Эклесия IMG Притвор. Грузия, Кавчурское ущелье, Магаалант Эклесия IMG Сырость и время не пощадили фрески Грузия, Кавчурское ущелье, Магаалант Эклесия IMG Без вандалов также не обошлось. Грузия, Кавчурское ущелье, Магаалант Эклесия IMG Грузия, Кавчурское ущелье, Магаалант Эклесия IMG Грузия, Кавчурское ущелье, Магаалант Эклесия IMG Грузия, Кавчурское ущелье, Магаалант Эклесия IMG Грузия, Кавчурское ущелье, Магаалант Эклесия IMG Грузия, Кавчурское ущелье, Магаалант Эклесия IMG Грузия, Кавчурское ущелье, Магаалант Эклесия IMG Грузия, Кавчурское ущелье, Магаалант Эклесия IMG Уж не знаменитый ли фотограф здесь безобразничал? Грузия, Кавчурское ущелье, Магаалант Эклесия IMG Пытаемся разобраться в надгробных надписях. Грузия, Кавчурское ущелье, Магаалант Эклесия</segment>
+		<segment id="219" parent="460" relname="preparation">В XVI-XVII веках во дворе церкви была возведена двухэтажная колокольня.</segment>
+		<segment id="220" parent="456" relname="sequence">Первоначально на обоих этажах имелись арки,</segment>
+		<segment id="221" parent="457" relname="span">но во второй половине XVII века Папуа Магаладзе,</segment>
+		<segment id="222" parent="221" relname="elaboration">служивший дворецким при католикосе,</segment>
+		<segment id="223" parent="458" relname="same-unit">велел их заложить.</segment>
+		<segment id="224" parent="459" relname="elaboration">На первом этаже была обустроена фамильная усыпальница, на втором церковь.</segment>
+		<segment id="225" parent="461" relname="elaboration">IMG Грузия, Кавчурское ущелье, Магаалант Эклесия IMG Внутри. IMG Роспись потолка. Грузия, Кавчурское ущелье, Магаалант Эклесия</segment>
+		<segment id="226" parent="464" relname="span">В настоящее время комплекс стоит заброшенным.</segment>
+		<segment id="227" parent="463" relname="joint">В праздники приезжий батюшка проводит службу, на которую собираются прихожане из близлежащего поселка.</segment>
+		<segment id="228" parent="463" relname="joint">В остальные дни сюда заглядывают разве что те, кто следуют в Кватахеви.</segment>
+		<segment id="229" parent="464" relname="elaboration">IMG Странного вида камень в стене. Грузия, Кавчурское ущелье, Магаалант Эклесия IMG</segment>
+		<segment id="230" parent="467" relname="span">Село Цинарехи выглядит весьма уныло и потрепанно.</segment>
+		<segment id="231" parent="466" relname="contrast">С первого взгляда видно, что это древнее место,</segment>
+		<segment id="232" parent="465" relname="joint">но его срочно нужно латать</segment>
+		<segment id="233" parent="465" relname="joint">и восстанавливать.</segment>
+		<segment id="234" parent="467" relname="elaboration">Грузия, Кавчурское ущелье IMG Горы Триалетского хребта. Грузия, Кавчурское ущелье</segment>
+		<segment id="235" parent="468" relname="preparation">Напоследок немного полезной информации.</segment>
+		<segment id="236" parent="468" relname="span">Добраться общественным транспортом до Кватахеви можно следующим образом:</segment>
+		<segment id="237" parent="236" relname="elaboration">на маршрутке до Каспи из Тбилиси или Гори, на локальной маршрутке до села Цинарехи, далее только пешком.</segment>
+		<group id="238" type="span" parent="242" relname="preparation"/>
+		<group id="239" type="span" parent="240" relname="same-unit"/>
+		<group id="240" type="multinuc" parent="242" relname="span"/>
+		<group id="241" type="multinuc" parent="240" relname="same-unit"/>
+		<group id="242" type="span" parent="243" relname="span"/>
+		<group id="243" type="span" parent="244" relname="span"/>
+		<group id="244" type="span" relname="antithesis"/>
+		<group id="245" type="multinuc" parent="11" relname="elaboration"/>
+		<group id="246" type="span" parent="253" relname="span"/>
+		<group id="247" type="span" parent="14" relname="evaluation"/>
+		<group id="248" type="span" parent="250" relname="contrast"/>
+		<group id="249" type="multinuc" parent="251" relname="elaboration"/>
+		<group id="250" type="multinuc" parent="251" relname="span"/>
+		<group id="251" type="span" parent="252" relname="span"/>
+		<group id="252" type="span" parent="246" relname="elaboration"/>
+		<group id="253" type="span" parent="264" relname="sequence"/>
+		<group id="254" type="multinuc" parent="255" relname="span"/>
+		<group id="255" type="span" parent="256" relname="span"/>
+		<group id="256" type="span" parent="257" relname="span"/>
+		<group id="257" type="span" parent="265" relname="span"/>
+		<group id="258" type="span" parent="259" relname="same-unit"/>
+		<group id="259" type="multinuc" parent="28" relname="cause"/>
+		<group id="262" type="span" parent="263" relname="span"/>
+		<group id="263" type="span" parent="257" relname="elaboration"/>
+		<group id="264" type="multinuc" relname="antithesis"/>
+		<group id="265" type="span" parent="264" relname="sequence"/>
+		<group id="266" type="span" parent="267" relname="same-unit"/>
+		<group id="267" type="multinuc" parent="268" relname="span"/>
+		<group id="268" type="span" parent="269" relname="span"/>
+		<group id="269" type="span" parent="271" relname="span"/>
+		<group id="270" type="multinuc" parent="269" relname="elaboration"/>
+		<group id="271" type="span" parent="272" relname="span"/>
+		<group id="272" type="span" relname="antithesis"/>
+		<group id="273" type="multinuc" parent="274" relname="span"/>
+		<group id="274" type="span" parent="275" relname="span"/>
+		<group id="275" type="span" parent="38" relname="elaboration"/>
+		<group id="276" type="span" parent="281" relname="comparison"/>
+		<group id="277" type="span" parent="280" relname="span"/>
+		<group id="278" type="span" parent="279" relname="contrast"/>
+		<group id="279" type="multinuc" parent="277" relname="evaluation"/>
+		<group id="280" type="span" parent="282" relname="span"/>
+		<group id="281" type="multinuc" parent="283" relname="span"/>
+		<group id="282" type="span" parent="281" relname="comparison"/>
+		<group id="283" type="span" parent="284" relname="span"/>
+		<group id="284" type="span" parent="285" relname="span"/>
+		<group id="285" type="span" relname="antithesis"/>
+		<group id="286" type="span" parent="296" relname="preparation"/>
+		<group id="288" type="multinuc" parent="57" relname="cause"/>
+		<group id="289" type="span" parent="54" relname="evaluation"/>
+		<group id="290" type="span" parent="292" relname="span"/>
+		<group id="292" type="span" parent="294" relname="elaboration"/>
+		<group id="293" type="span" parent="52" relname="background"/>
+		<group id="294" type="span" parent="473" relname="span"/>
+		<group id="295" type="multinuc" parent="296" relname="span"/>
+		<group id="296" type="span" parent="297" relname="span"/>
+		<group id="297" type="span" parent="298" relname="span"/>
+		<group id="298" type="span" relname="antithesis"/>
+		<group id="299" type="span" parent="300" relname="joint"/>
+		<group id="300" type="multinuc" parent="304" relname="preparation"/>
+		<group id="301" type="multinuc" parent="303" relname="span"/>
+		<group id="302" type="multinuc" parent="303" relname="background"/>
+		<group id="303" type="span" parent="304" relname="span"/>
+		<group id="304" type="span" parent="305" relname="span"/>
+		<group id="305" type="span" parent="341" relname="joint"/>
+		<group id="306" type="multinuc" parent="308" relname="span"/>
+		<group id="307" type="span" parent="311" relname="span"/>
+		<group id="308" type="span" parent="309" relname="span"/>
+		<group id="309" type="span" parent="310" relname="span"/>
+		<group id="310" type="span" parent="341" relname="joint"/>
+		<group id="311" type="span" parent="312" relname="sequence"/>
+		<group id="312" type="multinuc" parent="308" relname="elaboration"/>
+		<group id="313" type="span" parent="334" relname="preparation"/>
+		<group id="314" type="multinuc" parent="320" relname="contrast"/>
+		<group id="315" type="span" parent="319" relname="span"/>
+		<group id="318" type="span" parent="315" relname="elaboration"/>
+		<group id="319" type="span" parent="320" relname="contrast"/>
+		<group id="320" type="multinuc" parent="75" relname="evaluation"/>
+		<group id="321" type="span" parent="333" relname="span"/>
+		<group id="323" type="multinuc" parent="324" relname="joint"/>
+		<group id="324" type="multinuc" parent="321" relname="elaboration"/>
+		<group id="325" type="span" parent="330" relname="sequence"/>
+		<group id="326" type="multinuc" parent="330" relname="sequence"/>
+		<group id="327" type="span" parent="90" relname="condition"/>
+		<group id="328" type="span" parent="330" relname="sequence"/>
+		<group id="329" type="span" parent="330" relname="sequence"/>
+		<group id="330" type="multinuc" parent="331" relname="span"/>
+		<group id="331" type="span" parent="332" relname="span"/>
+		<group id="332" type="span" parent="333" relname="elaboration"/>
+		<group id="333" type="span" parent="334" relname="span"/>
+		<group id="334" type="span" parent="335" relname="span"/>
+		<group id="335" type="span" parent="341" relname="joint"/>
+		<group id="336" type="multinuc" parent="338" relname="span"/>
+		<group id="338" type="span" parent="339" relname="span"/>
+		<group id="339" type="span" parent="96" relname="evaluation"/>
+		<group id="340" type="span" parent="342" relname="elaboration"/>
+		<group id="341" type="multinuc" parent="342" relname="span"/>
+		<group id="342" type="span" parent="343" relname="span"/>
+		<group id="343" type="span" relname="antithesis"/>
+		<group id="344" type="span" parent="345" relname="same-unit"/>
+		<group id="345" type="multinuc" parent="347" relname="preparation"/>
+		<group id="346" type="multinuc" parent="347" relname="span"/>
+		<group id="347" type="span" parent="348" relname="span"/>
+		<group id="348" type="span" parent="351" relname="joint"/>
+		<group id="350" type="span" parent="351" relname="joint"/>
+		<group id="351" type="multinuc" parent="352" relname="span"/>
+		<group id="352" type="span" parent="353" relname="span"/>
+		<group id="353" type="span" relname="antithesis"/>
+		<group id="354" type="multinuc" parent="356" relname="span"/>
+		<group id="355" type="span" parent="354" relname="joint"/>
+		<group id="356" type="span" parent="357" relname="span"/>
+		<group id="357" type="span" parent="476" relname="joint"/>
+		<group id="358" type="span" parent="359" relname="span"/>
+		<group id="359" type="span" parent="360" relname="span"/>
+		<group id="360" type="span" parent="476" relname="joint"/>
+		<group id="361" type="span" parent="119" relname="elaboration"/>
+		<group id="362" type="span" parent="122" relname="condition"/>
+		<group id="363" type="span" parent="364" relname="sequence"/>
+		<group id="364" type="multinuc" parent="366" relname="span"/>
+		<group id="365" type="span" parent="366" relname="elaboration"/>
+		<group id="366" type="span" parent="367" relname="span"/>
+		<group id="367" type="span" parent="396" relname="preparation"/>
+		<group id="368" type="span" parent="369" relname="same-unit"/>
+		<group id="369" type="multinuc" parent="371" relname="span"/>
+		<group id="370" type="multinuc" parent="371" relname="cause"/>
+		<group id="371" type="span" parent="372" relname="span"/>
+		<group id="372" type="span" parent="385" relname="contrast"/>
+		<group id="373" type="span" parent="374" relname="same-unit"/>
+		<group id="374" type="multinuc" parent="379" relname="span"/>
+		<group id="375" type="multinuc" parent="376" relname="contrast"/>
+		<group id="376" type="multinuc" parent="379" relname="elaboration"/>
+		<group id="377" type="span" parent="477" relname="span"/>
+		<group id="379" type="span" parent="380" relname="span"/>
+		<group id="380" type="span" parent="385" relname="contrast"/>
+		<group id="381" type="multinuc" parent="394" relname="span"/>
+		<group id="382" type="span" parent="381" relname="contrast"/>
+		<group id="384" type="multinuc" parent="395" relname="sequence"/>
+		<group id="385" type="multinuc" parent="395" relname="sequence"/>
+		<group id="386" type="span" parent="387" relname="same-unit"/>
+		<group id="387" type="multinuc" parent="146" relname="cause"/>
+		<group id="388" type="multinuc" parent="390" relname="span"/>
+		<group id="389" type="span" parent="388" relname="joint"/>
+		<group id="390" type="span" parent="391" relname="span"/>
+		<group id="391" type="span" parent="392" relname="span"/>
+		<group id="392" type="span" parent="394" relname="evidence"/>
+		<group id="393" type="span" parent="384" relname="contrast"/>
+		<group id="394" type="span" parent="393" relname="span"/>
+		<group id="395" type="multinuc" parent="396" relname="span"/>
+		<group id="396" type="span" parent="397" relname="span"/>
+		<group id="397" type="span" relname="antithesis"/>
+		<group id="398" type="span" parent="411" relname="preparation"/>
+		<group id="399" type="span" parent="406" relname="sequence"/>
+		<group id="401" type="span" parent="402" relname="joint"/>
+		<group id="402" type="multinuc" parent="157" relname="elaboration"/>
+		<group id="403" type="span" parent="402" relname="joint"/>
+		<group id="404" type="span" parent="406" relname="sequence"/>
+		<group id="405" type="multinuc" parent="406" relname="sequence"/>
+		<group id="406" type="multinuc" parent="408" relname="span"/>
+		<group id="407" type="multinuc" parent="408" relname="elaboration"/>
+		<group id="408" type="span" parent="409" relname="span"/>
+		<group id="409" type="span" parent="154" relname="elaboration"/>
+		<group id="410" type="span" parent="411" relname="span"/>
+		<group id="411" type="span" parent="479" relname="span"/>
+		<group id="412" type="span" parent="413" relname="joint"/>
+		<group id="413" type="multinuc" parent="415" relname="span"/>
+		<group id="415" type="span" parent="416" relname="span"/>
+		<group id="416" type="span" relname="antithesis"/>
+		<group id="417" type="multinuc" parent="172" relname="elaboration"/>
+		<group id="418" type="span" parent="421" relname="span"/>
+		<group id="419" type="span" parent="420" relname="span"/>
+		<group id="420" type="span" parent="425" relname="span"/>
+		<group id="421" type="span" parent="482" relname="span"/>
+		<group id="423" type="multinuc" parent="492" relname="evaluation"/>
+		<group id="425" type="span" parent="481" relname="span"/>
+		<group id="429" type="multinuc" parent="430" relname="span"/>
+		<group id="430" type="span" parent="431" relname="span"/>
+		<group id="431" type="span" parent="432" relname="span"/>
+		<group id="432" type="span" parent="433" relname="span"/>
+		<group id="433" type="span" relname="antithesis"/>
+		<group id="434" type="span" parent="194" relname="elaboration"/>
+		<group id="435" type="span" parent="438" relname="sequence"/>
+		<group id="436" type="span" parent="437" relname="span"/>
+		<group id="437" type="span" parent="438" relname="sequence"/>
+		<group id="438" type="multinuc" parent="447" relname="span"/>
+		<group id="439" type="span" parent="441" relname="span"/>
+		<group id="440" type="multinuc" parent="438" relname="sequence"/>
+		<group id="441" type="span" parent="438" relname="sequence"/>
+		<group id="442" type="multinuc" parent="204" relname="elaboration"/>
+		<group id="443" type="span" parent="203" relname="background"/>
+		<group id="444" type="span" parent="445" relname="same-unit"/>
+		<group id="445" type="multinuc" parent="446" relname="joint"/>
+		<group id="446" type="multinuc" parent="438" relname="sequence"/>
+		<group id="447" type="span" parent="448" relname="span"/>
+		<group id="448" type="span" relname="antithesis"/>
+		<group id="449" type="span" parent="485" relname="evidence"/>
+		<group id="450" type="multinuc" parent="485" relname="span"/>
+		<group id="452" type="span" parent="217" relname="cause"/>
+		<group id="456" type="multinuc" parent="459" relname="span"/>
+		<group id="457" type="span" parent="458" relname="same-unit"/>
+		<group id="458" type="multinuc" parent="456" relname="sequence"/>
+		<group id="459" type="span" parent="460" relname="span"/>
+		<group id="460" type="span" parent="461" relname="span"/>
+		<group id="461" type="span" parent="462" relname="span"/>
+		<group id="462" type="span" relname="antithesis"/>
+		<group id="463" type="multinuc" parent="226" relname="elaboration"/>
+		<group id="464" type="span" parent="471" relname="span"/>
+		<group id="465" type="multinuc" parent="466" relname="contrast"/>
+		<group id="466" type="multinuc" parent="230" relname="elaboration"/>
+		<group id="467" type="span" parent="470" relname="span"/>
+		<group id="468" type="span" parent="469" relname="span"/>
+		<group id="469" type="span" relname="antithesis"/>
+		<group id="470" type="span" parent="471" relname="evaluation"/>
+		<group id="471" type="span" parent="490" relname="span"/>
+		<group id="472" type="span" parent="24" relname="elaboration"/>
+		<group id="473" type="span" parent="295" relname="joint"/>
+		<group id="474" type="multinuc" parent="338" relname="evaluation"/>
+		<group id="475" type="multinuc" parent="106" relname="background"/>
+		<group id="476" type="multinuc" relname="antithesis"/>
+		<group id="477" type="span" parent="376" relname="contrast"/>
+		<group id="478" type="multinuc" parent="142" relname="cause"/>
+		<group id="479" type="span" relname="antithesis"/>
+		<group id="480" type="span" parent="415" relname="elaboration"/>
+		<group id="481" type="span" parent="418" relname="evaluation"/>
+		<group id="482" type="span" relname="antithesis"/>
+		<group id="483" type="multinuc" parent="431" relname="preparation"/>
+		<group id="484" type="span" parent="483" relname="contrast"/>
+		<group id="485" type="span" parent="486" relname="span"/>
+		<group id="486" type="span" parent="487" relname="span"/>
+		<group id="487" type="span" parent="488" relname="span"/>
+		<group id="488" type="span" relname="antithesis"/>
+		<group id="489" type="span" parent="486" relname="elaboration"/>
+		<group id="490" type="span" relname="antithesis"/>
+		<group id="491" type="span" parent="250" relname="contrast"/>
+		<group id="492" type="span" parent="494" relname="span"/>
+		<group id="493" type="multinuc" parent="423" relname="contrast"/>
+		<group id="494" type="span" parent="420" relname="elaboration"/>
+		<group id="495" type="span" parent="216" relname="cause"/>
+  </body>
+</rst>

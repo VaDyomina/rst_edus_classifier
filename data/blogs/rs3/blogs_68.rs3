@@ -1,0 +1,240 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="antithesis" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="background" type="rst" />
+			<rel name="cause" type="rst" />
+			<rel name="comparison" type="multinuc" />
+			<rel name="concession" type="rst" />
+			<rel name="conclusion" type="rst" />
+			<rel name="condition" type="rst" />
+			<rel name="contrast" type="multinuc" />
+			<rel name="effect" type="rst" />
+			<rel name="elaboration" type="rst" />
+			<rel name="evaluation" type="rst" />
+			<rel name="evidence" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="motivation" type="rst" />
+			<rel name="preparation" type="rst" />
+			<rel name="purpose" type="rst" />
+			<rel name="restatement" type="multinuc" />
+			<rel name="same-unit" type="multinuc" />
+			<rel name="sequence" type="multinuc" />
+			<rel name="solutionhood" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="1" relname="antithesis">https://gelena-s.livejournal.com/296755.html</segment>
+		<segment id="2" relname="antithesis">Про имидж</segment>
+		<segment id="3" parent="220" relname="same-unit">«Доктор,</segment>
+		<segment id="4" parent="5" relname="condition">когда я встаю на четвереньки,</segment>
+		<segment id="5" parent="219" relname="span">у меня отвисают нижние веки!»</segment>
+		<segment id="6" parent="221" relname="elaboration">Из реальных запросов к пластическому хирургу.</segment>
+		<segment id="7" parent="109" relname="span">Вот по такому запросу и понятно, почему раньше в любой уважающей себя клинике пластической хирургии обязательно работал психиатр.</segment>
+		<segment id="8" parent="7" relname="elaboration">Это я по теме поста у Яны miumau про маму, которая так и не увидела, что дочь нуждается в пластике.</segment>
+		<segment id="9" parent="111" relname="span">Потому решила сама немного про это написать.</segment>
+		<segment id="10" parent="116" relname="preparation">Когда-то в старших классах я сама уговорила подругу на пластику носа.</segment>
+		<segment id="11" parent="112" relname="joint">Она была внешне очень хорошо сложена,</segment>
+		<segment id="12" parent="115" relname="span">все в лице пропорционально, кроме кончика носа.</segment>
+		<segment id="13" parent="114" relname="comparison">Который всегда оставлял странное впечатление:</segment>
+		<segment id="14" parent="15" relname="cause">как будто кто-то небрежно надрезал нос посередине</segment>
+		<segment id="15" parent="113" relname="span">и все вот так заросло. Как бы почти два носа.</segment>
+		<segment id="16" parent="118" relname="contrast">Пустяк вроде,</segment>
+		<segment id="17" parent="118" relname="contrast">но на школьных танцах ее практически не приглашали.</segment>
+		<segment id="18" parent="119" relname="joint">И меня тогда больше всего зацепило, что ребята, старались взглядом как бы избегать ее лица.</segment>
+		<segment id="19" parent="124" relname="contrast">Кстати, ни травли, ни каких-то дразнилок в ее адрес тоже никогда не было.</segment>
+		<segment id="20" parent="122" relname="joint">Но я тогда очень хотела ей помочь,</segment>
+		<segment id="21" parent="122" relname="joint">мне было неуютно, что мимо нее проходят вся эта подростковая круговерть с влюбленностями и первыми поцелуями.</segment>
+		<segment id="22" parent="125" relname="span">Вот и посеяла ей идею сделать пластику.</segment>
+		<segment id="23" parent="130" relname="joint">Ее мама ругалась на нас обоих,</segment>
+		<segment id="24" parent="129" relname="joint">говорила, что ее дочь и так полюбят,</segment>
+		<segment id="25" parent="129" relname="joint">что «судьба и на печке найдет»,</segment>
+		<segment id="26" parent="129" relname="joint">что недостаток у нее пустяшный.</segment>
+		<segment id="27" parent="131" relname="contrast">Но маму уломали доехать с дочкой к врачу.</segment>
+		<segment id="28" parent="134" relname="sequence">Вошли они в кабинет</segment>
+		<segment id="29" parent="133" relname="joint">и врач,</segment>
+		<segment id="30" parent="31" relname="cause">глядя на взвинченную маму,</segment>
+		<segment id="31" parent="132" relname="span">сразу решил успокоить: «А чего вы волнуетесь?</segment>
+		<segment id="32" parent="135" relname="joint">Операция простая,</segment>
+		<segment id="33" parent="135" relname="joint">кость трогать не надо,</segment>
+		<segment id="34" parent="135" relname="joint">через месяц будет красавицей!»</segment>
+		<segment id="35" parent="139" relname="joint">Действительно, после операции она стала и лучше выглядеть</segment>
+		<segment id="36" parent="139" relname="joint">и самое главное, увереннее себя чувствовать.</segment>
+		<segment id="37" parent="138" relname="span">Это выразилось даже в том, что на следующий год она сама, без блата, поступила в Плехановский,</segment>
+		<segment id="38" parent="37" relname="evaluation">тогда такое было сродни чуду.</segment>
+		<segment id="39" parent="142" relname="span">Она говорила, что как раз вот радость от того, что она теперь всегда чувствует себя в порядке и дала ей силы</segment>
+		<segment id="40" parent="39" relname="purpose">для поступления.</segment>
+		<segment id="41" parent="147" relname="preparation">Кстати, еще один интересный факт.</segment>
+		<segment id="42" parent="146" relname="span">Когда ее готовили к операции,</segment>
+		<segment id="43" parent="42" relname="background">а это в «институте красоты» делали почему-то для всех сразу,</segment>
+		<segment id="44" parent="147" relname="span">то среди тех, кто с оперировался одновременно с моей подругой, была девушка, вызывавшая недоуменные взгляды.</segment>
+		<segment id="45" parent="149" relname="span">Она была просто красавица, с распущенными пышными волосами,</segment>
+		<segment id="46" parent="45" relname="evaluation">на первый взгляд, совершенно нечего оперировать.</segment>
+		<segment id="47" parent="151" relname="contrast">Остальные были со всяко-разно заметными носами, пара девушек с Кавказа, у которых нос «на двоих рос», девушка после аварии с вмятиной на лице,</segment>
+		<segment id="48" parent="151" relname="contrast">а тут такая красотка…</segment>
+		<segment id="49" parent="156" relname="evaluation">Зачем?</segment>
+		<segment id="50" parent="154" relname="span">Все выяснилось,</segment>
+		<segment id="51" parent="153" relname="joint">когда все переоделись</segment>
+		<segment id="52" parent="153" relname="joint">и убрали волосы под шапочку.</segment>
+		<segment id="53" parent="159" relname="same-unit">Подруга рассказывала,</segment>
+		<segment id="54" parent="55" relname="concession">что несмотря на мандраж перед операцией,</segment>
+		<segment id="55" parent="158" relname="span">все невольно расползлись в улыбке.</segment>
+		<segment id="56" parent="160" relname="joint">У этой красавицы одно ухо торчало строго перпендикулярно к голове,</segment>
+		<segment id="57" parent="160" relname="joint">и вид у нее получался умилительно-забавный.</segment>
+		<segment id="58" parent="161" relname="comparison">Как будто она одним ухом прислушивается, как щенок.</segment>
+		<segment id="59" parent="163" relname="solutionhood">Девушка на улыбки и ответила: «Знаете, как надоело работать клоуном?</segment>
+		<segment id="60" parent="163" relname="span">Вот потому и делаю пластику,</segment>
+		<segment id="61" parent="60" relname="cause">что устала от таких улыбок.»</segment>
+		<segment id="62" parent="169" relname="span">По этой причине уже много позже, взрослой, я предложила соседке, которая все умилялась на дочкины оттопыренные «лопушки», все же сделать операцию,</segment>
+		<segment id="63" parent="62" relname="condition">пока ребенок особо ничего не понимает.</segment>
+		<segment id="64" parent="169" relname="purpose">Что бы роль клоуна не приросла.</segment>
+		<segment id="65" parent="171" relname="contrast">Но тогда она даже слушать не стала.</segment>
+		<segment id="66" parent="172" relname="joint">И я уже была сильно взрослее</segment>
+		<segment id="67" parent="172" relname="joint">и настаивать, конечно не стала.</segment>
+		<segment id="68" parent="175" relname="span">А через какое-то время получила упрек от мамы, что вот «ты же психолог</segment>
+		<segment id="69" parent="68" relname="concession">(хотя тогда я психологом еще не была),</segment>
+		<segment id="70" parent="176" relname="span">чего же не настояла?»</segment>
+		<segment id="71" parent="177" relname="joint">У девочки случилась нехорошая история с мальчиком, который ей нравился,</segment>
+		<segment id="72" parent="177" relname="joint">а он прилюдно и довольно зло проехался по ее ушам.</segment>
+		<segment id="73" parent="218" relname="span">Ну и была попытка суицида, к счастью неудачная.</segment>
+		<segment id="74" parent="183" relname="joint">Потом было много разных случаев с клиентами,</segment>
+		<segment id="75" parent="183" relname="joint">я даже где-то писала.</segment>
+		<segment id="76" parent="184" relname="span">Так вот, клиентам иногда даже советовала к врачу косметологу сходить.</segment>
+		<segment id="77" parent="78" relname="condition">При хорошем контакте с клиентом</segment>
+		<segment id="78" parent="187" relname="span">сказать можно многое.</segment>
+		<segment id="79" parent="186" relname="span">Например, тот же ботокс может быть серьезным вспомогательным средством</segment>
+		<segment id="80" parent="79" relname="condition">при психотерапии.</segment>
+		<segment id="81" parent="193" relname="span">Великолепно блокирует автоматический вход во многие привычные состояния.</segment>
+		<segment id="82" parent="191" relname="contrast">Лоб уже не хмурится,</segment>
+		<segment id="83" parent="190" relname="span">а с гладким лбом накрутить себя в разы труднее</segment>
+		<segment id="84" parent="189" relname="same-unit">(попробуйте,</segment>
+		<segment id="85" parent="86" relname="condition">сохраняя гладкое лицо,</segment>
+		<segment id="86" parent="188" relname="span">воспроизвести в себе какое-либо состояние из списка «все люди – гады!»),</segment>
+		<segment id="87" parent="192" relname="span">соответственно уходит привычный автоматизм реакций.</segment>
+		<segment id="88" parent="89" relname="preparation">Но вот об одной вещи хочу обязательно рассказать.</segment>
+		<segment id="89" parent="196" relname="span">Есть такое фактически расстройство психики, как дисморфофобия.</segment>
+		<segment id="90" parent="196" relname="elaboration">И тут я хочу описать один грубый, но заметный признак, по которому становится понятно, что лучше работать уже не с психологом, а с психиатром.</segment>
+		<segment id="91" parent="201" relname="same-unit">Это когда клиент,</segment>
+		<segment id="92" parent="199" relname="span">имея во внешности действительно заметный дефект</segment>
+		<segment id="93" parent="92" relname="evidence">(нос там кривой или очень плохую кожу)</segment>
+		<segment id="94" parent="200" relname="span">зафиксирован совсем на другом.</segment>
+		<segment id="95" parent="222" relname="same-unit">Например,</segment>
+		<segment id="96" parent="97" relname="condition">при явно выраженной кривизне носа</segment>
+		<segment id="97" parent="223" relname="span">человек сосредоточен на форме груди или повышенной волосатости на руках.</segment>
+		<segment id="98" parent="202" relname="joint">И если при этом были какие-то дико радикальные попытки самому себе что-то исправить.</segment>
+		<segment id="99" parent="100" relname="condition">Так вот, учтите, если это ваш близкий,</segment>
+		<segment id="100" parent="206" relname="span">то ищите психиатра.</segment>
+		<segment id="101" parent="206" relname="evaluation">Очень может пригодится.</segment>
+		<segment id="102" parent="211" relname="span">А вам я сейчас задам один вопрос на эту тему.</segment>
+		<segment id="103" parent="210" relname="joint">Когда, на ваш взгляд, полезны операции по увеличению груди?</segment>
+		<segment id="104" parent="210" relname="joint">Когда полезны операции по уменьшению груди?</segment>
+		<segment id="105" parent="210" relname="joint">Какие факторы тут работают?</segment>
+		<segment id="106" parent="209" relname="contrast">Когда это блажь,</segment>
+		<segment id="107" parent="209" relname="contrast">а когда необходимость?</segment>
+		<group id="109" type="span" parent="110" relname="span"/>
+		<group id="110" type="span" parent="9" relname="cause"/>
+		<group id="111" type="span" parent="128" relname="span"/>
+		<group id="112" type="multinuc" parent="127" relname="span"/>
+		<group id="113" type="span" parent="114" relname="comparison"/>
+		<group id="114" type="multinuc" parent="12" relname="elaboration"/>
+		<group id="115" type="span" parent="112" relname="joint"/>
+		<group id="116" type="span" parent="117" relname="span"/>
+		<group id="117" type="span" parent="111" relname="evidence"/>
+		<group id="118" type="multinuc" parent="119" relname="joint"/>
+		<group id="119" type="multinuc" parent="120" relname="span"/>
+		<group id="120" type="span" parent="126" relname="span"/>
+		<group id="122" type="multinuc" parent="124" relname="contrast"/>
+		<group id="124" type="multinuc" parent="22" relname="cause"/>
+		<group id="125" type="span" parent="120" relname="elaboration"/>
+		<group id="126" type="span" parent="127" relname="elaboration"/>
+		<group id="127" type="span" parent="116" relname="span"/>
+		<group id="128" type="span" relname="antithesis"/>
+		<group id="129" type="multinuc" parent="130" relname="joint"/>
+		<group id="130" type="multinuc" parent="131" relname="contrast"/>
+		<group id="131" type="multinuc" parent="137" relname="sequence"/>
+		<group id="132" type="span" parent="213" relname="solutionhood"/>
+		<group id="133" type="multinuc" parent="134" relname="sequence"/>
+		<group id="134" type="multinuc" parent="137" relname="sequence"/>
+		<group id="135" type="multinuc" parent="213" relname="span"/>
+		<group id="137" type="multinuc" parent="144" relname="span"/>
+		<group id="138" type="span" parent="143" relname="span"/>
+		<group id="139" type="multinuc" parent="140" relname="span"/>
+		<group id="140" type="span" parent="141" relname="span"/>
+		<group id="141" type="span" parent="144" relname="evaluation"/>
+		<group id="142" type="span" parent="138" relname="elaboration"/>
+		<group id="143" type="span" parent="140" relname="evidence"/>
+		<group id="144" type="span" parent="145" relname="span"/>
+		<group id="145" type="span" relname="antithesis"/>
+		<group id="146" type="span" parent="44" relname="condition"/>
+		<group id="147" type="span" parent="148" relname="span"/>
+		<group id="148" type="span" parent="150" relname="span"/>
+		<group id="149" type="span" parent="148" relname="elaboration"/>
+		<group id="150" type="span" parent="152" relname="comparison"/>
+		<group id="151" type="multinuc" parent="152" relname="comparison"/>
+		<group id="152" type="multinuc" parent="156" relname="span"/>
+		<group id="153" type="multinuc" parent="50" relname="cause"/>
+		<group id="154" type="span" parent="168" relname="span"/>
+		<group id="156" type="span" parent="157" relname="span"/>
+		<group id="157" type="span" parent="168" relname="solutionhood"/>
+		<group id="158" type="span" parent="159" relname="same-unit"/>
+		<group id="159" type="multinuc" parent="165" relname="span"/>
+		<group id="160" type="multinuc" parent="161" relname="comparison"/>
+		<group id="161" type="multinuc" parent="165" relname="cause"/>
+		<group id="163" type="span" parent="216" relname="span"/>
+		<group id="165" type="span" parent="166" relname="span"/>
+		<group id="166" type="span" parent="217" relname="span"/>
+		<group id="168" type="span" parent="215" relname="span"/>
+		<group id="169" type="span" parent="170" relname="span"/>
+		<group id="170" type="span" parent="171" relname="contrast"/>
+		<group id="171" type="multinuc" parent="181" relname="span"/>
+		<group id="172" type="multinuc" parent="180" relname="contrast"/>
+		<group id="175" type="span" parent="70" relname="cause"/>
+		<group id="176" type="span" parent="179" relname="span"/>
+		<group id="177" type="multinuc" parent="73" relname="cause"/>
+		<group id="179" type="span" parent="180" relname="contrast"/>
+		<group id="180" type="multinuc" parent="181" relname="evaluation"/>
+		<group id="181" type="span" parent="182" relname="span"/>
+		<group id="182" type="span" relname="antithesis"/>
+		<group id="183" type="multinuc" parent="76" relname="preparation"/>
+		<group id="184" type="span" parent="185" relname="span"/>
+		<group id="185" type="span" parent="195" relname="span"/>
+		<group id="186" type="span" parent="194" relname="span"/>
+		<group id="187" type="span" parent="184" relname="elaboration"/>
+		<group id="188" type="span" parent="189" relname="same-unit"/>
+		<group id="189" type="multinuc" parent="83" relname="evidence"/>
+		<group id="190" type="span" parent="191" relname="contrast"/>
+		<group id="191" type="multinuc" parent="87" relname="cause"/>
+		<group id="192" type="span" parent="81" relname="elaboration"/>
+		<group id="193" type="span" parent="186" relname="elaboration"/>
+		<group id="194" type="span" parent="185" relname="evidence"/>
+		<group id="195" type="span" relname="antithesis"/>
+		<group id="196" type="span" parent="198" relname="span"/>
+		<group id="198" type="span" parent="205" relname="span"/>
+		<group id="199" type="span" parent="94" relname="condition"/>
+		<group id="200" type="span" parent="201" relname="same-unit"/>
+		<group id="201" type="multinuc" parent="203" relname="span"/>
+		<group id="202" type="multinuc" parent="203" relname="evidence"/>
+		<group id="203" type="span" parent="204" relname="span"/>
+		<group id="204" type="span" parent="198" relname="elaboration"/>
+		<group id="205" type="span" parent="208" relname="span"/>
+		<group id="206" type="span" parent="207" relname="span"/>
+		<group id="207" type="span" parent="205" relname="evaluation"/>
+		<group id="208" type="span" relname="antithesis"/>
+		<group id="209" type="multinuc" parent="210" relname="joint"/>
+		<group id="210" type="multinuc" parent="102" relname="elaboration"/>
+		<group id="211" type="span" relname="antithesis"/>
+		<group id="212" type="span" parent="109" relname="preparation"/>
+		<group id="213" type="span" parent="214" relname="span"/>
+		<group id="214" type="span" parent="133" relname="joint"/>
+		<group id="215" type="span" relname="antithesis"/>
+		<group id="216" type="span" parent="166" relname="evaluation"/>
+		<group id="217" type="span" parent="154" relname="elaboration"/>
+		<group id="218" type="span" parent="176" relname="background"/>
+		<group id="219" type="span" parent="220" relname="same-unit"/>
+		<group id="220" type="multinuc" parent="221" relname="span"/>
+		<group id="221" type="span" parent="212" relname="span"/>
+		<group id="222" type="multinuc" parent="202" relname="joint"/>
+		<group id="223" type="span" parent="222" relname="same-unit"/>
+  </body>
+</rst>

@@ -1,0 +1,239 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="antithesis" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="background" type="rst" />
+			<rel name="cause" type="rst" />
+			<rel name="comparison" type="multinuc" />
+			<rel name="concession" type="rst" />
+			<rel name="conclusion" type="rst" />
+			<rel name="condition" type="rst" />
+			<rel name="contrast" type="multinuc" />
+			<rel name="effect" type="rst" />
+			<rel name="elaboration" type="rst" />
+			<rel name="evaluation" type="rst" />
+			<rel name="evidence" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="motivation" type="rst" />
+			<rel name="preparation" type="rst" />
+			<rel name="purpose" type="rst" />
+			<rel name="restatement" type="multinuc" />
+			<rel name="same-unit" type="multinuc" />
+			<rel name="sequence" type="multinuc" />
+			<rel name="solutionhood" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="1" relname="antithesis">https://dpmmax.livejournal.com/851297.html</segment>
+		<segment id="2" relname="antithesis">Хорошо забытое старое?</segment>
+		<segment id="3" relname="antithesis">IMG</segment>
+		<segment id="4" parent="208" relname="comparison">Что касается лекарств, коими пользуют пациентов психиатрических клиник, в их разработке заметно некоторое затишье,</segment>
+		<segment id="5" parent="208" relname="comparison">если сравнивать с второй половиной прошлого века.</segment>
+		<segment id="6" parent="109" relname="sequence">Тогда, особенно после открытия аминазина, первого в череде нейролептиков, и ипрониазида, первого среди антидепрессантов,</segment>
+		<segment id="7" parent="209" relname="span">события помчались галопом:</segment>
+		<segment id="8" parent="110" relname="joint">делали всё новые и новые,</segment>
+		<segment id="9" parent="110" relname="joint">применяли,</segment>
+		<segment id="10" parent="110" relname="joint">копили опыт,</segment>
+		<segment id="11" parent="110" relname="joint">боролись с появившимися побочными эффектами.</segment>
+		<segment id="12" parent="114" relname="span">Но главное было сделано:</segment>
+		<segment id="13" parent="12" relname="elaboration">психически больные пациенты перестали быть постоянными обитателями психиатрических клиник.</segment>
+		<segment id="14" parent="116" relname="span">Дальше — больше:</segment>
+		<segment id="15" parent="115" relname="span">стало много внимания уделяться тому,</segment>
+		<segment id="16" parent="15" relname="purpose">чтобы лечение переносилось как можно легче и незаметнее.</segment>
+		<segment id="17" parent="119" relname="span">Потому и на смену старым нейролептикам и антидепрессантам пришли их новые поколения.</segment>
+		<segment id="18" parent="122" relname="contrast">А потом всё понемногу затихло.</segment>
+		<segment id="19" parent="121" relname="joint">Нет, выпуск лекарств не прекратился,</segment>
+		<segment id="20" parent="121" relname="joint">да и в разработке тоже кое-что имеется.</segment>
+		<segment id="21" parent="123" relname="evaluation">Просто нет той ретивости.</segment>
+		<segment id="22" parent="125" relname="span">Отчасти это объясняется тем, что фармкомпаниям не очень-то и выгодно разрабатывать препараты для тех, кто (в массе своей, конечно) не будет в состоянии за них платить</segment>
+		<segment id="23" parent="125" relname="cause">— ведь психиатрия всегда была дотационной отраслью медицины.</segment>
+		<segment id="24" parent="127" relname="joint">Ну ладно ещё антидепрессанты — их покупают охотнее,</segment>
+		<segment id="25" parent="127" relname="joint">да и социальный срез побогаче в целом будет.</segment>
+		<segment id="26" parent="128" relname="comparison">А вот с нейролептиками сложнее.</segment>
+		<segment id="27" parent="131" relname="span">Другая причина — сейчас учёные, фармакологи и медики приблизились к порогу своих знаний о нейромедиаторах и того, как на них действуют эти группы лекарств.</segment>
+		<segment id="28" parent="212" relname="span">Надо учить матчасть дальше,</segment>
+		<segment id="29" parent="28" relname="purpose">а там и новые идеи появятся.</segment>
+		<segment id="30" parent="135" relname="span">Одновременно, как маркер дефицита идей, начались опыты с применением преданных было анафеме грибочков, травок и марок.</segment>
+		<segment id="31" parent="134" relname="contrast">Даже появился термин «микродозинг»,</segment>
+		<segment id="32" parent="134" relname="contrast">но о нём как-нибудь в другой раз, при случае.</segment>
+		<segment id="33" parent="136" relname="contrast">Сейчас же несколько слов об ещё одном незаслуженно забытом направлении в лечении психических болезней. О противовоспалительном.</segment>
+		<segment id="34" parent="138" relname="preparation">Дело в том, что в механизме развития и шизофрении, и деменции, и даже депрессивного эпизода имеет место воспалительный процесс.</segment>
+		<segment id="35" parent="36" relname="cause">Поскольку генетика генетикой,</segment>
+		<segment id="36" parent="222" relname="span">сбой в основе — это само собой,</segment>
+		<segment id="37" parent="137" relname="contrast">но что дальше?</segment>
+		<segment id="38" parent="142" relname="span">А дальше — в нервной ткани, в тех её областях,</segment>
+		<segment id="39" parent="38" relname="cause">где или генетически, или по внешним причинам возникает дефект,</segment>
+		<segment id="40" parent="141" relname="restatement">развивается воспаление. По типу аутоиммунного</segment>
+		<segment id="41" parent="140" relname="span">— то есть, когда мишенью для нашей сторожевой иммунной системы становятся собственные же ткани,</segment>
+		<segment id="42" parent="41" relname="cause">из-за того, что как-то неправильно они для этой самой системы распознаются.</segment>
+		<segment id="43" parent="144" relname="sequence">И, соответственно, определяются, как нечто чуждое и мастдай.</segment>
+		<segment id="44" parent="146" relname="span">И вот это-то воспаление часто и даёт в итоге повреждение нервных клеток, со всеми вытекающими.</segment>
+		<segment id="45" parent="46" relname="solutionhood">Почему хорошо забытое старое?</segment>
+		<segment id="46" parent="214" relname="span">Помните, я писал про сульфозин и заражение малярией, как про экстремальные и ушедшие в историю методы лечения?</segment>
+		<segment id="47" parent="150" relname="joint">А ведь при всей жести этих методик,</segment>
+		<segment id="48" parent="149" relname="span">при всех незабываемых ощущениях</segment>
+		<segment id="49" parent="48" relname="condition">в ходе их применения,</segment>
+		<segment id="50" parent="151" relname="span">результат-то был — там, где они применялись по месту.</segment>
+		<segment id="51" parent="159" relname="solutionhood">В чём же была фишка?</segment>
+		<segment id="52" parent="159" relname="span">Да в том, что организму предлагали побороться с чем-то более серьёзным и всеобъемлющим, нежели какое то локальное и аутоиммунное воспаление.</segment>
+		<segment id="53" parent="154" relname="comparison">Там — плазмодия малярийного надо давить.</segment>
+		<segment id="54" parent="154" relname="comparison">Тут — с введённой в мышцу серой на персиковом масле что-то делать.</segment>
+		<segment id="55" parent="156" relname="sequence">Вот и подстраивалась вся система под новое воспаление.</segment>
+		<segment id="56" parent="156" relname="sequence">А потом с ним же успешно справлялась.</segment>
+		<segment id="57" parent="216" relname="elaboration">А под шумок — давила те самые маленькие, но такие заметные для психики очажки.</segment>
+		<segment id="58" parent="163" relname="span">А не так давно стали появляться работы,</segment>
+		<segment id="59" parent="162" relname="joint">в которых всё чаще и чаще упоминается воспалительный процесс в нервной ткани,</segment>
+		<segment id="60" parent="162" relname="joint">а также говорится о необходимости что-то с ним делать.</segment>
+		<segment id="61" parent="164" relname="contrast">Но как?</segment>
+		<segment id="62" parent="165" relname="contrast">Противовоспалительные средства гормонального ряда сами по себе дают немало осложнений,</segment>
+		<segment id="63" parent="165" relname="contrast">а ведь применять планируется длительно.</segment>
+		<segment id="64" parent="166" relname="evidence">Средства вроде аспирина и парацетамола тоже, знаете ли, не бесследно в организме исчезают.</segment>
+		<segment id="65" parent="168" relname="span">В итоге внимание сейчас сосредоточено на двух направлениях.</segment>
+		<segment id="66" parent="169" relname="contrast">На самом деле, ищут и дальше,</segment>
+		<segment id="67" parent="169" relname="contrast">но по этим двум прохаживаются конкретно.</segment>
+		<segment id="68" parent="173" relname="span">Первое — это вещества, тормозящие действие</segment>
+		<segment id="69" parent="68" relname="elaboration">(чувствительным к биохимическим загибам заткнуть уши и закрыть глаза)</segment>
+		<segment id="70" parent="174" relname="same-unit">циклооксигеназы-2.</segment>
+		<segment id="71" parent="218" relname="restatement">Такие, к примеру, как целеоксиб</segment>
+		<segment id="72" parent="218" relname="restatement">(мы его знаем больше, как целебрекс)</segment>
+		<segment id="73" parent="176" relname="same-unit">и парекоксиб.</segment>
+		<segment id="74" parent="179" relname="span">Оба не дают образовываться особым веществам, участвующим в процессе воспаления — таким, например, как простагландины.</segment>
+		<segment id="75" parent="180" relname="span">И потому хорошо знакомы как тем, кто лечит свой ревматоидный артрит, так и людям, страдающим от острых болей.</segment>
+		<segment id="76" parent="186" relname="span">Данные пока набираются противоречивые.</segment>
+		<segment id="77" parent="78" relname="condition">При той же болезни Альцгеймера</segment>
+		<segment id="78" parent="181" relname="span">одни исследователи утверждают, будто никакого действия на глубину деменции целебрекс не оказывает,</segment>
+		<segment id="79" parent="183" relname="same-unit">а другие возражают: мол, зато</segment>
+		<segment id="80" parent="81" relname="cause">после применения</segment>
+		<segment id="81" parent="219" relname="span">замедляется дальнейший прогресс болезни,</segment>
+		<segment id="82" parent="184" relname="joint">слабоумие перестаёт нарастать такими быстрыми темпами.</segment>
+		<segment id="83" parent="187" relname="span">Работы с применением парекоксиба</segment>
+		<segment id="84" parent="83" relname="condition">при шизофрении</segment>
+		<segment id="85" parent="223" relname="span">пока ведутся</segment>
+		<segment id="86" parent="85" relname="condition">в лабораторных условиях и на крысах</segment>
+		<segment id="87" parent="189" relname="elaboration">(не спрашивайте меня про параллели и экстраполяцию),</segment>
+		<segment id="88" parent="191" relname="cause">но результатами учёные впечатлились,</segment>
+		<segment id="89" parent="191" relname="span">так что ждём,</segment>
+		<segment id="90" parent="89" relname="condition">когда переключатся на людей.</segment>
+		<segment id="91" parent="198" relname="preparation">Второе направление — это N-ацетилцистеин.</segment>
+		<segment id="92" parent="197" relname="joint">Есть такая аминокислота,</segment>
+		<segment id="93" parent="196" relname="span">и применяется она в основном для других целей</segment>
+		<segment id="94" parent="195" relname="span">— для облегчения разжижения и отхождения мокроты</segment>
+		<segment id="95" parent="94" relname="condition">при бронхитах,</segment>
+		<segment id="96" parent="224" relname="same-unit">ну и как антиоксидант тоже.</segment>
+		<segment id="97" parent="205" relname="span">Вот как раз это самое антиоксидантное действие и заинтересовало учёных.</segment>
+		<segment id="98" parent="226" relname="same-unit">Дело в том, что так называемый окислительный стресс,</segment>
+		<segment id="99" parent="100" relname="condition">наряду с воспалением,</segment>
+		<segment id="100" parent="225" relname="span">замедляет выработку белков, стимулирующих рост нервной ткани (нейротрофинов),</segment>
+		<segment id="101" parent="220" relname="restatement">тормозит выработку энергии в клеточных энергетических станциях</segment>
+		<segment id="102" parent="220" relname="restatement">(их называют митохондриями),</segment>
+		<segment id="103" parent="202" relname="joint">да и в процессе гибели нервных клеток тоже напрямую задействован.</segment>
+		<segment id="104" parent="206" relname="span">А тут — вещество, которое повышает в организме уровень главного антиоксиданта — глутатиона.</segment>
+		<segment id="105" parent="203" relname="joint">В общем, к его применению в психиатрии сейчас тоже внимательно приглядываются</segment>
+		<segment id="106" parent="203" relname="joint">и примеряются.</segment>
+		<segment id="107" parent="200" relname="evaluation">Так что не нейролептиками едиными и не только антидепрессантами...</segment>
+		<group id="109" type="multinuc" parent="210" relname="span"/>
+		<group id="110" type="multinuc" parent="7" relname="elaboration"/>
+		<group id="114" type="span" parent="117" relname="sequence"/>
+		<group id="115" type="span" parent="14" relname="elaboration"/>
+		<group id="116" type="span" parent="117" relname="sequence"/>
+		<group id="117" type="multinuc" parent="118" relname="span"/>
+		<group id="118" type="span" parent="17" relname="cause"/>
+		<group id="119" type="span" relname="antithesis"/>
+		<group id="121" type="multinuc" parent="122" relname="contrast"/>
+		<group id="122" type="multinuc" parent="123" relname="span"/>
+		<group id="123" type="span" parent="124" relname="span"/>
+		<group id="124" type="span" parent="129" relname="span"/>
+		<group id="125" type="span" parent="126" relname="span"/>
+		<group id="126" type="span" parent="211" relname="span"/>
+		<group id="127" type="multinuc" parent="128" relname="comparison"/>
+		<group id="128" type="multinuc" parent="126" relname="elaboration"/>
+		<group id="129" type="span" parent="133" relname="joint"/>
+		<group id="131" type="span" parent="133" relname="joint"/>
+		<group id="133" type="multinuc" relname="antithesis"/>
+		<group id="134" type="multinuc" parent="30" relname="elaboration"/>
+		<group id="135" type="span" parent="136" relname="contrast"/>
+		<group id="136" type="multinuc" relname="antithesis"/>
+		<group id="137" type="multinuc" parent="138" relname="span"/>
+		<group id="138" type="span" parent="139" relname="span"/>
+		<group id="139" type="span" parent="146" relname="solutionhood"/>
+		<group id="140" type="span" parent="141" relname="restatement"/>
+		<group id="141" type="multinuc" parent="143" relname="same-unit"/>
+		<group id="142" type="span" parent="143" relname="same-unit"/>
+		<group id="143" type="multinuc" parent="144" relname="sequence"/>
+		<group id="144" type="multinuc" parent="145" relname="span"/>
+		<group id="145" type="span" parent="44" relname="cause"/>
+		<group id="146" type="span" parent="213" relname="span"/>
+		<group id="149" type="span" parent="150" relname="joint"/>
+		<group id="150" type="multinuc" parent="50" relname="condition"/>
+		<group id="151" type="span" parent="152" relname="span"/>
+		<group id="152" type="span" parent="161" relname="span"/>
+		<group id="154" type="multinuc" parent="157" relname="cause"/>
+		<group id="156" type="multinuc" parent="216" relname="span"/>
+		<group id="157" type="span" parent="158" relname="span"/>
+		<group id="158" type="span" parent="52" relname="evidence"/>
+		<group id="159" type="span" parent="215" relname="span"/>
+		<group id="161" type="span" relname="antithesis"/>
+		<group id="162" type="multinuc" parent="58" relname="elaboration"/>
+		<group id="163" type="span" parent="164" relname="contrast"/>
+		<group id="164" type="multinuc" parent="171" relname="span"/>
+		<group id="165" type="multinuc" parent="166" relname="span"/>
+		<group id="166" type="span" parent="167" relname="span"/>
+		<group id="167" type="span" parent="65" relname="cause"/>
+		<group id="168" type="span" parent="170" relname="span"/>
+		<group id="169" type="multinuc" parent="168" relname="elaboration"/>
+		<group id="170" type="span" parent="217" relname="span"/>
+		<group id="171" type="span" parent="172" relname="span"/>
+		<group id="172" type="span" parent="170" relname="solutionhood"/>
+		<group id="173" type="span" parent="174" relname="same-unit"/>
+		<group id="174" type="multinuc" parent="177" relname="span"/>
+		<group id="176" type="multinuc" parent="177" relname="evidence"/>
+		<group id="177" type="span" parent="178" relname="span"/>
+		<group id="178" type="span" parent="74" relname="preparation"/>
+		<group id="179" type="span" parent="75" relname="cause"/>
+		<group id="180" type="span" relname="antithesis"/>
+		<group id="181" type="span" parent="185" relname="contrast"/>
+		<group id="183" type="multinuc" parent="184" relname="joint"/>
+		<group id="184" type="multinuc" parent="185" relname="contrast"/>
+		<group id="185" type="multinuc" parent="76" relname="elaboration"/>
+		<group id="186" type="span" parent="194" relname="joint"/>
+		<group id="187" type="span" parent="188" relname="same-unit"/>
+		<group id="188" type="multinuc" parent="189" relname="span"/>
+		<group id="189" type="span" parent="190" relname="span"/>
+		<group id="190" type="span" parent="193" relname="contrast"/>
+		<group id="191" type="span" parent="192" relname="span"/>
+		<group id="192" type="span" parent="193" relname="contrast"/>
+		<group id="193" type="multinuc" parent="194" relname="joint"/>
+		<group id="194" type="multinuc" relname="antithesis"/>
+		<group id="195" type="span" parent="224" relname="same-unit"/>
+		<group id="196" type="span" parent="197" relname="joint"/>
+		<group id="197" type="multinuc" parent="198" relname="span"/>
+		<group id="198" type="span" parent="199" relname="span"/>
+		<group id="199" type="span" parent="200" relname="span"/>
+		<group id="200" type="span" parent="207" relname="span"/>
+		<group id="202" type="multinuc" parent="206" relname="background"/>
+		<group id="203" type="multinuc" parent="104" relname="evaluation"/>
+		<group id="205" type="span" parent="199" relname="elaboration"/>
+		<group id="206" type="span" parent="221" relname="span"/>
+		<group id="207" type="span" relname="antithesis"/>
+		<group id="208" type="multinuc" parent="210" relname="preparation"/>
+		<group id="209" type="span" parent="109" relname="sequence"/>
+		<group id="210" type="span" relname="antithesis"/>
+		<group id="211" type="span" parent="124" relname="cause"/>
+		<group id="212" type="span" parent="27" relname="elaboration"/>
+		<group id="213" type="span" relname="antithesis"/>
+		<group id="214" type="span" parent="151" relname="background"/>
+		<group id="215" type="span" parent="152" relname="elaboration"/>
+		<group id="216" type="span" parent="157" relname="span"/>
+		<group id="217" type="span" relname="antithesis"/>
+		<group id="218" type="multinuc" parent="176" relname="same-unit"/>
+		<group id="219" type="span" parent="183" relname="same-unit"/>
+		<group id="220" type="multinuc" parent="202" relname="joint"/>
+		<group id="221" type="span" parent="97" relname="cause"/>
+		<group id="222" type="span" parent="137" relname="contrast"/>
+		<group id="223" type="span" parent="188" relname="same-unit"/>
+		<group id="224" type="multinuc" parent="93" relname="purpose"/>
+		<group id="225" type="span" parent="226" relname="same-unit"/>
+		<group id="226" type="multinuc" parent="202" relname="joint"/>
+  </body>
+</rst>

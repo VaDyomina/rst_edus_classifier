@@ -1,0 +1,194 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="antithesis" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="background" type="rst" />
+			<rel name="cause" type="rst" />
+			<rel name="comparison" type="multinuc" />
+			<rel name="concession" type="rst" />
+			<rel name="conclusion" type="rst" />
+			<rel name="condition" type="rst" />
+			<rel name="contrast" type="multinuc" />
+			<rel name="effect" type="rst" />
+			<rel name="elaboration" type="rst" />
+			<rel name="evaluation" type="rst" />
+			<rel name="evidence" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="motivation" type="rst" />
+			<rel name="preparation" type="rst" />
+			<rel name="purpose" type="rst" />
+			<rel name="restatement" type="multinuc" />
+			<rel name="same-unit" type="multinuc" />
+			<rel name="sequence" type="multinuc" />
+			<rel name="solutionhood" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="1" relname="antithesis">https://ibigdan.livejournal.com/23770319.html</segment>
+		<segment id="2" relname="antithesis">Качели и тир</segment>
+		<segment id="3" relname="antithesis">IMG</segment>
+		<segment id="4" parent="150" relname="preparation">И вот смотрите, как забавно получается.</segment>
+		<segment id="5" parent="89" relname="condition">Минские соглашения прописаны так своеобразно,</segment>
+		<segment id="6" parent="89" relname="span">что даже мне понятно, что там применима поговорка</segment>
+		<segment id="7" parent="88" relname="span">«Закон что дышло,</segment>
+		<segment id="8" parent="9" relname="cause">как повернёшь,</segment>
+		<segment id="9" parent="87" relname="span">так и вышло».</segment>
+		<segment id="10" parent="151" relname="cause">И на протяжении ряда лет их успешно поворачивали так,</segment>
+		<segment id="11" parent="91" relname="joint">что Россия сидела под санкциями,</segment>
+		<segment id="12" parent="91" relname="joint">а наши ВСУ потихоньку отжимали территорию и отправляли на тот свет сепаров.</segment>
+		<segment id="13" parent="94" relname="joint">И главное, всё правильно было.</segment>
+		<segment id="14" parent="94" relname="joint">Всё в полном соответствии с Минскими договорённостями.</segment>
+		<segment id="15" parent="96" relname="cause">И так это всё замечательно работало,</segment>
+		<segment id="16" parent="96" relname="span">что многие неглупые мои знакомые хвалили даже бывшего президента Кучму даже</segment>
+		<segment id="17" parent="95" relname="joint">— дескать, смотри, какой эффективный переговорщик,</segment>
+		<segment id="18" parent="95" relname="joint">видишь как всё замечательно складывается.</segment>
+		<segment id="19" parent="157" relname="span">Даже меня убедили.</segment>
+		<segment id="20" parent="180" relname="joint">Почти заставили поверить, что Леонид Данилович — патриот</segment>
+		<segment id="21" parent="180" relname="joint">и вместе с другими достойными людьми отстаивал интересы Украины в Минске.</segment>
+		<segment id="22" parent="99" relname="contrast">А теперь мы видим, что, кажется, Леонид Данилович всё-таки скорее не патриот,</segment>
+		<segment id="23" parent="99" relname="contrast">а всё-таки скорее эффективный переговорщик.</segment>
+		<segment id="24" parent="100" relname="elaboration">Успешно выполняющий ровно то, что ему поручили.</segment>
+		<segment id="25" parent="26" relname="condition">При Порошенко ему поручали отстаивать интересы Украины</segment>
+		<segment id="26" parent="103" relname="span">— и всё было хорошо.</segment>
+		<segment id="27" parent="28" relname="condition">При Зеленском ему, я так понимаю, поручили договариваться о прекращении огня и снятии блокады.</segment>
+		<segment id="28" parent="104" relname="span">И снова всё хорошо. У отдельно взятого Леонида Даниловича Кучмы, и ещё некоторых высокопоставленных лиц.</segment>
+		<segment id="29" parent="106" relname="contrast">Украине, правда, как-то не очень,</segment>
+		<segment id="30" parent="106" relname="contrast">но... ну сами посудите, не могут же все быть счастливы?</segment>
+		<segment id="31" parent="158" relname="span">Надо идти на компромиссы.</segment>
+		<segment id="32" parent="111" relname="span">Сегодня компромисс будет такой:</segment>
+		<segment id="33" parent="110" relname="joint">мы будем кормить Донбасс,</segment>
+		<segment id="34" parent="110" relname="joint">выплачивать ему репарации,</segment>
+		<segment id="35" parent="110" relname="joint">они будут в нас стрелять,</segment>
+		<segment id="36" parent="109" relname="span">а мы отвечать не будем,</segment>
+		<segment id="37" parent="36" relname="purpose">чтобы не провоцировать.</segment>
+		<segment id="38" parent="109" relname="evaluation">И решительно непонятно, как же так вышло.</segment>
+		<segment id="39" parent="113" relname="joint">Почему вот всё было скорее хорошо,</segment>
+		<segment id="40" parent="113" relname="joint">и какое-то время всё было скорее хорошо,</segment>
+		<segment id="41" parent="163" relname="span">а теперь вдруг раз — и как-то становится совсем не хорошо.</segment>
+		<segment id="42" parent="41" relname="evaluation">А прямо скажем, жопа какая-то на горизонте виднеется.</segment>
+		<segment id="43" parent="164" relname="span">Понятно, что инициатива прекратить огонь в ответ — это, по сути, обречь нашу армию на уничтожение. В первую очередь на моральное. Потом на физическое.</segment>
+		<segment id="44" parent="123" relname="span">Потому что я точно знаю, как это будет.</segment>
+		<segment id="45" parent="119" relname="contrast">Их будут обстреливать,</segment>
+		<segment id="46" parent="118" relname="joint">а уважаемые переговорщики с той стороны будут разводить руками</segment>
+		<segment id="47" parent="118" relname="joint">и говорить: «ЭТО НЕ МЫ». Или: «ДА НЕ БЫЛО ТАКОГО».</segment>
+		<segment id="48" parent="118" relname="joint">Или может: «ЭТО ВСУ ОБСТРЕЛИВАЮТ САМИ СЕБЯ».</segment>
+		<segment id="49" parent="120" relname="contrast">В принципе, ровно то же, что с той стороны говорят пять лет.</segment>
+		<segment id="50" parent="120" relname="contrast">Только раньше мы давали им адекватный ответ какой-то, бывало что и с запасом. На дипломатическом фронте. И другим разрешённым калибром.</segment>
+		<segment id="51" parent="126" relname="span">А теперь, значит, новая концепция.</segment>
+		<segment id="52" parent="124" relname="contrast">Мы теперь провоцировать не будем,</segment>
+		<segment id="53" parent="125" relname="joint">а будем строить мосты,</segment>
+		<segment id="54" parent="125" relname="joint">и снимать блокады,</segment>
+		<segment id="55" parent="125" relname="joint">и не стрелять в ответ,</segment>
+		<segment id="56" parent="125" relname="joint">и вообще в целом — надо договариваться.</segment>
+		<segment id="57" parent="127" relname="span">Ну, такая вот картина рисуется,</segment>
+		<segment id="58" parent="57" relname="condition">если почитать новости.</segment>
+		<segment id="59" parent="128" relname="contrast">Я буду рад ошибаться,</segment>
+		<segment id="60" parent="128" relname="contrast">но пока выглядит так.</segment>
+		<segment id="61" parent="130" relname="joint">Знаете, такое ощущение...</segment>
+		<segment id="62" parent="130" relname="joint">вот мне почему-то кажется, что это...</segment>
+		<segment id="63" parent="130" relname="joint">нет, ну я могу ошибаться,</segment>
+		<segment id="64" parent="131" relname="span">но... но просто в порядке бредовой теории, знаете?..</segment>
+		<segment id="65" parent="132" relname="elaboration">А что если это связано с новым президентом?</segment>
+		<segment id="66" parent="136" relname="span">Ну вот у нас был старый президент Порошенко.</segment>
+		<segment id="67" parent="135" relname="joint">При нём Минские соглашения работали на нас,</segment>
+		<segment id="68" parent="134" relname="span">а ВСУ успешно насовывали сепарам и интервентам,</segment>
+		<segment id="69" parent="68" relname="purpose">чтобы те вели себя прилично.</segment>
+		<segment id="70" parent="169" relname="cause">А теперь мы того старого, негодного президента поменяли на нового, хорошего президента Зеленского.</segment>
+		<segment id="71" parent="137" relname="joint">И вдруг почему-то теперь давай мириться</segment>
+		<segment id="72" parent="137" relname="joint">и прогибаться под хотелки «республик».</segment>
+		<segment id="73" parent="143" relname="solutionhood">И знаете, что в этом случае делают националисты?</segment>
+		<segment id="74" parent="143" relname="span">Вот что делают наши доблестные националисты и активисты,</segment>
+		<segment id="75" parent="142" relname="span">когда в новостях звучат предложения,</segment>
+		<segment id="76" parent="181" relname="span">которые я не могу — просто не могу,</segment>
+		<segment id="77" parent="76" relname="cause">у меня фантазия отказывает —</segment>
+		<segment id="78" parent="181" relname="elaboration">просто не получается у меня эти предложения истолковать иначе, чем преддверие капитуляции и принятие российского плана интеграции раковой сепарской области обратно взад Украине.</segment>
+		<segment id="79" parent="179" relname="joint">Вот знаете, что делают националисты в это время?</segment>
+		<segment id="80" parent="182" relname="span">Правильно.</segment>
+		<segment id="81" parent="145" relname="joint">Пикетируют особняк Порошенко под Киевом</segment>
+		<segment id="82" parent="145" relname="joint">и требуют немедленно арестовать его самого, и Гладковских. И Свинарчуков тоже. За коррупцию в армии.</segment>
+		<segment id="83" parent="147" relname="span">В той самой армии, которую, возможно, очень скоро будут расстреливать как в тире,</segment>
+		<segment id="84" parent="83" relname="condition">если мы примем курс на «припинення вогню у відповідь».</segment>
+		<segment id="85" parent="176" relname="evaluation">Прикольные у нас националисты, чё...</segment>
+		<segment id="86" relname="antithesis">Володимир Завгородній (А шо там у ПП?)</segment>
+		<group id="87" type="span" parent="7" relname="elaboration"/>
+		<group id="88" type="span" parent="6" relname="elaboration"/>
+		<group id="89" type="span" parent="150" relname="span"/>
+		<group id="91" type="multinuc" parent="151" relname="span"/>
+		<group id="94" type="multinuc" parent="152" relname="evaluation"/>
+		<group id="95" type="multinuc" parent="16" relname="elaboration"/>
+		<group id="96" type="span" parent="97" relname="span"/>
+		<group id="97" type="span" parent="98" relname="contrast"/>
+		<group id="98" type="multinuc" parent="102" relname="contrast"/>
+		<group id="99" type="multinuc" parent="100" relname="span"/>
+		<group id="100" type="span" parent="101" relname="span"/>
+		<group id="101" type="span" parent="102" relname="contrast"/>
+		<group id="102" type="multinuc" relname="antithesis"/>
+		<group id="103" type="span" parent="105" relname="joint"/>
+		<group id="104" type="span" parent="105" relname="joint"/>
+		<group id="105" type="multinuc" parent="162" relname="contrast"/>
+		<group id="106" type="multinuc" parent="31" relname="cause"/>
+		<group id="109" type="span" parent="161" relname="span"/>
+		<group id="110" type="multinuc" parent="160" relname="contrast"/>
+		<group id="111" type="span" parent="159" relname="span"/>
+		<group id="113" type="multinuc" parent="114" relname="contrast"/>
+		<group id="114" type="multinuc" parent="167" relname="preparation"/>
+		<group id="118" type="multinuc" parent="119" relname="contrast"/>
+		<group id="119" type="multinuc" parent="121" relname="span"/>
+		<group id="120" type="multinuc" parent="121" relname="elaboration"/>
+		<group id="121" type="span" parent="122" relname="span"/>
+		<group id="122" type="span" parent="44" relname="elaboration"/>
+		<group id="123" type="span" parent="43" relname="cause"/>
+		<group id="124" type="multinuc" parent="51" relname="elaboration"/>
+		<group id="125" type="multinuc" parent="124" relname="contrast"/>
+		<group id="126" type="span" parent="166" relname="span"/>
+		<group id="127" type="span" parent="129" relname="span"/>
+		<group id="128" type="multinuc" parent="127" relname="evaluation"/>
+		<group id="129" type="span" parent="126" relname="evaluation"/>
+		<group id="130" type="multinuc" parent="131" relname="preparation"/>
+		<group id="131" type="span" parent="132" relname="span"/>
+		<group id="132" type="span" parent="172" relname="span"/>
+		<group id="134" type="span" parent="135" relname="joint"/>
+		<group id="135" type="multinuc" parent="66" relname="elaboration"/>
+		<group id="136" type="span" parent="171" relname="contrast"/>
+		<group id="137" type="multinuc" parent="169" relname="span"/>
+		<group id="141" type="span" parent="75" relname="evaluation"/>
+		<group id="142" type="span" parent="74" relname="condition"/>
+		<group id="143" type="span" parent="175" relname="span"/>
+		<group id="145" type="multinuc" parent="80" relname="elaboration"/>
+		<group id="146" type="multinuc" parent="176" relname="span"/>
+		<group id="147" type="span" parent="146" relname="contrast"/>
+		<group id="150" type="span" parent="154" relname="span"/>
+		<group id="151" type="span" parent="152" relname="span"/>
+		<group id="152" type="span" parent="155" relname="span"/>
+		<group id="154" type="span" parent="156" relname="span"/>
+		<group id="155" type="span" parent="154" relname="elaboration"/>
+		<group id="156" type="span" relname="antithesis"/>
+		<group id="157" type="span" parent="98" relname="contrast"/>
+		<group id="158" type="span" parent="111" relname="solutionhood"/>
+		<group id="159" type="span" parent="162" relname="contrast"/>
+		<group id="160" type="multinuc" parent="32" relname="elaboration"/>
+		<group id="161" type="span" parent="160" relname="contrast"/>
+		<group id="162" type="multinuc" relname="antithesis"/>
+		<group id="163" type="span" parent="114" relname="contrast"/>
+		<group id="164" type="span" parent="165" relname="contrast"/>
+		<group id="165" type="multinuc" parent="167" relname="span"/>
+		<group id="166" type="span" parent="165" relname="contrast"/>
+		<group id="167" type="span" parent="168" relname="span"/>
+		<group id="168" type="span" relname="antithesis"/>
+		<group id="169" type="span" parent="170" relname="span"/>
+		<group id="170" type="span" parent="171" relname="contrast"/>
+		<group id="171" type="multinuc" parent="173" relname="span"/>
+		<group id="172" type="span" parent="173" relname="preparation"/>
+		<group id="173" type="span" parent="174" relname="span"/>
+		<group id="174" type="span" relname="antithesis"/>
+		<group id="175" type="span" parent="179" relname="joint"/>
+		<group id="176" type="span" parent="177" relname="span"/>
+		<group id="177" type="span" parent="178" relname="span"/>
+		<group id="178" type="span" relname="antithesis"/>
+		<group id="179" type="multinuc" parent="177" relname="solutionhood"/>
+		<group id="180" type="multinuc" parent="19" relname="elaboration"/>
+		<group id="181" type="span" parent="141" relname="span"/>
+		<group id="182" type="span" parent="146" relname="contrast"/>
+  </body>
+</rst>

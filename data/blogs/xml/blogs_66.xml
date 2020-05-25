@@ -1,0 +1,498 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="antithesis" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="background" type="rst" />
+			<rel name="cause" type="rst" />
+			<rel name="comparison" type="multinuc" />
+			<rel name="concession" type="rst" />
+			<rel name="conclusion" type="rst" />
+			<rel name="condition" type="rst" />
+			<rel name="contrast" type="multinuc" />
+			<rel name="effect" type="rst" />
+			<rel name="elaboration" type="rst" />
+			<rel name="evaluation" type="rst" />
+			<rel name="evidence" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="motivation" type="rst" />
+			<rel name="preparation" type="rst" />
+			<rel name="purpose" type="rst" />
+			<rel name="restatement" type="multinuc" />
+			<rel name="same-unit" type="multinuc" />
+			<rel name="sequence" type="multinuc" />
+			<rel name="solutionhood" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="1" relname="antithesis">https://miumau.livejournal.com/3029993.html</segment>
+		<segment id="2" relname="antithesis">А вот еще - про страхи</segment>
+		<segment id="3" relname="antithesis">IMG</segment>
+		<segment id="4" parent="244" relname="span">Еще историю вспомнили, про профессионального спортсмена</segment>
+		<segment id="5" parent="4" relname="elaboration">(он был с М. в одной команде по пляжному воллейболу в свое время),</segment>
+		<segment id="6" parent="245" relname="same-unit">который получил травму позвоночника.</segment>
+		<segment id="7" parent="8" relname="evaluation">Ему несказанно повезло:</segment>
+		<segment id="8" parent="246" relname="span">он сначала совсем не чувствовал своих ног.</segment>
+		<segment id="9" parent="247" relname="span">Но потом выяснилось, что у него всего лишь был тяжелый отек,</segment>
+		<segment id="10" parent="9" relname="elaboration">который давил на нерв,</segment>
+		<segment id="11" parent="12" relname="cause">и когда он рассосался,</segment>
+		<segment id="12" parent="248" relname="span">все потихоньку вернулось на свои места.</segment>
+		<segment id="13" parent="250" relname="joint">Т.е. все нервы оказались целы,</segment>
+		<segment id="14" parent="250" relname="joint">паралич был только временным.</segment>
+		<segment id="15" parent="266" relname="span">Тем не менее - между делом произошла еще одна страшная история.</segment>
+		<segment id="16" parent="254" relname="span">Сначала он очень испугался,</segment>
+		<segment id="17" parent="16" relname="cause">что никогда больше не сможет ходить.</segment>
+		<segment id="18" parent="255" relname="joint">Потом ощущения начали возвращаться,</segment>
+		<segment id="19" parent="255" relname="joint">и врачи объяснили, что кажется ему повезло.</segment>
+		<segment id="20" parent="256" relname="joint">И теперь нужно ждать заживления,</segment>
+		<segment id="21" parent="256" relname="joint">и готовиться к серьезной реабилитации.</segment>
+		<segment id="22" parent="23" relname="cause">Хотели подбодрить парня,</segment>
+		<segment id="23" parent="258" relname="span">и сказали, что в таких случаях успех реабилитации зависит от энтузиазма пациента.</segment>
+		<segment id="24" parent="265" relname="contrast">Это так и есть.</segment>
+		<segment id="25" parent="261" relname="span">Но некоторые в 22 года такие боевые,</segment>
+		<segment id="26" parent="260" relname="contrast">что их скорее нужно тормозить,</segment>
+		<segment id="27" parent="260" relname="contrast">нежели подгонять.</segment>
+		<segment id="28" parent="29" relname="cause">Он рвался из своего кресла с такой страшной силой,</segment>
+		<segment id="29" parent="268" relname="span">что удержать было невозможно.</segment>
+		<segment id="30" parent="269" relname="joint">Хотел пробовать вставать,</segment>
+		<segment id="31" parent="269" relname="joint">делать шаги, еще и еще.</segment>
+		<segment id="32" parent="482" relname="span">Ему говорили - осторожно,</segment>
+		<segment id="33" parent="270" relname="joint">у тебя пока мало сил в ногах,</segment>
+		<segment id="34" parent="270" relname="joint">не горячись, отдохни.</segment>
+		<segment id="35" parent="275" relname="contrast">Но он был уверен, что "больше-лучше"</segment>
+		<segment id="36" parent="275" relname="contrast">и рвался в бой.</segment>
+		<segment id="37" parent="495" relname="same-unit">Поэтому</segment>
+		<segment id="38" parent="39" relname="condition">при второй или третьей попытке походить</segment>
+		<segment id="39" parent="494" relname="span">вырвался из рук терапевтов,</segment>
+		<segment id="40" parent="276" relname="joint">и бросился шагать вперед.</segment>
+		<segment id="41" parent="277" relname="joint">Естественно через пару шагов упал</segment>
+		<segment id="42" parent="277" relname="joint">и сломал ногу.</segment>
+		<segment id="43" parent="294" relname="span">На этом все стало снова хуже.</segment>
+		<segment id="44" parent="45" relname="cause">Во-первых - теперь пришлось загипсовать ногу,</segment>
+		<segment id="45" parent="284" relname="span">что сильно помешало любым попыткам мобилизовать пациента.</segment>
+		<segment id="46" parent="284" relname="elaboration">Он и так не особо хорошо стоял на ногах, а теперь, с гипсом.</segment>
+		<segment id="47" parent="292" relname="span">Во-вторых - его очень испугало само падение.</segment>
+		<segment id="48" parent="49" relname="cause">Т.к. чувствительность еще не совсем вернулась к нему,</segment>
+		<segment id="49" parent="286" relname="span">его поразила вот эта неспособность контролировать свое тело.</segment>
+		<segment id="50" parent="288" relname="joint">Он летел в пол,</segment>
+		<segment id="51" parent="287" relname="span">и не смог даже как-то сгруппироваться,</segment>
+		<segment id="52" parent="51" relname="purpose">чтобы упасть получше.</segment>
+		<segment id="53" parent="289" relname="span">А ведь он был научен падать в любых направлениях, много раз в день,</segment>
+		<segment id="54" parent="53" relname="evaluation">и все ему было ни по чем.</segment>
+		<segment id="55" parent="302" relname="preparation">В итоге после этого переживания у парня надолго включился вообще страх встать на ноги.</segment>
+		<segment id="56" parent="295" relname="joint">Он не хотел вставать,</segment>
+		<segment id="57" parent="295" relname="joint">очень боялся.</segment>
+		<segment id="58" parent="59" relname="cause">Потом его ставили на ноги,</segment>
+		<segment id="59" parent="296" relname="span">и он боялся сделать шаг.</segment>
+		<segment id="60" parent="61" relname="cause">Ему казалось, что сейчас опять все выйдет из под контроля,</segment>
+		<segment id="61" parent="297" relname="span">и он полетит.</segment>
+		<segment id="62" parent="63" relname="cause">И еще думалось, что полетит он не известно куда,</segment>
+		<segment id="63" parent="298" relname="span">и ничего не сможет с этим делать.</segment>
+		<segment id="64" parent="302" relname="span">Так врезалось в память страшное ощущение неконтролируемого полета.</segment>
+		<segment id="65" parent="311" relname="span">С этим страхом они птом боролись еще очень долго.</segment>
+		<segment id="66" parent="305" relname="joint">С трудом уговорили стоять</segment>
+		<segment id="67" parent="305" relname="joint">и шагать,</segment>
+		<segment id="68" parent="69" relname="condition">а потом, когда он практически уже все мог,</segment>
+		<segment id="69" parent="306" relname="span">он не мог вернуться ни к каким спортивным занятиям,</segment>
+		<segment id="70" parent="308" relname="span">потому что все ему было страшно</segment>
+		<segment id="71" parent="307" relname="joint">- и подпрыгнуть,</segment>
+		<segment id="72" parent="307" relname="joint">и на одной ноге попробовать стоять.</segment>
+		<segment id="73" parent="314" relname="span">Вот как бывает</segment>
+		<segment id="74" parent="313" relname="contrast">- такой спортивный человек, с таким огромным опытом работы со своим телом -</segment>
+		<segment id="75" parent="313" relname="contrast">и так его переклинило.</segment>
+		<segment id="76" parent="496" relname="span">М. говорит, что это все от потери контроля.</segment>
+		<segment id="77" parent="316" relname="contrast">Он привык так хорошо владеть своим телом.</segment>
+		<segment id="78" parent="315" relname="joint">А тут оно как быдто обрело собственное сознание</segment>
+		<segment id="79" parent="315" relname="joint">и не слушается.</segment>
+		<segment id="80" parent="317" relname="evaluation">Страшно.</segment>
+		<segment id="81" parent="323" relname="span">В связи с этим вспомнился фильм про советских олимпийских гимнасток, получивших тяжелые травмы.</segment>
+		<segment id="82" parent="81" relname="evaluation">(Страшный был фильм, кстати.)</segment>
+		<segment id="83" parent="324" relname="span">Они рассказывали, что на самом деле они все чего-то боялись.</segment>
+		<segment id="84" parent="325" relname="joint">У каждой был какой-то свой страх,</segment>
+		<segment id="85" parent="486" relname="span">и страхи эти естественно появились не без причины.</segment>
+		<segment id="86" parent="327" relname="joint">Где больше всего больно падал</segment>
+		<segment id="87" parent="327" relname="joint">и расшибался,</segment>
+		<segment id="88" parent="328" relname="span">того и боишься.</segment>
+		<segment id="89" parent="90" relname="cause">Кто-то брусьев боялся как огня,</segment>
+		<segment id="90" parent="329" relname="span">прямо каждый раз подойти не могли,</segment>
+		<segment id="91" parent="330" relname="joint">кто турника,</segment>
+		<segment id="92" parent="330" relname="joint">кто прыгать.</segment>
+		<segment id="93" parent="333" relname="span">И они рассказывали, что тренеры каждый раз,</segment>
+		<segment id="94" parent="93" relname="condition">заметив, что кто-то в очередной раз сильно ушибся,</segment>
+		<segment id="95" parent="334" relname="joint">немедленно ставили их туда же,</segment>
+		<segment id="96" parent="334" relname="joint">заставляли повторить то же самое.</segment>
+		<segment id="97" parent="336" relname="joint">Вот увидели, что она в приницпе ничего не сломала</segment>
+		<segment id="98" parent="336" relname="joint">и ходить может</segment>
+		<segment id="99" parent="337" relname="span">- и сразу снова туда.</segment>
+		<segment id="100" parent="338" relname="span">Якобы это был их метод борьбы со страхом</segment>
+		<segment id="101" parent="100" relname="elaboration">- не дать подумать.</segment>
+		<segment id="102" parent="103" relname="condition">Они знали, что как только окончательно включится разум,</segment>
+		<segment id="103" parent="340" relname="span">их туда больше не загонишь.</segment>
+		<segment id="104" parent="341" relname="span">Поэтому гнали немедленно повторить трюк,</segment>
+		<segment id="105" parent="104" relname="purpose">чтобы продемонстрировать мозгу, что можно сделать то же движение удачно.</segment>
+		<segment id="106" parent="343" relname="span">Во второй раз обычно никто уже не падал,</segment>
+		<segment id="107" parent="106" relname="cause">потому что после такого тяжелого переживания следующее повторение все делали особо осторожно.</segment>
+		<segment id="108" parent="345" relname="span">И таким образом мозг обучали, что вот, смотри, это возможно сделать и без трагедии.</segment>
+		<segment id="109" parent="344" relname="span">В принципе очень хитрый прием.</segment>
+		<segment id="110" parent="109" relname="evaluation">Хоть и жестокий.</segment>
+		<segment id="111" parent="352" relname="joint">И вот одна из них рассказала, как она получила тяжелую травму</segment>
+		<segment id="112" parent="352" relname="joint">и пыталаьс вернуться на тренировки.</segment>
+		<segment id="113" parent="353" relname="span">И вернулась</segment>
+		<segment id="114" parent="113" relname="elaboration">- феноменальный случай, когда после такой катастрофы получилось полностью реабилитироваться.</segment>
+		<segment id="115" parent="355" relname="span">Через полтора года после того, как она сломала шею</segment>
+		<segment id="116" parent="115" relname="elaboration">(и ее завиксировали титановыми креплениями)</segment>
+		<segment id="117" parent="356" relname="joint">она получила от врачей разрешение готовиться к олимпиаде,</segment>
+		<segment id="118" parent="356" relname="joint">тренироваться в полную силу.</segment>
+		<segment id="119" parent="359" relname="contrast">Но она отказалась</segment>
+		<segment id="120" parent="359" relname="contrast">и бросила спорт.</segment>
+		<segment id="121" parent="360" relname="cause">Потому что победил страх.</segment>
+		<segment id="122" parent="363" relname="span">Она сказала, что все сломалось,</segment>
+		<segment id="123" parent="122" relname="cause">когда тренер начала ее щадить.</segment>
+		<segment id="124" parent="364" relname="contrast">Она вернулась к тренировкам,</segment>
+		<segment id="125" parent="364" relname="contrast">но была нездорова.</segment>
+		<segment id="126" parent="366" relname="cause">Тренер не могла понять, насколько у нее что болит,</segment>
+		<segment id="127" parent="365" relname="joint">и когда она отползала в сторонку,</segment>
+		<segment id="128" parent="365" relname="joint">посидеть,</segment>
+		<segment id="129" parent="365" relname="joint">передохнуть,</segment>
+		<segment id="130" parent="366" relname="span">она ее не трогала.</segment>
+		<segment id="131" parent="372" relname="span">И вот тогда она прямо чувствовала, как подкрадывается страх</segment>
+		<segment id="132" parent="133" relname="condition">- чем дольше сидишь,</segment>
+		<segment id="133" parent="488" relname="span">тем страшнее.</segment>
+		<segment id="134" parent="373" relname="joint">Она сама говорила: "Если бы тренер меня сразу снова ставила на ноги,</segment>
+		<segment id="135" parent="373" relname="joint">и не дала бы мне столько времени прислушиваться к своим чувствам,</segment>
+		<segment id="136" parent="374" relname="span">может быть страх не успел бы меня съесть.</segment>
+		<segment id="137" parent="138" relname="cause">А так его становилось все больше и больше,</segment>
+		<segment id="138" parent="375" relname="span">пока я не поняла, что не могу больше вообще."</segment>
+		<segment id="139" parent="383" relname="span">На самом деле в этом случае страх ведь был прав!</segment>
+		<segment id="140" parent="381" relname="cause">Она уже шею сломала,</segment>
+		<segment id="141" parent="381" relname="span">и весь ее разум пытался защитить ее от повторения такой трагедии</segment>
+		<segment id="142" parent="143" relname="condition">(очевидно, что упади она еще раз вот так,</segment>
+		<segment id="143" parent="380" relname="span">никто бы ее на ноги уде не поставил).</segment>
+		<segment id="144" parent="145" relname="cause">И инстинкты тела победили,</segment>
+		<segment id="145" parent="384" relname="span">она бросила спорт.</segment>
+		<segment id="146" parent="386" relname="evaluation">И видимо сберегла этим остатки здоровья.</segment>
+		<segment id="147" parent="389" relname="span">Но вот интересно раздумывать об этом</segment>
+		<segment id="148" parent="388" relname="span">- как нас может сжирать страх,</segment>
+		<segment id="149" parent="148" relname="cause">стоит миру как-то пошатнуться.</segment>
+		<segment id="150" parent="489" relname="contrast">Я - совсем не спортсменка,</segment>
+		<segment id="151" parent="395" relname="span">просто немного двигаюсь</segment>
+		<segment id="152" parent="151" relname="purpose">для собственного развлечения.</segment>
+		<segment id="153" parent="392" relname="cause">И когда только начала жить со своим искривленным зрением,</segment>
+		<segment id="154" parent="155" relname="cause">насколько раз из-за какого-то движения, или потому что что-то резко появилось в поле зрения,</segment>
+		<segment id="155" parent="392" relname="span">просто падала.</segment>
+		<segment id="156" parent="396" relname="sequence">Меня заносило,</segment>
+		<segment id="157" parent="396" relname="sequence">и в следующий момент я понимала, что не могу уже удержаться в вертикальном положении,</segment>
+		<segment id="158" parent="396" relname="sequence">перевалила за критическую точку,</segment>
+		<segment id="159" parent="396" relname="sequence">и лечу к полу.</segment>
+		<segment id="160" parent="400" relname="span">Падения среди супермаркета меня как-то совсем не испугали</segment>
+		<segment id="161" parent="399" relname="joint">- ну, лечу,</segment>
+		<segment id="162" parent="399" relname="joint">даже еще ухватилась за что-то.</segment>
+		<segment id="163" parent="401" relname="sequence">Не успела долететь до пола,</segment>
+		<segment id="164" parent="490" relname="span">как акие-то люди подбежали,</segment>
+		<segment id="165" parent="164" relname="purpose">помогли встать.</segment>
+		<segment id="166" parent="405" relname="joint">В принципе люди и в обмороки иногда падают, например летом в жару.</segment>
+		<segment id="167" parent="405" relname="joint">И ничего. Через минуту проходит.</segment>
+		<segment id="168" parent="407" relname="joint">Радостно заметила, что ничего не сломала</segment>
+		<segment id="169" parent="407" relname="joint">и не свернула - ура.</segment>
+		<segment id="170" parent="171" relname="cause">А вот когда я единственный раз навернулась так в зале, полном танцующих людей,</segment>
+		<segment id="171" parent="410" relname="span">я очень испугалась.</segment>
+		<segment id="172" parent="411" relname="joint">И Не только потому, что все в движении,</segment>
+		<segment id="173" parent="411" relname="joint">и я не хотела никого сбить с ног.</segment>
+		<segment id="174" parent="418" relname="span">(На самом деле я невероятно удачно упала,</segment>
+		<segment id="175" parent="412" relname="joint">никто даже не остановился сначала,</segment>
+		<segment id="176" parent="412" relname="joint">я никому не попала под ноги,</segment>
+		<segment id="177" parent="412" relname="joint">и очень удачно выкатилась к ближайшему столбу, рядом с которым никого не было.)</segment>
+		<segment id="178" parent="421" relname="contrast">Но все равно я очень испугалась.</segment>
+		<segment id="179" parent="428" relname="span">Там много всяких факторов было.</segment>
+		<segment id="180" parent="424" relname="span">Например я начала думать, что меня могут и перестать туда пускать вообще,</segment>
+		<segment id="181" parent="180" relname="condition">если подумают, что такое может повторится</segment>
+		<segment id="182" parent="424" relname="cause">- это же опасность для других людей.</segment>
+		<segment id="183" parent="426" relname="joint">И вообще - там все в движении,</segment>
+		<segment id="184" parent="426" relname="joint">и не знаешь, случится ли это еще раз, и когда, и как.</segment>
+		<segment id="185" parent="440" relname="span">К счастью это никогда больше не повторилось в зале.</segment>
+		<segment id="186" parent="430" relname="joint">Я все лучше выучивала, что сбивает меня с толку,</segment>
+		<segment id="187" parent="429" relname="span">и предпочитаю просто пропустить какой-то поворот,</segment>
+		<segment id="188" parent="187" relname="condition">если не уверена.</segment>
+		<segment id="189" parent="431" relname="span">Научилась находить себе места в зале,</segment>
+		<segment id="190" parent="189" relname="elaboration">где никто просто так не вбегает в мое поле зрения.</segment>
+		<segment id="191" parent="434" relname="joint">Ну и сказала честно всем, в чем проблема.</segment>
+		<segment id="192" parent="435" relname="span">И они знают, почему я себе выбираю некое место,</segment>
+		<segment id="193" parent="432" relname="span">где я в крайнем случае и не помешаю никому,</segment>
+		<segment id="194" parent="193" relname="condition">если упаду,</segment>
+		<segment id="195" parent="433" relname="joint">и где никто не "маячит" у меня перед глазами.</segment>
+		<segment id="196" parent="443" relname="span">Но я тоже помню этот срах.</segment>
+		<segment id="197" parent="198" relname="condition">Когда заходишь в зал,</segment>
+		<segment id="198" parent="441" relname="span">начинает рубить супер громкая музыка,</segment>
+		<segment id="199" parent="442" relname="joint">часто еще включают светомузыку,</segment>
+		<segment id="200" parent="442" relname="joint">и 20-70 человек вокруг начинают очень быстро плясать.</segment>
+		<segment id="201" parent="445" relname="span">В первое время я чувствовала этот страх каждый раз.</segment>
+		<segment id="202" parent="444" relname="contrast">Несколько раз даже думала уйти,</segment>
+		<segment id="203" parent="444" relname="contrast">но просто постеснялась среди первой же песни выходить из зала.</segment>
+		<segment id="204" parent="205" relname="condition">Потом поняла, что надо пережить первые 10 минут,</segment>
+		<segment id="205" parent="446" relname="span">и что-то внутри успокаивается.</segment>
+		<segment id="206" parent="450" relname="span">Потом только начались проблески,</segment>
+		<segment id="207" parent="208" relname="condition">когда приходишь,</segment>
+		<segment id="208" parent="447" relname="span">и страха нет</segment>
+		<segment id="209" parent="448" relname="joint">(замечаешь это</segment>
+		<segment id="210" parent="448" relname="joint">и радуешься).</segment>
+		<segment id="211" parent="455" relname="span">Это такое же ощущение,</segment>
+		<segment id="212" parent="453" relname="cause">как когда тебя все время кто-то преследует в школе,</segment>
+		<segment id="213" parent="453" relname="span">и ты каждый раз думаешь, как бы пересечь школьный двор,</segment>
+		<segment id="214" parent="213" relname="condition">не встретив врага.</segment>
+		<segment id="215" parent="456" relname="sequence">И тут в какой-то момент приходишь</segment>
+		<segment id="216" parent="456" relname="sequence">и обнаруживаешь, что его нет</segment>
+		<segment id="217" parent="457" relname="span">- облегчение!</segment>
+		<segment id="218" parent="461" relname="span">Кстати тут мне помогли танцы</segment>
+		<segment id="219" parent="460" relname="joint">- на танцах, в отличие от зумбы, не 20 человек, а 6-8,</segment>
+		<segment id="220" parent="460" relname="joint">зал пустой</segment>
+		<segment id="221" parent="460" relname="joint">и светомузыки нет.</segment>
+		<segment id="222" parent="460" relname="joint">Обстановка не такая боевая.</segment>
+		<segment id="223" parent="462" relname="span">Я помню, что я с одной стороны дико скучала по всем этим занятиям,</segment>
+		<segment id="224" parent="223" relname="condition">если приходилось их пропускать.</segment>
+		<segment id="225" parent="463" relname="sequence">Но все равно иногда входила в зал,</segment>
+		<segment id="226" parent="463" relname="sequence">и чувствовала, как этот ком подступает к горлу</segment>
+		<segment id="227" parent="463" relname="sequence">и в животе что-то сжимается.</segment>
+		<segment id="228" parent="466" relname="contrast">Иногда уже давно все хорошо</segment>
+		<segment id="229" parent="465" relname="sequence">- и тут тело вдруг что-то вспомнит,</segment>
+		<segment id="230" parent="465" relname="sequence">и включается какая-то тревожность.</segment>
+		<segment id="231" parent="468" relname="span">Но я это рассматриваю как еще одну возможность</segment>
+		<segment id="232" parent="467" relname="span">для тренировки</segment>
+		<segment id="233" parent="232" relname="evaluation">(не знаю, чего).</segment>
+		<segment id="234" parent="476" relname="span">С одной стороны - нельзя уже рваться в бой как тот мальчишка, не думая вообще ни о чем.</segment>
+		<segment id="235" parent="473" relname="joint">Потому что так можно и упасть лишний раз,</segment>
+		<segment id="236" parent="473" relname="joint">и ногу сломать,</segment>
+		<segment id="237" parent="473" relname="joint">и не знаю что еще</segment>
+		<segment id="238" parent="474" relname="evaluation">- все же слушать свое тело надо.</segment>
+		<segment id="239" parent="477" relname="joint">А с другой стороны - нельзя слишком много думать</segment>
+		<segment id="240" parent="477" relname="joint">и слушать.</segment>
+		<segment id="241" parent="479" relname="span">И различать,</segment>
+		<segment id="242" parent="478" relname="comparison">где страх включился по какой-то привычке,</segment>
+		<segment id="243" parent="478" relname="comparison">а где серьезный повод есть.</segment>
+		<group id="244" type="span" parent="245" relname="same-unit"/>
+		<group id="245" type="multinuc" parent="246" relname="preparation"/>
+		<group id="246" type="span" parent="252" relname="span"/>
+		<group id="247" type="span" parent="249" relname="joint"/>
+		<group id="248" type="span" parent="249" relname="joint"/>
+		<group id="249" type="multinuc" parent="251" relname="restatement"/>
+		<group id="250" type="multinuc" parent="251" relname="restatement"/>
+		<group id="251" type="multinuc" parent="253" relname="contrast"/>
+		<group id="252" type="span" parent="253" relname="contrast"/>
+		<group id="253" type="multinuc" relname="antithesis"/>
+		<group id="254" type="span" parent="257" relname="sequence"/>
+		<group id="255" type="multinuc" parent="257" relname="sequence"/>
+		<group id="256" type="multinuc" parent="257" relname="sequence"/>
+		<group id="257" type="multinuc" parent="15" relname="elaboration"/>
+		<group id="258" type="span" parent="259" relname="span"/>
+		<group id="259" type="span" parent="267" relname="span"/>
+		<group id="260" type="multinuc" parent="25" relname="elaboration"/>
+		<group id="261" type="span" parent="265" relname="contrast"/>
+		<group id="265" type="multinuc" parent="258" relname="elaboration"/>
+		<group id="266" type="span" parent="259" relname="preparation"/>
+		<group id="267" type="span" relname="antithesis"/>
+		<group id="268" type="span" parent="273" relname="span"/>
+		<group id="269" type="multinuc" parent="268" relname="elaboration"/>
+		<group id="270" type="multinuc" parent="32" relname="cause"/>
+		<group id="273" type="span" parent="282" relname="preparation"/>
+		<group id="275" type="multinuc" parent="483" relname="cause"/>
+		<group id="276" type="multinuc" parent="483" relname="span"/>
+		<group id="277" type="multinuc" parent="484" relname="evaluation"/>
+		<group id="280" type="multinuc" parent="282" relname="span"/>
+		<group id="282" type="span" parent="283" relname="span"/>
+		<group id="283" type="span" relname="antithesis"/>
+		<group id="284" type="span" parent="285" relname="span"/>
+		<group id="285" type="span" parent="293" relname="joint"/>
+		<group id="286" type="span" parent="290" relname="span"/>
+		<group id="287" type="span" parent="288" relname="joint"/>
+		<group id="288" type="multinuc" parent="286" relname="elaboration"/>
+		<group id="289" type="span" parent="291" relname="contrast"/>
+		<group id="290" type="span" parent="291" relname="contrast"/>
+		<group id="291" type="multinuc" parent="47" relname="cause"/>
+		<group id="292" type="span" parent="293" relname="joint"/>
+		<group id="293" type="multinuc" parent="43" relname="elaboration"/>
+		<group id="294" type="span" relname="antithesis"/>
+		<group id="295" type="multinuc" parent="301" relname="sequence"/>
+		<group id="296" type="span" parent="300" relname="span"/>
+		<group id="297" type="span" parent="299" relname="joint"/>
+		<group id="298" type="span" parent="299" relname="joint"/>
+		<group id="299" type="multinuc" parent="296" relname="cause"/>
+		<group id="300" type="span" parent="301" relname="sequence"/>
+		<group id="301" type="multinuc" parent="64" relname="cause"/>
+		<group id="302" type="span" parent="303" relname="span"/>
+		<group id="303" type="span" parent="312" relname="span"/>
+		<group id="305" type="multinuc" parent="310" relname="sequence"/>
+		<group id="306" type="span" parent="309" relname="span"/>
+		<group id="307" type="multinuc" parent="70" relname="cause"/>
+		<group id="308" type="span" parent="306" relname="cause"/>
+		<group id="309" type="span" parent="310" relname="sequence"/>
+		<group id="310" type="multinuc" parent="65" relname="elaboration"/>
+		<group id="311" type="span" parent="303" relname="elaboration"/>
+		<group id="312" type="span" parent="322" relname="span"/>
+		<group id="313" type="multinuc" parent="73" relname="elaboration"/>
+		<group id="314" type="span" parent="321" relname="span"/>
+		<group id="315" type="multinuc" parent="316" relname="contrast"/>
+		<group id="316" type="multinuc" parent="317" relname="span"/>
+		<group id="317" type="span" parent="318" relname="span"/>
+		<group id="318" type="span" parent="76" relname="elaboration"/>
+		<group id="321" type="span" parent="312" relname="evaluation"/>
+		<group id="322" type="span" relname="antithesis"/>
+		<group id="323" type="span" parent="83" relname="preparation"/>
+		<group id="324" type="span" parent="326" relname="span"/>
+		<group id="325" type="multinuc" parent="324" relname="elaboration"/>
+		<group id="326" type="span" parent="351" relname="joint"/>
+		<group id="327" type="multinuc" parent="88" relname="cause"/>
+		<group id="328" type="span" parent="331" relname="span"/>
+		<group id="329" type="span" parent="330" relname="joint"/>
+		<group id="330" type="multinuc" parent="328" relname="evidence"/>
+		<group id="331" type="span" parent="85" relname="elaboration"/>
+		<group id="333" type="span" parent="335" relname="same-unit"/>
+		<group id="334" type="multinuc" parent="335" relname="same-unit"/>
+		<group id="335" type="multinuc" parent="349" relname="span"/>
+		<group id="336" type="multinuc" parent="99" relname="cause"/>
+		<group id="337" type="span" parent="339" relname="span"/>
+		<group id="338" type="span" parent="337" relname="evaluation"/>
+		<group id="339" type="span" parent="348" relname="span"/>
+		<group id="340" type="span" parent="341" relname="cause"/>
+		<group id="341" type="span" parent="487" relname="span"/>
+		<group id="343" type="span" parent="108" relname="cause"/>
+		<group id="344" type="span" parent="345" relname="evaluation"/>
+		<group id="345" type="span" parent="346" relname="span"/>
+		<group id="346" type="span" parent="347" relname="span"/>
+		<group id="347" type="span" parent="339" relname="elaboration"/>
+		<group id="348" type="span" parent="349" relname="evidence"/>
+		<group id="349" type="span" parent="350" relname="span"/>
+		<group id="350" type="span" parent="351" relname="joint"/>
+		<group id="351" type="multinuc" relname="antithesis"/>
+		<group id="352" type="multinuc" parent="353" relname="background"/>
+		<group id="353" type="span" parent="354" relname="span"/>
+		<group id="354" type="span" parent="358" relname="span"/>
+		<group id="355" type="span" parent="357" relname="sequence"/>
+		<group id="356" type="multinuc" parent="357" relname="sequence"/>
+		<group id="357" type="multinuc" parent="354" relname="elaboration"/>
+		<group id="358" type="span" parent="362" relname="contrast"/>
+		<group id="359" type="multinuc" parent="360" relname="span"/>
+		<group id="360" type="span" parent="361" relname="span"/>
+		<group id="361" type="span" parent="379" relname="span"/>
+		<group id="362" type="multinuc" relname="antithesis"/>
+		<group id="363" type="span" parent="368" relname="preparation"/>
+		<group id="364" type="multinuc" parent="368" relname="span"/>
+		<group id="365" type="multinuc" parent="130" relname="condition"/>
+		<group id="366" type="span" parent="367" relname="span"/>
+		<group id="367" type="span" parent="369" relname="elaboration"/>
+		<group id="368" type="span" parent="369" relname="span"/>
+		<group id="369" type="span" parent="370" relname="span"/>
+		<group id="370" type="span" parent="378" relname="joint"/>
+		<group id="372" type="span" parent="377" relname="span"/>
+		<group id="373" type="multinuc" parent="136" relname="condition"/>
+		<group id="374" type="span" parent="376" relname="contrast"/>
+		<group id="375" type="span" parent="376" relname="contrast"/>
+		<group id="376" type="multinuc" parent="372" relname="evidence"/>
+		<group id="377" type="span" parent="378" relname="joint"/>
+		<group id="378" type="multinuc" parent="361" relname="elaboration"/>
+		<group id="379" type="span" parent="362" relname="contrast"/>
+		<group id="380" type="span" parent="141" relname="evidence"/>
+		<group id="381" type="span" parent="382" relname="span"/>
+		<group id="382" type="span" parent="139" relname="elaboration"/>
+		<group id="383" type="span" parent="385" relname="joint"/>
+		<group id="384" type="span" parent="385" relname="joint"/>
+		<group id="385" type="multinuc" parent="386" relname="span"/>
+		<group id="386" type="span" parent="387" relname="span"/>
+		<group id="387" type="span" parent="390" relname="contrast"/>
+		<group id="388" type="span" parent="147" relname="elaboration"/>
+		<group id="389" type="span" parent="390" relname="contrast"/>
+		<group id="390" type="multinuc" relname="antithesis"/>
+		<group id="392" type="span" parent="393" relname="span"/>
+		<group id="393" type="span" parent="394" relname="joint"/>
+		<group id="394" type="multinuc" parent="397" relname="preparation"/>
+		<group id="395" type="span" parent="489" relname="contrast"/>
+		<group id="396" type="multinuc" parent="397" relname="span"/>
+		<group id="397" type="span" parent="398" relname="span"/>
+		<group id="398" type="span" parent="404" relname="span"/>
+		<group id="399" type="multinuc" parent="160" relname="elaboration"/>
+		<group id="400" type="span" parent="403" relname="span"/>
+		<group id="401" type="multinuc" parent="400" relname="elaboration"/>
+		<group id="403" type="span" parent="491" relname="span"/>
+		<group id="404" type="span" parent="406" relname="span"/>
+		<group id="405" type="multinuc" parent="403" relname="evidence"/>
+		<group id="406" type="span" parent="408" relname="cause"/>
+		<group id="407" type="multinuc" parent="408" relname="span"/>
+		<group id="408" type="span" parent="409" relname="span"/>
+		<group id="409" type="span" parent="439" relname="contrast"/>
+		<group id="410" type="span" parent="492" relname="span"/>
+		<group id="411" type="multinuc" parent="419" relname="span"/>
+		<group id="412" type="multinuc" parent="174" relname="elaboration"/>
+		<group id="417" type="span" parent="410" relname="cause"/>
+		<group id="418" type="span" parent="420" relname="span"/>
+		<group id="419" type="span" parent="417" relname="span"/>
+		<group id="420" type="span" parent="421" relname="contrast"/>
+		<group id="421" type="multinuc" parent="419" relname="evaluation"/>
+		<group id="424" type="span" parent="493" relname="span"/>
+		<group id="426" type="multinuc" parent="427" relname="joint"/>
+		<group id="427" type="multinuc" parent="179" relname="evidence"/>
+		<group id="428" type="span" relname="antithesis"/>
+		<group id="429" type="span" parent="430" relname="joint"/>
+		<group id="430" type="multinuc" parent="434" relname="joint"/>
+		<group id="431" type="span" parent="434" relname="joint"/>
+		<group id="432" type="span" parent="433" relname="joint"/>
+		<group id="433" type="multinuc" parent="192" relname="elaboration"/>
+		<group id="434" type="multinuc" parent="185" relname="elaboration"/>
+		<group id="435" type="span" parent="434" relname="joint"/>
+		<group id="439" type="multinuc" relname="antithesis"/>
+		<group id="440" type="span" relname="antithesis"/>
+		<group id="441" type="span" parent="442" relname="joint"/>
+		<group id="442" type="multinuc" parent="196" relname="elaboration"/>
+		<group id="443" type="span" parent="201" relname="preparation"/>
+		<group id="444" type="multinuc" parent="445" relname="elaboration"/>
+		<group id="445" type="span" parent="452" relname="span"/>
+		<group id="446" type="span" parent="451" relname="sequence"/>
+		<group id="447" type="span" parent="449" relname="span"/>
+		<group id="448" type="multinuc" parent="447" relname="evaluation"/>
+		<group id="449" type="span" parent="206" relname="elaboration"/>
+		<group id="450" type="span" parent="451" relname="sequence"/>
+		<group id="451" type="multinuc" parent="459" relname="comparison"/>
+		<group id="452" type="span" parent="451" relname="sequence"/>
+		<group id="453" type="span" parent="454" relname="span"/>
+		<group id="454" type="span" parent="211" relname="elaboration"/>
+		<group id="455" type="span" parent="458" relname="joint"/>
+		<group id="456" type="multinuc" parent="217" relname="cause"/>
+		<group id="457" type="span" parent="458" relname="joint"/>
+		<group id="458" type="multinuc" parent="459" relname="comparison"/>
+		<group id="459" type="multinuc" relname="antithesis"/>
+		<group id="460" type="multinuc" parent="218" relname="background"/>
+		<group id="461" type="span" parent="462" relname="preparation"/>
+		<group id="462" type="span" parent="471" relname="span"/>
+		<group id="463" type="multinuc" parent="464" relname="contrast"/>
+		<group id="464" type="multinuc" parent="469" relname="span"/>
+		<group id="465" type="multinuc" parent="466" relname="contrast"/>
+		<group id="466" type="multinuc" parent="469" relname="evidence"/>
+		<group id="467" type="span" parent="231" relname="purpose"/>
+		<group id="468" type="span" parent="470" relname="evaluation"/>
+		<group id="469" type="span" parent="470" relname="span"/>
+		<group id="470" type="span" parent="472" relname="span"/>
+		<group id="471" type="span" parent="464" relname="contrast"/>
+		<group id="472" type="span" relname="antithesis"/>
+		<group id="473" type="multinuc" parent="474" relname="span"/>
+		<group id="474" type="span" parent="475" relname="span"/>
+		<group id="475" type="span" parent="234" relname="cause"/>
+		<group id="476" type="span" parent="481" relname="contrast"/>
+		<group id="477" type="multinuc" parent="480" relname="contrast"/>
+		<group id="478" type="multinuc" parent="241" relname="elaboration"/>
+		<group id="479" type="span" parent="480" relname="contrast"/>
+		<group id="480" type="multinuc" parent="481" relname="contrast"/>
+		<group id="481" type="multinuc" relname="antithesis"/>
+		<group id="482" type="span" parent="280" relname="contrast"/>
+		<group id="483" type="span" parent="484" relname="span"/>
+		<group id="484" type="span" parent="485" relname="span"/>
+		<group id="485" type="span" parent="280" relname="contrast"/>
+		<group id="486" type="span" parent="325" relname="joint"/>
+		<group id="487" type="span" parent="346" relname="cause"/>
+		<group id="488" type="span" parent="131" relname="elaboration"/>
+		<group id="489" type="multinuc" parent="394" relname="joint"/>
+		<group id="490" type="span" parent="401" relname="sequence"/>
+		<group id="491" type="span" parent="398" relname="evaluation"/>
+		<group id="492" type="span" parent="439" relname="contrast"/>
+		<group id="493" type="span" parent="427" relname="joint"/>
+		<group id="494" type="span" parent="495" relname="same-unit"/>
+		<group id="495" type="multinuc" parent="276" relname="joint"/>
+		<group id="496" type="span" parent="314" relname="evidence"/>
+  </body>
+</rst>

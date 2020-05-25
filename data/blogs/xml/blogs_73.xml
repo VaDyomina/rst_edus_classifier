@@ -1,0 +1,174 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="antithesis" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="background" type="rst" />
+			<rel name="cause" type="rst" />
+			<rel name="comparison" type="multinuc" />
+			<rel name="concession" type="rst" />
+			<rel name="conclusion" type="rst" />
+			<rel name="condition" type="rst" />
+			<rel name="contrast" type="multinuc" />
+			<rel name="effect" type="rst" />
+			<rel name="elaboration" type="rst" />
+			<rel name="evaluation" type="rst" />
+			<rel name="evidence" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="motivation" type="rst" />
+			<rel name="preparation" type="rst" />
+			<rel name="purpose" type="rst" />
+			<rel name="restatement" type="multinuc" />
+			<rel name="same-unit" type="multinuc" />
+			<rel name="sequence" type="multinuc" />
+			<rel name="solutionhood" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="1" relname="antithesis">https://veronikahlebova.ru/mozhno-li-delitsya-chuvstvami-s-detmi-i-esli-da-to-kakimi/</segment>
+		<segment id="2" relname="antithesis">Можно ли делиться чувствами с детьми? И если — да, то какими?</segment>
+		<segment id="3" parent="74" relname="span">Когда-то я не рассказывала близким людям о том, что я чувствую.</segment>
+		<segment id="4" parent="3" relname="cause">Не было такой привычки.</segment>
+		<segment id="5" parent="75" relname="joint">Я никогда не видела, чтобы члены моей родительской семьи говорили о своих чувствах.</segment>
+		<segment id="6" parent="75" relname="joint">И еще признавали, что это их собственные чувства, по какому-то поводу.</segment>
+		<segment id="7" parent="79" relname="span">Зато в нашей родительской семье все друг от друга чего-то ждали.</segment>
+		<segment id="8" parent="78" relname="contrast">И, кстати, даже говорили о том, какой они хотят меня видеть.</segment>
+		<segment id="9" parent="77" relname="contrast">А иногда не говорили,</segment>
+		<segment id="10" parent="80" relname="span">но я сама знала, что нужно делать,</segment>
+		<segment id="11" parent="10" relname="purpose">чтобы понравиться.</segment>
+		<segment id="12" parent="83" relname="same-unit">…Как-то раз,</segment>
+		<segment id="13" parent="14" relname="condition">когда мои дети были младшими школьниками,</segment>
+		<segment id="14" parent="82" relname="span">я обратила на это внимание.</segment>
+		<segment id="15" parent="84" relname="contrast">Я ничего не говорила о себе.</segment>
+		<segment id="16" parent="84" relname="contrast">Нет, мы, конечно, что-то обсуждали.</segment>
+		<segment id="17" parent="85" relname="contrast">Но меня как будто в пространстве отношений не было.</segment>
+		<segment id="18" parent="94" relname="preparation">Я задумалась о том, насколько я могу делиться своими чувствами с детьми.</segment>
+		<segment id="19" parent="88" relname="span">Интуитивно я догадывалась, что какие-то чувства нельзя им доверять.</segment>
+		<segment id="20" parent="19" relname="cause">Что это была бы слишком тяжелая ноша.</segment>
+		<segment id="21" parent="89" relname="joint">Но какие-то можно,</segment>
+		<segment id="22" parent="89" relname="joint">и даже нужно.</segment>
+		<segment id="23" parent="91" relname="joint">Чтобы внести себя в пространство отношений,</segment>
+		<segment id="24" parent="91" relname="joint">чтобы в них быть.</segment>
+		<segment id="25" parent="98" relname="span">Я начала делиться, про то, что я зла,</segment>
+		<segment id="26" parent="25" relname="cause">потому что у меня был тяжелый день,</segment>
+		<segment id="27" parent="99" relname="span">и мне нужно отдохнуть.</segment>
+		<segment id="28" parent="100" relname="joint">Еще я могла рассказать что у меня нет сил,</segment>
+		<segment id="29" parent="100" relname="joint">и мне нужно побыть немного «для себя».</segment>
+		<segment id="30" parent="31" relname="condition">А когда я побуду «для себя»,</segment>
+		<segment id="31" parent="102" relname="span">я снова вернусь к детям.</segment>
+		<segment id="32" parent="110" relname="span">Постепенно я заметила, что и дети стали выражать простые чувства.</segment>
+		<segment id="33" parent="105" relname="joint">«Мне грустно,</segment>
+		<segment id="34" parent="105" relname="joint">хочется поплакать».</segment>
+		<segment id="35" parent="106" relname="joint">«Мне скучно,</segment>
+		<segment id="36" parent="106" relname="joint">я не могу слушать твою серьезную книгу».</segment>
+		<segment id="37" parent="108" relname="contrast">Одновременно я училась не предугадывать, что хочет тот или иной член семьи.</segment>
+		<segment id="38" parent="109" relname="span">Но я училась слышать, что они чувствуют,</segment>
+		<segment id="39" parent="38" relname="cause">в ответ на мои слова, или действия.</segment>
+		<segment id="40" parent="127" relname="preparation">Легче было с детьми, и сложнее со взрослыми членами семьи.</segment>
+		<segment id="41" parent="127" relname="span">Теперь я могу объяснить этот феномен.</segment>
+		<segment id="42" parent="116" relname="cause">Взрослые уже находятся в защитах,</segment>
+		<segment id="43" parent="115" relname="same-unit">и</segment>
+		<segment id="44" parent="113" relname="condition">при малейшей угрозе атаки на свою уязвимость</segment>
+		<segment id="45" parent="112" relname="joint">они начинают нападать</segment>
+		<segment id="46" parent="112" relname="joint">или защищаться.</segment>
+		<segment id="47" parent="117" relname="elaboration">Много сил уходит на эти ритуальные танцы. Иногда – с нулевым результатом.</segment>
+		<segment id="48" parent="121" relname="span">С детьми легче,</segment>
+		<segment id="49" parent="120" relname="joint">потому что они еще не перегружены защитами,</segment>
+		<segment id="50" parent="120" relname="joint">и все еще доверяют.</segment>
+		<segment id="51" parent="122" relname="joint">И, если они замечают, что их слышат,</segment>
+		<segment id="52" parent="122" relname="joint">и принимают в расчет,</segment>
+		<segment id="53" parent="123" relname="span">защиты и не появляются.</segment>
+		<segment id="54" parent="123" relname="elaboration">Пространство отношений так и остается открытым.</segment>
+		<segment id="55" parent="133" relname="span">Одновременно я замечала, когда я перегибаю палку с чувствами.</segment>
+		<segment id="56" parent="130" relname="span">Дети явно давали понять, что им пока тяжело вынести.</segment>
+		<segment id="57" parent="129" relname="joint">Они уходили из разговора</segment>
+		<segment id="58" parent="129" relname="joint">или начинали злиться.</segment>
+		<segment id="59" parent="153" relname="span">Я поняла, что ни в коем случае нельзя нагружать детей, как минимум, до определенного возраста, своими чувствами из отношений с другими взрослыми людьми. С бабушкой, с папой, или с подругой.</segment>
+		<segment id="60" parent="59" relname="cause">Взрослые дела – это взрослые дела.</segment>
+		<segment id="61" parent="134" relname="contrast">Нельзя загружать их своими детскими травмами.</segment>
+		<segment id="62" parent="135" relname="same-unit">Нет, можно рассказать, что в детстве у вас не было своего айфона.</segment>
+		<segment id="63" parent="138" relname="span">Но без эмоциональной нагрузки.</segment>
+		<segment id="64" parent="137" relname="same-unit">А она,</segment>
+		<segment id="65" parent="66" relname="condition">если вы понаблюдаете за собой,</segment>
+		<segment id="66" parent="136" relname="span">вполне возможна.</segment>
+		<segment id="67" parent="139" relname="span">Возможна зависть, злость, и другие чувства, которые идут из вашей детской части.</segment>
+		<segment id="68" parent="67" relname="elaboration">Ну, как будто вы не родитель, а такой же ребенок, только менее удачливый.</segment>
+		<segment id="69" parent="145" relname="span">Есть много чего еще, чем нельзя нагружать детей.</segment>
+		<segment id="70" parent="69" relname="elaboration">Все случаи не опишешь.</segment>
+		<segment id="71" parent="146" relname="condition">Однако если вы будете внимательны к своим детям,</segment>
+		<segment id="72" parent="146" relname="span">вы сами заметите, что они не хотят слышать,</segment>
+		<segment id="73" parent="72" relname="cause">в виду того, что некоторые ваши чувства – это не их зона ответственности.</segment>
+		<group id="74" type="span" parent="149" relname="preparation"/>
+		<group id="75" type="multinuc" parent="81" relname="contrast"/>
+		<group id="77" type="multinuc" parent="78" relname="contrast"/>
+		<group id="78" type="multinuc" parent="7" relname="elaboration"/>
+		<group id="79" type="span" parent="81" relname="contrast"/>
+		<group id="80" type="span" parent="77" relname="contrast"/>
+		<group id="81" type="multinuc" parent="149" relname="span"/>
+		<group id="82" type="span" parent="83" relname="same-unit"/>
+		<group id="83" type="multinuc" parent="151" relname="span"/>
+		<group id="84" type="multinuc" parent="85" relname="contrast"/>
+		<group id="85" type="multinuc" parent="151" relname="elaboration"/>
+		<group id="88" type="span" parent="90" relname="contrast"/>
+		<group id="89" type="multinuc" parent="93" relname="span"/>
+		<group id="90" type="multinuc" parent="94" relname="span"/>
+		<group id="91" type="multinuc" parent="93" relname="purpose"/>
+		<group id="92" type="span" parent="104" relname="span"/>
+		<group id="93" type="span" parent="92" relname="span"/>
+		<group id="94" type="span" parent="95" relname="span"/>
+		<group id="95" type="span" relname="antithesis"/>
+		<group id="98" type="span" parent="27" relname="cause"/>
+		<group id="99" type="span" parent="103" relname="joint"/>
+		<group id="100" type="multinuc" parent="101" relname="sequence"/>
+		<group id="101" type="multinuc" parent="103" relname="joint"/>
+		<group id="102" type="span" parent="101" relname="sequence"/>
+		<group id="103" type="multinuc" parent="92" relname="elaboration"/>
+		<group id="104" type="span" parent="90" relname="contrast"/>
+		<group id="105" type="multinuc" parent="107" relname="joint"/>
+		<group id="106" type="multinuc" parent="107" relname="joint"/>
+		<group id="107" type="multinuc" parent="32" relname="elaboration"/>
+		<group id="108" type="multinuc" parent="111" relname="joint"/>
+		<group id="109" type="span" parent="108" relname="contrast"/>
+		<group id="110" type="span" parent="111" relname="joint"/>
+		<group id="111" type="multinuc" relname="antithesis"/>
+		<group id="112" type="multinuc" parent="113" relname="span"/>
+		<group id="113" type="span" parent="114" relname="span"/>
+		<group id="114" type="span" parent="115" relname="same-unit"/>
+		<group id="115" type="multinuc" parent="116" relname="span"/>
+		<group id="116" type="span" parent="117" relname="span"/>
+		<group id="117" type="span" parent="119" relname="span"/>
+		<group id="119" type="span" parent="126" relname="comparison"/>
+		<group id="120" type="multinuc" parent="48" relname="cause"/>
+		<group id="121" type="span" parent="125" relname="span"/>
+		<group id="122" type="multinuc" parent="53" relname="condition"/>
+		<group id="123" type="span" parent="124" relname="span"/>
+		<group id="124" type="span" parent="121" relname="elaboration"/>
+		<group id="125" type="span" parent="126" relname="comparison"/>
+		<group id="126" type="multinuc" parent="41" relname="elaboration"/>
+		<group id="127" type="span" parent="128" relname="span"/>
+		<group id="128" type="span" relname="antithesis"/>
+		<group id="129" type="multinuc" parent="56" relname="elaboration"/>
+		<group id="130" type="span" parent="55" relname="elaboration"/>
+		<group id="133" type="span" parent="143" relname="preparation"/>
+		<group id="134" type="multinuc" parent="142" relname="joint"/>
+		<group id="135" type="multinuc" parent="134" relname="contrast"/>
+		<group id="136" type="span" parent="137" relname="same-unit"/>
+		<group id="137" type="multinuc" parent="140" relname="span"/>
+		<group id="138" type="span" parent="135" relname="same-unit"/>
+		<group id="139" type="span" parent="140" relname="elaboration"/>
+		<group id="140" type="span" parent="141" relname="span"/>
+		<group id="141" type="span" parent="63" relname="elaboration"/>
+		<group id="142" type="multinuc" parent="143" relname="span"/>
+		<group id="143" type="span" parent="144" relname="span"/>
+		<group id="144" type="span" relname="antithesis"/>
+		<group id="145" type="span" parent="148" relname="contrast"/>
+		<group id="146" type="span" parent="147" relname="span"/>
+		<group id="147" type="span" parent="148" relname="contrast"/>
+		<group id="148" type="multinuc" relname="antithesis"/>
+		<group id="149" type="span" parent="150" relname="span"/>
+		<group id="150" type="span" relname="antithesis"/>
+		<group id="151" type="span" parent="152" relname="span"/>
+		<group id="152" type="span" relname="antithesis"/>
+		<group id="153" type="span" parent="142" relname="joint"/>
+  </body>
+</rst>

@@ -1,0 +1,419 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="antithesis" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="background" type="rst" />
+			<rel name="cause" type="rst" />
+			<rel name="comparison" type="multinuc" />
+			<rel name="concession" type="rst" />
+			<rel name="conclusion" type="rst" />
+			<rel name="condition" type="rst" />
+			<rel name="contrast" type="multinuc" />
+			<rel name="effect" type="rst" />
+			<rel name="elaboration" type="rst" />
+			<rel name="evaluation" type="rst" />
+			<rel name="evidence" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="motivation" type="rst" />
+			<rel name="preparation" type="rst" />
+			<rel name="purpose" type="rst" />
+			<rel name="restatement" type="multinuc" />
+			<rel name="same-unit" type="multinuc" />
+			<rel name="sequence" type="multinuc" />
+			<rel name="solutionhood" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="1" relname="antithesis">https://habr.com/ru/company/Voximplant/blog/459368/</segment>
+		<segment id="2" relname="antithesis">Интеллектуальные CPaaS: новинки индустрии и что ей дали AI/ML</segment>
+		<segment id="3" relname="antithesis">IMG</segment>
+		<segment id="4" parent="205" relname="span">В июне в Амстердаме прошлая очередная APIDays</segment>
+		<segment id="5" parent="4" relname="antithesis">– конференция для всех, кто так или иначе создает и пользуется различными API.</segment>
+		<segment id="6" parent="416" relname="restatement">Темой конференции стал «расцвет контекстуальных коммуникаций»,</segment>
+		<segment id="7" parent="416" relname="restatement">то есть коммуникаций, в которых обе стороны сразу и полностью понимают контекст общения.</segment>
+		<segment id="8" parent="207" relname="cause">Звучит абстрактно,</segment>
+		<segment id="9" parent="207" relname="span">поэтому пара примеров:</segment>
+		<segment id="10" parent="11" relname="cause">вам звонят с незнакомого номера.</segment>
+		<segment id="11" parent="209" relname="span">Соответственно, вы не знаете, кто звонит, откуда и с какой целью.</segment>
+		<segment id="12" parent="210" relname="joint">И напротив, если вы делаете какую-то операцию в приложении интернет-банкинга</segment>
+		<segment id="13" parent="210" relname="joint">и на каком-то шаге что-то пошло не так,</segment>
+		<segment id="14" parent="211" relname="span">вы можете прямо с этого шага позвонить в поддержку</segment>
+		<segment id="15" parent="211" relname="elaboration">– контекст ситуации с ходу будет ясен как вам, так и оператору.</segment>
+		<segment id="16" parent="17" relname="purpose">Чтобы обеспечивать такую осведомленность,</segment>
+		<segment id="17" parent="214" relname="span">бизнесы используют коммуникационные платформы (CPaaS, Communications Platform as a Service),</segment>
+		<segment id="18" parent="215" relname="joint">а те, в свою очередь, используют AI и Machine Learning.</segment>
+		<segment id="19" parent="390" relname="span">Именно об этом и рассказывал наш CEO Алексей Айларов, выступая на APIDays,</segment>
+		<segment id="20" parent="19" relname="elaboration">а сегодня мы публикуем адаптацию июньского выступления.</segment>
+		<segment id="21" parent="22" relname="preparation">Успех CPaaS</segment>
+		<segment id="22" parent="221" relname="span">CPaaS – это быстрорастущий бизнес.</segment>
+		<segment id="23" parent="394" relname="span">Почему?</segment>
+		<segment id="24" parent="240" relname="span">У успеха концепции CPaaS есть несколько причин.</segment>
+		<segment id="25" parent="419" relname="span">Во-первых, расцвет CPaaS случился во многом</segment>
+		<segment id="26" parent="25" relname="cause">благодаря расцвету «нового энтерпрайза»</segment>
+		<segment id="27" parent="28" relname="cause">– когда свою жизнеспособность доказали компании вроде Uber и Lyft,</segment>
+		<segment id="28" parent="224" relname="span">всем вдруг стало понятно, что все эти вчерашние стартапы используют облачные коммуникационные платформы.</segment>
+		<segment id="29" parent="30" relname="cause">Когда рынок начал это понимать,</segment>
+		<segment id="30" parent="226" relname="span">спрос на CPaaS стал расти,</segment>
+		<segment id="31" parent="32" relname="cause">так как облачные решения позволяют</segment>
+		<segment id="32" parent="420" relname="span">собирать на своей основе готовые «коробочные решения» очень быстро,</segment>
+		<segment id="33" parent="420" relname="purpose">чтобы начинать зарабатывать деньги.</segment>
+		<segment id="34" parent="230" relname="span">Во-вторых, надо помнить, что CPaaS-платформы всегда были нацелены на разработчиков.</segment>
+		<segment id="35" parent="34" relname="elaboration">А у каждого современного стартапа всегда есть разработчики, для которых не составляет труда использовать CPaaS.</segment>
+		<segment id="36" parent="396" relname="restatement">В-третьих, облака – есть облака,</segment>
+		<segment id="37" parent="396" relname="restatement">что означает доступность к сервису по всему миру, масштабируемость и увеличение мощностей по запросу.</segment>
+		<segment id="38" parent="397" relname="evaluation">И все это без головной боли для того, кто использует CPaaS.</segment>
+		<segment id="39" parent="234" relname="span">И, наконец, большинство платформ предлагают принцип оплаты pay-as-you-go,</segment>
+		<segment id="40" parent="39" relname="elaboration">когда надо платить только за то, что используешь:</segment>
+		<segment id="41" parent="235" relname="span">есть распознавание речи и перевод ее в текст</segment>
+		<segment id="42" parent="41" relname="elaboration">– эти функции биллятся,</segment>
+		<segment id="43" parent="236" relname="contrast">а нет распознавания – ну, вы поняли.</segment>
+		<segment id="44" parent="237" relname="evaluation">Это весьма гибко и прозрачно.</segment>
+		<segment id="45" parent="241" relname="preparation">Новое в индустрии</segment>
+		<segment id="46" parent="241" relname="span">Тут первым делом надо упомянуть про Serverless,</segment>
+		<segment id="47" parent="46" relname="elaboration">который поднял удобство CPaaS на новый уровень.</segment>
+		<segment id="48" parent="244" relname="background">Однажды мы уже подробно писали на эту тему,</segment>
+		<segment id="49" parent="244" relname="span">сейчас же ограничимся главным тезисом:</segment>
+		<segment id="50" parent="243" relname="contrast">Serverless означает не отсутствие серверов вообще,</segment>
+		<segment id="51" parent="243" relname="contrast">а их отсутствие на стороне клиента.</segment>
+		<segment id="52" parent="246" relname="span">С точки зрения используемых вычислительных ресурсов это такой же pay-as-you-go,</segment>
+		<segment id="53" parent="52" relname="evidence">потому что плата взимается сообразно нагрузке на computing provider’а.</segment>
+		<segment id="54" parent="55" relname="cause">Другой важный момент serverless – это то, что клиентам можно давать доступ к райнтайму платформы,</segment>
+		<segment id="55" parent="247" relname="span">а это ведет к снижению задержек и увеличению надежности.</segment>
+		<segment id="56" parent="253" relname="span">Другой тренд – WYSIWYG-редакторы.</segment>
+		<segment id="57" parent="252" relname="span">Это один из шагов навстречу бизнес-аудитории,</segment>
+		<segment id="58" parent="251" relname="contrast">которая (чаще всего) не умеет кодить,</segment>
+		<segment id="59" parent="251" relname="contrast">но при этом может собрать логику бота/колл-центра в визуальном редакторе.</segment>
+		<segment id="60" parent="255" relname="contrast">Подходы к реализации немного разнятся (см. Smartcalls от Voximplant, Studio от Twilio, FlowBuilder от MessageBird и т.д.),</segment>
+		<segment id="61" parent="254" relname="span">но суть схожая</segment>
+		<segment id="62" parent="422" relname="span">– пользователь использует не код, а визуальные блоки,</segment>
+		<segment id="63" parent="62" relname="elaboration">варьируя их расположение и связи между ними.</segment>
+		<segment id="64" parent="257" relname="contrast">Кстати, некоторые такие редакторы все же позволяют использовать код в качестве продвинутой возможности, например, наш Smartcalls,</segment>
+		<segment id="65" parent="257" relname="contrast">но уже немного другая история.</segment>
+		<segment id="66" parent="259" relname="span">Наконец, облачные IDE.</segment>
+		<segment id="67" parent="66" relname="evaluation">Конечно, пока они едва ли могут сравниться с условной IDEA, но вот с VS Code – легко.</segment>
+		<segment id="68" parent="260" relname="span">Если CPaaS дает разработчику мощный инструмент</segment>
+		<segment id="69" parent="68" relname="purpose">для работы с кодом,</segment>
+		<segment id="70" parent="261" relname="span">то такой разработчик будет, скорее всего, очень доволен.</segment>
+		<segment id="71" parent="263" relname="joint">Нормальный отладчик, умный автокомплит, подсветка кода, кастомные стили, вкладки и т.д. – когда это есть в веб-интерфейсе</segment>
+		<segment id="72" parent="263" relname="joint">и быстро работает,</segment>
+		<segment id="73" parent="264" relname="span">то платформа получает дополнительные очки в карму за свою гибкость.</segment>
+		<segment id="74" parent="266" relname="span">Но наша радость была бы не полной…</segment>
+		<segment id="75" parent="74" relname="condition">… если бы не AI.</segment>
+		<segment id="76" parent="271" relname="span">Машинное обучение дает новые степени свободы коммуникационным платформам, а именно:</segment>
+		<segment id="77" parent="423" relname="preparation">Распознавание</segment>
+		<segment id="78" parent="423" relname="span">Распознавание и синтез речи</segment>
+		<segment id="79" parent="268" relname="contrast">– кто-то разрабатывает их самостоятельно,</segment>
+		<segment id="80" parent="268" relname="contrast">но это весьма трудоемко.</segment>
+		<segment id="81" parent="274" relname="span">Можно обратиться за этим к крупным игрокам вроде Google, Amazon, Яндекс</segment>
+		<segment id="82" parent="273" relname="joint">– их модели уже очень хорошо распознают человеческую речь,</segment>
+		<segment id="83" parent="273" relname="joint">равно как и имитируют ее (кивок в сторону WaveNet).</segment>
+		<segment id="84" parent="85" relname="preparation">Автоматизация NLU/NLP</segment>
+		<segment id="85" parent="280" relname="span">Natural Language Understanding (Processing) – обработка естественного языка – сейчас самая горячая тема в мире коммуникаций.</segment>
+		<segment id="86" parent="87" relname="condition">И если бизнес-решение опирается на NLU,</segment>
+		<segment id="87" parent="276" relname="span">то, как вариант, там происходит синтез речи,</segment>
+		<segment id="88" parent="277" relname="sequence">потом человек что-то отвечает,</segment>
+		<segment id="89" parent="277" relname="sequence">его речь транслитерируется,</segment>
+		<segment id="90" parent="277" relname="sequence">этот текст отдается обратно роботу</segment>
+		<segment id="91" parent="279" relname="same-unit">и он,</segment>
+		<segment id="92" parent="93" relname="purpose">чтобы среагировать,</segment>
+		<segment id="93" parent="278" relname="span">подбирает текст ответа, которые опять-таки надо синтезировать.</segment>
+		<segment id="94" parent="281" relname="contrast">Звучит не как rocket science,</segment>
+		<segment id="95" parent="281" relname="contrast">но все же здесь разумно использовать автоматизацию – Google Dialogflow, IBM Watson, Amazon Lex и пр.</segment>
+		<segment id="96" parent="288" relname="preparation">Усиление операторов</segment>
+		<segment id="97" parent="287" relname="condition">Когда оператор колл-центра общается с клиентом,</segment>
+		<segment id="98" parent="285" relname="joint">можно фоново анализировать речь</segment>
+		<segment id="99" parent="286" relname="span">и давать оператору дополнительную информацию,</segment>
+		<segment id="100" parent="99" relname="purpose">чтобы он не тратил свое время.</segment>
+		<segment id="101" parent="292" relname="condition">Например, клиент может спросить, где ближайший банкомат</segment>
+		<segment id="102" parent="290" relname="sequence">– система распознает вопрос</segment>
+		<segment id="103" parent="290" relname="sequence">и выведет ответ на экран оператора;</segment>
+		<segment id="104" parent="291" relname="span">последний просто зачитает ответ,</segment>
+		<segment id="105" parent="104" relname="purpose">вместо того чтобы просить клиента подождать.</segment>
+		<segment id="106" parent="298" relname="preparation">Анализ эмоций</segment>
+		<segment id="107" parent="297" relname="contrast">В этом заинтересованы примерно все,</segment>
+		<segment id="108" parent="296" relname="span">но это самое трудное направление в CPaaS на данный момент,</segment>
+		<segment id="109" parent="295" relname="joint">потому что люди склонны подавать одну и ту же информацию по-разному,</segment>
+		<segment id="110" parent="295" relname="joint">а также довольно часто использовать культурные отсылки в речи.</segment>
+		<segment id="111" parent="305" relname="span">Сейчас многие компании анализируют эмоции, используя текст.</segment>
+		<segment id="112" parent="301" relname="contrast">Сейчас существуют решения в этом направлении,</segment>
+		<segment id="113" parent="300" relname="span">но нельзя сказать, чтобы они были удачными,</segment>
+		<segment id="114" parent="113" relname="cause">так как на анализе только лишь текста далеко не уедешь;</segment>
+		<segment id="115" parent="116" relname="cause">очевидно, что эмоции – это не только ЧТО именно сказано, но и КАК.</segment>
+		<segment id="116" parent="405" relname="span">Поэтому убедительный анализ эмоций в реальном времени – это вопрос (ближайшего?) будущего.</segment>
+		<segment id="117" parent="310" relname="preparation">Улучшение аудио/видео</segment>
+		<segment id="118" parent="310" relname="span">Все знают про noise reduction</segment>
+		<segment id="119" parent="308" relname="condition">– когда вы говорите по телефону,</segment>
+		<segment id="120" parent="308" relname="span">обученная модель «убирает» фоновые шумы,</segment>
+		<segment id="121" parent="120" relname="purpose">чтобы собеседник слышал только вас.</segment>
+		<segment id="122" parent="312" relname="span">Иногда при этом страдает голос самого говорящего,</segment>
+		<segment id="123" parent="122" relname="cause">так как модели не всегда могут успешно различать, какие частоты относятся к фону, а какие – к голосу.</segment>
+		<segment id="124" parent="313" relname="contrast">Но в целом это работает уже довольно хорошо.</segment>
+		<segment id="125" parent="319" relname="span">Говоря о картинке, мы знаем, как современные смартфоны делают боке (размывают фон) с помощью AI.</segment>
+		<segment id="126" parent="316" relname="span">Такой подход, но уже в рамках видеозвонков тоже будет востребован</segment>
+		<segment id="127" parent="315" relname="span">– представьте, что вам не надо искать идеальный фон,</segment>
+		<segment id="128" parent="127" relname="cause">потому что AI размоет любое окружение за вашей спиной.</segment>
+		<segment id="129" parent="130" relname="concession">Хотя почему «представьте»</segment>
+		<segment id="130" parent="317" relname="span">– Skype уже имеет такую функциональность.</segment>
+		<segment id="131" parent="425" relname="preparation">Анализ видео</segment>
+		<segment id="132" parent="133" relname="cause">Анализ видеопотока либо видеозаписей помогает</segment>
+		<segment id="133" parent="425" relname="span">понять, что находится в кадре.</segment>
+		<segment id="134" parent="135" relname="cause">Пока что это весьма ресурсоемкая задача,</segment>
+		<segment id="135" parent="406" relname="span">поэтому сегодня с ней лучше всех справляются те, у кого очень много вычислительных мощностей – Google, Microsoft и другие крупные игроки.</segment>
+		<segment id="136" parent="137" relname="preparation">Аналитика звонков</segment>
+		<segment id="137" parent="324" relname="span">Сюда относится не только классификация и сегментация данных.</segment>
+		<segment id="138" parent="325" relname="sequence">Представьте, что у вас есть десятки тысяч записей звонков,</segment>
+		<segment id="139" parent="325" relname="sequence">и их можно перевести в текст,</segment>
+		<segment id="140" parent="325" relname="sequence">а потом делать по нему поиск.</segment>
+		<segment id="141" parent="330" relname="span">Но гораздо эффективнее,</segment>
+		<segment id="142" parent="326" relname="sequence">если AI пройдется по этим записям</segment>
+		<segment id="143" parent="326" relname="sequence">и распределит их на группы (это звонки о продажах, а это – гарантийные),</segment>
+		<segment id="144" parent="407" relname="joint">выявит, где оператор колл-центра вел себя корректно, а где – не очень</segment>
+		<segment id="145" parent="408" relname="span">(плюс можно выявить, как именно вел себя человек, каковы были эмоции),</segment>
+		<segment id="146" parent="145" relname="evaluation">здесь клиент спрашивал только про покупку автомобиля, а здесь – и про автомобиль, и про страховку, и про тест драйв.</segment>
+		<segment id="147" parent="330" relname="elaboration">Можно выудить сколько угодно информации из такого массива данных с помощью machine learning.</segment>
+		<segment id="148" parent="334" relname="preparation">Определение автоответчика</segment>
+		<segment id="149" parent="334" relname="span">Особый случай, но тоже является хорошим примером:</segment>
+		<segment id="150" parent="149" relname="elaboration">в своей платформе мы реализовали определение автоответчика.</segment>
+		<segment id="151" parent="337" relname="span">Сейчас платформа умеет распознавать автоответчики на русском языке</segment>
+		<segment id="152" parent="153" relname="cause">– мы обучили модель на множестве звонков,</segment>
+		<segment id="153" parent="336" relname="span">теперь она умеет отличать живого человека от записанного сообщения.</segment>
+		<segment id="154" parent="338" relname="contrast">Обычные способы определения не очень эффективны (например, по звуковому сигналу),</segment>
+		<segment id="155" parent="339" relname="joint">но AI помог нам добиться точности до 99%,</segment>
+		<segment id="156" parent="339" relname="joint">при этом на распознавание уходит всего 2 секунды.</segment>
+		<segment id="157" parent="158" relname="preparation">Трудности</segment>
+		<segment id="158" parent="342" relname="span">Машинное обучение требует много ресурсов.</segment>
+		<segment id="159" parent="344" relname="span">И речь не только про вычислительные мощности, но и про людей со специальными навыками – data scientists,</segment>
+		<segment id="160" parent="343" relname="joint">которые создают</segment>
+		<segment id="161" parent="343" relname="joint">и настраивают модели обучения,</segment>
+		<segment id="162" parent="343" relname="joint">а также знают, какие данные нужны.</segment>
+		<segment id="163" parent="346" relname="joint">Таких людей непросто найти</segment>
+		<segment id="164" parent="346" relname="joint">и их труд дорого стоит.</segment>
+		<segment id="165" parent="348" relname="contrast">Также на них большой спрос среди крупных игроков,</segment>
+		<segment id="166" parent="349" relname="span">а конкурировать с условным Google в плане найма – это тяжко,</segment>
+		<segment id="167" parent="166" relname="concession">хотя и возможно.</segment>
+		<segment id="168" parent="350" relname="span">Поэтому вместо соперничества лучше выбрать сотрудничество с гигантами – большинство CPaaS-игроков используют наработки крупных компаний,</segment>
+		<segment id="169" parent="168" relname="evaluation">и это нормально.</segment>
+		<segment id="170" parent="353" relname="restatement">С другой стороны, это приводит к тому, что гигант-партнер управляет расходами других игроков</segment>
+		<segment id="171" parent="353" relname="restatement">– устанавливает/меняет расценки на распознавание и синтез речи (вспоминаем WaveNet от Google).</segment>
+		<segment id="172" parent="356" relname="contrast">То есть, если вы пользуетесь решениями гиганта,</segment>
+		<segment id="173" parent="356" relname="contrast">а он вдруг решает изменить расценки,</segment>
+		<segment id="174" parent="409" relname="span">то вы вынуждены сделать то же самое,</segment>
+		<segment id="175" parent="354" relname="span">что может не очень обрадовать ваших пользователей.</segment>
+		<segment id="176" parent="358" relname="span">Добавим сюда то, что вы будете отправлять данные этому гиганту</segment>
+		<segment id="177" parent="176" relname="evaluation">– для некоторых бизнесов это проблема.</segment>
+		<segment id="178" parent="179" relname="solutionhood">Однако всегда можно не зависеть только от одного партнера,</segment>
+		<segment id="179" parent="410" relname="span">пользоваться решениями нескольких гигантов со схожей функциональностью.</segment>
+		<segment id="180" parent="364" relname="evaluation">Наконец, такое сотрудничество удобно и выгодно для CPaaS-игроков.</segment>
+		<segment id="181" parent="411" relname="preparation">Вместо заключения</segment>
+		<segment id="182" parent="368" relname="span">Грядут новые технологии,</segment>
+		<segment id="183" parent="367" relname="comparison">которые повлияют на коммуникации так же,</segment>
+		<segment id="184" parent="367" relname="comparison">как в свое время повлиял WebRTC</segment>
+		<segment id="185" parent="369" relname="same-unit">– это 5G и AV1.</segment>
+		<segment id="186" parent="372" relname="contrast">5G призван воплотить в жизнь принцип «всегда онлайн» – это конечная цель,</segment>
+		<segment id="187" parent="372" relname="contrast">но ясно, что это случится не в один день.</segment>
+		<segment id="188" parent="189" relname="condition">С приходом этой технологии</segment>
+		<segment id="189" parent="428" relname="span">у CPaaS появится больше возможностей,</segment>
+		<segment id="190" parent="428" relname="cause">потому что даже те, кто раньше не пользовался мобильной передачей данных, начнут это делать.</segment>
+		<segment id="191" parent="374" relname="joint">Инфраструктура коммуникаций изменится,</segment>
+		<segment id="192" parent="374" relname="joint">а вместе с ней изменятся и привычные телекоммуникационные бизнесы.</segment>
+		<segment id="193" parent="378" relname="span">Видеокодек AV1 тоже будет полезен для CPaaS,</segment>
+		<segment id="194" parent="193" relname="cause">так как он бесплатен,</segment>
+		<segment id="195" parent="379" relname="span">а значит не надо будет заботиться о лицензиях.</segment>
+		<segment id="196" parent="412" relname="comparison">Бесплатный кодек,</segment>
+		<segment id="197" parent="412" relname="comparison">который эффективнее чем H.265</segment>
+		<segment id="198" parent="413" relname="elaboration">и будет доступен всем,</segment>
+		<segment id="199" parent="414" relname="span">тоже изменит мир коммуникаций.</segment>
+		<segment id="200" parent="384" relname="joint">Будущее происходит на наших глазах,</segment>
+		<segment id="201" parent="383" relname="contrast">и Voximplant не только следит за происходящим,</segment>
+		<segment id="202" parent="383" relname="contrast">но и участвует в этом процессе.</segment>
+		<group id="205" type="span" parent="415" relname="background"/>
+		<group id="207" type="span" parent="387" relname="span"/>
+		<group id="209" type="span" parent="213" relname="contrast"/>
+		<group id="210" type="multinuc" parent="14" relname="cause"/>
+		<group id="211" type="span" parent="212" relname="span"/>
+		<group id="212" type="span" parent="213" relname="contrast"/>
+		<group id="213" type="multinuc" parent="9" relname="elaboration"/>
+		<group id="214" type="span" parent="215" relname="joint"/>
+		<group id="215" type="multinuc" parent="391" relname="span"/>
+		<group id="221" type="span" parent="23" relname="preparation"/>
+		<group id="224" type="span" parent="419" relname="elaboration"/>
+		<group id="225" type="span" parent="228" relname="cause"/>
+		<group id="226" type="span" parent="228" relname="span"/>
+		<group id="228" type="span" parent="395" relname="span"/>
+		<group id="230" type="span" parent="239" relname="joint"/>
+		<group id="232" type="span" parent="239" relname="joint"/>
+		<group id="234" type="span" parent="237" relname="span"/>
+		<group id="235" type="span" parent="236" relname="contrast"/>
+		<group id="236" type="multinuc" parent="234" relname="elaboration"/>
+		<group id="237" type="span" parent="238" relname="span"/>
+		<group id="238" type="span" parent="239" relname="joint"/>
+		<group id="239" type="multinuc" parent="24" relname="elaboration"/>
+		<group id="240" type="span" parent="393" relname="span"/>
+		<group id="241" type="span" parent="242" relname="span"/>
+		<group id="242" type="span" parent="250" relname="span"/>
+		<group id="243" type="multinuc" parent="49" relname="elaboration"/>
+		<group id="244" type="span" parent="398" relname="span"/>
+		<group id="246" type="span" parent="400" relname="comparison"/>
+		<group id="247" type="span" parent="249" relname="joint"/>
+		<group id="249" type="multinuc" parent="242" relname="elaboration"/>
+		<group id="250" type="span" relname="antithesis"/>
+		<group id="251" type="multinuc" parent="57" relname="elaboration"/>
+		<group id="252" type="span" parent="56" relname="elaboration"/>
+		<group id="253" type="span" parent="256" relname="span"/>
+		<group id="254" type="span" parent="255" relname="contrast"/>
+		<group id="255" type="multinuc" parent="253" relname="elaboration"/>
+		<group id="256" type="span" parent="401" relname="span"/>
+		<group id="257" type="multinuc" parent="256" relname="background"/>
+		<group id="259" type="span" parent="262" relname="span"/>
+		<group id="260" type="span" parent="70" relname="condition"/>
+		<group id="261" type="span" parent="259" relname="elaboration"/>
+		<group id="262" type="span" parent="265" relname="span"/>
+		<group id="263" type="multinuc" parent="73" relname="cause"/>
+		<group id="264" type="span" parent="262" relname="elaboration"/>
+		<group id="265" type="span" parent="402" relname="contrast"/>
+		<group id="266" type="span" parent="76" relname="preparation"/>
+		<group id="268" type="multinuc" parent="78" relname="elaboration"/>
+		<group id="271" type="span" parent="402" relname="contrast"/>
+		<group id="273" type="multinuc" parent="81" relname="elaboration"/>
+		<group id="274" type="span" parent="403" relname="span"/>
+		<group id="276" type="span" parent="277" relname="sequence"/>
+		<group id="277" type="multinuc" parent="282" relname="span"/>
+		<group id="278" type="span" parent="279" relname="same-unit"/>
+		<group id="279" type="multinuc" parent="277" relname="sequence"/>
+		<group id="280" type="span" parent="284" relname="span"/>
+		<group id="281" type="multinuc" parent="282" relname="evaluation"/>
+		<group id="282" type="span" parent="283" relname="span"/>
+		<group id="283" type="span" parent="280" relname="elaboration"/>
+		<group id="284" type="span" relname="antithesis"/>
+		<group id="285" type="multinuc" parent="287" relname="span"/>
+		<group id="286" type="span" parent="285" relname="joint"/>
+		<group id="287" type="span" parent="288" relname="span"/>
+		<group id="288" type="span" parent="289" relname="span"/>
+		<group id="289" type="span" parent="294" relname="span"/>
+		<group id="290" type="multinuc" parent="292" relname="span"/>
+		<group id="291" type="span" parent="290" relname="sequence"/>
+		<group id="292" type="span" parent="293" relname="span"/>
+		<group id="293" type="span" parent="289" relname="elaboration"/>
+		<group id="294" type="span" relname="antithesis"/>
+		<group id="295" type="multinuc" parent="108" relname="cause"/>
+		<group id="296" type="span" parent="297" relname="contrast"/>
+		<group id="297" type="multinuc" parent="298" relname="span"/>
+		<group id="298" type="span" parent="299" relname="span"/>
+		<group id="299" type="span" parent="307" relname="span"/>
+		<group id="300" type="span" parent="404" relname="span"/>
+		<group id="301" type="multinuc" parent="111" relname="elaboration"/>
+		<group id="305" type="span" parent="306" relname="span"/>
+		<group id="306" type="span" parent="299" relname="elaboration"/>
+		<group id="307" type="span" relname="antithesis"/>
+		<group id="308" type="span" parent="309" relname="span"/>
+		<group id="309" type="span" parent="118" relname="elaboration"/>
+		<group id="310" type="span" parent="311" relname="span"/>
+		<group id="311" type="span" parent="314" relname="span"/>
+		<group id="312" type="span" parent="313" relname="contrast"/>
+		<group id="313" type="multinuc" parent="311" relname="elaboration"/>
+		<group id="314" type="span" parent="320" relname="joint"/>
+		<group id="315" type="span" parent="126" relname="cause"/>
+		<group id="316" type="span" parent="318" relname="contrast"/>
+		<group id="317" type="span" parent="318" relname="contrast"/>
+		<group id="318" type="multinuc" parent="125" relname="evaluation"/>
+		<group id="319" type="span" parent="320" relname="joint"/>
+		<group id="320" type="multinuc" relname="antithesis"/>
+		<group id="324" type="span" parent="332" relname="span"/>
+		<group id="325" type="multinuc" parent="331" relname="comparison"/>
+		<group id="326" type="multinuc" parent="141" relname="condition"/>
+		<group id="330" type="span" parent="333" relname="span"/>
+		<group id="331" type="multinuc" parent="324" relname="elaboration"/>
+		<group id="332" type="span" relname="antithesis"/>
+		<group id="333" type="span" parent="331" relname="comparison"/>
+		<group id="334" type="span" parent="335" relname="span"/>
+		<group id="335" type="span" parent="341" relname="span"/>
+		<group id="336" type="span" parent="151" relname="elaboration"/>
+		<group id="337" type="span" parent="340" relname="span"/>
+		<group id="338" type="multinuc" parent="337" relname="elaboration"/>
+		<group id="339" type="multinuc" parent="338" relname="contrast"/>
+		<group id="340" type="span" parent="335" relname="elaboration"/>
+		<group id="341" type="span" relname="antithesis"/>
+		<group id="342" type="span" parent="345" relname="span"/>
+		<group id="343" type="multinuc" parent="159" relname="elaboration"/>
+		<group id="344" type="span" parent="347" relname="span"/>
+		<group id="345" type="span" parent="366" relname="joint"/>
+		<group id="346" type="multinuc" parent="344" relname="elaboration"/>
+		<group id="347" type="span" parent="342" relname="elaboration"/>
+		<group id="348" type="multinuc" parent="351" relname="span"/>
+		<group id="349" type="span" parent="348" relname="contrast"/>
+		<group id="350" type="span" parent="351" relname="evidence"/>
+		<group id="351" type="span" parent="352" relname="span"/>
+		<group id="352" type="span" parent="363" relname="joint"/>
+		<group id="353" type="multinuc" parent="360" relname="restatement"/>
+		<group id="354" type="span" parent="359" relname="joint"/>
+		<group id="356" type="multinuc" parent="174" relname="condition"/>
+		<group id="358" type="span" parent="359" relname="joint"/>
+		<group id="359" type="multinuc" parent="360" relname="restatement"/>
+		<group id="360" type="multinuc" parent="362" relname="contrast"/>
+		<group id="362" type="multinuc" parent="363" relname="joint"/>
+		<group id="363" type="multinuc" parent="364" relname="span"/>
+		<group id="364" type="span" parent="365" relname="span"/>
+		<group id="365" type="span" parent="366" relname="joint"/>
+		<group id="366" type="multinuc" relname="antithesis"/>
+		<group id="367" type="multinuc" parent="182" relname="elaboration"/>
+		<group id="368" type="span" parent="369" relname="same-unit"/>
+		<group id="369" type="multinuc" parent="370" relname="span"/>
+		<group id="370" type="span" parent="411" relname="span"/>
+		<group id="371" type="span" parent="385" relname="joint"/>
+		<group id="372" type="multinuc" parent="376" relname="span"/>
+		<group id="374" type="multinuc" parent="375" relname="joint"/>
+		<group id="375" type="multinuc" parent="376" relname="elaboration"/>
+		<group id="376" type="span" parent="377" relname="span"/>
+		<group id="377" type="span" parent="370" relname="elaboration"/>
+		<group id="378" type="span" parent="195" relname="cause"/>
+		<group id="379" type="span" parent="386" relname="span"/>
+		<group id="381" type="span" parent="382" relname="same-unit"/>
+		<group id="382" type="multinuc" parent="379" relname="elaboration"/>
+		<group id="383" type="multinuc" parent="384" relname="joint"/>
+		<group id="384" type="multinuc" parent="199" relname="evaluation"/>
+		<group id="385" type="multinuc" relname="antithesis"/>
+		<group id="386" type="span" parent="385" relname="joint"/>
+		<group id="387" type="span" parent="388" relname="span"/>
+		<group id="388" type="span" parent="417" relname="elaboration"/>
+		<group id="390" type="span" parent="391" relname="attribution"/>
+		<group id="391" type="span" parent="392" relname="span"/>
+		<group id="392" type="span" parent="387" relname="elaboration"/>
+		<group id="393" type="span" relname="antithesis"/>
+		<group id="394" type="span" parent="240" relname="solutionhood"/>
+		<group id="395" type="span" parent="239" relname="joint"/>
+		<group id="396" type="multinuc" parent="397" relname="span"/>
+		<group id="397" type="span" parent="232" relname="span"/>
+		<group id="398" type="span" parent="400" relname="comparison"/>
+		<group id="400" type="multinuc" parent="249" relname="joint"/>
+		<group id="401" type="span" relname="antithesis"/>
+		<group id="402" type="multinuc" relname="antithesis"/>
+		<group id="403" type="span" relname="antithesis"/>
+		<group id="404" type="span" parent="301" relname="contrast"/>
+		<group id="405" type="span" parent="300" relname="evidence"/>
+		<group id="406" type="span" parent="426" relname="evaluation"/>
+		<group id="407" type="multinuc" parent="326" relname="sequence"/>
+		<group id="408" type="span" parent="407" relname="joint"/>
+		<group id="409" type="span" parent="175" relname="cause"/>
+		<group id="410" type="span" parent="362" relname="contrast"/>
+		<group id="411" type="span" parent="371" relname="span"/>
+		<group id="412" type="multinuc" parent="413" relname="span"/>
+		<group id="413" type="span" parent="381" relname="span"/>
+		<group id="414" type="span" parent="382" relname="same-unit"/>
+		<group id="415" type="span" parent="417" relname="span"/>
+		<group id="416" type="multinuc" parent="415" relname="span"/>
+		<group id="417" type="span" parent="418" relname="span"/>
+		<group id="418" type="span" relname="antithesis"/>
+		<group id="419" type="span" parent="225" relname="span"/>
+		<group id="420" type="span" parent="421" relname="span"/>
+		<group id="421" type="span" parent="226" relname="cause"/>
+		<group id="422" type="span" parent="61" relname="elaboration"/>
+		<group id="423" type="span" parent="424" relname="span"/>
+		<group id="424" type="span" parent="274" relname="solutionhood"/>
+		<group id="425" type="span" parent="426" relname="span"/>
+		<group id="426" type="span" parent="427" relname="span"/>
+		<group id="427" type="span" relname="antithesis"/>
+		<group id="428" type="span" parent="429" relname="span"/>
+		<group id="429" type="span" parent="375" relname="joint"/>
+  </body>
+</rst>

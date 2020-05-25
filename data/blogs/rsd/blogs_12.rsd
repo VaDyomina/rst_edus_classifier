@@ -1,0 +1,92 @@
+1	https://modernafrodite.kosmetista.ru/blog/93853.html	_	_	_	_	0	ROOT	_	_
+2	И снова о голландской косметике. Увлажнение лица с Bee Honest	_	_	_	_	0	ROOT	_	_
+3	IMG	_	_	_	_	0	ROOT	_	_
+4	Привет всем!	_	_	_	_	0	ROOT	_	_
+5	Продолжаю знакомиться	_	_	_	_	7	preparation_r	_	_
+6	и знакомить вас с голландской косметикой.	_	_	_	_	5	joint_m	_	_
+7	Сегодня в обзоре троица de Traay с маслом дикой розы	_	_	_	_	0	ROOT	_	_
+8	Я уже писала о муссе	_	_	_	_	7	elaboration_r	_	_
+9	для умывания	_	_	_	_	8	purpose_r	_	_
+10	и молочке,	_	_	_	_	8	same-unit_m	_	_
+11	теперь настал черёд скраба и кремов.	_	_	_	_	8	sequence_m	_	_
+12	Упаковка у всех трёх стредств идентичная: пластиковые тюбики с откидывающейся крышкой.	_	_	_	_	7	elaboration_r	_	_
+13	Пласик мягкий,	_	_	_	_	14	cause_r	_	_
+14	выдавливать средства очень легко.	_	_	_	_	12	elaboration_r	_	_
+15	Моя кожа нормальная, беспроблемная,	_	_	_	_	16	cause_r	_	_
+16	поэтому от этих уходовых средств ждала обещаного производителем увлажнения.	_	_	_	_	17	preparation_r	_	_
+17	Дневной крем для лица Bee Honest de Traay Dag Creme Rozen voor een droge huid/Crème de Jour Rose pour une peau sèche призван увлажнить	_	_	_	_	0	ROOT	_	_
+18	и защитить сухую кожу	_	_	_	_	17	joint_m	_	_
+19	благодаря входящим в состав пчелиному воску, маслу ши, маслу сладкого миндаля, ослинника и дикой розы.	_	_	_	_	18	cause_r	_	_
+20	И снова о голландской косметике. Увлажнение лица с Bee Honest IMG	_	_	_	_	17	elaboration_r	_	_
+21	Сам крем очень плотный по текстуре,	_	_	_	_	22	cause_r	_	_
+22	поэтому так просто размазать его по лицу не получится.	_	_	_	_	26	cause_r	_	_
+23	Поэтому я выдавливаю нужное количество крема,	_	_	_	_	26	cause_r	_	_
+24	наношу точечно на разные участки лица,	_	_	_	_	23	sequence_m	_	_
+25	а потом вбиваю щёточкой Collistar массажной насадкой.	_	_	_	_	23	sequence_m	_	_
+26	Таким образом крем впитывается гораздо лучше,	_	_	_	_	0	ROOT	_	_
+27	плюс происходит лёгкий массаж лица)	_	_	_	_	26	joint_m	_	_
+28	Моя кожа получает от крема необходимое увлажнение,	_	_	_	_	0	ROOT	_	_
+29	становится гладкой на ощупь.	_	_	_	_	28	joint_m	_	_
+30	Впитывается крем,	_	_	_	_	28	joint_m	_	_
+31	несмотря на свою текстуру,	_	_	_	_	30	concession_r	_	_
+32	довольно быстро:	_	_	_	_	30	same-unit_m	_	_
+33	после двух минут массажа я уже могу наносить макияж.	_	_	_	_	30	elaboration_r	_	_
+34	Тональный, пудра, тени, румяна ложаться на него отлично,	_	_	_	_	35	cause_r	_	_
+35	так что конфликта с декоративной косметикой нет.	_	_	_	_	30	elaboration_r	_	_
+36	IMG	_	_	_	_	28	elaboration_r	_	_
+37	Состав: aqua, prunus amygdalus dulcis oil, centaurea cyanus flower water*, alcohol*, glycerin, polyglyceryl-3 polyricinoleate, oenothera biennis oil*, rosa canina fruit oil*, cera alba, hydrogenated vegetable oil, butyrospermum parkii butter*, magnesium sulfate, tocopheryl acetate, polyglyceryl-3 ricinoleate, dehydroacetic acid, helianthus annuus seed oil, glycine soja oil, calendula officinalis flower extract*, rosmarinus officinalis leaf extract*, parfum**, citric acid, benzyl alcohol, citronellol, geraniol, linalool, benzyl salicylate, citral	_	_	_	_	28	elaboration_r	_	_
+38	Ночной крем для лица Bee Honest de Traay Nacht Creme Rozen voor een droge huid /Crème de Noit Rose pour une peau sèche	_	_	_	_	40	preparation_r	_	_
+39	IMG	_	_	_	_	38	elaboration_r	_	_
+40	Ночной крем, как и дневной, обязан делать то же самое с моей кожей, но только ночью.	_	_	_	_	0	ROOT	_	_
+41	По характеристикам он точно такой же, как и дневной.	_	_	_	_	40	joint_m	_	_
+42	Такой же плотный,	_	_	_	_	41	elaboration_r	_	_
+43	точно так же я его наношу	_	_	_	_	42	joint_m	_	_
+44	и эффект от него аналогичный.	_	_	_	_	42	joint_m	_	_
+45	Хорошо увлажняет	_	_	_	_	42	joint_m	_	_
+46	и разглаживает кожу,	_	_	_	_	45	joint_m	_	_
+47	питает немного.	_	_	_	_	45	joint_m	_	_
+48	Честно говоря, я не увидела никакой разницы между дневным и ночным,	_	_	_	_	49	cause_r	_	_
+49	поэтому иногда меняю их местами.	_	_	_	_	40	evaluation_r	_	_
+50	На ночной крем макияж ложится так же хорошо.	_	_	_	_	49	elaboration_r	_	_
+51	IMG	_	_	_	_	40	elaboration_r	_	_
+52	Состав: aqua, centaurea cyanus flower water*, prunus amygdalus dulcis oil, butyrospermum parkii butter*, alcohol*, glycerin, polyglyceryl-3 polyricinoleate, ceraalba, oenothera biennis oil*, rosa canina fruit oil, magnesium sulfate, tocopheryl acetate, calendula officinalis flower extract*, polyglyceryl-3 ricinoleate, dehydroacetic acid, helianthus annuus seed oil*, glycine soja oil, rosmarinus officinalis leaf extract*, citric aic, parfum**, benzyl alcohol, citronellol, geraniol, linalool, benzyl salicylate, citral, limonene.	_	_	_	_	40	elaboration_r	_	_
+53	Оба крема я использую и для кожи век.	_	_	_	_	54	preparation_r	_	_
+54	Наношу как на верхние, так и на нижние.	_	_	_	_	0	ROOT	_	_
+55	В этой зоне уже массажером не пользуюсь,	_	_	_	_	54	elaboration_r	_	_
+56	а вбиваю легонько подушечками пальцев.	_	_	_	_	55	contrast_m	_	_
+57	Отёков и аллергических реакций крем не вызвал,	_	_	_	_	58	cause_r	_	_
+58	поэтому я продолжаю смело наносить кремы под глаза.	_	_	_	_	54	elaboration_r	_	_
+59	Они отлично увлажняют кожу и в области вокруг глаз.	_	_	_	_	54	evaluation_r	_	_
+60	Скраб для лица Bee Honest de Traay Gezichts scrub Rozen voor alle huidtypes/Exfoliant visage Rose pour tous types de peau	_	_	_	_	62	preparation_r	_	_
+61	IMG	_	_	_	_	60	elaboration_r	_	_
+62	Механическими скрабами я редко пользуюсь:	_	_	_	_	0	ROOT	_	_
+63	предпочитаю всё же энзимные пилинги.	_	_	_	_	62	elaboration_r	_	_
+64	Но этот взяла «за компанию», просто попробовать.	_	_	_	_	62	contrast_m	_	_
+65	Моя кожа не чувствительная	_	_	_	_	66	cause_r	_	_
+66	и даже знаменитую Чистую Линию с абрикосовыми косточками переносит легко.	_	_	_	_	67	background_r	_	_
+67	В состав этого скраба входят также входят молотые абрикосовые косточки,	_	_	_	_	62	elaboration_r	_	_
+68	но они очень мелкие,	_	_	_	_	69	cause_r	_	_
+69	поэтому кожу не травмируют.	_	_	_	_	67	contrast_m	_	_
+70	Скраб хорошо полирует кожу,	_	_	_	_	0	ROOT	_	_
+71	выравнивает поверхность.	_	_	_	_	70	joint_m	_	_
+72	После того, как я его смываю,	_	_	_	_	74	cause_r	_	_
+73	кожа остаётся напитанной маслами	_	_	_	_	72	sequence_m	_	_
+74	— никакой сухости или стянутости после использования нет.	_	_	_	_	70	joint_m	_	_
+75	Использую скраб по настроению 1-2 раза в неделю.	_	_	_	_	70	joint_m	_	_
+76	IMG	_	_	_	_	70	elaboration_r	_	_
+77	Состав: aqua, centaurea cyanus flower water*, prunus amygdalus dulcis oil, prunus armeniaca seed powder*, glycerin, oenothera biennis oil*, rosa canina fruit oil, cera alba, cetearyl alcohol, cetearyl glucoside, glycerylstearate, palmitic acid, stearic acid, xanthan gum, dehydroacetic acid, helianthus annuus seed oil*, rosmarinus officinalis leaf extract*, parfum**, benzyl alcohol, citronellol, geraniol, linalool, benzyl salicylate. *органического происхождения **натурального происхождения	_	_	_	_	70	elaboration_r	_	_
+78	Общие впечатления:	_	_	_	_	79	preparation_r	_	_
+79	эти продукты не сделают чудес с вашей кожей,	_	_	_	_	0	ROOT	_	_
+80	не омолодят на 10 лет,	_	_	_	_	79	joint_m	_	_
+81	но обеспечат хороший недорогой, но эффективный базовый уход.	_	_	_	_	79	contrast_m	_	_
+82	Мне нравится их упаковка, текстура, эффект.	_	_	_	_	79	evaluation_r	_	_
+83	Ещё один большой плюс — органические составы,	_	_	_	_	82	joint_m	_	_
+84	нет синтетических отдушек и красителей,	_	_	_	_	83	elaboration_r	_	_
+85	косметика не тестируется на животных	_	_	_	_	84	joint_m	_	_
+86	и имеет сертификат BDIH.	_	_	_	_	84	joint_m	_	_
+87	Ну и цена, конечно.	_	_	_	_	82	joint_m	_	_
+88	Объём: 50 мл	_	_	_	_	79	elaboration_r	_	_
+89	Цена: 8 евpо	_	_	_	_	88	joint_m	_	_
+90	Срок тестирования: 3 месяца	_	_	_	_	88	joint_m	_	_
+91	Оценка: 5	_	_	_	_	88	evaluation_r	_	_
+

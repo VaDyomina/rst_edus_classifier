@@ -1,0 +1,477 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="antithesis" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="background" type="rst" />
+			<rel name="cause" type="rst" />
+			<rel name="comparison" type="multinuc" />
+			<rel name="concession" type="rst" />
+			<rel name="conclusion" type="rst" />
+			<rel name="condition" type="rst" />
+			<rel name="contrast" type="multinuc" />
+			<rel name="effect" type="rst" />
+			<rel name="elaboration" type="rst" />
+			<rel name="evaluation" type="rst" />
+			<rel name="evidence" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="motivation" type="rst" />
+			<rel name="preparation" type="rst" />
+			<rel name="purpose" type="rst" />
+			<rel name="restatement" type="multinuc" />
+			<rel name="same-unit" type="multinuc" />
+			<rel name="sequence" type="multinuc" />
+			<rel name="solutionhood" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="1" relname="antithesis">http://wolonter.blogspot.com/2016/06/blog-post_21.html</segment>
+		<segment id="2" relname="antithesis">О менеджерах, тестировщиках и их отношениях</segment>
+		<segment id="3" parent="227" relname="preparation">Текст моего выступления на внутренней конференции в Контуре.</segment>
+		<segment id="4" parent="226" relname="joint">О менеджерах и тестировщиках.</segment>
+		<segment id="5" parent="226" relname="joint">Ссылка на презентацию</segment>
+		<segment id="6" parent="232" relname="contrast">Я недавно работаю в контуре, всего год.</segment>
+		<segment id="7" parent="229" relname="comparison">Но до сих пор у меня не проходит ощущение новизны,</segment>
+		<segment id="8" parent="229" relname="comparison">как будто я только что пришел месяц.</segment>
+		<segment id="9" parent="230" relname="evaluation">Гуда не взгляни - везде необычное. Непонятное.</segment>
+		<segment id="10" parent="238" relname="span">У нас - все очень любят контур, коллег и проект.</segment>
+		<segment id="11" parent="237" relname="span">Я еще ни в одной компании этого не видел.</segment>
+		<segment id="12" parent="234" relname="condition">Когда спрашиваешь о работе</segment>
+		<segment id="13" parent="233" relname="contrast">люди начинают рассказывать не о том, что они кладут кирпичи,</segment>
+		<segment id="14" parent="233" relname="contrast">а о том, что строят красивое здание.</segment>
+		<segment id="15" parent="235" relname="evaluation">Я так не умею.</segment>
+		<segment id="16" parent="242" relname="span">Кроме очевидных проблем это дает некоторые преимущества.</segment>
+		<segment id="17" parent="240" relname="condition">Пока я еще не влюбился в это великолепие окончательно,</segment>
+		<segment id="18" parent="239" relname="joint">я могу заметить что-нибудь интересное</segment>
+		<segment id="19" parent="239" relname="joint">и сравнить.</segment>
+		<segment id="20" parent="247" relname="span">Собственно, этим и хотелось бы поделиться.</segment>
+		<segment id="21" parent="244" relname="sequence">Я считаю, что нашел конфликт между менеджером и тестировщиком</segment>
+		<segment id="22" parent="244" relname="sequence">и сейчас рассмотрю его. С каждой стороны.</segment>
+		<segment id="23" parent="245" relname="evaluation">Возможно, у меня даже есть решение.</segment>
+		<segment id="24" parent="249" relname="span">Итак, конфликт.</segment>
+		<segment id="25" parent="248" relname="contrast">1. Матерым тестерам мало платят.</segment>
+		<segment id="26" parent="248" relname="contrast">2. Опытным тестерам вообще-то не за что платить много</segment>
+		<segment id="27" parent="28" relname="solutionhood">Я думаю, что эту проблему можно решить.</segment>
+		<segment id="28" parent="485" relname="span">коллизия ожиданий, требований, диалога и немного квалификации.</segment>
+		<segment id="29" parent="254" relname="span">Вообще, я считаю, что менеджер разработки - твой начальник - это очень важное в работе.</segment>
+		<segment id="30" parent="253" relname="contrast">В айти увольняются от начальников.</segment>
+		<segment id="31" parent="251" relname="joint">Я еще и нанимаюсь к начальникам.</segment>
+		<segment id="32" parent="252" relname="span">И предлагаю страшную штуку.</segment>
+		<segment id="33" parent="32" relname="elaboration">Работать с ними.</segment>
+		<segment id="34" parent="434" relname="preparation">Я готовился к докладу.</segment>
+		<segment id="35" parent="255" relname="joint">Я ходил по менеджерам проектов</segment>
+		<segment id="36" parent="255" relname="joint">и задавал им разные вопросы, типа "А зачем вы наняли тестеров?" "А чего вы от них требуете?"</segment>
+		<segment id="37" parent="256" relname="joint">Еще я спрашивал многих тестировщиков "а что от вас требуют менеджеры?"</segment>
+		<segment id="38" parent="258" relname="joint">И знаете - каждый проект уникален.</segment>
+		<segment id="39" parent="258" relname="joint">И каждый специалист уникален.</segment>
+		<segment id="40" parent="258" relname="joint">И каждый менеджер уникален.</segment>
+		<segment id="41" parent="259" relname="comparison">Как снежинки. Уникальные люди-снежинки.</segment>
+		<segment id="42" parent="262" relname="condition">Я думаю, что если не решить,</segment>
+		<segment id="43" parent="261" relname="joint">то снизить накал можно,</segment>
+		<segment id="44" parent="261" relname="joint">посмотреть на мир с другой стороны.</segment>
+		<segment id="45" parent="436" relname="span">Я надеюсь, тут вам может помочь моя модель производства.</segment>
+		<segment id="46" parent="266" relname="joint">Я работаю в рамках модели, которую я для себя сформулировал</segment>
+		<segment id="47" parent="266" relname="joint">и сейчас попытаюсь поделиться ею с вами.</segment>
+		<segment id="48" parent="268" relname="span">Группа разработки это черный ящик,</segment>
+		<segment id="49" parent="267" relname="sequence">в который попадает куча всего,</segment>
+		<segment id="50" parent="267" relname="sequence">а на выходе вылетают фичи,</segment>
+		<segment id="51" parent="268" relname="background">внутри черного ящика - тестеры и разработчики.</segment>
+		<segment id="52" parent="487" relname="elaboration">Продукт черного ящика - фичи</segment>
+		<segment id="53" parent="271" relname="span">Зачем нужен тестировщик:</segment>
+		<segment id="54" parent="270" relname="joint">тестировщик это такая очень дорогая линейка которую менеджер незадолго до релиза может приложить к фиче.</segment>
+		<segment id="55" parent="270" relname="joint">И заранее совершить управляющее воздействие.</segment>
+		<segment id="56" parent="273" relname="span">Чего хочет менеджер:</segment>
+		<segment id="57" parent="272" relname="joint">Отсутствия сюрпризов как минимум</segment>
+		<segment id="58" parent="272" relname="joint">и попасть в окно качества как норма.</segment>
+		<segment id="59" parent="275" relname="span">Что может</segment>
+		<segment id="60" parent="274" relname="joint">- отложить</segment>
+		<segment id="61" parent="274" relname="joint">и подвигать окно качества.</segment>
+		<segment id="62" parent="278" relname="span">В рамках этой модели первое что должен сделать тестировщик на новом проекте</segment>
+		<segment id="63" parent="62" relname="elaboration">- отрастить себе линейку -</segment>
+		<segment id="64" parent="279" relname="same-unit">научиться искать баги в проекте.</segment>
+		<segment id="65" parent="280" relname="joint">Как правило на это тратится от двух дней до полугода</segment>
+		<segment id="66" parent="280" relname="joint">и это первое что требуют от тестеров</segment>
+		<segment id="67" parent="443" relname="span">и это то, за что платят.</segment>
+		<segment id="68" parent="283" relname="span">Тестировщики нормальные люди.</segment>
+		<segment id="69" parent="281" relname="span">Они помнят, что в начале им давали деньги за то,</segment>
+		<segment id="70" parent="69" relname="cause">что они хорошо искали.</segment>
+		<segment id="71" parent="441" relname="span">И стараются - ищут еще лучше.</segment>
+		<segment id="72" parent="442" relname="comparison">Кто работал в проекте с более чем 100 открытых багов?</segment>
+		<segment id="73" parent="442" relname="comparison">У кого их сейчас болше 100? 200? 300?</segment>
+		<segment id="74" parent="301" relname="solutionhood">Теперь помните я вас спрашивал про количество открытых багов и сходимость?</segment>
+		<segment id="75" parent="301" relname="span">Открываю тайну.</segment>
+		<segment id="76" parent="290" relname="span">У нас с вами не космос, а крайне терпимые к дефектам продукты.</segment>
+		<segment id="77" parent="289" relname="joint">В них полно багов</segment>
+		<segment id="78" parent="289" relname="joint">и мы принципиально не хотим их исправлять.</segment>
+		<segment id="79" parent="447" relname="span">Менеджеры это отлично понимают.</segment>
+		<segment id="80" parent="293" relname="joint">У каждого есть коридор</segment>
+		<segment id="81" parent="293" relname="joint">и именно в него надо попасть.</segment>
+		<segment id="82" parent="294" relname="contrast">Лучше - не надо.</segment>
+		<segment id="83" parent="294" relname="contrast">Лучше - плохо.</segment>
+		<segment id="84" parent="298" relname="span">У каждого тестера в истории есть отрицательная сходимость дефектов и сотни незакрытых багов.</segment>
+		<segment id="85" parent="84" relname="elaboration">Это признак overskill тестера.</segment>
+		<segment id="86" parent="297" relname="contrast">Ему бы в космическую отрасль,</segment>
+		<segment id="87" parent="297" relname="contrast">а он у нас и не понимает, что лучше чем коридор качества менеджера - не нужно.</segment>
+		<segment id="88" parent="304" relname="preparation">История.</segment>
+		<segment id="89" parent="303" relname="restatement">Четыре года назад мы вместе с Юлей проводили чистку багов</segment>
+		<segment id="90" parent="303" relname="restatement">- снижали когнитивную нагрузку на людей.</segment>
+		<segment id="91" parent="307" relname="span">Что мы делали</segment>
+		<segment id="92" parent="306" relname="sequence">- мы взяли 300 открытых багов</segment>
+		<segment id="93" parent="306" relname="sequence">и не глядя закрыли сто.</segment>
+		<segment id="94" parent="308" relname="joint">Никто не умер.</segment>
+		<segment id="95" parent="308" relname="joint">Нагрузка стала ниже.</segment>
+		<segment id="96" parent="309" relname="joint">Но милые и замечательные девочки тестировщицы чуть ли не со слезами на глазах подбегали,</segment>
+		<segment id="97" parent="309" relname="joint">требовали переоткрытия.</segment>
+		<segment id="98" parent="310" relname="evaluation">Мы перечеркнули ценность их работы, смысл их деятельности.</segment>
+		<segment id="99" parent="100" relname="preparation">Выводы:</segment>
+		<segment id="100" parent="320" relname="span">менеджеры. Передавайте знания о приоритетах.</segment>
+		<segment id="101" parent="317" relname="span">Не посылайте тестеров на курсы</segment>
+		<segment id="102" parent="316" relname="comparison">где учат искать лучше</segment>
+		<segment id="103" parent="316" relname="comparison">чем вам надо.</segment>
+		<segment id="104" parent="318" relname="span">Не поощряйте тщательную проверку там</segment>
+		<segment id="105" parent="104" relname="elaboration">где она не нужна.</segment>
+		<segment id="106" parent="321" relname="elaboration">Тестировщик должен находить ровно столько багов, сколько починят. Не меньше. Но и не больше.</segment>
+		<segment id="107" parent="324" relname="span">Тестировщики. Мы делаем говно с тараканами.</segment>
+		<segment id="108" parent="107" relname="elaboration">Продукты толерантные к большому количеству дефектов.</segment>
+		<segment id="109" parent="325" relname="span">Смиритесь.</segment>
+		<segment id="110" parent="451" relname="solutionhood">Что дальше?</segment>
+		<segment id="111" parent="451" relname="span">Дальше менеджер желает знать о качестве не только за день до, но и раньше.</segment>
+		<segment id="112" parent="488" relname="span">Это тест-аналитика, тест-ферст, пороги входа в тестирования, инструменты для разработчиков и стандарты качества.</segment>
+		<segment id="113" parent="112" relname="elaboration">Они позволяют измерять раньше.</segment>
+		<segment id="114" parent="489" relname="span">И частота измерений. Это автоматизация и банальная скорость работы.</segment>
+		<segment id="115" parent="114" relname="elaboration">Чаще раза в день не надо никому.</segment>
+		<segment id="116" parent="336" relname="joint">Менеджеры. Тестировать реально можно до поставки фичи на стенд.</segment>
+		<segment id="117" parent="452" relname="span">Узнать, что фича работает хорошо можно до написания кода.</segment>
+		<segment id="118" parent="117" relname="evidence">Есть способы.</segment>
+		<segment id="119" parent="340" relname="span">А еще тестить можно в два раза быстрей, чем через полгода после найма.</segment>
+		<segment id="120" parent="119" relname="elaboration">Смело требуйте.</segment>
+		<segment id="121" parent="340" relname="elaboration">Способы и техники не ваша головная боль.</segment>
+		<segment id="122" parent="345" relname="span">Тестеры. Будьте готовы.</segment>
+		<segment id="123" parent="454" relname="contrast">Быстро работать руками - не поможет.</segment>
+		<segment id="124" parent="453" relname="span">Придется работать головой.</segment>
+		<segment id="125" parent="344" relname="span">Это сложнее,</segment>
+		<segment id="126" parent="125" relname="evaluation">на это тратится примерно один-два тестерских года.</segment>
+		<segment id="127" parent="347" relname="span">Как это ни странно, но и здесь у менеджеров есть потолок желаний.</segment>
+		<segment id="128" parent="127" relname="elaboration">Чаще, чем раз в день информация уже не нужна, как правило.</segment>
+		<segment id="129" parent="349" relname="condition">Если не захотеть чего-то еще</segment>
+		<segment id="130" parent="490" relname="restatement">то вы получите автоматизацию ради автоматизации -</segment>
+		<segment id="131" parent="490" relname="restatement">такую, которая не ищет дефекты.</segment>
+		<segment id="132" parent="348" relname="joint">Или людей, которые считают, что они умеют все что нужно на проекте и не видят роста.</segment>
+		<segment id="133" parent="455" relname="solutionhood">Что дальше?</segment>
+		<segment id="134" parent="455" relname="span">И вот тут я серьезно ошибся.</segment>
+		<segment id="135" parent="353" relname="joint">Я планировал выйти весь в белом</segment>
+		<segment id="136" parent="457" relname="span">и рассказать менеджерам ПРАВДУ о том, что нужно делать с двухгодовалыми тестерами с кризисом среднего опыта.</segment>
+		<segment id="137" parent="354" relname="joint">Это когда руководитель уже не знает, куда расти этим людям</segment>
+		<segment id="138" parent="354" relname="joint">и придумывает всякую фигню.</segment>
+		<segment id="139" parent="355" relname="span">То есть начинает платить за то,</segment>
+		<segment id="140" parent="139" relname="purpose">что человек не уходит на другую работу.</segment>
+		<segment id="141" parent="359" relname="span">Я предположил, что в рамках этой модели следующим этапом развития является время и рост тестировщика заключается во времени.</segment>
+		<segment id="142" parent="493" relname="span">Это же самое ценное.</segment>
+		<segment id="143" parent="492" relname="span">релиз, фича,</segment>
+		<segment id="144" parent="491" relname="joint">выпустить,</segment>
+		<segment id="145" parent="491" relname="joint">поставить,</segment>
+		<segment id="146" parent="491" relname="joint">выпнуть из процесса разработки.</segment>
+		<segment id="147" parent="360" relname="joint">Уменьшить запасы. Быстрей.</segment>
+		<segment id="148" parent="360" relname="joint">Уменьшить вот эти вот области.</segment>
+		<segment id="149" parent="361" relname="contrast">Время можно обменять на все</segment>
+		<segment id="150" parent="361" relname="contrast">и мало что можно обменять на время.</segment>
+		<segment id="151" parent="364" relname="span">Мы у себя в проекте и даже биллинг запустили на несколько месяцев подсчет.</segment>
+		<segment id="152" parent="151" relname="elaboration">Сколько времени мы тратим.</segment>
+		<segment id="153" parent="154" relname="preparation">Выводы.</segment>
+		<segment id="154" parent="366" relname="span">Эти потери можно уменьшить?</segment>
+		<segment id="155" parent="462" relname="span">Да.</segment>
+		<segment id="156" parent="157" relname="solutionhood">Можно из 20 дней сделать 8?</segment>
+		<segment id="157" parent="463" relname="span">Да.</segment>
+		<segment id="158" parent="159" relname="solutionhood">Смогут тестеры уменьшить 20 до 8?</segment>
+		<segment id="159" parent="464" relname="span">Нет.</segment>
+		<segment id="160" parent="161" relname="solutionhood">А до 16?</segment>
+		<segment id="161" parent="465" relname="span">Вполне.</segment>
+		<segment id="162" parent="376" relname="span">И с горящими глазами я иду продавать менеджерам эту идею.</segment>
+		<segment id="163" parent="372" relname="joint">Вот, умный тестировщик умеест строить отношения со временем</segment>
+		<segment id="164" parent="372" relname="joint">и с помощью команды ускорять процесс.</segment>
+		<segment id="165" parent="166" relname="solutionhood">Мне казалось что я скажу менеджерам "вы хотите выпускать фичи в два раза быстрее?"</segment>
+		<segment id="166" parent="373" relname="span">И вот она, победа.</segment>
+		<segment id="167" parent="377" relname="joint">Оказалось, не надо быстро.</segment>
+		<segment id="168" parent="377" relname="joint">Не надо даже быстро с тем же уровнем качества.</segment>
+		<segment id="169" parent="380" relname="span">У менеджера есть коридор не только качества, но и скорости.</segment>
+		<segment id="170" parent="379" relname="span">Несколько опытнейших менеджеров вслух сказали что быстрее не надо.</segment>
+		<segment id="171" parent="378" relname="comparison">Надо настолько быстро,</segment>
+		<segment id="172" parent="378" relname="comparison">насколько хочет менеджер.</segment>
+		<segment id="173" parent="383" relname="contrast">Желание есть, но другое.</segment>
+		<segment id="174" parent="385" relname="joint">Я считаю, что это фатальная ошибка</segment>
+		<segment id="175" parent="385" relname="joint">и в корне неверно,</segment>
+		<segment id="176" parent="389" relname="joint">тем не менее это вполне себе зона роста</segment>
+		<segment id="177" parent="387" relname="condition">и если научиться выполнять эту работу</segment>
+		<segment id="178" parent="386" relname="joint">- менеджер это заметит</segment>
+		<segment id="179" parent="386" relname="joint">и оценит.</segment>
+		<segment id="180" parent="391" relname="span">Итак, формулировки:</segment>
+		<segment id="181" parent="180" relname="elaboration">"Самоорганизующаяся команда", "интерфейс", "самостоятельное принятие решений", "менеджмент команды", "сами знают куда расти". "Решить проблемы с тестерами".</segment>
+		<segment id="182" parent="495" relname="span">Самоподдерживающаяся система,</segment>
+		<segment id="183" parent="494" relname="contrast">не требующая ресурса управления,</segment>
+		<segment id="184" parent="494" relname="contrast">требующая только материальных ресурсов.</segment>
+		<segment id="185" parent="495" relname="elaboration">Это и управление потоком задач, приоритезация фич относительно багов, это управляющие воздействия, самоактуализация коридора качества.</segment>
+		<segment id="186" parent="393" relname="evaluation">В лучшем случае это самостоятельная готовность к изменениям внешних условий.</segment>
+		<segment id="187" parent="496" relname="attribution">По Адизесу,</segment>
+		<segment id="188" parent="395" relname="contrast">большие ответственность и полномочия,</segment>
+		<segment id="189" parent="395" relname="contrast">но без власти - в полный рост.</segment>
+		<segment id="190" parent="474" relname="span">Признаки этапа - ведение задач полностью у тестеров, входящий поток задач - частично у  них с возможностью менеджера вмешаться.</segment>
+		<segment id="191" parent="396" relname="contrast">Менеджер ждет, что он будет заниматься всякими другими штуками,</segment>
+		<segment id="192" parent="396" relname="contrast">а система будет работать так же.</segment>
+		<segment id="193" parent="472" relname="span">На этом этапе мы учимся нашей линейкой еще и бить.</segment>
+		<segment id="194" parent="403" relname="span">Но это тупик</segment>
+		<segment id="195" parent="194" relname="cause">- так как задача - самоподдерживающаяся система, а не изменения.</segment>
+		<segment id="196" parent="197" relname="preparation">Выводы:</segment>
+		<segment id="197" parent="407" relname="span">менеджеры. Вы все делаете правильно.</segment>
+		<segment id="198" parent="406" relname="joint">Тестировщики. Работа менеджмента группы разработки - сложная штука,</segment>
+		<segment id="199" parent="406" relname="joint">вы должны знать за что и зачем беретесь.</segment>
+		<segment id="200" parent="478" relname="solutionhood">А что было потом?</segment>
+		<segment id="201" parent="478" relname="span">Я считаю, что рост без ограничений невозможен.</segment>
+		<segment id="202" parent="201" relname="evidence">Само - ничего не случится.</segment>
+		<segment id="203" parent="410" relname="joint">У нас есть несколько продуктов и менеджеров с высокими требованиями к бездефектности</segment>
+		<segment id="204" parent="410" relname="joint">и там можно применить весь тестерский матан.</segment>
+		<segment id="205" parent="411" relname="joint">И он там еще не применен.</segment>
+		<segment id="206" parent="499" relname="span">У нас есть пара продуктов, где нельзя тестировать,</segment>
+		<segment id="207" parent="498" relname="joint">не становясь экспертом в домене</segment>
+		<segment id="208" parent="498" relname="joint">и не занимаясь аналитикой.</segment>
+		<segment id="209" parent="412" relname="joint">И там нужны тестеры - эксперты.</segment>
+		<segment id="210" parent="414" relname="span">У нас есть экстерн, где очень  высокие и жесткие требования к скорости работы.</segment>
+		<segment id="211" parent="413" relname="span">По слухам, они даже повышаются.</segment>
+		<segment id="212" parent="211" relname="elaboration">Это тоже зона роста.</segment>
+		<segment id="213" parent="416" relname="joint">У нас есть менеджеры любого продукта, которые с удовольствием отдадут тестировщикам часть работы по управлению разработкой.</segment>
+		<segment id="214" parent="416" relname="joint">И у нас есть куча народу которые считают, что уже достигли потолка в проекте.</segment>
+		<segment id="215" parent="416" relname="joint">И куча руководителей, желающих странного.</segment>
+		<segment id="216" parent="421" relname="span">Менеджеры. Не требуйте странного.</segment>
+		<segment id="217" parent="420" relname="span">Тестировщик - линейка.</segment>
+		<segment id="218" parent="418" relname="joint">Он может: быстрее, чаще, точнее, раньше.</segment>
+		<segment id="219" parent="418" relname="joint">Остальное - детали реализации.</segment>
+		<segment id="220" parent="419" relname="joint">Инструменты тестер найдет сам.</segment>
+		<segment id="221" parent="422" relname="joint">Тестеры. Используйте мою модель.</segment>
+		<segment id="222" parent="422" relname="joint">Придумайте свою.</segment>
+		<segment id="223" parent="483" relname="contrast">Но научитесь определять, чего от вас нужно.</segment>
+		<segment id="224" parent="225" relname="condition">И если ничего не нужно</segment>
+		<segment id="225" parent="423" relname="span">- меняйте проект.</segment>
+		<group id="226" type="multinuc" parent="227" relname="span"/>
+		<group id="227" type="span" parent="228" relname="span"/>
+		<group id="228" type="span" parent="428" relname="preparation"/>
+		<group id="229" type="multinuc" parent="230" relname="span"/>
+		<group id="230" type="span" parent="231" relname="span"/>
+		<group id="231" type="span" parent="232" relname="contrast"/>
+		<group id="232" type="multinuc" parent="427" relname="background"/>
+		<group id="233" type="multinuc" parent="234" relname="span"/>
+		<group id="234" type="span" parent="235" relname="span"/>
+		<group id="235" type="span" parent="236" relname="span"/>
+		<group id="236" type="span" parent="11" relname="elaboration"/>
+		<group id="237" type="span" parent="10" relname="evaluation"/>
+		<group id="238" type="span" parent="243" relname="joint"/>
+		<group id="239" type="multinuc" parent="240" relname="span"/>
+		<group id="240" type="span" parent="241" relname="span"/>
+		<group id="241" type="span" parent="16" relname="elaboration"/>
+		<group id="242" type="span" parent="243" relname="joint"/>
+		<group id="243" type="multinuc" parent="427" relname="span"/>
+		<group id="244" type="multinuc" parent="245" relname="span"/>
+		<group id="245" type="span" parent="246" relname="span"/>
+		<group id="246" type="span" parent="20" relname="elaboration"/>
+		<group id="247" type="span" parent="250" relname="preparation"/>
+		<group id="248" type="multinuc" parent="24" relname="elaboration"/>
+		<group id="249" type="span" parent="250" relname="span"/>
+		<group id="250" type="span" parent="430" relname="span"/>
+		<group id="251" type="multinuc" parent="253" relname="contrast"/>
+		<group id="252" type="span" parent="251" relname="joint"/>
+		<group id="253" type="multinuc" parent="29" relname="elaboration"/>
+		<group id="254" type="span" parent="485" relname="evidence"/>
+		<group id="255" type="multinuc" parent="256" relname="joint"/>
+		<group id="256" type="multinuc" parent="434" relname="span"/>
+		<group id="258" type="multinuc" parent="259" relname="comparison"/>
+		<group id="259" type="multinuc" parent="432" relname="span"/>
+		<group id="261" type="multinuc" parent="262" relname="span"/>
+		<group id="262" type="span" parent="263" relname="span"/>
+		<group id="263" type="span" parent="264" relname="joint"/>
+		<group id="264" type="multinuc" parent="439" relname="span"/>
+		<group id="266" type="multinuc" parent="45" relname="elaboration"/>
+		<group id="267" type="multinuc" parent="48" relname="elaboration"/>
+		<group id="268" type="span" parent="487" relname="span"/>
+		<group id="270" type="multinuc" parent="53" relname="solutionhood"/>
+		<group id="271" type="span" parent="276" relname="comparison"/>
+		<group id="272" type="multinuc" parent="56" relname="solutionhood"/>
+		<group id="273" type="span" parent="437" relname="contrast"/>
+		<group id="274" type="multinuc" parent="59" relname="solutionhood"/>
+		<group id="275" type="span" parent="437" relname="contrast"/>
+		<group id="276" type="multinuc" parent="439" relname="elaboration"/>
+		<group id="278" type="span" parent="279" relname="same-unit"/>
+		<group id="279" type="multinuc" parent="285" relname="span"/>
+		<group id="280" type="multinuc" parent="285" relname="elaboration"/>
+		<group id="281" type="span" parent="282" relname="joint"/>
+		<group id="282" type="multinuc" parent="68" relname="elaboration"/>
+		<group id="283" type="span" parent="67" relname="evaluation"/>
+		<group id="285" type="span" parent="286" relname="span"/>
+		<group id="286" type="span" relname="antithesis"/>
+		<group id="289" type="multinuc" parent="446" relname="span"/>
+		<group id="290" type="span" parent="75" relname="elaboration"/>
+		<group id="293" type="multinuc" parent="295" relname="span"/>
+		<group id="294" type="multinuc" parent="295" relname="elaboration"/>
+		<group id="295" type="span" parent="296" relname="span"/>
+		<group id="296" type="span" parent="448" relname="joint"/>
+		<group id="297" type="multinuc" parent="298" relname="evaluation"/>
+		<group id="298" type="span" parent="299" relname="span"/>
+		<group id="299" type="span" parent="448" relname="joint"/>
+		<group id="301" type="span" parent="444" relname="span"/>
+		<group id="303" type="multinuc" parent="304" relname="span"/>
+		<group id="304" type="span" parent="305" relname="span"/>
+		<group id="305" type="span" parent="315" relname="span"/>
+		<group id="306" type="multinuc" parent="91" relname="elaboration"/>
+		<group id="307" type="span" parent="313" relname="cause"/>
+		<group id="308" type="multinuc" parent="312" relname="contrast"/>
+		<group id="309" type="multinuc" parent="310" relname="span"/>
+		<group id="310" type="span" parent="311" relname="span"/>
+		<group id="311" type="span" parent="312" relname="contrast"/>
+		<group id="312" type="multinuc" parent="313" relname="span"/>
+		<group id="313" type="span" parent="314" relname="span"/>
+		<group id="314" type="span" parent="305" relname="elaboration"/>
+		<group id="315" type="span" relname="antithesis"/>
+		<group id="316" type="multinuc" parent="101" relname="elaboration"/>
+		<group id="317" type="span" parent="319" relname="joint"/>
+		<group id="318" type="span" parent="319" relname="joint"/>
+		<group id="319" type="multinuc" parent="321" relname="span"/>
+		<group id="320" type="span" parent="323" relname="span"/>
+		<group id="321" type="span" parent="322" relname="span"/>
+		<group id="322" type="span" parent="320" relname="elaboration"/>
+		<group id="323" type="span" parent="326" relname="joint"/>
+		<group id="324" type="span" parent="109" relname="cause"/>
+		<group id="325" type="span" parent="326" relname="joint"/>
+		<group id="326" type="multinuc" relname="antithesis"/>
+		<group id="334" type="multinuc" parent="111" relname="elaboration"/>
+		<group id="336" type="multinuc" parent="339" relname="joint"/>
+		<group id="339" type="multinuc" parent="346" relname="joint"/>
+		<group id="340" type="span" parent="341" relname="span"/>
+		<group id="341" type="span" parent="339" relname="joint"/>
+		<group id="344" type="span" parent="124" relname="evaluation"/>
+		<group id="345" type="span" parent="346" relname="joint"/>
+		<group id="346" type="multinuc" relname="antithesis"/>
+		<group id="347" type="span" parent="351" relname="span"/>
+		<group id="348" type="multinuc" parent="349" relname="span"/>
+		<group id="349" type="span" parent="350" relname="span"/>
+		<group id="350" type="span" parent="347" relname="evaluation"/>
+		<group id="351" type="span" relname="antithesis"/>
+		<group id="353" type="multinuc" parent="134" relname="elaboration"/>
+		<group id="354" type="multinuc" parent="356" relname="restatement"/>
+		<group id="355" type="span" parent="356" relname="restatement"/>
+		<group id="356" type="multinuc" parent="136" relname="elaboration"/>
+		<group id="359" type="span" parent="363" relname="span"/>
+		<group id="360" type="multinuc" parent="458" relname="span"/>
+		<group id="361" type="multinuc" parent="460" relname="span"/>
+		<group id="363" type="span" relname="antithesis"/>
+		<group id="364" type="span" parent="460" relname="evidence"/>
+		<group id="366" type="span" parent="155" relname="solutionhood"/>
+		<group id="372" type="multinuc" parent="374" relname="span"/>
+		<group id="373" type="span" parent="374" relname="evaluation"/>
+		<group id="374" type="span" parent="375" relname="span"/>
+		<group id="375" type="span" parent="162" relname="elaboration"/>
+		<group id="376" type="span" relname="antithesis"/>
+		<group id="377" type="multinuc" parent="381" relname="span"/>
+		<group id="378" type="multinuc" parent="467" relname="span"/>
+		<group id="379" type="span" parent="169" relname="elaboration"/>
+		<group id="380" type="span" parent="381" relname="evidence"/>
+		<group id="381" type="span" parent="382" relname="span"/>
+		<group id="382" type="span" parent="469" relname="span"/>
+		<group id="383" type="multinuc" parent="467" relname="evaluation"/>
+		<group id="385" type="multinuc" parent="390" relname="contrast"/>
+		<group id="386" type="multinuc" parent="387" relname="span"/>
+		<group id="387" type="span" parent="388" relname="span"/>
+		<group id="388" type="span" parent="389" relname="joint"/>
+		<group id="389" type="multinuc" parent="390" relname="contrast"/>
+		<group id="390" type="multinuc" parent="382" relname="evaluation"/>
+		<group id="391" type="span" parent="475" relname="preparation"/>
+		<group id="393" type="span" parent="394" relname="span"/>
+		<group id="394" type="span" parent="400" relname="span"/>
+		<group id="395" type="multinuc" parent="496" relname="span"/>
+		<group id="396" type="multinuc" parent="193" relname="solutionhood"/>
+		<group id="400" type="span" parent="401" relname="joint"/>
+		<group id="401" type="multinuc" parent="475" relname="span"/>
+		<group id="403" type="span" parent="473" relname="contrast"/>
+		<group id="406" type="multinuc" parent="408" relname="joint"/>
+		<group id="407" type="span" parent="408" relname="joint"/>
+		<group id="408" type="multinuc" parent="481" relname="preparation"/>
+		<group id="410" type="multinuc" parent="411" relname="joint"/>
+		<group id="411" type="multinuc" parent="416" relname="joint"/>
+		<group id="412" type="multinuc" parent="416" relname="joint"/>
+		<group id="413" type="span" parent="210" relname="evaluation"/>
+		<group id="414" type="span" parent="416" relname="joint"/>
+		<group id="416" type="multinuc" parent="480" relname="span"/>
+		<group id="418" type="multinuc" parent="419" relname="joint"/>
+		<group id="419" type="multinuc" parent="217" relname="elaboration"/>
+		<group id="420" type="span" parent="216" relname="evidence"/>
+		<group id="421" type="span" parent="484" relname="joint"/>
+		<group id="422" type="multinuc" parent="425" relname="contrast"/>
+		<group id="423" type="span" parent="483" relname="contrast"/>
+		<group id="425" type="multinuc" parent="484" relname="joint"/>
+		<group id="427" type="span" parent="428" relname="span"/>
+		<group id="428" type="span" parent="429" relname="span"/>
+		<group id="429" type="span" relname="antithesis"/>
+		<group id="430" type="span" relname="antithesis"/>
+		<group id="432" type="span" parent="433" relname="span"/>
+		<group id="433" type="span" relname="antithesis"/>
+		<group id="434" type="span" parent="435" relname="span"/>
+		<group id="435" type="span" parent="432" relname="solutionhood"/>
+		<group id="436" type="span" parent="264" relname="joint"/>
+		<group id="437" type="multinuc" parent="276" relname="comparison"/>
+		<group id="438" type="span" parent="276" relname="comparison"/>
+		<group id="439" type="span" parent="440" relname="span"/>
+		<group id="440" type="span" relname="antithesis"/>
+		<group id="441" type="span" parent="282" relname="joint"/>
+		<group id="442" type="multinuc" parent="71" relname="elaboration"/>
+		<group id="443" type="span" parent="280" relname="joint"/>
+		<group id="444" type="span" relname="antithesis"/>
+		<group id="445" type="span" parent="76" relname="elaboration"/>
+		<group id="446" type="span" parent="445" relname="span"/>
+		<group id="447" type="span" parent="446" relname="evaluation"/>
+		<group id="448" type="multinuc" parent="79" relname="elaboration"/>
+		<group id="449" type="span" parent="450" relname="span"/>
+		<group id="450" type="span" relname="antithesis"/>
+		<group id="451" type="span" parent="449" relname="span"/>
+		<group id="452" type="span" parent="336" relname="joint"/>
+		<group id="453" type="span" parent="454" relname="contrast"/>
+		<group id="454" type="multinuc" parent="122" relname="elaboration"/>
+		<group id="455" type="span" parent="456" relname="span"/>
+		<group id="456" type="span" relname="antithesis"/>
+		<group id="457" type="span" parent="353" relname="joint"/>
+		<group id="458" type="span" parent="459" relname="span"/>
+		<group id="459" type="span" parent="359" relname="elaboration"/>
+		<group id="460" type="span" parent="461" relname="span"/>
+		<group id="461" type="span" parent="458" relname="evaluation"/>
+		<group id="462" type="span" parent="466" relname="joint"/>
+		<group id="463" type="span" parent="466" relname="joint"/>
+		<group id="464" type="span" parent="466" relname="joint"/>
+		<group id="465" type="span" parent="466" relname="joint"/>
+		<group id="466" type="multinuc" relname="antithesis"/>
+		<group id="467" type="span" parent="468" relname="span"/>
+		<group id="468" type="span" parent="170" relname="elaboration"/>
+		<group id="469" type="span" relname="antithesis"/>
+		<group id="472" type="span" parent="473" relname="contrast"/>
+		<group id="473" type="multinuc" parent="190" relname="elaboration"/>
+		<group id="474" type="span" parent="401" relname="joint"/>
+		<group id="475" type="span" parent="476" relname="span"/>
+		<group id="476" type="span" relname="antithesis"/>
+		<group id="478" type="span" parent="479" relname="span"/>
+		<group id="479" type="span" parent="480" relname="preparation"/>
+		<group id="480" type="span" parent="481" relname="span"/>
+		<group id="481" type="span" parent="482" relname="span"/>
+		<group id="482" type="span" relname="antithesis"/>
+		<group id="483" type="multinuc" parent="425" relname="contrast"/>
+		<group id="484" type="multinuc" relname="antithesis"/>
+		<group id="485" type="span" parent="486" relname="span"/>
+		<group id="486" type="span" parent="249" relname="evaluation"/>
+		<group id="487" type="span" parent="438" relname="span"/>
+		<group id="488" type="span" parent="334" relname="joint"/>
+		<group id="489" type="span" parent="334" relname="joint"/>
+		<group id="490" type="multinuc" parent="348" relname="joint"/>
+		<group id="491" type="multinuc" parent="143" relname="elaboration"/>
+		<group id="492" type="span" parent="142" relname="elaboration"/>
+		<group id="493" type="span" parent="141" relname="evaluation"/>
+		<group id="494" type="multinuc" parent="182" relname="elaboration"/>
+		<group id="495" type="span" parent="393" relname="span"/>
+		<group id="496" type="span" parent="497" relname="span"/>
+		<group id="497" type="span" parent="394" relname="elaboration"/>
+		<group id="498" type="multinuc" parent="206" relname="condition"/>
+		<group id="499" type="span" parent="412" relname="joint"/>
+  </body>
+</rst>

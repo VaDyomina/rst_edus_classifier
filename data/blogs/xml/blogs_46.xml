@@ -1,0 +1,330 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="antithesis" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="background" type="rst" />
+			<rel name="cause" type="rst" />
+			<rel name="comparison" type="multinuc" />
+			<rel name="concession" type="rst" />
+			<rel name="conclusion" type="rst" />
+			<rel name="condition" type="rst" />
+			<rel name="contrast" type="multinuc" />
+			<rel name="effect" type="rst" />
+			<rel name="elaboration" type="rst" />
+			<rel name="evaluation" type="rst" />
+			<rel name="evidence" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="motivation" type="rst" />
+			<rel name="preparation" type="rst" />
+			<rel name="purpose" type="rst" />
+			<rel name="restatement" type="multinuc" />
+			<rel name="same-unit" type="multinuc" />
+			<rel name="sequence" type="multinuc" />
+			<rel name="solutionhood" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="1" relname="antithesis">https://medium.com/devschacht/anonymous-functions-in-javascript-ff6b9ba85de0</segment>
+		<segment id="2" relname="antithesis">Анонимные функции в JavaScript</segment>
+		<segment id="3" parent="157" relname="joint">Разбираемся в том, что является анонимной функцией или какая связь между анонимными функциями в JavaScript и подбрасыванием монетки?</segment>
+		<segment id="4" parent="157" relname="joint">Может ли функция с именем быть анонимной?</segment>
+		<segment id="5" parent="158" relname="elaboration">IMG tl;tr;</segment>
+		<segment id="6" parent="308" relname="span">JavaScript-разработчик, запомни!</segment>
+		<segment id="7" parent="8" relname="condition">Если после function есть имя</segment>
+		<segment id="8" parent="160" relname="span">— функция именованная,</segment>
+		<segment id="9" parent="161" relname="joint">во всех остальных случая анонимная.</segment>
+		<segment id="10" parent="180" relname="preparation">В интернете кто-то не прав</segment>
+		<segment id="11" parent="165" relname="span">Все началось с простого вопроса в канале Telegram для изучающих JavaScript,</segment>
+		<segment id="12" parent="11" relname="elaboration">в котором, помимо всего прочего, появился вопрос касательно обработчиков событий в браузере.</segment>
+		<segment id="13" parent="166" relname="joint">Вопрос был в том, как они «навешиваются»</segment>
+		<segment id="14" parent="166" relname="joint">и «снимаются» с DOM-элемента.</segment>
+		<segment id="15" parent="175" relname="span">Среди ответов от вполне опытного разработчика был следующий:</segment>
+		<segment id="16" parent="168" relname="comparison">Обработчик снимается также,</segment>
+		<segment id="17" parent="168" relname="comparison">как он вешался.</segment>
+		<segment id="18" parent="19" relname="condition">Если вешалась анонимная функция,</segment>
+		<segment id="19" parent="169" relname="span">то никак.</segment>
+		<segment id="20" parent="169" relname="elaboration">Только удалять элемент из DOM и из памяти.</segment>
+		<segment id="21" parent="173" relname="span">Далее ответ был подкреплен блоком кода похожим на этот:</segment>
+		<segment id="22" parent="21" relname="elaboration">[код]</segment>
+		<segment id="23" parent="176" relname="span">На что в качестве возражения с моей стороны был приведен следующий блок кода,</segment>
+		<segment id="24" parent="23" relname="purpose">показывающий, что анонимная функция может быть удалена как обработчик:</segment>
+		<segment id="25" parent="176" relname="elaboration">[код]</segment>
+		<segment id="26" parent="192" relname="preparation">В twitter как на работу</segment>
+		<segment id="27" parent="185" relname="span">После этого недопонимания мною же было решено поинтересоваться у общественности через twitter, касательно вытекающего вопроса, что же является анонимной функцией, а что нет?</segment>
+		<segment id="28" parent="27" relname="elaboration">И для этого было вполне достаточно спросить насчёт небольшого блока кода: IMG</segment>
+		<segment id="29" parent="182" relname="span">Учитывая возможные колебания в результатах</segment>
+		<segment id="30" parent="29" relname="cause">из-за появившихся ответов в комментариях,</segment>
+		<segment id="31" parent="183" relname="span">статистика практически 50/50,</segment>
+		<segment id="32" parent="183" relname="evaluation">это все равно, если бы мы подбрасывали монетку.</segment>
+		<segment id="33" parent="187" relname="span">Также задавал этот вопрос в личной беседе опытным JavaScript-разработчикам,</segment>
+		<segment id="34" parent="33" relname="elaboration">выступающим на митапах с докладами,</segment>
+		<segment id="35" parent="188" relname="same-unit">и людям не из мира фронтенда,</segment>
+		<segment id="36" parent="189" relname="elaboration">результат развед-опроса был сильно похож на статистику ответов в twitter.</segment>
+		<segment id="37" parent="208" relname="preparation">Я знал ответ, это же просто</segment>
+		<segment id="38" parent="194" relname="span">Если на опрос выше вы ответили, что функция myFunc является анонимной,</segment>
+		<segment id="39" parent="196" relname="span">поздравляю—это правильно!</segment>
+		<segment id="40" parent="195" relname="joint">Отметьте этот день красным цветом в календаре,</segment>
+		<segment id="41" parent="195" relname="joint">позовите родных и близких,</segment>
+		<segment id="42" parent="195" relname="joint">начинайте разливать шампанское по бокалам.</segment>
+		<segment id="43" parent="209" relname="span">Итак, значит функция в коде блока выше является анонимной: [код]</segment>
+		<segment id="44" parent="45" relname="condition">А что, если я тебе скажу, что ты можешь обратится к свойству name,</segment>
+		<segment id="45" parent="198" relname="span">и получить конкретное значение? [код] IMG</segment>
+		<segment id="46" parent="199" relname="contrast">Полученное значение не пустое,</segment>
+		<segment id="47" parent="199" relname="contrast">но при этом функция выше как мы выяснили, анонимная,</segment>
+		<segment id="48" parent="203" relname="contrast">но это же какой-то понятийный коллапс, товарищи!</segment>
+		<segment id="49" parent="50" relname="cause">Не торопитесь уходить в backend-разработку,</segment>
+		<segment id="50" parent="202" relname="span">Шерлок Холмс уже начал свое расследование.</segment>
+		<segment id="51" parent="213" relname="span">Как задать функцию в JavaScript</segment>
+		<segment id="52" parent="51" relname="elaboration">Function constructor: [код] Function declaration: [код] Function expression: [код] Arrow function: [код] Object Method: [код]</segment>
+		<segment id="53" parent="211" relname="span">К тому же, не стоит забывать о существовании Generator Function и об специальном синтаксисе</segment>
+		<segment id="54" parent="53" relname="condition">с использованием async,</segment>
+		<segment id="55" parent="212" relname="joint">плюс вспомним о setters, getters.</segment>
+		<segment id="56" parent="216" relname="span">Все это добавляет вариации в вышеуказанные способы определения функций. IMG</segment>
+		<segment id="57" parent="215" relname="span">Усиливаем пример с определением имени.</segment>
+		<segment id="58" parent="57" relname="elaboration">Тесты [код]</segment>
+		<segment id="59" parent="60" relname="condition">Теперь, используя описанные способы выше,</segment>
+		<segment id="60" parent="217" relname="span">возьмём у каждой функции свойство name,</segment>
+		<segment id="61" parent="219" relname="joint">и начнем с функций, заданных как Function expression: [код]</segment>
+		<segment id="62" parent="219" relname="joint">Функции, объявленные как Object Method: [код]</segment>
+		<segment id="63" parent="219" relname="joint">Функции, объявленные как IIFE (Immediately-invoked function expression): [код]</segment>
+		<segment id="64" parent="221" relname="span">Вопросов возникает ещё больше.</segment>
+		<segment id="65" parent="220" relname="joint">А может функция в опросе из twitter все таки именованная?</segment>
+		<segment id="66" parent="220" relname="joint">Может я ввел вас в заблуждение?</segment>
+		<segment id="67" parent="235" relname="preparation">Спецификация. Хардкор</segment>
+		<segment id="68" parent="223" relname="joint">Возможно кто-то считает, что когда-то трава была зеленее,</segment>
+		<segment id="69" parent="223" relname="joint">небо голубее</segment>
+		<segment id="70" parent="223" relname="joint">и вода мокрее,</segment>
+		<segment id="71" parent="224" relname="contrast">но в мире JavaScript раньше было определенно хуже!</segment>
+		<segment id="72" parent="312" relname="same-unit">И только</segment>
+		<segment id="73" parent="74" relname="attribution">начиная со стандарта ECMA-262 6th Edition</segment>
+		<segment id="74" parent="311" relname="span">появилась определенность в понятии анонимной функции, в частности в главе 14 ECMAScript Language: Functions and Classes, посвященной функциям и классам, в пункте 14.1.9 IsAnonymousFunctionDefinition: 14.1.9 Static Semantics: IsAnonymousFunctionDefinition( production )</segment>
+		<segment id="75" parent="225" relname="sequence">1. If IsFunctionDefinition of production is false, return false.</segment>
+		<segment id="76" parent="225" relname="sequence">2. Let hasName be the result of HasName of production.</segment>
+		<segment id="77" parent="225" relname="sequence">3. If hasName is true, return false.</segment>
+		<segment id="78" parent="225" relname="sequence">4. Return true</segment>
+		<segment id="79" parent="228" relname="same-unit">Откуда получаем,</segment>
+		<segment id="80" parent="81" relname="purpose">что для полного понимания</segment>
+		<segment id="81" parent="227" relname="span">придется разобраться в семантике IsFunctionDefinition:</segment>
+		<segment id="82" parent="229" relname="joint">14.1 Function Definitions 14.1.11 Static Semantics: IsFunctionDefinition</segment>
+		<segment id="83" parent="229" relname="joint">FunctionExpression: function ( FormalParameters ) { FunctionBody } 1. Return true. function BindingIdentifier ( FormalParameters ) { FunctionBody } 1. Return true.</segment>
+		<segment id="84" parent="232" relname="span">А также разобраться в семантике hasName:</segment>
+		<segment id="85" parent="84" relname="elaboration">14.1 Function Definitions 14.1.8 Static Semantics: HasName FunctionExpression: function ( FormalParameters ) { FunctionBody } 1. Return false. function BindingIdentifier ( FormalParameters ) { FunctionBody } 1. Return true.</segment>
+		<segment id="86" parent="87" relname="evidence">Из семантики hasName для Arrow Function следует,</segment>
+		<segment id="87" parent="237" relname="span">что стрелочные функции всегда анонимны:</segment>
+		<segment id="88" parent="237" relname="elaboration">14.2 Arrow Function Definitions 14.2.7 Static Semantics: HasName ArrowFunction: ArrowParameters => ConciseBody 1. Return false.</segment>
+		<segment id="89" parent="239" relname="span">С описанием метода объекта дела обстоят несколько сложнее,</segment>
+		<segment id="90" parent="89" relname="cause">поскольку может использоваться старый синтаксис через AssignmentExpression или новый через MethodDefinition:</segment>
+		<segment id="91" parent="239" relname="elaboration">12.2.6 Object Initializer .. PropertyDefinition : .. PropertyName : AssignmentExpression MethodDefinition</segment>
+		<segment id="92" parent="241" relname="cause">Также помним, что свойству объекта может быть присвоена в качестве значения функция,</segment>
+		<segment id="93" parent="241" relname="span">откуда получаем следующие вариации для метода:</segment>
+		<segment id="94" parent="93" relname="elaboration">[код]</segment>
+		<segment id="95" parent="243" relname="span">В первом случае, опосредованно используется 14.1.9 IsAnonymousFunctionDefinition</segment>
+		<segment id="96" parent="95" relname="purpose">для проверки,</segment>
+		<segment id="97" parent="243" relname="attribution">что описано в 12.2.6.9 Runtime Semantics: PropertyDefinitionEvaluation.</segment>
+		<segment id="98" parent="245" relname="span">Во втором же случае имеем то, что функция задается</segment>
+		<segment id="99" parent="98" relname="condition">через FunctionCreate семантику внутри 14.3.8 Runtime Semantics: DefineMethod семантики.</segment>
+		<segment id="100" parent="310" relname="joint">Не удивлюсь, если вы уже устали</segment>
+		<segment id="101" parent="310" relname="joint">и запутались,</segment>
+		<segment id="102" parent="248" relname="joint">а ведь это далеко не все</segment>
+		<segment id="103" parent="248" relname="joint">и я опустил часть перекрестных ссылок между разделами и пунктами спецификации.</segment>
+		<segment id="104" parent="249" relname="evaluation">Лично мне в процессе подготовки статьи удалось запутаться дважды.</segment>
+		<segment id="105" parent="257" relname="solutionhood">Что же стоит запомнить?</segment>
+		<segment id="106" parent="252" relname="span">Все случаи с описанием методов сводятся к Function Expression,</segment>
+		<segment id="107" parent="106" relname="elaboration">где свойству объекта задается в качестве значения функция.</segment>
+		<segment id="108" parent="109" relname="condition">Собирая все воедино,</segment>
+		<segment id="109" parent="253" relname="span">для себя выделил простое правило:</segment>
+		<segment id="110" parent="111" relname="condition">если после function есть идентификатор, другими словами имя,</segment>
+		<segment id="111" parent="254" relname="span">тогда функция именованная,</segment>
+		<segment id="112" parent="255" relname="joint">во всех остальных случаях анонимная.</segment>
+		<segment id="113" parent="261" relname="joint">Возвращаемся к тестам</segment>
+		<segment id="114" parent="261" relname="joint">и ставим точку.</segment>
+		<segment id="115" parent="266" relname="span">Весь этот путь был проделан не зря,</segment>
+		<segment id="116" parent="115" relname="cause">теперь мы с полной уверенностью и без капли сомнения сможем определить, когда функция именованная, когда нет: [код]</segment>
+		<segment id="117" parent="268" relname="preparation">Стойте! А как же name?</segment>
+		<segment id="118" parent="268" relname="span">Не стоит забывать, что JavaScript мультипарадигмальный язык программирования,</segment>
+		<segment id="119" parent="269" relname="span">где есть элементы объектно-ориентированного подхода,</segment>
+		<segment id="120" parent="273" relname="span">где функцию можно рассматривать как объект со своими свойствами.</segment>
+		<segment id="121" parent="270" relname="joint">К таким свойствам относится свойство name,</segment>
+		<segment id="122" parent="270" relname="joint">и в спецификации легко обнаружить (нет) описание SetFunctionName в 9.2. ECMAScript Function Objects:</segment>
+		<segment id="123" parent="271" relname="elaboration">9.2 ECMAScript Function Objects 9.2.11 SetFunctionName (F, name, prefix) The abstract operation SetFunctionName requires a Function argument F, a String or Symbol argument name and optionally a String argument prefix. This operation adds a name property to F by performing the following steps: .. 6. Return DefinePropertyOrThrow(F, "name", PropertyDescriptor{ [[Value]]: name, [[Writable]]: false, [[Enumerable]]: false, [[Configurable]]: true }). ..</segment>
+		<segment id="124" parent="274" relname="span">И собственно в описаниях классов, методов и функций используется эта абстрактная операция SetFunctionName,</segment>
+		<segment id="125" parent="124" relname="elaboration">которая описывает алгоритм как задается свойство name.</segment>
+		<segment id="126" parent="276" relname="span">Например, для методов именем функции будет являться имя свойства,</segment>
+		<segment id="127" parent="275" relname="joint">согласно 14.3.8 Runtime Semantics: DefineMethod</segment>
+		<segment id="128" parent="275" relname="joint">и 14.3.9 Runtime Semantics: PropertyDefinitionEvaluation,</segment>
+		<segment id="129" parent="278" relname="span">а для функций созданных с помощью конструктора Function, именем функции будет “anonymous”:</segment>
+		<segment id="130" parent="129" relname="elaboration">19.2.1.1.1 RuntimeSemantics: CreateDynamicFunction(constructor, newTarget, kind, args) .. 29. Perform SetFunctionName(F, "anonymous"). ..</segment>
+		<segment id="131" parent="280" relname="span">И лично для себя открыл в спецификации то, как задается имя для функции,</segment>
+		<segment id="132" parent="281" relname="span">привязанной к контексту</segment>
+		<segment id="133" parent="132" relname="condition">с помощью метода bind,</segment>
+		<segment id="134" parent="280" relname="attribution">что описано в разделе 19.2.3.2 Function.prototype.bind,</segment>
+		<segment id="135" parent="282" relname="elaboration">например: [код]</segment>
+		<segment id="136" parent="284" relname="span">Также подобные префиксы в именах имеют функции,</segment>
+		<segment id="137" parent="136" relname="condition">созданные как getter-метод объекта или setter-метод объекта,</segment>
+		<segment id="138" parent="284" relname="attribution">согласно 14.3.9 Runtime Semantics: PropertyDefinitionEvaluation,</segment>
+		<segment id="139" parent="285" relname="elaboration">например: [код]</segment>
+		<segment id="140" parent="299" relname="preparation">AST-ановитесь!</segment>
+		<segment id="141" parent="298" relname="solutionhood">На мой субъективный взгляд, по большей мере спецификация это предписание для интерпретатора EcmaScript, держать такой же в собственной голове есть дело тяжелое и неблагодарное.</segment>
+		<segment id="142" parent="294" relname="purpose">Чтобы не тратить драгоценное мыслетопливо на разбор синтаксиса,</segment>
+		<segment id="143" parent="294" relname="span">как вариант, достаточно воспользоваться одним из существующих EcmaScript-парсеров,</segment>
+		<segment id="144" parent="293" relname="joint">который поможет определить наличие идентификатора функции</segment>
+		<segment id="145" parent="293" relname="joint">и каким способом она была задана.</segment>
+		<segment id="146" parent="296" relname="span">Например, здесь представлено абстрактное синтаксическое дерево,</segment>
+		<segment id="147" parent="146" relname="purpose">для ранее созданных тестов,</segment>
+		<segment id="148" parent="296" relname="condition">с помощью инструмента ASTExplorer.</segment>
+		<segment id="149" parent="306" relname="preparation">Вывод</segment>
+		<segment id="150" parent="301" relname="span">Как мы выяснили функция, будучи анонимной, может иметь имя,</segment>
+		<segment id="151" parent="302" relname="span">поскольку одновременно является также и объектом,</segment>
+		<segment id="152" parent="151" relname="cause">что есть следствие мультипарадигмальной природы языка JavaScript.</segment>
+		<segment id="153" parent="303" relname="restatement">В спорах о синтаксисе языка, обращайтесь к первоисточнику,</segment>
+		<segment id="154" parent="303" relname="restatement">то есть к спецификации EcmaScript актуальной версии.</segment>
+		<segment id="155" parent="305" relname="joint">Изучайте JavaScript!</segment>
+		<segment id="156" parent="305" relname="joint">JavaScript — во имя добра!</segment>
+		<group id="157" type="multinuc" parent="158" relname="span"/>
+		<group id="158" type="span" parent="159" relname="span"/>
+		<group id="159" type="span" parent="308" relname="solutionhood"/>
+		<group id="160" type="span" parent="161" relname="joint"/>
+		<group id="161" type="multinuc" parent="6" relname="elaboration"/>
+		<group id="165" type="span" parent="167" relname="span"/>
+		<group id="166" type="multinuc" parent="165" relname="elaboration"/>
+		<group id="167" type="span" parent="179" relname="solutionhood"/>
+		<group id="168" type="multinuc" parent="170" relname="span"/>
+		<group id="169" type="span" parent="171" relname="span"/>
+		<group id="170" type="span" parent="172" relname="span"/>
+		<group id="171" type="span" parent="170" relname="elaboration"/>
+		<group id="172" type="span" parent="174" relname="span"/>
+		<group id="173" type="span" parent="172" relname="evidence"/>
+		<group id="174" type="span" parent="15" relname="elaboration"/>
+		<group id="175" type="span" parent="178" relname="contrast"/>
+		<group id="176" type="span" parent="177" relname="span"/>
+		<group id="177" type="span" parent="178" relname="contrast"/>
+		<group id="178" type="multinuc" parent="179" relname="span"/>
+		<group id="179" type="span" parent="180" relname="span"/>
+		<group id="180" type="span" parent="181" relname="span"/>
+		<group id="181" type="span" relname="antithesis"/>
+		<group id="182" type="span" parent="31" relname="condition"/>
+		<group id="183" type="span" parent="184" relname="span"/>
+		<group id="184" type="span" parent="191" relname="comparison"/>
+		<group id="185" type="span" parent="186" relname="solutionhood"/>
+		<group id="186" type="span" parent="192" relname="span"/>
+		<group id="187" type="span" parent="188" relname="same-unit"/>
+		<group id="188" type="multinuc" parent="189" relname="span"/>
+		<group id="189" type="span" parent="190" relname="span"/>
+		<group id="190" type="span" parent="191" relname="comparison"/>
+		<group id="191" type="multinuc" parent="186" relname="span"/>
+		<group id="192" type="span" parent="193" relname="span"/>
+		<group id="193" type="span" relname="antithesis"/>
+		<group id="194" type="span" parent="43" relname="background"/>
+		<group id="195" type="multinuc" parent="39" relname="evaluation"/>
+		<group id="196" type="span" parent="38" relname="evaluation"/>
+		<group id="198" type="span" parent="206" relname="contrast"/>
+		<group id="199" type="multinuc" parent="203" relname="contrast"/>
+		<group id="202" type="span" parent="204" relname="evaluation"/>
+		<group id="203" type="multinuc" parent="204" relname="span"/>
+		<group id="204" type="span" parent="205" relname="span"/>
+		<group id="205" type="span" parent="207" relname="evaluation"/>
+		<group id="206" type="multinuc" parent="207" relname="span"/>
+		<group id="207" type="span" parent="208" relname="span"/>
+		<group id="208" type="span" parent="210" relname="span"/>
+		<group id="209" type="span" parent="206" relname="contrast"/>
+		<group id="210" type="span" relname="antithesis"/>
+		<group id="211" type="span" parent="212" relname="joint"/>
+		<group id="212" type="multinuc" parent="213" relname="elaboration"/>
+		<group id="213" type="span" parent="214" relname="span"/>
+		<group id="214" type="span" parent="56" relname="evidence"/>
+		<group id="215" type="span" parent="218" relname="sequence"/>
+		<group id="216" type="span" relname="antithesis"/>
+		<group id="217" type="span" parent="218" relname="sequence"/>
+		<group id="218" type="multinuc" parent="221" relname="cause"/>
+		<group id="219" type="multinuc" parent="218" relname="sequence"/>
+		<group id="220" type="multinuc" parent="64" relname="elaboration"/>
+		<group id="221" type="span" parent="222" relname="span"/>
+		<group id="222" type="span" relname="antithesis"/>
+		<group id="223" type="multinuc" parent="224" relname="contrast"/>
+		<group id="224" type="multinuc" parent="226" relname="sequence"/>
+		<group id="225" type="multinuc" parent="233" relname="cause"/>
+		<group id="226" type="multinuc" parent="234" relname="background"/>
+		<group id="227" type="span" parent="230" relname="span"/>
+		<group id="228" type="multinuc" parent="231" relname="joint"/>
+		<group id="229" type="multinuc" parent="227" relname="elaboration"/>
+		<group id="230" type="span" parent="228" relname="same-unit"/>
+		<group id="231" type="multinuc" parent="251" relname="span"/>
+		<group id="232" type="span" parent="231" relname="joint"/>
+		<group id="233" type="span" parent="234" relname="span"/>
+		<group id="234" type="span" parent="235" relname="span"/>
+		<group id="235" type="span" parent="236" relname="span"/>
+		<group id="236" type="span" relname="antithesis"/>
+		<group id="237" type="span" parent="238" relname="span"/>
+		<group id="238" type="span" parent="231" relname="joint"/>
+		<group id="239" type="span" parent="240" relname="span"/>
+		<group id="240" type="span" parent="231" relname="joint"/>
+		<group id="241" type="span" parent="242" relname="span"/>
+		<group id="242" type="span" parent="231" relname="joint"/>
+		<group id="243" type="span" parent="244" relname="span"/>
+		<group id="244" type="span" parent="246" relname="joint"/>
+		<group id="245" type="span" parent="246" relname="joint"/>
+		<group id="246" type="multinuc" parent="260" relname="span"/>
+		<group id="247" type="multinuc" parent="249" relname="span"/>
+		<group id="248" type="multinuc" parent="247" relname="contrast"/>
+		<group id="249" type="span" parent="250" relname="span"/>
+		<group id="250" type="span" parent="260" relname="evaluation"/>
+		<group id="251" type="span" parent="233" relname="span"/>
+		<group id="252" type="span" parent="257" relname="span"/>
+		<group id="253" type="span" parent="256" relname="span"/>
+		<group id="254" type="span" parent="255" relname="joint"/>
+		<group id="255" type="multinuc" parent="253" relname="elaboration"/>
+		<group id="256" type="span" parent="252" relname="elaboration"/>
+		<group id="257" type="span" parent="258" relname="span"/>
+		<group id="258" type="span" relname="antithesis"/>
+		<group id="259" type="span" parent="251" relname="elaboration"/>
+		<group id="260" type="span" parent="259" relname="span"/>
+		<group id="261" type="multinuc" parent="266" relname="preparation"/>
+		<group id="266" type="span" parent="267" relname="span"/>
+		<group id="267" type="span" relname="antithesis"/>
+		<group id="268" type="span" parent="289" relname="span"/>
+		<group id="269" type="span" parent="118" relname="elaboration"/>
+		<group id="270" type="multinuc" parent="271" relname="span"/>
+		<group id="271" type="span" parent="272" relname="span"/>
+		<group id="272" type="span" parent="288" relname="span"/>
+		<group id="273" type="span" parent="119" relname="elaboration"/>
+		<group id="274" type="span" parent="279" relname="span"/>
+		<group id="275" type="multinuc" parent="126" relname="attribution"/>
+		<group id="276" type="span" parent="277" relname="joint"/>
+		<group id="277" type="multinuc" parent="274" relname="elaboration"/>
+		<group id="278" type="span" parent="277" relname="joint"/>
+		<group id="279" type="span" parent="272" relname="elaboration"/>
+		<group id="280" type="span" parent="282" relname="span"/>
+		<group id="281" type="span" parent="131" relname="condition"/>
+		<group id="282" type="span" parent="283" relname="span"/>
+		<group id="283" type="span" parent="287" relname="joint"/>
+		<group id="284" type="span" parent="285" relname="span"/>
+		<group id="285" type="span" parent="286" relname="span"/>
+		<group id="286" type="span" parent="287" relname="joint"/>
+		<group id="287" type="multinuc" parent="290" relname="span"/>
+		<group id="288" type="span" parent="120" relname="elaboration"/>
+		<group id="289" type="span" parent="290" relname="background"/>
+		<group id="290" type="span" parent="291" relname="span"/>
+		<group id="291" type="span" relname="antithesis"/>
+		<group id="293" type="multinuc" parent="143" relname="purpose"/>
+		<group id="294" type="span" parent="295" relname="span"/>
+		<group id="295" type="span" parent="298" relname="span"/>
+		<group id="296" type="span" parent="297" relname="span"/>
+		<group id="297" type="span" parent="295" relname="elaboration"/>
+		<group id="298" type="span" parent="299" relname="span"/>
+		<group id="299" type="span" parent="300" relname="span"/>
+		<group id="300" type="span" relname="antithesis"/>
+		<group id="301" type="span" parent="304" relname="span"/>
+		<group id="302" type="span" parent="150" relname="cause"/>
+		<group id="303" type="multinuc" parent="301" relname="elaboration"/>
+		<group id="304" type="span" parent="306" relname="span"/>
+		<group id="305" type="multinuc" parent="304" relname="evaluation"/>
+		<group id="306" type="span" parent="307" relname="span"/>
+		<group id="307" type="span" relname="antithesis"/>
+		<group id="308" type="span" parent="309" relname="span"/>
+		<group id="309" type="span" relname="antithesis"/>
+		<group id="310" type="multinuc" parent="247" relname="contrast"/>
+		<group id="311" type="span" parent="312" relname="same-unit"/>
+		<group id="312" type="multinuc" parent="226" relname="sequence"/>
+  </body>
+</rst>

@@ -1,0 +1,144 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="antithesis" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="background" type="rst" />
+			<rel name="cause" type="rst" />
+			<rel name="comparison" type="multinuc" />
+			<rel name="concession" type="rst" />
+			<rel name="conclusion" type="rst" />
+			<rel name="condition" type="rst" />
+			<rel name="contrast" type="multinuc" />
+			<rel name="effect" type="rst" />
+			<rel name="elaboration" type="rst" />
+			<rel name="evaluation" type="rst" />
+			<rel name="evidence" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="motivation" type="rst" />
+			<rel name="preparation" type="rst" />
+			<rel name="purpose" type="rst" />
+			<rel name="restatement" type="multinuc" />
+			<rel name="same-unit" type="multinuc" />
+			<rel name="sequence" type="multinuc" />
+			<rel name="solutionhood" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="1" relname="antithesis">https://alexandr-rogers.livejournal.com/1161320.html</segment>
+		<segment id="2" relname="antithesis">12:38 pm: Картина маслом</segment>
+		<segment id="3" relname="antithesis">IMG</segment>
+		<segment id="4" relname="antithesis">От «Советского Информбюро».</segment>
+		<segment id="5" parent="66" relname="span">Люблю такие расклады.</segment>
+		<segment id="6" parent="65" relname="joint">Когда все новости из разных точек приходят почти одновременно,</segment>
+		<segment id="7" parent="65" relname="joint">и все отображают реальную ситуацию в каждой из точек.</segment>
+		<segment id="8" parent="70" relname="attribution">Из США вещают Wall Street Journal:</segment>
+		<segment id="9" parent="68" relname="comparison">«По состоянию на конец прошлого года отношение корпоративной задолженности к валовому внутреннему продукту США, согласно данным Федеральной резервной системы, достигло 73,1%,</segment>
+		<segment id="10" parent="68" relname="comparison">что немного ниже максимального показателя в 73,7%, установленного в 2009 году.</segment>
+		<segment id="11" parent="69" relname="comparison">Между тем сумма американского корпоративного долга с кредитным рейтингом BBB – то есть самой низкой категории кредитов инвестиционного уровня – более чем удвоилась с момента прошлого кризиса».</segment>
+		<segment id="12" parent="76" relname="attribution">Одновременно глава ФРС Джером Пауэлл заявляет,</segment>
+		<segment id="13" parent="72" relname="joint">что «Федеральный резерв готов отреагировать на торговые войны, которые ведёт Трамп,</segment>
+		<segment id="14" parent="72" relname="joint">и готов снижать базовую учётную ставку».</segment>
+		<segment id="15" parent="73" relname="cause">Причём текущая ставка находится в диапазоне 2,25-2,5%,</segment>
+		<segment id="16" parent="73" relname="span">поэтому манёвр</segment>
+		<segment id="17" parent="16" relname="purpose">для снижения и стимулирования</segment>
+		<segment id="18" parent="116" relname="evaluation">таким образом роста экономики существенно ограничен.</segment>
+		<segment id="19" parent="117" relname="evaluation">Фактически Пауэлл констатирует наличие рецессии в США.</segment>
+		<segment id="20" parent="120" relname="span">При этом примерно четверть американцев берут кредиты</segment>
+		<segment id="21" parent="20" relname="purpose">для покупки еды.</segment>
+		<segment id="22" parent="81" relname="joint">Не покупки домов,</segment>
+		<segment id="23" parent="81" relname="joint">не приобретения автомобиля,</segment>
+		<segment id="24" parent="81" relname="joint">не оплаты образования –</segment>
+		<segment id="25" parent="119" relname="contrast">еды.</segment>
+		<segment id="26" parent="83" relname="span">Это к вопросу, «как хорошо там,</segment>
+		<segment id="27" parent="26" relname="condition">где нас нет».</segment>
+		<segment id="28" parent="87" relname="span">И в это же время,</segment>
+		<segment id="29" parent="86" relname="joint">когда Трамп вводит пошлины</segment>
+		<segment id="30" parent="86" relname="joint">и ведёт торговые войны против Китая, ЕС и даже Мексики,</segment>
+		<segment id="31" parent="88" relname="same-unit">в Петербурге проходит очередной международный экономический форум.</segment>
+		<segment id="32" parent="91" relname="span">Где крупнейшие мировые корпорации</segment>
+		<segment id="33" parent="90" relname="span">(я не преувеличиваю,</segment>
+		<segment id="34" parent="33" relname="evidence">можете сами посмотреть список участников)</segment>
+		<segment id="35" parent="92" relname="same-unit">выстраиваются в очередь,</segment>
+		<segment id="36" parent="93" relname="joint">чтобы иметь возможность торговать</segment>
+		<segment id="37" parent="93" relname="joint">и сотрудничать с «порванной и изолированной» Россией.</segment>
+		<segment id="38" parent="97" relname="span">И одновременно с этим в Москве проходит встреча президента России Владимира Путина и главы Китая Си Цзиньпина</segment>
+		<segment id="39" parent="38" relname="elaboration">(в визите принимает участие китайское правительство почти в полном составе).</segment>
+		<segment id="40" parent="97" relname="elaboration">Восьмой визит председателя Си в Россию с момента вступления в должность и тридцатая его встреча с Путиным.</segment>
+		<segment id="41" parent="98" relname="elaboration">На которой на самом высоком уровне подписали целый ряд важных стратегических соглашений.</segment>
+		<segment id="42" parent="103" relname="span">Из ключевого:</segment>
+		<segment id="43" parent="100" relname="joint">- Россия теперь будет поставлять в Китай сою (вместо США);</segment>
+		<segment id="44" parent="100" relname="joint">- Россия теперь будет поставлять в Китай пшеницу (вместо США);</segment>
+		<segment id="45" parent="100" relname="joint">- Россия будет поставлять в Китай больше СПГ (вместо США);</segment>
+		<segment id="46" parent="101" relname="joint">- Россия уже начала поставлять в Китай молоко (список аккредитованных компаний увеличили до 33),</segment>
+		<segment id="47" parent="101" relname="joint">готовятся поставлять сухое молоко и сыворотку;</segment>
+		<segment id="48" parent="124" relname="contrast">- «Хуавэй» подписал договор с «МТС»</segment>
+		<segment id="49" parent="124" relname="contrast">(тот самый «Хуавэй», которого США изо всех сил пытаются задавить);</segment>
+		<segment id="50" parent="100" relname="joint">- «Алибаба» подписал договор с «Мейл.ру»;</segment>
+		<segment id="51" parent="100" relname="joint">- русские будут строить ещё два блока на китайской АЭС;</segment>
+		<segment id="52" parent="100" relname="joint">- ещё несколько совместных проектов, как в России, так и в Китае.</segment>
+		<segment id="53" parent="54" relname="cause">Председатель Си назвал Путина «самым близким иностранным коллегой и самым лучшим другом».</segment>
+		<segment id="54" parent="105" relname="span">Путин не остался в долгу.</segment>
+		<segment id="55" parent="105" relname="evaluation">Я не помню, они уже пили на брудершафт?</segment>
+		<segment id="56" parent="107" relname="contrast">Раньше считалось, что самый страшный сон англосаксов – это союз России и Германии.</segment>
+		<segment id="57" parent="107" relname="contrast">Оказалось, что это союз России и Китая.</segment>
+		<segment id="58" parent="108" relname="evaluation">Картина маслом.</segment>
+		<segment id="59" parent="110" relname="span">P.S. В Хасанском районе «Яблоко», остатки «Открытой России» и прочие грантоеды из последних сил пытаются помешать строительству СПГ-терминала</segment>
+		<segment id="60" parent="59" relname="purpose">для торговли с Китаем.</segment>
+		<segment id="61" parent="111" relname="span">Кому это выгодно, думаю, объяснять не надо.</segment>
+		<segment id="62" parent="125" relname="contrast">И, конечно, нужно срочно, кровь из носу, пролетарскую революцию в России (со специально обученными на деньги Ходорковского нигде не работающими «профессиональными пролетариями» во главе).</segment>
+		<segment id="63" parent="125" relname="contrast">Иначе гегемон долго не продержится!</segment>
+		<group id="65" type="multinuc" parent="5" relname="elaboration"/>
+		<group id="66" type="span" parent="71" relname="preparation"/>
+		<group id="68" type="multinuc" parent="69" relname="comparison"/>
+		<group id="69" type="multinuc" parent="70" relname="span"/>
+		<group id="70" type="span" parent="71" relname="span"/>
+		<group id="71" type="span" parent="118" relname="span"/>
+		<group id="72" type="multinuc" parent="76" relname="span"/>
+		<group id="73" type="span" parent="116" relname="span"/>
+		<group id="76" type="span" parent="77" relname="span"/>
+		<group id="77" type="span" parent="123" relname="joint"/>
+		<group id="81" type="multinuc" parent="119" relname="contrast"/>
+		<group id="83" type="span" parent="128" relname="evaluation"/>
+		<group id="86" type="multinuc" parent="28" relname="background"/>
+		<group id="87" type="span" parent="88" relname="same-unit"/>
+		<group id="88" type="multinuc" parent="89" relname="span"/>
+		<group id="89" type="span" parent="96" relname="span"/>
+		<group id="90" type="span" parent="32" relname="evaluation"/>
+		<group id="91" type="span" parent="92" relname="same-unit"/>
+		<group id="92" type="multinuc" parent="94" relname="span"/>
+		<group id="93" type="multinuc" parent="94" relname="purpose"/>
+		<group id="94" type="span" parent="95" relname="span"/>
+		<group id="95" type="span" parent="89" relname="elaboration"/>
+		<group id="96" type="span" relname="antithesis"/>
+		<group id="97" type="span" parent="98" relname="span"/>
+		<group id="98" type="span" parent="99" relname="span"/>
+		<group id="99" type="span" parent="104" relname="span"/>
+		<group id="100" type="multinuc" parent="42" relname="elaboration"/>
+		<group id="101" type="multinuc" parent="100" relname="joint"/>
+		<group id="103" type="span" parent="99" relname="elaboration"/>
+		<group id="104" type="span" relname="antithesis"/>
+		<group id="105" type="span" parent="106" relname="span"/>
+		<group id="106" type="span" parent="109" relname="solutionhood"/>
+		<group id="107" type="multinuc" parent="108" relname="span"/>
+		<group id="108" type="span" parent="109" relname="span"/>
+		<group id="109" type="span" parent="126" relname="span"/>
+		<group id="110" type="span" parent="113" relname="span"/>
+		<group id="111" type="span" parent="112" relname="same-unit"/>
+		<group id="112" type="multinuc" parent="110" relname="evaluation"/>
+		<group id="113" type="span" parent="115" relname="contrast"/>
+		<group id="115" type="multinuc" relname="antithesis"/>
+		<group id="116" type="span" parent="117" relname="span"/>
+		<group id="117" type="span" parent="122" relname="span"/>
+		<group id="118" type="span" relname="antithesis"/>
+		<group id="119" type="multinuc" parent="120" relname="elaboration"/>
+		<group id="120" type="span" parent="128" relname="span"/>
+		<group id="122" type="span" parent="123" relname="joint"/>
+		<group id="123" type="multinuc" relname="antithesis"/>
+		<group id="124" type="multinuc" parent="100" relname="joint"/>
+		<group id="125" type="multinuc" parent="115" relname="contrast"/>
+		<group id="126" type="span" relname="antithesis"/>
+		<group id="127" type="span" parent="123" relname="joint"/>
+		<group id="128" type="span" parent="127" relname="span"/>
+  </body>
+</rst>

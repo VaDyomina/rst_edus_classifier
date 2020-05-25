@@ -1,0 +1,157 @@
+1	https://medium.com/devschacht/anonymous-functions-in-javascript-ff6b9ba85de0	_	_	_	_	0	ROOT	_	_
+2	Анонимные функции в JavaScript	_	_	_	_	0	ROOT	_	_
+3	Разбираемся в том, что является анонимной функцией или какая связь между анонимными функциями в JavaScript и подбрасыванием монетки?	_	_	_	_	6	solutionhood_r	_	_
+4	Может ли функция с именем быть анонимной?	_	_	_	_	3	joint_m	_	_
+5	IMG tl;tr;	_	_	_	_	3	elaboration_r	_	_
+6	JavaScript-разработчик, запомни!	_	_	_	_	0	ROOT	_	_
+7	Если после function есть имя	_	_	_	_	8	condition_r	_	_
+8	— функция именованная,	_	_	_	_	6	elaboration_r	_	_
+9	во всех остальных случая анонимная.	_	_	_	_	8	joint_m	_	_
+10	В интернете кто-то не прав	_	_	_	_	15	preparation_r	_	_
+11	Все началось с простого вопроса в канале Telegram для изучающих JavaScript,	_	_	_	_	15	solutionhood_r	_	_
+12	в котором, помимо всего прочего, появился вопрос касательно обработчиков событий в браузере.	_	_	_	_	11	elaboration_r	_	_
+13	Вопрос был в том, как они «навешиваются»	_	_	_	_	11	elaboration_r	_	_
+14	и «снимаются» с DOM-элемента.	_	_	_	_	13	joint_m	_	_
+15	Среди ответов от вполне опытного разработчика был следующий:	_	_	_	_	0	ROOT	_	_
+16	Обработчик снимается также,	_	_	_	_	15	elaboration_r	_	_
+17	как он вешался.	_	_	_	_	16	comparison_m	_	_
+18	Если вешалась анонимная функция,	_	_	_	_	19	condition_r	_	_
+19	то никак.	_	_	_	_	16	elaboration_r	_	_
+20	Только удалять элемент из DOM и из памяти.	_	_	_	_	19	elaboration_r	_	_
+21	Далее ответ был подкреплен блоком кода похожим на этот:	_	_	_	_	16	evidence_r	_	_
+22	[код]	_	_	_	_	21	elaboration_r	_	_
+23	На что в качестве возражения с моей стороны был приведен следующий блок кода,	_	_	_	_	15	contrast_m	_	_
+24	показывающий, что анонимная функция может быть удалена как обработчик:	_	_	_	_	23	purpose_r	_	_
+25	[код]	_	_	_	_	23	elaboration_r	_	_
+26	В twitter как на работу	_	_	_	_	31	preparation_r	_	_
+27	После этого недопонимания мною же было решено поинтересоваться у общественности через twitter, касательно вытекающего вопроса, что же является анонимной функцией, а что нет?	_	_	_	_	31	solutionhood_r	_	_
+28	И для этого было вполне достаточно спросить насчёт небольшого блока кода: IMG	_	_	_	_	27	elaboration_r	_	_
+29	Учитывая возможные колебания в результатах	_	_	_	_	31	condition_r	_	_
+30	из-за появившихся ответов в комментариях,	_	_	_	_	29	cause_r	_	_
+31	статистика практически 50/50,	_	_	_	_	0	ROOT	_	_
+32	это все равно, если бы мы подбрасывали монетку.	_	_	_	_	31	evaluation_r	_	_
+33	Также задавал этот вопрос в личной беседе опытным JavaScript-разработчикам,	_	_	_	_	31	comparison_m	_	_
+34	выступающим на митапах с докладами,	_	_	_	_	33	elaboration_r	_	_
+35	и людям не из мира фронтенда,	_	_	_	_	33	same-unit_m	_	_
+36	результат развед-опроса был сильно похож на статистику ответов в twitter.	_	_	_	_	33	elaboration_r	_	_
+37	Я знал ответ, это же просто	_	_	_	_	43	preparation_r	_	_
+38	Если на опрос выше вы ответили, что функция myFunc является анонимной,	_	_	_	_	43	background_r	_	_
+39	поздравляю—это правильно!	_	_	_	_	38	evaluation_r	_	_
+40	Отметьте этот день красным цветом в календаре,	_	_	_	_	39	evaluation_r	_	_
+41	позовите родных и близких,	_	_	_	_	40	joint_m	_	_
+42	начинайте разливать шампанское по бокалам.	_	_	_	_	40	joint_m	_	_
+43	Итак, значит функция в коде блока выше является анонимной: [код]	_	_	_	_	0	ROOT	_	_
+44	А что, если я тебе скажу, что ты можешь обратится к свойству name,	_	_	_	_	45	condition_r	_	_
+45	и получить конкретное значение? [код] IMG	_	_	_	_	43	contrast_m	_	_
+46	Полученное значение не пустое,	_	_	_	_	43	evaluation_r	_	_
+47	но при этом функция выше как мы выяснили, анонимная,	_	_	_	_	46	contrast_m	_	_
+48	но это же какой-то понятийный коллапс, товарищи!	_	_	_	_	46	contrast_m	_	_
+49	Не торопитесь уходить в backend-разработку,	_	_	_	_	50	cause_r	_	_
+50	Шерлок Холмс уже начал свое расследование.	_	_	_	_	46	evaluation_r	_	_
+51	Как задать функцию в JavaScript	_	_	_	_	56	evidence_r	_	_
+52	Function constructor: [код] Function declaration: [код] Function expression: [код] Arrow function: [код] Object Method: [код]	_	_	_	_	51	elaboration_r	_	_
+53	К тому же, не стоит забывать о существовании Generator Function и об специальном синтаксисе	_	_	_	_	51	elaboration_r	_	_
+54	с использованием async,	_	_	_	_	53	condition_r	_	_
+55	плюс вспомним о setters, getters.	_	_	_	_	53	joint_m	_	_
+56	Все это добавляет вариации в вышеуказанные способы определения функций. IMG	_	_	_	_	0	ROOT	_	_
+57	Усиливаем пример с определением имени.	_	_	_	_	64	cause_r	_	_
+58	Тесты [код]	_	_	_	_	57	elaboration_r	_	_
+59	Теперь, используя описанные способы выше,	_	_	_	_	60	condition_r	_	_
+60	возьмём у каждой функции свойство name,	_	_	_	_	57	sequence_m	_	_
+61	и начнем с функций, заданных как Function expression: [код]	_	_	_	_	57	sequence_m	_	_
+62	Функции, объявленные как Object Method: [код]	_	_	_	_	61	joint_m	_	_
+63	Функции, объявленные как IIFE (Immediately-invoked function expression): [код]	_	_	_	_	61	joint_m	_	_
+64	Вопросов возникает ещё больше.	_	_	_	_	0	ROOT	_	_
+65	А может функция в опросе из twitter все таки именованная?	_	_	_	_	64	elaboration_r	_	_
+66	Может я ввел вас в заблуждение?	_	_	_	_	65	joint_m	_	_
+67	Спецификация. Хардкор	_	_	_	_	79	preparation_r	_	_
+68	Возможно кто-то считает, что когда-то трава была зеленее,	_	_	_	_	79	background_r	_	_
+69	небо голубее	_	_	_	_	68	joint_m	_	_
+70	и вода мокрее,	_	_	_	_	68	joint_m	_	_
+71	но в мире JavaScript раньше было определенно хуже!	_	_	_	_	68	contrast_m	_	_
+72	И только	_	_	_	_	68	sequence_m	_	_
+73	начиная со стандарта ECMA-262 6th Edition	_	_	_	_	74	attribution_r	_	_
+74	появилась определенность в понятии анонимной функции, в частности в главе 14 ECMAScript Language: Functions and Classes, посвященной функциям и классам, в пункте 14.1.9 IsAnonymousFunctionDefinition: 14.1.9 Static Semantics: IsAnonymousFunctionDefinition( production )	_	_	_	_	72	same-unit_m	_	_
+75	1. If IsFunctionDefinition of production is false, return false.	_	_	_	_	79	cause_r	_	_
+76	2. Let hasName be the result of HasName of production.	_	_	_	_	75	sequence_m	_	_
+77	3. If hasName is true, return false.	_	_	_	_	75	sequence_m	_	_
+78	4. Return true	_	_	_	_	75	sequence_m	_	_
+79	Откуда получаем,	_	_	_	_	0	ROOT	_	_
+80	что для полного понимания	_	_	_	_	81	purpose_r	_	_
+81	придется разобраться в семантике IsFunctionDefinition:	_	_	_	_	79	same-unit_m	_	_
+82	14.1 Function Definitions 14.1.11 Static Semantics: IsFunctionDefinition	_	_	_	_	81	elaboration_r	_	_
+83	FunctionExpression: function ( FormalParameters ) { FunctionBody } 1. Return true. function BindingIdentifier ( FormalParameters ) { FunctionBody } 1. Return true.	_	_	_	_	82	joint_m	_	_
+84	А также разобраться в семантике hasName:	_	_	_	_	79	joint_m	_	_
+85	14.1 Function Definitions 14.1.8 Static Semantics: HasName FunctionExpression: function ( FormalParameters ) { FunctionBody } 1. Return false. function BindingIdentifier ( FormalParameters ) { FunctionBody } 1. Return true.	_	_	_	_	84	elaboration_r	_	_
+86	Из семантики hasName для Arrow Function следует,	_	_	_	_	87	evidence_r	_	_
+87	что стрелочные функции всегда анонимны:	_	_	_	_	79	joint_m	_	_
+88	14.2 Arrow Function Definitions 14.2.7 Static Semantics: HasName ArrowFunction: ArrowParameters => ConciseBody 1. Return false.	_	_	_	_	87	elaboration_r	_	_
+89	С описанием метода объекта дела обстоят несколько сложнее,	_	_	_	_	79	joint_m	_	_
+90	поскольку может использоваться старый синтаксис через AssignmentExpression или новый через MethodDefinition:	_	_	_	_	89	cause_r	_	_
+91	12.2.6 Object Initializer .. PropertyDefinition : .. PropertyName : AssignmentExpression MethodDefinition	_	_	_	_	89	elaboration_r	_	_
+92	Также помним, что свойству объекта может быть присвоена в качестве значения функция,	_	_	_	_	93	cause_r	_	_
+93	откуда получаем следующие вариации для метода:	_	_	_	_	79	joint_m	_	_
+94	[код]	_	_	_	_	93	elaboration_r	_	_
+95	В первом случае, опосредованно используется 14.1.9 IsAnonymousFunctionDefinition	_	_	_	_	79	elaboration_r	_	_
+96	для проверки,	_	_	_	_	95	purpose_r	_	_
+97	что описано в 12.2.6.9 Runtime Semantics: PropertyDefinitionEvaluation.	_	_	_	_	95	attribution_r	_	_
+98	Во втором же случае имеем то, что функция задается	_	_	_	_	95	joint_m	_	_
+99	через FunctionCreate семантику внутри 14.3.8 Runtime Semantics: DefineMethod семантики.	_	_	_	_	98	condition_r	_	_
+100	Не удивлюсь, если вы уже устали	_	_	_	_	95	evaluation_r	_	_
+101	и запутались,	_	_	_	_	100	joint_m	_	_
+102	а ведь это далеко не все	_	_	_	_	100	contrast_m	_	_
+103	и я опустил часть перекрестных ссылок между разделами и пунктами спецификации.	_	_	_	_	102	joint_m	_	_
+104	Лично мне в процессе подготовки статьи удалось запутаться дважды.	_	_	_	_	100	evaluation_r	_	_
+105	Что же стоит запомнить?	_	_	_	_	106	solutionhood_r	_	_
+106	Все случаи с описанием методов сводятся к Function Expression,	_	_	_	_	0	ROOT	_	_
+107	где свойству объекта задается в качестве значения функция.	_	_	_	_	106	elaboration_r	_	_
+108	Собирая все воедино,	_	_	_	_	109	condition_r	_	_
+109	для себя выделил простое правило:	_	_	_	_	106	elaboration_r	_	_
+110	если после function есть идентификатор, другими словами имя,	_	_	_	_	111	condition_r	_	_
+111	тогда функция именованная,	_	_	_	_	109	elaboration_r	_	_
+112	во всех остальных случаях анонимная.	_	_	_	_	111	joint_m	_	_
+113	Возвращаемся к тестам	_	_	_	_	115	preparation_r	_	_
+114	и ставим точку.	_	_	_	_	113	joint_m	_	_
+115	Весь этот путь был проделан не зря,	_	_	_	_	0	ROOT	_	_
+116	теперь мы с полной уверенностью и без капли сомнения сможем определить, когда функция именованная, когда нет: [код]	_	_	_	_	115	cause_r	_	_
+117	Стойте! А как же name?	_	_	_	_	118	preparation_r	_	_
+118	Не стоит забывать, что JavaScript мультипарадигмальный язык программирования,	_	_	_	_	131	background_r	_	_
+119	где есть элементы объектно-ориентированного подхода,	_	_	_	_	118	elaboration_r	_	_
+120	где функцию можно рассматривать как объект со своими свойствами.	_	_	_	_	119	elaboration_r	_	_
+121	К таким свойствам относится свойство name,	_	_	_	_	120	elaboration_r	_	_
+122	и в спецификации легко обнаружить (нет) описание SetFunctionName в 9.2. ECMAScript Function Objects:	_	_	_	_	121	joint_m	_	_
+123	9.2 ECMAScript Function Objects 9.2.11 SetFunctionName (F, name, prefix) The abstract operation SetFunctionName requires a Function argument F, a String or Symbol argument name and optionally a String argument prefix. This operation adds a name property to F by performing the following steps: .. 6. Return DefinePropertyOrThrow(F, "name", PropertyDescriptor{ [[Value]]: name, [[Writable]]: false, [[Enumerable]]: false, [[Configurable]]: true }). ..	_	_	_	_	121	elaboration_r	_	_
+124	И собственно в описаниях классов, методов и функций используется эта абстрактная операция SetFunctionName,	_	_	_	_	121	elaboration_r	_	_
+125	которая описывает алгоритм как задается свойство name.	_	_	_	_	124	elaboration_r	_	_
+126	Например, для методов именем функции будет являться имя свойства,	_	_	_	_	124	elaboration_r	_	_
+127	согласно 14.3.8 Runtime Semantics: DefineMethod	_	_	_	_	126	attribution_r	_	_
+128	и 14.3.9 Runtime Semantics: PropertyDefinitionEvaluation,	_	_	_	_	127	joint_m	_	_
+129	а для функций созданных с помощью конструктора Function, именем функции будет “anonymous”:	_	_	_	_	126	joint_m	_	_
+130	19.2.1.1.1 RuntimeSemantics: CreateDynamicFunction(constructor, newTarget, kind, args) .. 29. Perform SetFunctionName(F, "anonymous"). ..	_	_	_	_	129	elaboration_r	_	_
+131	И лично для себя открыл в спецификации то, как задается имя для функции,	_	_	_	_	0	ROOT	_	_
+132	привязанной к контексту	_	_	_	_	131	condition_r	_	_
+133	с помощью метода bind,	_	_	_	_	132	condition_r	_	_
+134	что описано в разделе 19.2.3.2 Function.prototype.bind,	_	_	_	_	131	attribution_r	_	_
+135	например: [код]	_	_	_	_	131	elaboration_r	_	_
+136	Также подобные префиксы в именах имеют функции,	_	_	_	_	131	joint_m	_	_
+137	созданные как getter-метод объекта или setter-метод объекта,	_	_	_	_	136	condition_r	_	_
+138	согласно 14.3.9 Runtime Semantics: PropertyDefinitionEvaluation,	_	_	_	_	136	attribution_r	_	_
+139	например: [код]	_	_	_	_	136	elaboration_r	_	_
+140	AST-ановитесь!	_	_	_	_	143	preparation_r	_	_
+141	На мой субъективный взгляд, по большей мере спецификация это предписание для интерпретатора EcmaScript, держать такой же в собственной голове есть дело тяжелое и неблагодарное.	_	_	_	_	143	solutionhood_r	_	_
+142	Чтобы не тратить драгоценное мыслетопливо на разбор синтаксиса,	_	_	_	_	143	purpose_r	_	_
+143	как вариант, достаточно воспользоваться одним из существующих EcmaScript-парсеров,	_	_	_	_	0	ROOT	_	_
+144	который поможет определить наличие идентификатора функции	_	_	_	_	143	purpose_r	_	_
+145	и каким способом она была задана.	_	_	_	_	144	joint_m	_	_
+146	Например, здесь представлено абстрактное синтаксическое дерево,	_	_	_	_	143	elaboration_r	_	_
+147	для ранее созданных тестов,	_	_	_	_	146	purpose_r	_	_
+148	с помощью инструмента ASTExplorer.	_	_	_	_	146	condition_r	_	_
+149	Вывод	_	_	_	_	150	preparation_r	_	_
+150	Как мы выяснили функция, будучи анонимной, может иметь имя,	_	_	_	_	0	ROOT	_	_
+151	поскольку одновременно является также и объектом,	_	_	_	_	150	cause_r	_	_
+152	что есть следствие мультипарадигмальной природы языка JavaScript.	_	_	_	_	151	cause_r	_	_
+153	В спорах о синтаксисе языка, обращайтесь к первоисточнику,	_	_	_	_	150	elaboration_r	_	_
+154	то есть к спецификации EcmaScript актуальной версии.	_	_	_	_	153	restatement_m	_	_
+155	Изучайте JavaScript!	_	_	_	_	150	evaluation_r	_	_
+156	JavaScript — во имя добра!	_	_	_	_	155	joint_m	_	_
+

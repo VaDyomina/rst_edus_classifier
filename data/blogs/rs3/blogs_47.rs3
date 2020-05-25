@@ -1,0 +1,186 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="antithesis" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="background" type="rst" />
+			<rel name="cause" type="rst" />
+			<rel name="comparison" type="multinuc" />
+			<rel name="concession" type="rst" />
+			<rel name="conclusion" type="rst" />
+			<rel name="condition" type="rst" />
+			<rel name="contrast" type="multinuc" />
+			<rel name="effect" type="rst" />
+			<rel name="elaboration" type="rst" />
+			<rel name="evaluation" type="rst" />
+			<rel name="evidence" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="motivation" type="rst" />
+			<rel name="preparation" type="rst" />
+			<rel name="purpose" type="rst" />
+			<rel name="restatement" type="multinuc" />
+			<rel name="same-unit" type="multinuc" />
+			<rel name="sequence" type="multinuc" />
+			<rel name="solutionhood" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="1" relname="antithesis">https://medium.com/@alexandershogenov/%D1%81%D1%82%D1%80%D1%83%D0%BA%D1%82%D1%83%D1%80%D1%8B-%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85-%D0%BD%D0%B0-%D0%BF%D1%80%D0%B8%D0%BC%D0%B5%D1%80%D0%B5-php-spl-9a98bc08b6c0</segment>
+		<segment id="2" relname="antithesis">Структуры данных(на примере PHP SPL) IMG</segment>
+		<segment id="3" parent="86" relname="span">Процесс разработки связан, в основном, с извлечением, получением и обработкой данных из разных источников, таких как базы данных, файлы, API и т.д.</segment>
+		<segment id="4" parent="3" relname="elaboration">Очень много времени разработчики на организацию, получение, перемещение и обработку данных.</segment>
+		<segment id="5" parent="87" relname="span">В рамках этой статьи я буду рассматривать язык PHP для того,</segment>
+		<segment id="6" parent="5" relname="purpose">чтобы, как минимум, я сам понимал, о чём говорю.</segment>
+		<segment id="7" parent="88" relname="span">PHP — язык простой</segment>
+		<segment id="8" parent="7" relname="purpose">для понимания большинству</segment>
+		<segment id="9" parent="89" relname="joint">и, я думаю, что у программистов, работающих на других языках, не возникнет проблем с пониманием данного материала.</segment>
+		<segment id="10" parent="90" relname="contrast">Можно было бы просто абстрактно описать о структурах данных,</segment>
+		<segment id="11" parent="90" relname="contrast">но хочется более осязаемого материала.</segment>
+		<segment id="12" parent="95" relname="contrast">Чаще всего для представления данных в PHP используют массив.</segment>
+		<segment id="13" parent="94" relname="span">Однако в некоторых случаях массивы не подходят</segment>
+		<segment id="14" parent="13" relname="purpose">для решения задач.</segment>
+		<segment id="15" parent="96" relname="joint">Где-то не хватает производительности,</segment>
+		<segment id="16" parent="96" relname="joint">где-то слишком много памяти “кушает”,</segment>
+		<segment id="17" parent="102" relname="span">и поэтому требуются более подходящие структуры данных.</segment>
+		<segment id="18" parent="98" relname="joint">Библиотека SPL — является частью ядра(начиная с пятой версии PHP)</segment>
+		<segment id="19" parent="99" relname="span">и содержит набор интерфейсов, классов структур данных, итераторов и функций,</segment>
+		<segment id="20" parent="100" relname="joint">с помощью которых можно значительно упростить себе жизнь</segment>
+		<segment id="21" parent="100" relname="joint">и повысить качество кода.</segment>
+		<segment id="22" parent="106" relname="preparation">Какие же есть структуры данных в этой вашей SPL?</segment>
+		<segment id="23" parent="105" relname="joint">- SplDoublyLinkedList</segment>
+		<segment id="24" parent="105" relname="joint">- Двусвязные спискиSplStack</segment>
+		<segment id="25" parent="105" relname="joint">- СтекSplQueue</segment>
+		<segment id="26" parent="105" relname="joint">- ОчередьSplHeap</segment>
+		<segment id="27" parent="105" relname="joint">- КучаSplMaxHeap — Сортировка кучи по убыванию</segment>
+		<segment id="28" parent="105" relname="joint">- SplMinHeap — Сортировка кучи по возрастанию</segment>
+		<segment id="29" parent="105" relname="joint">- SplPriorityQueue — Приоритетные очереди</segment>
+		<segment id="30" parent="105" relname="joint">- SplFixedArray — Массив с ограниченной длиной</segment>
+		<segment id="31" parent="105" relname="joint">- SplObjectStorage — Хранилище объектов</segment>
+		<segment id="32" parent="122" relname="preparation">SplDoublyLinkedList</segment>
+		<segment id="33" parent="111" relname="span">SplDoublyLinkedList — двусвязный список.</segment>
+		<segment id="34" parent="120" relname="span">Каждый узел такого списка хранит ссылку на предыдущий и на следующий за ним узел.</segment>
+		<segment id="35" parent="112" relname="joint">Представьте, что вы находитесь в очереди</segment>
+		<segment id="36" parent="112" relname="joint">и при этом можете видеть только человека перед вами и позади вас.</segment>
+		<segment id="37" parent="119" relname="span">Это аналогия отношения связи между элементами в SplDoublyLinkedList.</segment>
+		<segment id="38" parent="115" relname="span">Вставка элемента в список соответствует ситуации,</segment>
+		<segment id="39" parent="114" relname="contrast">когда кто-то влез в очередь,</segment>
+		<segment id="40" parent="116" relname="joint">а вы вдруг забыли, кто стоял перед вами</segment>
+		<segment id="41" parent="116" relname="joint">(и этот кто-то забыл о вас).</segment>
+		<segment id="42" parent="117" relname="joint">Двусвязный список позволяет эффективно обходить</segment>
+		<segment id="43" parent="118" relname="span">и добавлять большие наборы данных</segment>
+		<segment id="44" parent="43" relname="condition">без необходимости повторного хеширования.</segment>
+		<segment id="45" parent="130" relname="preparation">SplQueue и SplStack</segment>
+		<segment id="46" parent="124" relname="span">SplQueue и SplStack очень похожи на SplDoublyLinkedList.</segment>
+		<segment id="47" parent="125" relname="span">Обе эти структуры, по сути, представляют собой двусвязные списки с разными флагами итераторов(IT_MODE_LIFO — Last In First Out — последним пришёл, первым ушёл; и IT_MODE_FIFO — First In First Out — первым пришёл, первым ушёл),</segment>
+		<segment id="48" parent="126" relname="joint">которые регулируют порядок обработки узлов</segment>
+		<segment id="49" parent="127" relname="sequence">и что делать с этими элементами</segment>
+		<segment id="50" parent="127" relname="sequence">после того, как они будут обработаны.</segment>
+		<segment id="51" parent="128" relname="comparison">Ещё одно отличие между этими структурами заключается в том, что интерфейс SplQueue содержит более интуитивно понятные методы enqueue() и dequeue()</segment>
+		<segment id="52" parent="128" relname="comparison">в отличие от методов push() и pop() у SplStack.</segment>
+		<segment id="53" parent="135" relname="preparation">SplHeap</segment>
+		<segment id="54" parent="132" relname="span">SplHeap — куча, представленная в виде бинарного дерева,</segment>
+		<segment id="55" parent="54" relname="elaboration">каждый узел которого имеет не более двух дочерних узлов.</segment>
+		<segment id="56" parent="133" relname="span">Это абстрактный класс, требующий расширения с определением метода compare(),</segment>
+		<segment id="57" parent="160" relname="span">позволяющего выполнять сортировку в реальном времени</segment>
+		<segment id="58" parent="57" relname="condition">при вставке новых узлов в дерево.</segment>
+		<segment id="59" parent="139" relname="preparation">SplMaxHeap и SplMinHeap</segment>
+		<segment id="60" parent="139" relname="span">SplMaxHeap и SplMinHeap — конкретные реализации абстрактного класса SplHeap.</segment>
+		<segment id="61" parent="137" relname="span">SplMaxHeapреализует метод compare() таким образом,</segment>
+		<segment id="62" parent="61" relname="purpose">чтобы дерево было отсортировано в порядке убывания значений узлов,</segment>
+		<segment id="63" parent="138" relname="joint">а SplMinHeap — в порядке возрастания значений.</segment>
+		<segment id="64" parent="143" relname="preparation">SplPriorityQueue</segment>
+		<segment id="65" parent="141" relname="contrast">SplPriorityQueue — очередь, похожая на SplHeap,</segment>
+		<segment id="66" parent="142" relname="span">но в отличие от SplHeap сортировка осуществляется на основании значения свойства priority (приоритет),</segment>
+		<segment id="67" parent="66" relname="condition">заданного для каждого узла.</segment>
+		<segment id="68" parent="149" relname="preparation">SplFixedArray</segment>
+		<segment id="69" parent="149" relname="span">SplFixedArray — массив фиксированной длины, индексами которого могут быть только целые числа.</segment>
+		<segment id="70" parent="148" relname="span">Эти ограничению обеспечивают более высокую скорость обработки массива,</segment>
+		<segment id="71" parent="145" relname="span">которая достигается, в том числе,</segment>
+		<segment id="72" parent="146" relname="span">благодаря тому, что в SplFixedArray нет хеширования ключей элементов</segment>
+		<segment id="73" parent="72" relname="condition">при их добавлении</segment>
+		<segment id="74" parent="147" relname="comparison">(в отличие от обычных массивов).</segment>
+		<segment id="75" parent="154" relname="purpose">SplObjectStorage</segment>
+		<segment id="76" parent="152" relname="span">SplObjectStorage — хранилище объектов, предоставляет интерфейс</segment>
+		<segment id="77" parent="151" relname="joint">для сопоставления объектов к данным,</segment>
+		<segment id="78" parent="151" relname="joint">либо может быть использовано в качестве контейнера для множества объектов.</segment>
+		<segment id="79" parent="153" relname="joint">Позволяет использовать объект в качестве ключа ассоциативного массива</segment>
+		<segment id="80" parent="153" relname="joint">и связать его с некоторыми данными.</segment>
+		<segment id="81" parent="155" relname="attribution">Официальная документация по SPL http://php.net/manual/ru/book.spl.php</segment>
+		<segment id="82" parent="83" relname="condition">Кстати, если претендуешь на вакансию уровня серьёзнее, чем junior,</segment>
+		<segment id="83" parent="156" relname="span">есть вероятность, что об этом спросят на собеседовании.</segment>
+		<segment id="84" parent="157" relname="span">А ты теперь это знаешь!</segment>
+		<segment id="85" parent="84" relname="evaluation">Не благодари.</segment>
+		<group id="86" type="span" parent="93" relname="preparation"/>
+		<group id="87" type="span" parent="93" relname="span"/>
+		<group id="88" type="span" parent="89" relname="joint"/>
+		<group id="89" type="multinuc" parent="91" relname="span"/>
+		<group id="90" type="multinuc" parent="91" relname="elaboration"/>
+		<group id="91" type="span" parent="92" relname="span"/>
+		<group id="92" type="span" parent="87" relname="elaboration"/>
+		<group id="93" type="span" parent="104" relname="span"/>
+		<group id="94" type="span" parent="95" relname="contrast"/>
+		<group id="95" type="multinuc" parent="97" relname="preparation"/>
+		<group id="96" type="multinuc" parent="17" relname="cause"/>
+		<group id="97" type="span" parent="108" relname="span"/>
+		<group id="98" type="multinuc" parent="109" relname="span"/>
+		<group id="99" type="span" parent="98" relname="joint"/>
+		<group id="100" type="multinuc" parent="19" relname="purpose"/>
+		<group id="102" type="span" parent="97" relname="span"/>
+		<group id="104" type="span" relname="antithesis"/>
+		<group id="105" type="multinuc" parent="106" relname="span"/>
+		<group id="106" type="span" parent="107" relname="span"/>
+		<group id="107" type="span" relname="antithesis"/>
+		<group id="108" type="span" parent="109" relname="solutionhood"/>
+		<group id="109" type="span" parent="110" relname="span"/>
+		<group id="110" type="span" relname="antithesis"/>
+		<group id="111" type="span" parent="121" relname="solutionhood"/>
+		<group id="112" type="multinuc" parent="113" relname="comparison"/>
+		<group id="113" type="multinuc" parent="34" relname="elaboration"/>
+		<group id="114" type="multinuc" parent="38" relname="condition"/>
+		<group id="115" type="span" parent="37" relname="elaboration"/>
+		<group id="116" type="multinuc" parent="114" relname="contrast"/>
+		<group id="117" type="multinuc" parent="121" relname="span"/>
+		<group id="118" type="span" parent="117" relname="joint"/>
+		<group id="119" type="span" parent="113" relname="comparison"/>
+		<group id="120" type="span" parent="33" relname="elaboration"/>
+		<group id="121" type="span" parent="122" relname="span"/>
+		<group id="122" type="span" parent="123" relname="span"/>
+		<group id="123" type="span" relname="antithesis"/>
+		<group id="124" type="span" parent="129" relname="joint"/>
+		<group id="125" type="span" parent="46" relname="elaboration"/>
+		<group id="126" type="multinuc" parent="47" relname="elaboration"/>
+		<group id="127" type="multinuc" parent="126" relname="joint"/>
+		<group id="128" type="multinuc" parent="129" relname="joint"/>
+		<group id="129" type="multinuc" parent="130" relname="span"/>
+		<group id="130" type="span" parent="131" relname="span"/>
+		<group id="131" type="span" relname="antithesis"/>
+		<group id="132" type="span" parent="135" relname="span"/>
+		<group id="133" type="span" parent="132" relname="elaboration"/>
+		<group id="135" type="span" parent="136" relname="span"/>
+		<group id="136" type="span" relname="antithesis"/>
+		<group id="137" type="span" parent="138" relname="joint"/>
+		<group id="138" type="multinuc" parent="60" relname="elaboration"/>
+		<group id="139" type="span" parent="140" relname="span"/>
+		<group id="140" type="span" relname="antithesis"/>
+		<group id="141" type="multinuc" parent="143" relname="span"/>
+		<group id="142" type="span" parent="141" relname="contrast"/>
+		<group id="143" type="span" parent="144" relname="span"/>
+		<group id="144" type="span" relname="antithesis"/>
+		<group id="145" type="span" parent="147" relname="comparison"/>
+		<group id="146" type="span" parent="71" relname="cause"/>
+		<group id="147" type="multinuc" parent="70" relname="elaboration"/>
+		<group id="148" type="span" parent="69" relname="elaboration"/>
+		<group id="149" type="span" parent="150" relname="span"/>
+		<group id="150" type="span" relname="antithesis"/>
+		<group id="151" type="multinuc" parent="76" relname="purpose"/>
+		<group id="152" type="span" parent="154" relname="span"/>
+		<group id="153" type="multinuc" parent="152" relname="purpose"/>
+		<group id="154" type="span" parent="155" relname="span"/>
+		<group id="155" type="span" parent="159" relname="span"/>
+		<group id="156" type="span" parent="157" relname="solutionhood"/>
+		<group id="157" type="span" parent="158" relname="span"/>
+		<group id="158" type="span" relname="antithesis"/>
+		<group id="159" type="span" relname="antithesis"/>
+		<group id="160" type="span" parent="56" relname="purpose"/>
+  </body>
+</rst>

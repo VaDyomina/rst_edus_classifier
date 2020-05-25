@@ -1,0 +1,348 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="antithesis" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="background" type="rst" />
+			<rel name="cause" type="rst" />
+			<rel name="comparison" type="multinuc" />
+			<rel name="concession" type="rst" />
+			<rel name="conclusion" type="rst" />
+			<rel name="condition" type="rst" />
+			<rel name="contrast" type="multinuc" />
+			<rel name="effect" type="rst" />
+			<rel name="elaboration" type="rst" />
+			<rel name="evaluation" type="rst" />
+			<rel name="evidence" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="motivation" type="rst" />
+			<rel name="preparation" type="rst" />
+			<rel name="purpose" type="rst" />
+			<rel name="restatement" type="multinuc" />
+			<rel name="same-unit" type="multinuc" />
+			<rel name="sequence" type="multinuc" />
+			<rel name="solutionhood" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="1" relname="antithesis">http://ressav.ru/vashi-konkurentnye-preimushhestva-na-sobesedovanii/</segment>
+		<segment id="2" relname="antithesis">Ваши конкурентные преимущества на собеседовании</segment>
+		<segment id="3" parent="165" relname="span">За время консультирования клиентов</segment>
+		<segment id="4" parent="3" relname="purpose">для прохождением собеседования</segment>
+		<segment id="5" parent="166" relname="same-unit">заметил одну особенность:</segment>
+		<segment id="6" parent="168" relname="joint">мало кто понимает, что такое конкурентные преимущества вообще,</segment>
+		<segment id="7" parent="168" relname="joint">в чем они проявляются у конкретного человека</segment>
+		<segment id="8" parent="168" relname="joint">и как их подавать на собеседовании.</segment>
+		<segment id="9" parent="171" relname="span">Как продолжение ситуации, у всех клиентов трудности с ответом на вопрос:</segment>
+		<segment id="10" parent="170" relname="joint">«а чем вы лучше других кандидатов?»</segment>
+		<segment id="11" parent="170" relname="joint">или «почему мы должны принять на работу именно вас?».</segment>
+		<segment id="12" parent="328" relname="contrast">При том, что приведенные вопросы и ответы к ним в реальности к способностям или достижениям кандидата никакого отношения не имеют,</segment>
+		<segment id="13" parent="173" relname="span">сам факт того,</segment>
+		<segment id="14" parent="13" relname="elaboration">что человек не представляет, чем же он так хорош,</segment>
+		<segment id="15" parent="174" relname="same-unit">вызывает затруднения в ответах на «каверзные» вопросы.</segment>
+		<segment id="16" parent="177" relname="preparation">Итак, первое очень важное замечание.</segment>
+		<segment id="17" parent="18" relname="condition">Раз речь идет о собеседовании,</segment>
+		<segment id="18" parent="177" relname="span">то предполагается, что первый этап отбора по резюме кандидат уже прошел.</segment>
+		<segment id="19" parent="178" relname="elaboration">Так сказать, первичный отсев произведен.</segment>
+		<segment id="20" parent="181" relname="same-unit">Это означает, что все отобранные</segment>
+		<segment id="21" parent="22" relname="purpose">для собеседования</segment>
+		<segment id="22" parent="180" relname="span">кандидаты удовлетворяют одним и тем же требованиям, заявленным работодателем.</segment>
+		<segment id="23" parent="183" relname="span">Отсюда, как оказалось, не для всех очевидный вывод:</segment>
+		<segment id="24" parent="23" relname="elaboration">на собеседовании нет смысла фокусироваться на тех собственных способностях и достижениях, которые уже и так заявлены в резюме или являются проходными условиями.</segment>
+		<segment id="25" parent="188" relname="contrast">Конечно, если работодатель сам не поинтересуется.</segment>
+		<segment id="26" parent="184" relname="span">Но даже в этом случае все ваши знания и умения совсем не конкурентные преимущества</segment>
+		<segment id="27" parent="26" relname="elaboration">– это общие требования ко всем кандидатам.</segment>
+		<segment id="28" parent="186" relname="span">Поэтому примем за данность, что на собеседовании просто «продавать» собственные профессиональные навыки бессмысленно</segment>
+		<segment id="29" parent="185" relname="contrast">– это про вас и так уже знают,</segment>
+		<segment id="30" parent="185" relname="contrast">а другие кандидаты имеют примерно тот же уровень владения профессией.</segment>
+		<segment id="31" parent="191" relname="joint">Как же тогда рассказывать о себе?</segment>
+		<segment id="32" parent="191" relname="joint">Как и, главное, что можно подать как преимущества перед другими кандидатами?</segment>
+		<segment id="33" parent="193" relname="span">Первое, что приходит на ум практически всем</segment>
+		<segment id="34" parent="192" relname="span">(по крайней мере, в ЖЖ на этот вопрос правильно никто не ответил,</segment>
+		<segment id="35" parent="34" relname="concession">при том, что пост с опросом прочитало более пяти тысяч человек!),</segment>
+		<segment id="36" parent="194" relname="same-unit">это две способности:</segment>
+		<segment id="37" parent="195" relname="elaboration">Умение и готовность работать в тяжелых (стрессовых) условиях Способность к обучению</segment>
+		<segment id="38" parent="199" relname="span">Сама массовость ответов говорит за себя:</segment>
+		<segment id="39" parent="38" relname="elaboration">вот эти две способности точно не конкурентные.</segment>
+		<segment id="40" parent="199" relname="cause">Поскольку ими владеют ВСЕ!</segment>
+		<segment id="41" parent="202" relname="span">Поэтому повторю еще раз очевидное:</segment>
+		<segment id="42" parent="201" relname="contrast">конкурентные преимущества, способности – это то, что есть только у вас</segment>
+		<segment id="43" parent="201" relname="contrast">и чего нет у других.</segment>
+		<segment id="44" parent="207" relname="restatement">И вот здесь все 100% клиентов и столько же читателей ЖЖ идут про простому пути – экстенсивному.</segment>
+		<segment id="45" parent="207" relname="restatement">То есть, в качестве конкурентных преимуществ заявляют собственную готовность… демпинговать.</segment>
+		<segment id="46" parent="342" relname="span">Другими словами, делать больше работы</segment>
+		<segment id="47" parent="46" relname="condition">за меньшую оплату.</segment>
+		<segment id="48" parent="209" relname="contrast">Причем, речь идет не о повышенной производительности,</segment>
+		<segment id="49" parent="209" relname="contrast">а о том, что человек банально или больше тратит времени, за счет сна-отдыха, или сил, за счет повышенной интенсивности работы.</segment>
+		<segment id="50" parent="210" relname="span">Например, кандидат соглашается или больше работать</segment>
+		<segment id="51" parent="50" relname="condition">при сохранении уровня оплаты,</segment>
+		<segment id="52" parent="211" relname="joint">или взять на себя дополнительные обязанности,</segment>
+		<segment id="53" parent="211" relname="joint">или получать меньшую зарплату.</segment>
+		<segment id="54" parent="212" relname="joint">Или все вместе.</segment>
+		<segment id="55" parent="215" relname="contrast">Но это тупиковый путь.</segment>
+		<segment id="56" parent="218" relname="span">Во-первых, сам подход</segment>
+		<segment id="57" parent="56" relname="concession">при всей соблазнительности для работодателя,</segment>
+		<segment id="58" parent="219" relname="same-unit">сильно бьёт по репутации кандидата:</segment>
+		<segment id="59" parent="220" relname="span">вот такая готовность на худшие условия наводит на мысль,</segment>
+		<segment id="60" parent="59" relname="elaboration">а так ли хорош кандидат как специалист?</segment>
+		<segment id="61" parent="223" relname="span">Во-вторых, вы не можете использовать этот прием до бесконечности.</segment>
+		<segment id="62" parent="61" relname="cause">Рано или поздно наступает предел, ниже которого вообще не имеет смысла работать.</segment>
+		<segment id="63" parent="224" relname="joint">Вы же не можете менять работу всякий раз со снижением уровня доходов?</segment>
+		<segment id="64" parent="224" relname="joint">Как скоро вы начнете приплачивать работодателю?</segment>
+		<segment id="65" parent="227" relname="span">И в третьих, самое главное: вы отрезаете себе будущее.</segment>
+		<segment id="66" parent="67" relname="condition">Если вы изначально согласились на ухудшение условий,</segment>
+		<segment id="67" parent="226" relname="span">то как потом предполагаете разговаривать об их улучшении?</segment>
+		<segment id="68" parent="230" relname="span">Кажется, уже не осталось аргументов.</segment>
+		<segment id="69" parent="70" relname="solutionhood">Что же еще «продавать» в качестве конкурентных преимуществ?</segment>
+		<segment id="70" parent="333" relname="span">Вот здесь и начинается интенсивный путь.</segment>
+		<segment id="71" parent="234" relname="span">Еще раз напомню: конкурентные – значит такие, каких нет у других.</segment>
+		<segment id="72" parent="233" relname="contrast">Да, вы не можете знать, какие способности у остальных кандидатов на ваше рабочее место.</segment>
+		<segment id="73" parent="233" relname="contrast">Н о и они не знают ваших! Так же, как и потенциальный работодатель.</segment>
+		<segment id="74" parent="334" relname="span">Так что у вас есть шанс высветить себя в более выгодном свете по сравнению с другими.</segment>
+		<segment id="75" parent="237" relname="same-unit">Как ни странно,</segment>
+		<segment id="76" parent="77" relname="concession">при внешней легкости</segment>
+		<segment id="77" parent="236" relname="span">сделать это бывает непросто.</segment>
+		<segment id="78" parent="238" relname="span">Во всяком случае, мало кто из клиентов с первого раза смог найти в себе эти самые конкурентные преимуществ,</segment>
+		<segment id="79" parent="78" relname="concession">хотя обладали ими все.</segment>
+		<segment id="80" parent="335" relname="span">Поэтому приведу несколько основных приемов поиска этих самых преимуществ.</segment>
+		<segment id="81" parent="242" relname="span">Первый и самый простой – это смежные профессии.</segment>
+		<segment id="82" parent="81" relname="evidence">Пожалуй, не найти ни одного человека, который бы в той или иной степени не владел несколькими профессиями.</segment>
+		<segment id="83" parent="252" relname="contrast">Но на собеседовании говорят об этом немногие.</segment>
+		<segment id="84" parent="251" relname="span">А ведь практически любая дополнительная профессия может быть подспорьем в основной.</segment>
+		<segment id="85" parent="245" relname="joint">Как минимум, вы понимаете их язык,</segment>
+		<segment id="86" parent="245" relname="joint">владеете семантикой смежников.</segment>
+		<segment id="87" parent="246" relname="joint">Как максимум, можете проконтролировать качество их работы</segment>
+		<segment id="88" parent="246" relname="joint">и даже в исключительных случаях кого-то подменить.</segment>
+		<segment id="89" parent="254" relname="contrast">Мысли очевидные,</segment>
+		<segment id="90" parent="254" relname="contrast">но только не на собеседовании!</segment>
+		<segment id="91" parent="256" relname="span">Поэтому перед собеседованием обязательно проведите ревизию собственного опыта:</segment>
+		<segment id="92" parent="255" relname="joint">с кем вы взаимодействовали на ваших прошлых рабочих местах,</segment>
+		<segment id="93" parent="255" relname="joint">чью работу вы хорошо изучили за время этого взаимодействия.</segment>
+		<segment id="94" parent="256" relname="evaluation">Возможно, этот опыт пригодится и на новом месте!</segment>
+		<segment id="95" parent="96" relname="preparation">Следующий по сложности и «продвинутости» прием, это использование в качестве конкурентных преимуществ совершенно «посторонних» знаний и непрофильного образования.</segment>
+		<segment id="96" parent="261" relname="span">Мало ли какими дорогами судьба нас привела в текущую профессию.</segment>
+		<segment id="97" parent="262" relname="joint">Но очень многие не только не могут «продать» свое «темное» прошлое,</segment>
+		<segment id="98" parent="262" relname="joint">но еще и его как бы стесняются.</segment>
+		<segment id="99" parent="265" relname="span">Но, как выясняется, стесняются напрасно:</segment>
+		<segment id="100" parent="99" relname="evidence">практически весь прошлый опыт и полученные когда-то знания оказывается полезными и в текущей профессии. Водитель с психологическим образованием, «продажник» с медицинским, юрист с опытом строителя, программист с психологическим образованием, дизайнер с бухгалтерским.</segment>
+		<segment id="101" parent="266" relname="joint">Это еще более или менее безобидные сочетания</segment>
+		<segment id="102" parent="266" relname="joint">и связь между образованием и профессиями здесь на поверхности.</segment>
+		<segment id="103" parent="267" relname="contrast">Но все равно, в таких случаях лучше обращаться к консультанту.</segment>
+		<segment id="104" parent="292" relname="span">Хотя принцип связки довольно простой.</segment>
+		<segment id="105" parent="272" relname="span">Первое: вам следует очень конкретно описать способности, которыми должен обладать идеальный, но абстрактный сотрудник вашего профиля.</segment>
+		<segment id="106" parent="270" relname="joint">Способности к общению?</segment>
+		<segment id="107" parent="270" relname="joint">Ораторские навыки?</segment>
+		<segment id="108" parent="270" relname="joint">Умение управлять «союзом абсолютно свободных художников»?</segment>
+		<segment id="109" parent="270" relname="joint">Быстро считать деньги?</segment>
+		<segment id="110" parent="270" relname="joint">На глаз вычислять ненадежного заемщика?</segment>
+		<segment id="111" parent="272" relname="evaluation">Да мало ли что является ключевым для вашего будущего рабочего места.</segment>
+		<segment id="112" parent="274" relname="joint">И не обязательно ключевые навыки, можно и дополнительные, но очень помогающие.</segment>
+		<segment id="113" parent="286" relname="span">Главное – составьте список, и подробнее, и детальнее, и предметнее.</segment>
+		<segment id="114" parent="275" relname="span">Здесь ключевое слово «предметнее»:</segment>
+		<segment id="115" parent="114" relname="elaboration">раскройте ваше понимание термина в действиях.</segment>
+		<segment id="116" parent="282" relname="preparation">Скажем, любимое всеми качество «коммуникабельность».</segment>
+		<segment id="117" parent="338" relname="solutionhood">Что это для вас?</segment>
+		<segment id="118" parent="276" relname="joint">Умение разговорить, умение выстроить дружеские отношения с любым человеком,</segment>
+		<segment id="119" parent="276" relname="joint">умение «заразить» хорошим настроением,</segment>
+		<segment id="120" parent="276" relname="joint">умение «продать слона»?</segment>
+		<segment id="121" parent="280" relname="span">И как это выглядит:</segment>
+		<segment id="122" parent="279" relname="joint">вы рассказываете,</segment>
+		<segment id="123" parent="279" relname="joint">вы слушаете,</segment>
+		<segment id="124" parent="279" relname="joint">вы последовательно отрываете пуговицы на пиджаке собеседника…</segment>
+		<segment id="125" parent="283" relname="evaluation">В общем, конкретизируйте все эти навыки.</segment>
+		<segment id="126" parent="289" relname="span">Затем шаг второй:</segment>
+		<segment id="127" parent="126" relname="elaboration">а что из найденного и тщательно записанного можно найти в вашем «типа непрофильном» образовании или опыте?</segment>
+		<segment id="128" parent="340" relname="span">Вот это и будет вашим конкурентным преимуществом.</segment>
+		<segment id="129" parent="130" relname="preparation">Следующий уровень продвинутости и сложности – хобби.</segment>
+		<segment id="130" parent="296" relname="span">И я сам, и многие другие ответственные товарищи категорически запрещают писать о своем хобби в резюме.</segment>
+		<segment id="131" parent="297" relname="span">Раскрывать не буду,</segment>
+		<segment id="132" parent="131" relname="cause">это самостоятельная тема.</segment>
+		<segment id="133" parent="297" relname="elaboration">Примите как данность.</segment>
+		<segment id="134" parent="300" relname="span">Но в собеседовании вопрос может всплыть,</segment>
+		<segment id="135" parent="134" relname="evaluation">мало ли какие идеи движут конкретным нанимателем.</segment>
+		<segment id="136" parent="302" relname="joint">Так вот, уметь связать свое хобби с профессией,</segment>
+		<segment id="137" parent="302" relname="joint">«продать» как конкурентное преимущество тоже важно.</segment>
+		<segment id="138" parent="304" relname="span">Справедливости ради, здесь у народа есть некоторые устоявшиеся штампы:</segment>
+		<segment id="139" parent="341" relname="span">«на рыбалке я отдыхаю от работы,</segment>
+		<segment id="140" parent="139" relname="cause">так сказать, набираю сил перед забегом».</segment>
+		<segment id="141" parent="305" relname="contrast">Наивно, конечно,</segment>
+		<segment id="142" parent="305" relname="contrast">но прокатывает.</segment>
+		<segment id="143" parent="308" relname="contrast">Но иногда это сделать непросто, например, врач-охотник.</segment>
+		<segment id="144" parent="310" relname="span">Но здесь помогает тот же самый принцип, который я изложил выше.</segment>
+		<segment id="145" parent="309" relname="joint">В качестве иллюстрации могу сказать, что для руководителя очень полезное хобби – катание на лошадях, конкур там или просто прогулки.</segment>
+		<segment id="146" parent="309" relname="joint">Для «продажника» очень полезное хобби – парные танцы.</segment>
+		<segment id="147" parent="309" relname="joint">Для водителя – командные и очень динамичные игры, тот же большой теннис или парный бадминтон.</segment>
+		<segment id="148" parent="311" relname="joint">Подумайте, какая тут связь,</segment>
+		<segment id="149" parent="311" relname="joint">потренируйтесь.</segment>
+		<segment id="150" parent="316" relname="span">И, наконец, высший пилотаж:</segment>
+		<segment id="151" parent="150" relname="elaboration">продавать свои «недостатки».</segment>
+		<segment id="152" parent="317" relname="joint">Сижу дома с ребенком,</segment>
+		<segment id="153" parent="317" relname="joint">новичок в профессии,</segment>
+		<segment id="154" parent="317" relname="joint">перерыв в стаже 50 лет,</segment>
+		<segment id="155" parent="317" relname="joint">да и возраст «не тот».</segment>
+		<segment id="156" parent="319" relname="span">Понятное дело, что восприятие наших некоторых качеств как недостатков вещь сугубо субъективная.</segment>
+		<segment id="157" parent="158" relname="cause">К сожалению, тут нет универсального правила</segment>
+		<segment id="158" parent="320" relname="span">и лучшим вариантом будет обращение к специалисту.</segment>
+		<segment id="159" parent="322" relname="span">Но все равно, хотя бы в качестве упражнения,</segment>
+		<segment id="160" parent="321" relname="joint">подумайте</segment>
+		<segment id="161" parent="321" relname="joint">и придумайте, как это можно использовать лично для вас.</segment>
+		<segment id="162" parent="323" relname="span">И такое упражнение будет полезно</segment>
+		<segment id="163" parent="162" relname="concession">хотя бы тем, что вы пересмотрите свое отношение к себе же.</segment>
+		<segment id="164" parent="324" relname="joint">А в качестве бонуса увидите свои настоящие конкурентные преимущества.</segment>
+		<group id="165" type="span" parent="166" relname="same-unit"/>
+		<group id="166" type="multinuc" parent="167" relname="span"/>
+		<group id="167" type="span" parent="169" relname="span"/>
+		<group id="168" type="multinuc" parent="167" relname="elaboration"/>
+		<group id="169" type="span" parent="171" relname="preparation"/>
+		<group id="170" type="multinuc" parent="9" relname="elaboration"/>
+		<group id="171" type="span" parent="172" relname="span"/>
+		<group id="172" type="span" parent="329" relname="span"/>
+		<group id="173" type="span" parent="174" relname="same-unit"/>
+		<group id="174" type="multinuc" parent="328" relname="contrast"/>
+		<group id="177" type="span" parent="178" relname="span"/>
+		<group id="178" type="span" parent="179" relname="span"/>
+		<group id="179" type="span" parent="182" relname="restatement"/>
+		<group id="180" type="span" parent="181" relname="same-unit"/>
+		<group id="181" type="multinuc" parent="182" relname="restatement"/>
+		<group id="182" type="multinuc" parent="189" relname="contrast"/>
+		<group id="183" type="span" parent="190" relname="span"/>
+		<group id="184" type="span" parent="186" relname="cause"/>
+		<group id="185" type="multinuc" parent="28" relname="elaboration"/>
+		<group id="186" type="span" parent="330" relname="span"/>
+		<group id="188" type="multinuc" parent="183" relname="evaluation"/>
+		<group id="189" type="multinuc" relname="antithesis"/>
+		<group id="190" type="span" parent="189" relname="contrast"/>
+		<group id="191" type="multinuc" parent="204" relname="solutionhood"/>
+		<group id="192" type="span" parent="33" relname="evidence"/>
+		<group id="193" type="span" parent="194" relname="same-unit"/>
+		<group id="194" type="multinuc" parent="195" relname="span"/>
+		<group id="195" type="span" parent="198" relname="span"/>
+		<group id="198" type="span" parent="204" relname="span"/>
+		<group id="199" type="span" parent="200" relname="span"/>
+		<group id="200" type="span" parent="202" relname="cause"/>
+		<group id="201" type="multinuc" parent="41" relname="elaboration"/>
+		<group id="202" type="span" parent="332" relname="span"/>
+		<group id="204" type="span" parent="331" relname="span"/>
+		<group id="207" type="multinuc" parent="208" relname="restatement"/>
+		<group id="208" type="multinuc" parent="216" relname="span"/>
+		<group id="209" type="multinuc" parent="213" relname="span"/>
+		<group id="210" type="span" parent="211" relname="joint"/>
+		<group id="211" type="multinuc" parent="212" relname="joint"/>
+		<group id="212" type="multinuc" parent="215" relname="contrast"/>
+		<group id="213" type="span" parent="214" relname="span"/>
+		<group id="214" type="span" parent="216" relname="elaboration"/>
+		<group id="215" type="multinuc" parent="213" relname="evidence"/>
+		<group id="216" type="span" parent="217" relname="span"/>
+		<group id="217" type="span" relname="antithesis"/>
+		<group id="218" type="span" parent="219" relname="same-unit"/>
+		<group id="219" type="multinuc" parent="221" relname="span"/>
+		<group id="220" type="span" parent="221" relname="evidence"/>
+		<group id="221" type="span" parent="222" relname="span"/>
+		<group id="222" type="span" parent="228" relname="joint"/>
+		<group id="223" type="span" parent="225" relname="span"/>
+		<group id="224" type="multinuc" parent="223" relname="elaboration"/>
+		<group id="225" type="span" parent="228" relname="joint"/>
+		<group id="226" type="span" parent="65" relname="elaboration"/>
+		<group id="227" type="span" parent="228" relname="joint"/>
+		<group id="228" type="multinuc" parent="231" relname="span"/>
+		<group id="230" type="span" parent="231" relname="evaluation"/>
+		<group id="231" type="span" parent="232" relname="span"/>
+		<group id="232" type="span" relname="antithesis"/>
+		<group id="233" type="multinuc" parent="71" relname="elaboration"/>
+		<group id="234" type="span" parent="74" relname="cause"/>
+		<group id="236" type="span" parent="237" relname="same-unit"/>
+		<group id="237" type="multinuc" parent="239" relname="span"/>
+		<group id="238" type="span" parent="239" relname="evidence"/>
+		<group id="239" type="span" parent="240" relname="span"/>
+		<group id="240" type="span" parent="80" relname="cause"/>
+		<group id="242" type="span" parent="243" relname="contrast"/>
+		<group id="243" type="multinuc" parent="253" relname="span"/>
+		<group id="245" type="multinuc" parent="247" relname="comparison"/>
+		<group id="246" type="multinuc" parent="247" relname="comparison"/>
+		<group id="247" type="multinuc" parent="84" relname="elaboration"/>
+		<group id="251" type="span" parent="252" relname="contrast"/>
+		<group id="252" type="multinuc" parent="243" relname="contrast"/>
+		<group id="253" type="span" parent="260" relname="span"/>
+		<group id="254" type="multinuc" parent="258" relname="span"/>
+		<group id="255" type="multinuc" parent="91" relname="elaboration"/>
+		<group id="256" type="span" parent="257" relname="span"/>
+		<group id="257" type="span" parent="336" relname="span"/>
+		<group id="258" type="span" parent="257" relname="cause"/>
+		<group id="260" type="span" relname="antithesis"/>
+		<group id="261" type="span" parent="295" relname="contrast"/>
+		<group id="262" type="multinuc" parent="337" relname="contrast"/>
+		<group id="264" type="span" parent="337" relname="contrast"/>
+		<group id="265" type="span" parent="294" relname="span"/>
+		<group id="266" type="multinuc" parent="267" relname="contrast"/>
+		<group id="267" type="multinuc" parent="268" relname="span"/>
+		<group id="268" type="span" parent="269" relname="span"/>
+		<group id="269" type="span" parent="294" relname="evidence"/>
+		<group id="270" type="multinuc" parent="105" relname="elaboration"/>
+		<group id="272" type="span" parent="273" relname="span"/>
+		<group id="273" type="span" parent="274" relname="joint"/>
+		<group id="274" type="multinuc" parent="287" relname="span"/>
+		<group id="275" type="span" parent="285" relname="span"/>
+		<group id="276" type="multinuc" parent="338" relname="span"/>
+		<group id="279" type="multinuc" parent="121" relname="elaboration"/>
+		<group id="280" type="span" parent="281" relname="joint"/>
+		<group id="281" type="multinuc" parent="282" relname="span"/>
+		<group id="282" type="span" parent="283" relname="span"/>
+		<group id="283" type="span" parent="284" relname="span"/>
+		<group id="284" type="span" parent="275" relname="evidence"/>
+		<group id="285" type="span" parent="113" relname="elaboration"/>
+		<group id="286" type="span" parent="287" relname="elaboration"/>
+		<group id="287" type="span" parent="288" relname="span"/>
+		<group id="288" type="span" parent="291" relname="sequence"/>
+		<group id="289" type="span" parent="128" relname="solutionhood"/>
+		<group id="291" type="multinuc" parent="104" relname="elaboration"/>
+		<group id="292" type="span" parent="268" relname="concession"/>
+		<group id="294" type="span" parent="264" relname="span"/>
+		<group id="295" type="multinuc" relname="antithesis"/>
+		<group id="296" type="span" parent="299" relname="span"/>
+		<group id="297" type="span" parent="298" relname="span"/>
+		<group id="298" type="span" parent="296" relname="elaboration"/>
+		<group id="299" type="span" parent="301" relname="contrast"/>
+		<group id="300" type="span" parent="301" relname="contrast"/>
+		<group id="301" type="multinuc" parent="314" relname="preparation"/>
+		<group id="302" type="multinuc" parent="307" relname="span"/>
+		<group id="304" type="span" parent="306" relname="span"/>
+		<group id="305" type="multinuc" parent="304" relname="evaluation"/>
+		<group id="306" type="span" parent="313" relname="contrast"/>
+		<group id="307" type="span" parent="314" relname="span"/>
+		<group id="308" type="multinuc" parent="313" relname="contrast"/>
+		<group id="309" type="multinuc" parent="144" relname="evidence"/>
+		<group id="310" type="span" parent="312" relname="span"/>
+		<group id="311" type="multinuc" parent="310" relname="evaluation"/>
+		<group id="312" type="span" parent="308" relname="contrast"/>
+		<group id="313" type="multinuc" parent="307" relname="evidence"/>
+		<group id="314" type="span" parent="315" relname="span"/>
+		<group id="315" type="span" relname="antithesis"/>
+		<group id="316" type="span" parent="318" relname="span"/>
+		<group id="317" type="multinuc" parent="316" relname="evidence"/>
+		<group id="318" type="span" parent="156" relname="preparation"/>
+		<group id="319" type="span" parent="327" relname="span"/>
+		<group id="320" type="span" parent="326" relname="contrast"/>
+		<group id="321" type="multinuc" parent="159" relname="elaboration"/>
+		<group id="322" type="span" parent="325" relname="span"/>
+		<group id="323" type="span" parent="324" relname="joint"/>
+		<group id="324" type="multinuc" parent="322" relname="evaluation"/>
+		<group id="325" type="span" parent="326" relname="contrast"/>
+		<group id="326" type="multinuc" parent="319" relname="evaluation"/>
+		<group id="327" type="span" relname="antithesis"/>
+		<group id="328" type="multinuc" parent="172" relname="elaboration"/>
+		<group id="329" type="span" relname="antithesis"/>
+		<group id="330" type="span" parent="188" relname="contrast"/>
+		<group id="331" type="span" relname="antithesis"/>
+		<group id="332" type="span" parent="198" relname="evaluation"/>
+		<group id="333" type="span" parent="68" relname="elaboration"/>
+		<group id="334" type="span" relname="antithesis"/>
+		<group id="335" type="span" relname="antithesis"/>
+		<group id="336" type="span" parent="253" relname="elaboration"/>
+		<group id="337" type="multinuc" parent="295" relname="contrast"/>
+		<group id="338" type="span" parent="339" relname="span"/>
+		<group id="339" type="span" parent="281" relname="joint"/>
+		<group id="340" type="span" parent="291" relname="sequence"/>
+		<group id="341" type="span" parent="138" relname="evidence"/>
+		<group id="342" type="span" parent="208" relname="restatement"/>
+  </body>
+</rst>
