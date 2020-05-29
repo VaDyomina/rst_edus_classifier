@@ -31,7 +31,7 @@
 		<segment id="5" parent="206" relname="sequence">полез за третьей 5</segment>
 		<segment id="6" parent="208" relname="elaboration">ну то есть он собирает в подол фартука по-моему в карман вот 6</segment>
 		<segment id="7" parent="83" relname="span">и мимо дерева 7</segment>
-		<segment id="8" parent="7" relname="circumstance">там где он собирает плоды 8</segment>
+		<segment id="8" parent="7" relname="cause">там где он собирает плоды 8</segment>
 		<segment id="9" parent="82" relname="span">сначала проходит мужчина 9</segment>
 		<segment id="10" parent="9" relname="elaboration">который ведёт на верёвке козу 10</segment>
 		<segment id="11" parent="81" relname="span">коза не очень охотно идёт вместе с ним 11</segment>
@@ -45,7 +45,7 @@
 		<segment id="19" parent="221" relname="sequence">он останавливается 19</segment>
 		<segment id="20" parent="221" relname="sequence">ставит корзину с грушами себе на багажник 20</segment>
 		<segment id="21" parent="221" relname="sequence">садится 21</segment>
-		<segment id="22" parent="219" relname="antithesis">и в общем 22</segment>
+		<segment id="22" parent="219" relname="evaluation">и в общем 22</segment>
 		<segment id="23" parent="24" relname="evaluation">я бы не сказала 23</segment>
 		<segment id="24" parent="218" relname="span">что потихоньку 24</segment>
 		<segment id="25" parent="219" relname="span">уезжает 25</segment>
@@ -62,16 +62,16 @@
 		<segment id="36" parent="115" relname="joint">сорвала с него шляпу 36</segment>
 		<segment id="37" parent="229" relname="span">или просто её сдуло 37</segment>
 		<segment id="38" parent="37" relname="cause">от того что она слишком близко подъехала вот 38</segment>
-		<segment id="39" parent="229" relname="antithesis">это я не заметила 39</segment>
+		<segment id="39" parent="229" relname="evaluation">это я не заметила 39</segment>
 		<segment id="40" parent="178" relname="span">мальчик 40</segment>
 		<segment id="41" parent="121" relname="span">для него это была конечно неожиданность 41</segment>
 		<segment id="42" parent="41" relname="cause">это как-то его дестабилизировало 42</segment>
 		<segment id="43" parent="121" relname="cause">и он отвлёкся от дороги и 43</segment>
 		<segment id="44" parent="122" relname="cause">наехал на камень 44</segment>
 		<segment id="45" parent="123" relname="cause">ну от удара о камень он упал 45</segment>
-		<segment id="46" parent="124" relname="result">груши соответственно тоже все рассыпались 46</segment>
+		<segment id="46" parent="124" relname="cause">груши соответственно тоже все рассыпались 46</segment>
 		<segment id="47" parent="241" relname="sequence">тут навстречу идут ещё три подростка навстречу мальчику 47</segment>
-		<segment id="48" parent="235" relname="circumstance">увидев 48</segment>
+		<segment id="48" parent="235" relname="background">увидев 48</segment>
 		<segment id="49" parent="234" relname="joint">что на дороге валяется велосипед 49</segment>
 		<segment id="50" parent="234" relname="joint">мальчик у него лежит пустая корзина на боку 50</segment>
 		<segment id="51" parent="234" relname="joint">рассыпаны груши 51</segment>
@@ -79,18 +79,18 @@
 		<segment id="53" parent="238" relname="sequence">помогли собрать 53</segment>
 		<segment id="54" parent="238" relname="sequence">погрузить 54</segment>
 		<segment id="55" parent="237" relname="span">даже его как-то так отправили в путь 55</segment>
-		<segment id="56" parent="55" relname="antithesis">можно сказать вот 56</segment>
+		<segment id="56" parent="55" relname="evidence">можно сказать вот 56</segment>
 		<segment id="57" parent="244" relname="sequence">продолжили свой путь 57</segment>
 		<segment id="58" parent="242" relname="span">увидев на дороге шляпу мальчика 58</segment>
 		<segment id="59" parent="144" relname="span">они ему свистнули 59</segment>
 		<segment id="60" parent="59" relname="purpose">остановили привлекли его внимание 60</segment>
 		<segment id="61" parent="243" relname="span">вернули шляпу 61</segment>
-		<segment id="62" parent="61" relname="result">за это получили небольшое вознаграждение в виде нескольких плодов 62</segment>
+		<segment id="62" parent="61" relname="cause">за это получили небольшое вознаграждение в виде нескольких плодов 62</segment>
 		<segment id="63" parent="153" relname="span">мальчики двигались как раз по направлению к тому дереву 63</segment>
-		<segment id="64" parent="63" relname="circumstance">где мужчина собирал груши 64</segment>
-		<segment id="65" parent="153" relname="circumstance">проходя мимо дерева 65</segment>
+		<segment id="64" parent="63" relname="background">где мужчина собирал груши 64</segment>
+		<segment id="65" parent="153" relname="background">проходя мимо дерева 65</segment>
 		<segment id="66" parent="251" relname="span">мужчина а мужчина как раз спускался спустился с лестницы 66</segment>
-		<segment id="67" parent="66" relname="circumstance">в это время проходили мальчики мимо дерева вот 67</segment>
+		<segment id="67" parent="66" relname="background">в это время проходили мальчики мимо дерева вот 67</segment>
 		<segment id="68" parent="250" relname="sequence">он увидел мальчиков с грушами в руках 68</segment>
 		<segment id="69" parent="160" relname="span">увидел 69</segment>
 		<segment id="70" parent="69" relname="evidence">что у него нет корзины 70</segment>
@@ -112,26 +112,26 @@
 		<group id="122" type="span" parent="123" relname="span"/>
 		<group id="123" type="span" parent="124" relname="span"/>
 		<group id="124" type="span" parent="125" relname="span"/>
-		<group id="125" type="span" parent="40" relname="antithesis"/>
-		<group id="144" type="span" parent="58" relname="circumstance"/>
+		<group id="125" type="span" parent="40" relname="evaluation"/>
+		<group id="144" type="span" parent="58" relname="background"/>
 		<group id="153" type="span" parent="154" relname="span"/>
 		<group id="154" type="span" parent="253" relname="sequence"/>
 		<group id="160" type="span" parent="161" relname="span"/>
 		<group id="161" type="span" parent="162" relname="span"/>
 		<group id="162" type="span" parent="250" relname="sequence"/>
 		<group id="165" type="span" parent="247" relname="cause"/>
-		<group id="178" type="span" parent="232" relname="result"/>
+		<group id="178" type="span" parent="232" relname="cause"/>
 		<group id="206" type="multinuc" parent="207" relname="span"/>
 		<group id="207" type="span" parent="208" relname="span"/>
 		<group id="208" type="span" parent="209" relname="span"/>
 		<group id="209" type="span" parent="211" relname="sequence"/>
 		<group id="210" type="span" parent="211" relname="sequence"/>
 		<group id="211" type="multinuc" parent="259" relname="span"/>
-		<group id="212" type="span" parent="214" relname="circumstance"/>
+		<group id="212" type="span" parent="214" relname="background"/>
 		<group id="213" type="multinuc" parent="214" relname="span"/>
 		<group id="214" type="span" parent="215" relname="span"/>
 		<group id="215" type="span" parent="216" relname="span"/>
-		<group id="216" type="span" parent="13" relname="antithesis"/>
+		<group id="216" type="span" parent="13" relname="evaluation"/>
 		<group id="217" type="span" parent="223" relname="sequence"/>
 		<group id="218" type="span" parent="25" relname="evaluation"/>
 		<group id="219" type="span" parent="220" relname="span"/>
@@ -140,9 +140,9 @@
 		<group id="222" type="span" parent="221" relname="sequence"/>
 		<group id="223" type="multinuc" parent="224" relname="span"/>
 		<group id="224" type="span" parent="257" relname="span"/>
-		<group id="225" type="span" parent="224" relname="antithesis"/>
+		<group id="225" type="span" parent="224" relname="evaluation"/>
 		<group id="226" type="span" parent="227" relname="span"/>
-		<group id="227" type="span" parent="228" relname="antithesis"/>
+		<group id="227" type="span" parent="228" relname="evaluation"/>
 		<group id="228" type="span" parent="255" relname="span"/>
 		<group id="229" type="span" parent="230" relname="span"/>
 		<group id="230" type="span" parent="115" relname="joint"/>
@@ -151,7 +151,7 @@
 		<group id="233" type="span" parent="254" relname="sequence"/>
 		<group id="234" type="multinuc" parent="235" relname="span"/>
 		<group id="235" type="span" parent="236" relname="span"/>
-		<group id="236" type="span" parent="239" relname="circumstance"/>
+		<group id="236" type="span" parent="239" relname="background"/>
 		<group id="237" type="span" parent="238" relname="sequence"/>
 		<group id="238" type="multinuc" parent="239" relname="span"/>
 		<group id="239" type="span" parent="240" relname="span"/>
@@ -165,7 +165,7 @@
 		<group id="247" type="span" parent="248" relname="span"/>
 		<group id="248" type="span" parent="73" relname="antithesis"/>
 		<group id="249" type="span" parent="250" relname="sequence"/>
-		<group id="250" type="multinuc" parent="251" relname="antithesis"/>
+		<group id="250" type="multinuc" parent="251" relname="evaluation"/>
 		<group id="251" type="span" parent="252" relname="span"/>
 		<group id="252" type="span" parent="253" relname="sequence"/>
 		<group id="253" type="multinuc" parent="241" relname="sequence"/>

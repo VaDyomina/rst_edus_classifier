@@ -37,14 +37,14 @@
 		<segment id="11" parent="69" relname="joint">и поехал 11</segment>
 		<segment id="12" parent="41" relname="span">и случайно столкнулся 12</segment>
 		<segment id="13" parent="12" relname="cause">загляделся на девушку 13</segment>
-		<segment id="14" parent="41" relname="result">упал 14</segment>
-		<segment id="15" parent="71" relname="result">потерял шляпу 15</segment>
-		<segment id="16" parent="72" relname="result">и рассыпал груши 16</segment>
+		<segment id="14" parent="41" relname="cause">упал 14</segment>
+		<segment id="15" parent="71" relname="cause">потерял шляпу 15</segment>
+		<segment id="16" parent="72" relname="cause">и рассыпал груши 16</segment>
 		<segment id="17" parent="75" relname="restatement">и трое друзей помогли ему собрать эти груши 17</segment>
 		<segment id="18" parent="75" relname="restatement">отдали шляпу 18</segment>
-		<segment id="19" parent="76" relname="result">и получили взамен три груши каждому по одной 19</segment>
+		<segment id="19" parent="76" relname="cause">и получили взамен три груши каждому по одной 19</segment>
 		<segment id="20" parent="49" relname="span">а сборщик груш очень удивился 20</segment>
-		<segment id="21" parent="20" relname="circumstance">когда спустился с дерева 21</segment>
+		<segment id="21" parent="20" relname="background">когда спустился с дерева 21</segment>
 		<segment id="22" parent="50" relname="span">было три корзины 22</segment>
 		<segment id="23" parent="22" relname="concession">а осталось две причём одна пустая 23</segment>
 		<segment id="24" parent="80" relname="evidence">и увидел 24</segment>

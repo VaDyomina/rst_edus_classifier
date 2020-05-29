@@ -42,18 +42,18 @@
 		<segment id="16" parent="52" relname="sequence">собирают всю эту значит корзину обратно 16</segment>
 		<segment id="17" parent="52" relname="sequence">ну вот отправляют его дальше 17</segment>
 		<segment id="18" parent="50" relname="span">а сами идут по своим делам счастливые довольные 18</segment>
-		<segment id="19" parent="18" relname="circumstance">получив три груши за все удовольствие 19</segment>
+		<segment id="19" parent="18" relname="background">получив три груши за все удовольствие 19</segment>
 		<segment id="20" parent="49" relname="joint">ну вот 20</segment>
 		<segment id="21" parent="49" relname="joint">вот примерно так 21</segment>
 		<group id="22" type="span" parent="55" relname="preparation"/>
 		<group id="26" type="span" parent="46" relname="sequence"/>
 		<group id="35" type="multinuc" parent="54" relname="sequence"/>
 		<group id="36" type="span" parent="35" relname="sequence"/>
-		<group id="45" type="span" parent="47" relname="circumstance"/>
+		<group id="45" type="span" parent="47" relname="background"/>
 		<group id="46" type="multinuc" parent="47" relname="span"/>
 		<group id="47" type="span" parent="48" relname="span"/>
 		<group id="48" type="span" parent="54" relname="sequence"/>
-		<group id="49" type="multinuc" parent="56" relname="antithesis"/>
+		<group id="49" type="multinuc" parent="56" relname="evaluation"/>
 		<group id="50" type="span" parent="53" relname="contrast"/>
 		<group id="51" type="span" parent="52" relname="sequence"/>
 		<group id="52" type="multinuc" parent="53" relname="contrast"/>

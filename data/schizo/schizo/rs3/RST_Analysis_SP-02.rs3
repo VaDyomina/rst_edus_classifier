@@ -1,0 +1,62 @@
+<rst>
+<header>
+	<relations>
+			<rel name="antithesis" type="rst"/>
+			<rel name="background" type="rst"/>
+			<rel name="cause" type="rst"/>
+			<rel name="circumstance" type="rst"/>
+			<rel name="concession" type="rst"/>
+			<rel name="condition" type="rst"/>
+			<rel name="contrast" type="multinuc"/>
+			<rel name="elaboration" type="rst"/>
+			<rel name="evaluation" type="rst"/>
+			<rel name="evidence" type="rst"/>
+			<rel name="joint" type="multinuc"/>
+			<rel name="justify" type="rst"/>
+			<rel name="motivation" type="rst"/>
+			<rel name="preparation" type="rst"/>
+			<rel name="purpose" type="rst"/>
+			<rel name="restatement" type="multinuc"/>
+			<rel name="restatement" type="rst"/>
+			<rel name="result" type="rst"/>
+			<rel name="sequence" type="multinuc"/>
+			<rel name="solutionhood" type="rst"/>
+		</relations>
+</header>
+<body>
+		<segment id="1" parent="23" relname="evaluation">да 1</segment>
+		<segment id="2" parent="22" relname="background">сейчас там короче один мужик на дереве сидит 2</segment>
+		<segment id="3" parent="21" relname="sequence">груши собирает 3</segment>
+		<segment id="4" parent="21" relname="sequence">потом  уроняет их 4</segment>
+		<segment id="5" parent="25" relname="sequence">потом мальчик на вело= с велосипедом приезжает 5</segment>
+		<segment id="6" parent="25" relname="sequence">собирает грушу в корзины 6</segment>
+		<segment id="7" parent="25" relname="sequence">едет куда-то 7</segment>
+		<segment id="8" parent="34" relname="sequence">оттудова какие-то парнишки его находят 8</segment>
+		<segment id="9" parent="10" relname="cause">он уроняет всё это 9</segment>
+		<segment id="10" parent="26" relname="span">они ему помогают там собрать груши груши 10</segment>
+		<segment id="11" parent="27" relname="sequence">потом он на велосипед садится 11</segment>
+		<segment id="12" parent="27" relname="sequence">потом идёт туда 12</segment>
+		<segment id="13" parent="27" relname="sequence">едет обратно 13</segment>
+		<segment id="14" parent="29" relname="sequence">и потом они ему свистят 14</segment>
+		<segment id="15" parent="16" relname="evidence">говорят 15</segment>
+		<segment id="16" parent="28" relname="span">ты что-то забыл 16</segment>
+		<segment id="17" parent="30" relname="evaluation">типа 15</segment>
+		<segment id="18" parent="32" relname="contrast">и потом дают ему 17</segment>
+		<segment id="19" parent="32" relname="contrast">что он забыл 18</segment>
+		<segment id="20" parent="33" relname="sequence">и потом всё идёт по своим дорогам 19</segment>
+		<group id="21" type="multinuc" parent="22" relname="span"/>
+		<group id="22" type="span" parent="23" relname="span"/>
+		<group id="23" type="span" parent="24" relname="span"/>
+		<group id="24" type="span" parent="34" relname="sequence"/>
+		<group id="25" type="multinuc" parent="34" relname="sequence"/>
+		<group id="26" type="span" parent="34" relname="sequence"/>
+		<group id="27" type="multinuc" parent="34" relname="sequence"/>
+		<group id="28" type="span" parent="29" relname="sequence"/>
+		<group id="29" type="multinuc" parent="30" relname="span"/>
+		<group id="30" type="span" parent="31" relname="span"/>
+		<group id="31" type="span" parent="34" relname="sequence"/>
+		<group id="32" type="multinuc" parent="33" relname="sequence"/>
+		<group id="33" type="multinuc" parent="34" relname="sequence"/>
+		<group id="34" type="multinuc" />
+  </body>
+</rst>

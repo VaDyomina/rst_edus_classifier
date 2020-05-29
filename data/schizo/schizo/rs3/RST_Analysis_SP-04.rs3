@@ -1,0 +1,72 @@
+<rst>
+<header>
+	<relations>
+			<rel name="antithesis" type="rst"/>
+			<rel name="background" type="rst"/>
+			<rel name="cause" type="rst"/>
+			<rel name="circumstance" type="rst"/>
+			<rel name="concession" type="rst"/>
+			<rel name="condition" type="rst"/>
+			<rel name="contrast" type="multinuc"/>
+			<rel name="elaboration" type="rst"/>
+			<rel name="evaluation" type="rst"/>
+			<rel name="evidence" type="rst"/>
+			<rel name="joint" type="multinuc"/>
+			<rel name="justify" type="rst"/>
+			<rel name="motivation" type="rst"/>
+			<rel name="preparation" type="rst"/>
+			<rel name="purpose" type="rst"/>
+			<rel name="restatement" type="multinuc"/>
+			<rel name="restatement" type="rst"/>
+			<rel name="result" type="rst"/>
+			<rel name="sequence" type="multinuc"/>
+			<rel name="solutionhood" type="rst"/>
+		</relations>
+</header>
+<body>
+		<segment id="1" parent="2" relname="background">один человек собирал урожай груш 1</segment>
+		<segment id="2" parent="25" relname="span">то есть залез по лестнице на дерево 2</segment>
+		<segment id="3" parent="27" relname="background">вот пока он собирал груши 3</segment>
+		<segment id="4" parent="26" relname="sequence">мальчик приехал на велосипеде 4</segment>
+		<segment id="5" parent="26" relname="sequence">и взял одну корзину с грушами 5</segment>
+		<segment id="6" parent="26" relname="sequence">и и повёз её 6</segment>
+		<segment id="7" parent="30" relname="span">по дороге он уронил груши 7</segment>
+		<segment id="8" parent="29" relname="span">упал с велосипеда 8</segment>
+		<segment id="9" parent="8" relname="cause">и все груши покатились по полу по земле 9</segment>
+		<segment id="10" parent="31" relname="sequence">мимо шли мальчики 10</segment>
+		<segment id="11" parent="31" relname="sequence">помогли ему собрать обратно все груши 11</segment>
+		<segment id="12" parent="36" relname="sequence">вот и он поехал дальше 12</segment>
+		<segment id="13" parent="36" relname="sequence">по дороге встретились ему ещё мальчики 13</segment>
+		<segment id="14" parent="15" relname="evidence">и они сказали ему 14</segment>
+		<segment id="15" parent="32" relname="span">что он потерял шляпу 15</segment>
+		<segment id="16" parent="33" relname="sequence">отдали ему шляпу 16</segment>
+		<segment id="17" parent="34" relname="cause">и он за это им дал груш 17</segment>
+		<segment id="18" parent="39" relname="evaluation">да 18</segment>
+		<segment id="19" parent="37" relname="span">человек 19</segment>
+		<segment id="20" parent="19" relname="elaboration">который собирал груши 20</segment>
+		<segment id="21" parent="38" relname="joint">спустился с лестницы 19</segment>
+		<segment id="22" parent="23" relname="evidence">он заметил 21</segment>
+		<segment id="23" parent="40" relname="span">что не хватает корзины 22</segment>
+		<segment id="24" parent="44" relname="evaluation">вот 23</segment>
+		<group id="25" type="span" parent="43" relname="sequence"/>
+		<group id="26" type="multinuc" parent="27" relname="span"/>
+		<group id="27" type="span" parent="28" relname="span"/>
+		<group id="28" type="span" parent="43" relname="sequence"/>
+		<group id="29" type="span" parent="7" relname="restatement"/>
+		<group id="30" type="span" parent="43" relname="sequence"/>
+		<group id="31" type="multinuc" parent="43" relname="sequence"/>
+		<group id="32" type="span" parent="33" relname="sequence"/>
+		<group id="33" type="multinuc" parent="34" relname="span"/>
+		<group id="34" type="span" parent="35" relname="span"/>
+		<group id="35" type="span" parent="36" relname="sequence"/>
+		<group id="36" type="multinuc" parent="43" relname="sequence"/>
+		<group id="37" type="span" parent="38" relname="joint"/>
+		<group id="38" type="multinuc" parent="39" relname="span"/>
+		<group id="39" type="span" parent="41" relname="span"/>
+		<group id="40" type="span" parent="41" relname="evaluation"/>
+		<group id="41" type="span" parent="42" relname="span"/>
+		<group id="42" type="span" parent="43" relname="sequence"/>
+		<group id="43" type="multinuc" parent="44" relname="span"/>
+		<group id="44" type="span" />
+  </body>
+</rst>
